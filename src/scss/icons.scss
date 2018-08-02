@@ -1,0 +1,42 @@
+.zoc-128 {
+    display: inline-block;
+    background: url("./icons/0chain/128x128.jpg") no-repeat center;;
+    width: 128px;
+    height: 128px;
+}
+
+.btc-16 {
+    display: inline-block;
+    background: url("./icons/Bitcoin/16x16.jpg") no-repeat center;;
+    width: 16px;
+    height: 16px;
+}
+
+.btc-32 {
+    display: inline-block;
+    background: url("./icons/Bitcoin/32x32.jpg") no-repeat center;;
+    width: 32px;
+    height: 32px;
+}
+
+.btc-64 {
+    display: inline-block;
+    background: url("./icons/Bitcoin/64x64.jpg") no-repeat center;;
+    width: 64px;
+    height: 64px;
+}
+
+.btc-128 {
+    display: inline-block;
+    background: url("./icons/Bitcoin/128x128.jpg") no-repeat center;;
+    width: 128px;
+    height: 128px;
+}
+
+.card {
+    background-color: red;
+  
+    &.title {
+      color: white;
+    }
+  }
