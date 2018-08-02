@@ -1,2 +1,5 @@
 # Node.js #
 node_modules
+
+# Icons #
+/src/icons

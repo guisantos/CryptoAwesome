@@ -1,42 +1,44 @@
-.zoc-128 {
+@mixin img-16 ($src) {
     display: inline-block;
-    background: url("./icons/0chain/128x128.jpg") no-repeat center;;
-    width: 128px;
-    height: 128px;
-}
-
-.btc-16 {
-    display: inline-block;
-    background: url("./icons/Bitcoin/16x16.jpg") no-repeat center;;
+    background: url($src) no-repeat center;;
     width: 16px;
     height: 16px;
 }
 
-.btc-32 {
+@mixin img-32 ($src) {
     display: inline-block;
-    background: url("./icons/Bitcoin/32x32.jpg") no-repeat center;;
+    background: url($src) no-repeat center;;
     width: 32px;
     height: 32px;
 }
 
-.btc-64 {
+@mixin img-64 ($src) {
     display: inline-block;
-    background: url("./icons/Bitcoin/64x64.jpg") no-repeat center;;
+    background: url($src) no-repeat center;;
     width: 64px;
     height: 64px;
 }
 
-.btc-128 {
+@mixin img-128 ($src) {
     display: inline-block;
-    background: url("./icons/Bitcoin/128x128.jpg") no-repeat center;;
+    background: url($src) no-repeat center;;
     width: 128px;
     height: 128px;
 }
 
-.card {
-    background-color: red;
-  
-    &.title {
-      color: white;
-    }
-  }
+
+.btc-16 {
+    @include img-16("../src/icons/Bitcoin/16x16.jpg");
+}
+
+.btc-32 {
+    @include img-32("../src/icons/Bitcoin/32x32.jpg");
+}
+
+.btc-64 {
+    @include img-64("../src/icons/Bitcoin/64x64.jpg");
+}
+
+.btc-128 {
+    @include img-128("../src/icons/Bitcoin/128x128.jpg");
+}
