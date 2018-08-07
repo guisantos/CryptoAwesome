@@ -390,13 +390,6 @@
   height: 16px;
 }
 
-.kdc-16 {
-  display: inline-block;
-  background: url("../src/icons/KlondikeCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .red-16 {
   display: inline-block;
   background: url("../src/icons/RedCoin/16x16.jpg") no-repeat center;
@@ -505,13 +498,6 @@
 .cach-16 {
   display: inline-block;
   background: url("../src/icons/CacheCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.top-16 {
-  display: inline-block;
-  background: url("../src/icons/TopCoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -670,13 +656,6 @@
   height: 16px;
 }
 
-.cno-16 {
-  display: inline-block;
-  background: url("../src/icons/Coin(O)/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .ecc-16 {
   display: inline-block;
   background: url("../src/icons/ECC/16x16.jpg") no-repeat center;
@@ -768,13 +747,6 @@
   height: 16px;
 }
 
-.plnc-16 {
-  display: inline-block;
-  background: url("../src/icons/PLNcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .xwc-16 {
   display: inline-block;
   background: url("../src/icons/WhiteCoin/16x16.jpg") no-repeat center;
@@ -845,13 +817,6 @@
   height: 16px;
 }
 
-.talk-16 {
-  display: inline-block;
-  background: url("../src/icons/BTCtalkcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .nyc-16 {
   display: inline-block;
   background: url("../src/icons/NewYorkCoin/16x16.jpg") no-repeat center;
@@ -880,20 +845,6 @@
   height: 16px;
 }
 
-.drm-16 {
-  display: inline-block;
-  background: url("../src/icons/Dreamcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.cfc-16 {
-  display: inline-block;
-  background: url("../src/icons/CoffeeCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .enrg-16 {
   display: inline-block;
   background: url("../src/icons/Energycoin/16x16.jpg") no-repeat center;
@@ -904,13 +855,6 @@
 .vrc-16 {
   display: inline-block;
   background: url("../src/icons/VeriCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.tek-16 {
-  display: inline-block;
-  background: url("../src/icons/TEKcoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -967,13 +911,6 @@
 .hyper-16 {
   display: inline-block;
   background: url("../src/icons/Hyper/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.btq-16 {
-  display: inline-block;
-  background: url("../src/icons/BitQuark/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1118,23 +1055,9 @@
   height: 16px;
 }
 
-.trust-16 {
-  display: inline-block;
-  background: url("../src/icons/TrustPlus/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .clam-16 {
   display: inline-block;
   background: url("../src/icons/Clams/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.qtl-16 {
-  display: inline-block;
-  background: url("../src/icons/Quatloo/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1149,13 +1072,6 @@
 .btcd-16 {
   display: inline-block;
   background: url("../src/icons/BitcoinDark/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.trk-16 {
-  display: inline-block;
-  background: url("../src/icons/Truckcoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1293,13 +1209,6 @@
   height: 16px;
 }
 
-.wsx-16 {
-  display: inline-block;
-  background: url("../src/icons/WeAreSatoshi/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .ubq-16 {
   display: inline-block;
   background: url("../src/icons/Ubiq/16x16.jpg") no-repeat center;
@@ -1310,13 +1219,6 @@
 .bun-16 {
   display: inline-block;
   background: url("../src/icons/BunnyCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.opal-16 {
-  display: inline-block;
-  background: url("../src/icons/Opal/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1335,23 +1237,9 @@
   height: 16px;
 }
 
-.bitusd-16 {
-  display: inline-block;
-  background: url("../src/icons/bitUSD/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .bitcny-16 {
   display: inline-block;
   background: url("../src/icons/bitCNY/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.bitbtc-16 {
-  display: inline-block;
-  background: url("../src/icons/bitBTC/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1398,23 +1286,9 @@
   height: 16px;
 }
 
-.bsty-16 {
-  display: inline-block;
-  background: url("../src/icons/GlobalBoost-Y/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .dp-16 {
   display: inline-block;
   background: url("../src/icons/DigitalPrice/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.pxi-16 {
-  display: inline-block;
-  background: url("../src/icons/Prime-XI/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1489,13 +1363,6 @@
   height: 16px;
 }
 
-.gap-16 {
-  display: inline-block;
-  background: url("../src/icons/Gapcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .ttc-16 {
   display: inline-block;
   background: url("../src/icons/TittieCoin/16x16.jpg") no-repeat center;
@@ -1531,13 +1398,6 @@
   height: 16px;
 }
 
-.byc-16 {
-  display: inline-block;
-  background: url("../src/icons/Bytecent/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .bcf-16 {
   display: inline-block;
   background: url("../src/icons/Bitcoin Fast/16x16.jpg") no-repeat center;
@@ -1552,30 +1412,9 @@
   height: 16px;
 }
 
-.xpy-16 {
-  display: inline-block;
-  background: url("../src/icons/PayCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.bitgold-16 {
-  display: inline-block;
-  background: url("../src/icons/bitGold/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .uis-16 {
   display: inline-block;
   background: url("../src/icons/Unitus/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.gp-16 {
-  display: inline-block;
-  background: url("../src/icons/GoldPieces/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1590,20 +1429,6 @@
 .nxs-16 {
   display: inline-block;
   background: url("../src/icons/Nexus/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.soon-16 {
-  display: inline-block;
-  background: url("../src/icons/SoonCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.metal-16 {
-  display: inline-block;
-  background: url("../src/icons/MetalCoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1629,30 +1454,9 @@
   height: 16px;
 }
 
-.bitsilver-16 {
-  display: inline-block;
-  background: url("../src/icons/bitSilver/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .dot-16 {
   display: inline-block;
   background: url("../src/icons/Dotcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.kobo-16 {
-  display: inline-block;
-  background: url("../src/icons/Kobocoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.con-16 {
-  display: inline-block;
-  background: url("../src/icons/PayCon/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1699,37 +1503,9 @@
   height: 16px;
 }
 
-.xco-16 {
-  display: inline-block;
-  background: url("../src/icons/X-Coin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.sak-16 {
-  display: inline-block;
-  background: url("../src/icons/Sharkcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .ldoge-16 {
   display: inline-block;
   background: url("../src/icons/LiteDoge/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.song-16 {
-  display: inline-block;
-  background: url("../src/icons/SongCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.log-16 {
-  display: inline-block;
-  background: url("../src/icons/Woodcoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1797,13 +1573,6 @@
   height: 16px;
 }
 
-.egg-16 {
-  display: inline-block;
-  background: url("../src/icons/EggCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .sphr-16 {
   display: inline-block;
   background: url("../src/icons/Sphere/16x16.jpg") no-repeat center;
@@ -1846,20 +1615,6 @@
   height: 16px;
 }
 
-.cto-16 {
-  display: inline-block;
-  background: url("../src/icons/Crypto/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.pkb-16 {
-  display: inline-block;
-  background: url("../src/icons/ParkByte/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .arb-16 {
   display: inline-block;
   background: url("../src/icons/ARbit/16x16.jpg") no-repeat center;
@@ -1888,27 +1643,6 @@
   height: 16px;
 }
 
-.snrg-16 {
-  display: inline-block;
-  background: url("../src/icons/Synergy/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.biteur-16 {
-  display: inline-block;
-  background: url("../src/icons/bitEUR/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.unic-16 {
-  display: inline-block;
-  background: url("../src/icons/UniCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .fjc-16 {
   display: inline-block;
   background: url("../src/icons/FujiCoin/16x16.jpg") no-repeat center;
@@ -1919,13 +1653,6 @@
 .erc-16 {
   display: inline-block;
   background: url("../src/icons/EuropeCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.funk-16 {
-  display: inline-block;
-  background: url("../src/icons/The Cypherfunks/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -1944,13 +1671,6 @@
   height: 16px;
 }
 
-.creva-16 {
-  display: inline-block;
-  background: url("../src/icons/CrevaCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .irl-16 {
   display: inline-block;
   background: url("../src/icons/IrishCoin/16x16.jpg") no-repeat center;
@@ -1961,13 +1681,6 @@
 .zny-16 {
   display: inline-block;
   background: url("../src/icons/Bitzeny/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.bsc-16 {
-  display: inline-block;
-  background: url("../src/icons/BowsCoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2014,23 +1727,9 @@
   height: 16px;
 }
 
-.flax-16 {
-  display: inline-block;
-  background: url("../src/icons/Flaxscript/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .manna-16 {
   display: inline-block;
   background: url("../src/icons/Manna/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.axiom-16 {
-  display: inline-block;
-  background: url("../src/icons/Axiom/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2126,13 +1825,6 @@
   height: 16px;
 }
 
-.space-16 {
-  display: inline-block;
-  background: url("../src/icons/SpaceCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .bcy-16 {
   display: inline-block;
   background: url("../src/icons/Bitcrystals/16x16.jpg") no-repeat center;
@@ -2143,13 +1835,6 @@
 .pak-16 {
   display: inline-block;
   background: url("../src/icons/Pakcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.infx-16 {
-  display: inline-block;
-  background: url("../src/icons/Influxcoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2168,20 +1853,6 @@
   height: 16px;
 }
 
-.isl-16 {
-  display: inline-block;
-  background: url("../src/icons/IslaCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.swing-16 {
-  display: inline-block;
-  background: url("../src/icons/Swing/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .fct-16 {
   display: inline-block;
   background: url("../src/icons/Factom/16x16.jpg") no-repeat center;
@@ -2189,30 +1860,9 @@
   height: 16px;
 }
 
-.duo-16 {
-  display: inline-block;
-  background: url("../src/icons/ParallelCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.sandg-16 {
-  display: inline-block;
-  background: url("../src/icons/Save and Gain/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .pr-16 {
   display: inline-block;
   background: url("../src/icons/Prototanium/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.cube-16 {
-  display: inline-block;
-  background: url("../src/icons/DigiCube/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2245,13 +1895,6 @@
   height: 16px;
 }
 
-.money-16 {
-  display: inline-block;
-  background: url("../src/icons/Money/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .soil-16 {
   display: inline-block;
   background: url("../src/icons/SOILcoin/16x16.jpg") no-repeat center;
@@ -2259,23 +1902,9 @@
   height: 16px;
 }
 
-.scrt-16 {
-  display: inline-block;
-  background: url("../src/icons/SecretCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .dft-16 {
   display: inline-block;
   background: url("../src/icons/DraftCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.obits-16 {
-  display: inline-block;
-  background: url("../src/icons/OBITS/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2297,20 +1926,6 @@
 .adz-16 {
   display: inline-block;
   background: url("../src/icons/Adzcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.moin-16 {
-  display: inline-block;
-  background: url("../src/icons/Moin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.av-16 {
-  display: inline-block;
-  background: url("../src/icons/AvatarCoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2343,13 +1958,6 @@
   height: 16px;
 }
 
-.ltcr-16 {
-  display: inline-block;
-  background: url("../src/icons/Litecred/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .yoc-16 {
   display: inline-block;
   background: url("../src/icons/Yocoin/16x16.jpg") no-repeat center;
@@ -2367,13 +1975,6 @@
 .frn-16 {
   display: inline-block;
   background: url("../src/icons/Francs/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.evil-16 {
-  display: inline-block;
-  background: url("../src/icons/Evil Coin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2399,27 +2000,6 @@
   height: 16px;
 }
 
-.rbies-16 {
-  display: inline-block;
-  background: url("../src/icons/Rubies/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.adcn-16 {
-  display: inline-block;
-  background: url("../src/icons/Asiadigicoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.klc-16 {
-  display: inline-block;
-  background: url("../src/icons/KiloCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .trump-16 {
   display: inline-block;
   background: url("../src/icons/TrumpCoin/16x16.jpg") no-repeat center;
@@ -2434,23 +2014,9 @@
   height: 16px;
 }
 
-.ims-16 {
-  display: inline-block;
-  background: url("../src/icons/Independent Money System/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .hodl-16 {
   display: inline-block;
   background: url("../src/icons/HOdlcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.bigup-16 {
-  display: inline-block;
-  background: url("../src/icons/BigUp/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2462,44 +2028,9 @@
   height: 16px;
 }
 
-.bumba-16 {
-  display: inline-block;
-  background: url("../src/icons/BumbaCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .rvr-16 {
   display: inline-block;
   background: url("../src/icons/RevolutionVR/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.pex-16 {
-  display: inline-block;
-  background: url("../src/icons/PosEx/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.cab-16 {
-  display: inline-block;
-  background: url("../src/icons/Cabbage/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.mojo-16 {
-  display: inline-block;
-  background: url("../src/icons/MojoCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.gmx-16 {
-  display: inline-block;
-  background: url("../src/icons/GoldMaxCoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2521,13 +2052,6 @@
 .post-16 {
   display: inline-block;
   background: url("../src/icons/PostCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.bern-16 {
-  display: inline-block;
-  background: url("../src/icons/BERNcash/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2567,30 +2091,9 @@
   height: 16px;
 }
 
-.fuzz-16 {
-  display: inline-block;
-  background: url("../src/icons/FuzzBalls/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .xhi-16 {
   display: inline-block;
   background: url("../src/icons/HiCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.arco-16 {
-  display: inline-block;
-  background: url("../src/icons/AquariusCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.xbtc21-16 {
-  display: inline-block;
-  background: url("../src/icons/Bitcoin 21/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2623,30 +2126,9 @@
   height: 16px;
 }
 
-.xptx-16 {
-  display: inline-block;
-  background: url("../src/icons/PlatinumBAR/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .abc-16 {
   display: inline-block;
   background: url("../src/icons/Alphabit/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.lana-16 {
-  display: inline-block;
-  background: url("../src/icons/LanaCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.ponzi-16 {
-  display: inline-block;
-  background: url("../src/icons/PonziCoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2668,20 +2150,6 @@
 .nlx-16 {
   display: inline-block;
   background: url("../src/icons/Nullex/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.richx-16 {
-  display: inline-block;
-  background: url("../src/icons/RichCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.prm-16 {
-  display: inline-block;
-  background: url("../src/icons/PrismChain/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2714,30 +2182,9 @@
   height: 16px;
 }
 
-.hvco-16 {
-  display: inline-block;
-  background: url("../src/icons/High Voltage/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.mnm-16 {
-  display: inline-block;
-  background: url("../src/icons/Mineum/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .xre-16 {
   display: inline-block;
   background: url("../src/icons/RevolverCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.gb-16 {
-  display: inline-block;
-  background: url("../src/icons/GoldBlocks/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2805,23 +2252,9 @@
   height: 16px;
 }
 
-.cj-16 {
-  display: inline-block;
-  background: url("../src/icons/Cryptojacks/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .heat-16 {
   display: inline-block;
   background: url("../src/icons/HEAT/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.lir-16 {
-  display: inline-block;
-  background: url("../src/icons/LetItRide/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2861,13 +2294,6 @@
   height: 16px;
 }
 
-.gain-16 {
-  display: inline-block;
-  background: url("../src/icons/UGAIN/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .krb-16 {
   display: inline-block;
   background: url("../src/icons/Karbo/16x16.jpg") no-repeat center;
@@ -2885,27 +2311,6 @@
 .strat-16 {
   display: inline-block;
   background: url("../src/icons/Stratis/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.pres-16 {
-  display: inline-block;
-  background: url("../src/icons/President Trump/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.aces-16 {
-  display: inline-block;
-  background: url("../src/icons/Aces/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.gary-16 {
-  display: inline-block;
-  background: url("../src/icons/President Johnson/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -2994,13 +2399,6 @@
   height: 16px;
 }
 
-.zyd-16 {
-  display: inline-block;
-  background: url("../src/icons/Zayedcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .jin-16 {
   display: inline-block;
   background: url("../src/icons/Jin Coin/16x16.jpg") no-repeat center;
@@ -3022,34 +2420,6 @@
   height: 16px;
 }
 
-.tell-16 {
-  display: inline-block;
-  background: url("../src/icons/Tellurion/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.dlc-16 {
-  display: inline-block;
-  background: url("../src/icons/Dollarcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.mst-16 {
-  display: inline-block;
-  background: url("../src/icons/MustangCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.xbts-16 {
-  display: inline-block;
-  background: url("../src/icons/Beatcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .proud-16 {
   display: inline-block;
   background: url("../src/icons/PROUD Money/16x16.jpg") no-repeat center;
@@ -3060,13 +2430,6 @@
 .seq-16 {
   display: inline-block;
   background: url("../src/icons/Sequence/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.omc-16 {
-  display: inline-block;
-  background: url("../src/icons/Omicron/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -3109,20 +2472,6 @@
 .rcn-16 {
   display: inline-block;
   background: url("../src/icons/Rcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.atom-16 {
-  display: inline-block;
-  background: url("../src/icons/Atomic Coin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.jobs-16 {
-  display: inline-block;
-  background: url("../src/icons/JobsCoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -3183,13 +2532,6 @@
   height: 16px;
 }
 
-.bip-16 {
-  display: inline-block;
-  background: url("../src/icons/BipCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .zcl-16 {
   display: inline-block;
   background: url("../src/icons/ZClassic/16x16.jpg") no-repeat center;
@@ -3200,13 +2542,6 @@
 .zoi-16 {
   display: inline-block;
   background: url("../src/icons/Zoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.wa-16 {
-  display: inline-block;
-  background: url("../src/icons/WA Space/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -3351,20 +2686,6 @@
   height: 16px;
 }
 
-.pcs-16 {
-  display: inline-block;
-  background: url("../src/icons/Pabyosi Coin (Special)/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.tcoin-16 {
-  display: inline-block;
-  background: url("../src/icons/T-coin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .gbyte-16 {
   display: inline-block;
   background: url("../src/icons/Byteball Bytes/16x16.jpg") no-repeat center;
@@ -3382,13 +2703,6 @@
 .luna-16 {
   display: inline-block;
   background: url("../src/icons/Luna Coin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.frgc-16 {
-  display: inline-block;
-  background: url("../src/icons/Fargocoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -3435,20 +2749,6 @@
   height: 16px;
 }
 
-.ldcn-16 {
-  display: inline-block;
-  background: url("../src/icons/LandCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.benji-16 {
-  display: inline-block;
-  background: url("../src/icons/BenjiRolls/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .ccrb-16 {
   display: inline-block;
   background: url("../src/icons/CryptoCarbon/16x16.jpg") no-repeat center;
@@ -3466,20 +2766,6 @@
 .bcc-16 {
   display: inline-block;
   background: url("../src/icons/BitConnect/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.icob-16 {
-  display: inline-block;
-  background: url("../src/icons/ICOBID/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.ibank-16 {
-  display: inline-block;
-  background: url("../src/icons/iBank/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -3512,23 +2798,9 @@
   height: 16px;
 }
 
-.mgm-16 {
-  display: inline-block;
-  background: url("../src/icons/Magnum/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .tse-16 {
   display: inline-block;
   background: url("../src/icons/Tattoocoin (Standard Edition)/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.sfc-16 {
-  display: inline-block;
-  background: url("../src/icons/Solarflarecoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -3547,23 +2819,9 @@
   height: 16px;
 }
 
-.kush-16 {
-  display: inline-block;
-  background: url("../src/icons/KushCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .gcc-16 {
   display: inline-block;
   background: url("../src/icons/Global Cryptocurrency/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.acn-16 {
-  display: inline-block;
-  background: url("../src/icons/Avoncoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -3578,13 +2836,6 @@
 .ery-16 {
   display: inline-block;
   background: url("../src/icons/Eryllium/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.els-16 {
-  display: inline-block;
-  background: url("../src/icons/Elysium/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -3743,13 +2994,6 @@
   height: 16px;
 }
 
-.biob-16 {
-  display: inline-block;
-  background: url("../src/icons/BioBar/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .honey-16 {
   display: inline-block;
   background: url("../src/icons/Honey/16x16.jpg") no-repeat center;
@@ -3816,13 +3060,6 @@
 .ba-16 {
   display: inline-block;
   background: url("../src/icons/Bankcoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.zse-16 {
-  display: inline-block;
-  background: url("../src/icons/ZSEcoin/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -4079,13 +3316,6 @@
   height: 16px;
 }
 
-.tkn-16 {
-  display: inline-block;
-  background: url("../src/icons/TokenCard/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .rain-16 {
   display: inline-block;
   background: url("../src/icons/Condensate/16x16.jpg") no-repeat center;
@@ -4138,13 +3368,6 @@
 .crea-16 {
   display: inline-block;
   background: url("../src/icons/Creativecoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.dice-16 {
-  display: inline-block;
-  background: url("../src/icons/Etheroll/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -4660,13 +3883,6 @@
   height: 16px;
 }
 
-.bet-16 {
-  display: inline-block;
-  background: url("../src/icons/DAO.Casino/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .storj-16 {
   display: inline-block;
   background: url("../src/icons/Storj/16x16.jpg") no-repeat center;
@@ -4814,13 +4030,6 @@
   height: 16px;
 }
 
-.daxx-16 {
-  display: inline-block;
-  background: url("../src/icons/DaxxCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .rup-16 {
   display: inline-block;
   background: url("../src/icons/Rupee/16x16.jpg") no-repeat center;
@@ -4859,13 +4068,6 @@
 .omg-16 {
   display: inline-block;
   background: url("../src/icons/OmiseGO/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.ter-16 {
-  display: inline-block;
-  background: url("../src/icons/TerraNova/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -5017,13 +4219,6 @@
   height: 16px;
 }
 
-.oct-16 {
-  display: inline-block;
-  background: url("../src/icons/OracleChain/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .bnb-16 {
   display: inline-block;
   background: url("../src/icons/Binance Coin/16x16.jpg") no-repeat center;
@@ -5104,13 +4299,6 @@
 .kek-16 {
   display: inline-block;
   background: url("../src/icons/KekCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.oax-16 {
-  display: inline-block;
-  background: url("../src/icons/OAX/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -5447,13 +4635,6 @@
 .wtc-16 {
   display: inline-block;
   background: url("../src/icons/Waltonchain/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.brat-16 {
-  display: inline-block;
-  background: url("../src/icons/BROTHER/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -6165,13 +5346,6 @@
   height: 16px;
 }
 
-.sic-16 {
-  display: inline-block;
-  background: url("../src/icons/Swisscoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .ats-16 {
   display: inline-block;
   background: url("../src/icons/Authorship/16x16.jpg") no-repeat center;
@@ -6707,13 +5881,6 @@
 .eltcoin-16 {
   display: inline-block;
   background: url("../src/icons/ELTCOIN/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.dsr-16 {
-  display: inline-block;
-  background: url("../src/icons/Desire/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -7295,13 +6462,6 @@
 .send-16 {
   display: inline-block;
   background: url("../src/icons/Social Send/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.bon-16 {
-  display: inline-block;
-  background: url("../src/icons/Bonpay/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -8062,13 +7222,6 @@
   height: 16px;
 }
 
-.topc-16 {
-  display: inline-block;
-  background: url("../src/icons/TopChain/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .lev-16 {
   display: inline-block;
   background: url("../src/icons/Leverj/16x16.jpg") no-repeat center;
@@ -8191,13 +7344,6 @@
 .ic-16 {
   display: inline-block;
   background: url("../src/icons/Ignition/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.weth-16 {
-  display: inline-block;
-  background: url("../src/icons/WETH/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -8398,13 +7544,6 @@
   height: 16px;
 }
 
-.chat-16 {
-  display: inline-block;
-  background: url("../src/icons/ChatCoin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .ddd-16 {
   display: inline-block;
   background: url("../src/icons/Scry.info/16x16.jpg") no-repeat center;
@@ -8478,13 +7617,6 @@
 .ssc-16 {
   display: inline-block;
   background: url("../src/icons/SelfSell/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
-.read-16 {
-  display: inline-block;
-  background: url("../src/icons/Read/16x16.jpg") no-repeat center;
   width: 16px;
   height: 16px;
 }
@@ -11611,13 +10743,6 @@
   height: 16px;
 }
 
-.gbc-16 {
-  display: inline-block;
-  background: url("../src/icons/Gold Bits Coin/16x16.jpg") no-repeat center;
-  width: 16px;
-  height: 16px;
-}
-
 .bwx-16 {
   display: inline-block;
   background: url("../src/icons/Blue Whale Token/16x16.jpg") no-repeat center;
@@ -12388,13 +11513,6 @@
   height: 32px;
 }
 
-.kdc-32 {
-  display: inline-block;
-  background: url("../src/icons/KlondikeCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .red-32 {
   display: inline-block;
   background: url("../src/icons/RedCoin/32x32.jpg") no-repeat center;
@@ -12503,13 +11621,6 @@
 .cach-32 {
   display: inline-block;
   background: url("../src/icons/CacheCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.top-32 {
-  display: inline-block;
-  background: url("../src/icons/TopCoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -12668,13 +11779,6 @@
   height: 32px;
 }
 
-.cno-32 {
-  display: inline-block;
-  background: url("../src/icons/Coin(O)/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .ecc-32 {
   display: inline-block;
   background: url("../src/icons/ECC/32x32.jpg") no-repeat center;
@@ -12766,13 +11870,6 @@
   height: 32px;
 }
 
-.plnc-32 {
-  display: inline-block;
-  background: url("../src/icons/PLNcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .xwc-32 {
   display: inline-block;
   background: url("../src/icons/WhiteCoin/32x32.jpg") no-repeat center;
@@ -12843,13 +11940,6 @@
   height: 32px;
 }
 
-.talk-32 {
-  display: inline-block;
-  background: url("../src/icons/BTCtalkcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .nyc-32 {
   display: inline-block;
   background: url("../src/icons/NewYorkCoin/32x32.jpg") no-repeat center;
@@ -12878,20 +11968,6 @@
   height: 32px;
 }
 
-.drm-32 {
-  display: inline-block;
-  background: url("../src/icons/Dreamcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.cfc-32 {
-  display: inline-block;
-  background: url("../src/icons/CoffeeCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .enrg-32 {
   display: inline-block;
   background: url("../src/icons/Energycoin/32x32.jpg") no-repeat center;
@@ -12902,13 +11978,6 @@
 .vrc-32 {
   display: inline-block;
   background: url("../src/icons/VeriCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.tek-32 {
-  display: inline-block;
-  background: url("../src/icons/TEKcoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -12965,13 +12034,6 @@
 .hyper-32 {
   display: inline-block;
   background: url("../src/icons/Hyper/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.btq-32 {
-  display: inline-block;
-  background: url("../src/icons/BitQuark/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13116,23 +12178,9 @@
   height: 32px;
 }
 
-.trust-32 {
-  display: inline-block;
-  background: url("../src/icons/TrustPlus/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .clam-32 {
   display: inline-block;
   background: url("../src/icons/Clams/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.qtl-32 {
-  display: inline-block;
-  background: url("../src/icons/Quatloo/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13147,13 +12195,6 @@
 .btcd-32 {
   display: inline-block;
   background: url("../src/icons/BitcoinDark/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.trk-32 {
-  display: inline-block;
-  background: url("../src/icons/Truckcoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13291,13 +12332,6 @@
   height: 32px;
 }
 
-.wsx-32 {
-  display: inline-block;
-  background: url("../src/icons/WeAreSatoshi/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .ubq-32 {
   display: inline-block;
   background: url("../src/icons/Ubiq/32x32.jpg") no-repeat center;
@@ -13308,13 +12342,6 @@
 .bun-32 {
   display: inline-block;
   background: url("../src/icons/BunnyCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.opal-32 {
-  display: inline-block;
-  background: url("../src/icons/Opal/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13333,23 +12360,9 @@
   height: 32px;
 }
 
-.bitusd-32 {
-  display: inline-block;
-  background: url("../src/icons/bitUSD/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .bitcny-32 {
   display: inline-block;
   background: url("../src/icons/bitCNY/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.bitbtc-32 {
-  display: inline-block;
-  background: url("../src/icons/bitBTC/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13396,23 +12409,9 @@
   height: 32px;
 }
 
-.bsty-32 {
-  display: inline-block;
-  background: url("../src/icons/GlobalBoost-Y/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .dp-32 {
   display: inline-block;
   background: url("../src/icons/DigitalPrice/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.pxi-32 {
-  display: inline-block;
-  background: url("../src/icons/Prime-XI/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13487,13 +12486,6 @@
   height: 32px;
 }
 
-.gap-32 {
-  display: inline-block;
-  background: url("../src/icons/Gapcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .ttc-32 {
   display: inline-block;
   background: url("../src/icons/TittieCoin/32x32.jpg") no-repeat center;
@@ -13529,13 +12521,6 @@
   height: 32px;
 }
 
-.byc-32 {
-  display: inline-block;
-  background: url("../src/icons/Bytecent/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .bcf-32 {
   display: inline-block;
   background: url("../src/icons/Bitcoin Fast/32x32.jpg") no-repeat center;
@@ -13550,30 +12535,9 @@
   height: 32px;
 }
 
-.xpy-32 {
-  display: inline-block;
-  background: url("../src/icons/PayCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.bitgold-32 {
-  display: inline-block;
-  background: url("../src/icons/bitGold/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .uis-32 {
   display: inline-block;
   background: url("../src/icons/Unitus/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.gp-32 {
-  display: inline-block;
-  background: url("../src/icons/GoldPieces/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13588,20 +12552,6 @@
 .nxs-32 {
   display: inline-block;
   background: url("../src/icons/Nexus/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.soon-32 {
-  display: inline-block;
-  background: url("../src/icons/SoonCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.metal-32 {
-  display: inline-block;
-  background: url("../src/icons/MetalCoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13627,30 +12577,9 @@
   height: 32px;
 }
 
-.bitsilver-32 {
-  display: inline-block;
-  background: url("../src/icons/bitSilver/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .dot-32 {
   display: inline-block;
   background: url("../src/icons/Dotcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.kobo-32 {
-  display: inline-block;
-  background: url("../src/icons/Kobocoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.con-32 {
-  display: inline-block;
-  background: url("../src/icons/PayCon/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13697,37 +12626,9 @@
   height: 32px;
 }
 
-.xco-32 {
-  display: inline-block;
-  background: url("../src/icons/X-Coin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.sak-32 {
-  display: inline-block;
-  background: url("../src/icons/Sharkcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .ldoge-32 {
   display: inline-block;
   background: url("../src/icons/LiteDoge/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.song-32 {
-  display: inline-block;
-  background: url("../src/icons/SongCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.log-32 {
-  display: inline-block;
-  background: url("../src/icons/Woodcoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13795,13 +12696,6 @@
   height: 32px;
 }
 
-.egg-32 {
-  display: inline-block;
-  background: url("../src/icons/EggCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .sphr-32 {
   display: inline-block;
   background: url("../src/icons/Sphere/32x32.jpg") no-repeat center;
@@ -13844,20 +12738,6 @@
   height: 32px;
 }
 
-.cto-32 {
-  display: inline-block;
-  background: url("../src/icons/Crypto/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.pkb-32 {
-  display: inline-block;
-  background: url("../src/icons/ParkByte/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .arb-32 {
   display: inline-block;
   background: url("../src/icons/ARbit/32x32.jpg") no-repeat center;
@@ -13886,27 +12766,6 @@
   height: 32px;
 }
 
-.snrg-32 {
-  display: inline-block;
-  background: url("../src/icons/Synergy/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.biteur-32 {
-  display: inline-block;
-  background: url("../src/icons/bitEUR/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.unic-32 {
-  display: inline-block;
-  background: url("../src/icons/UniCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .fjc-32 {
   display: inline-block;
   background: url("../src/icons/FujiCoin/32x32.jpg") no-repeat center;
@@ -13917,13 +12776,6 @@
 .erc-32 {
   display: inline-block;
   background: url("../src/icons/EuropeCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.funk-32 {
-  display: inline-block;
-  background: url("../src/icons/The Cypherfunks/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -13942,13 +12794,6 @@
   height: 32px;
 }
 
-.creva-32 {
-  display: inline-block;
-  background: url("../src/icons/CrevaCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .irl-32 {
   display: inline-block;
   background: url("../src/icons/IrishCoin/32x32.jpg") no-repeat center;
@@ -13959,13 +12804,6 @@
 .zny-32 {
   display: inline-block;
   background: url("../src/icons/Bitzeny/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.bsc-32 {
-  display: inline-block;
-  background: url("../src/icons/BowsCoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14012,23 +12850,9 @@
   height: 32px;
 }
 
-.flax-32 {
-  display: inline-block;
-  background: url("../src/icons/Flaxscript/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .manna-32 {
   display: inline-block;
   background: url("../src/icons/Manna/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.axiom-32 {
-  display: inline-block;
-  background: url("../src/icons/Axiom/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14124,13 +12948,6 @@
   height: 32px;
 }
 
-.space-32 {
-  display: inline-block;
-  background: url("../src/icons/SpaceCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .bcy-32 {
   display: inline-block;
   background: url("../src/icons/Bitcrystals/32x32.jpg") no-repeat center;
@@ -14141,13 +12958,6 @@
 .pak-32 {
   display: inline-block;
   background: url("../src/icons/Pakcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.infx-32 {
-  display: inline-block;
-  background: url("../src/icons/Influxcoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14166,20 +12976,6 @@
   height: 32px;
 }
 
-.isl-32 {
-  display: inline-block;
-  background: url("../src/icons/IslaCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.swing-32 {
-  display: inline-block;
-  background: url("../src/icons/Swing/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .fct-32 {
   display: inline-block;
   background: url("../src/icons/Factom/32x32.jpg") no-repeat center;
@@ -14187,30 +12983,9 @@
   height: 32px;
 }
 
-.duo-32 {
-  display: inline-block;
-  background: url("../src/icons/ParallelCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.sandg-32 {
-  display: inline-block;
-  background: url("../src/icons/Save and Gain/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .pr-32 {
   display: inline-block;
   background: url("../src/icons/Prototanium/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.cube-32 {
-  display: inline-block;
-  background: url("../src/icons/DigiCube/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14243,13 +13018,6 @@
   height: 32px;
 }
 
-.money-32 {
-  display: inline-block;
-  background: url("../src/icons/Money/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .soil-32 {
   display: inline-block;
   background: url("../src/icons/SOILcoin/32x32.jpg") no-repeat center;
@@ -14257,23 +13025,9 @@
   height: 32px;
 }
 
-.scrt-32 {
-  display: inline-block;
-  background: url("../src/icons/SecretCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .dft-32 {
   display: inline-block;
   background: url("../src/icons/DraftCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.obits-32 {
-  display: inline-block;
-  background: url("../src/icons/OBITS/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14295,20 +13049,6 @@
 .adz-32 {
   display: inline-block;
   background: url("../src/icons/Adzcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.moin-32 {
-  display: inline-block;
-  background: url("../src/icons/Moin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.av-32 {
-  display: inline-block;
-  background: url("../src/icons/AvatarCoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14341,13 +13081,6 @@
   height: 32px;
 }
 
-.ltcr-32 {
-  display: inline-block;
-  background: url("../src/icons/Litecred/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .yoc-32 {
   display: inline-block;
   background: url("../src/icons/Yocoin/32x32.jpg") no-repeat center;
@@ -14365,13 +13098,6 @@
 .frn-32 {
   display: inline-block;
   background: url("../src/icons/Francs/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.evil-32 {
-  display: inline-block;
-  background: url("../src/icons/Evil Coin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14397,27 +13123,6 @@
   height: 32px;
 }
 
-.rbies-32 {
-  display: inline-block;
-  background: url("../src/icons/Rubies/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.adcn-32 {
-  display: inline-block;
-  background: url("../src/icons/Asiadigicoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.klc-32 {
-  display: inline-block;
-  background: url("../src/icons/KiloCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .trump-32 {
   display: inline-block;
   background: url("../src/icons/TrumpCoin/32x32.jpg") no-repeat center;
@@ -14432,23 +13137,9 @@
   height: 32px;
 }
 
-.ims-32 {
-  display: inline-block;
-  background: url("../src/icons/Independent Money System/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .hodl-32 {
   display: inline-block;
   background: url("../src/icons/HOdlcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.bigup-32 {
-  display: inline-block;
-  background: url("../src/icons/BigUp/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14460,13 +13151,6 @@
   height: 32px;
 }
 
-.bumba-32 {
-  display: inline-block;
-  background: url("../src/icons/BumbaCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .rvr-32 {
   display: inline-block;
   background: url("../src/icons/RevolutionVR/32x32.jpg") no-repeat center;
@@ -14474,30 +13158,9 @@
   height: 32px;
 }
 
-.pex-32 {
-  display: inline-block;
-  background: url("../src/icons/PosEx/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.cab-32 {
-  display: inline-block;
-  background: url("../src/icons/Cabbage/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .mojo-32 {
   display: inline-block;
   background: url("../src/icons/MojoCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.gmx-32 {
-  display: inline-block;
-  background: url("../src/icons/GoldMaxCoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14519,13 +13182,6 @@
 .post-32 {
   display: inline-block;
   background: url("../src/icons/PostCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.bern-32 {
-  display: inline-block;
-  background: url("../src/icons/BERNcash/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14565,30 +13221,9 @@
   height: 32px;
 }
 
-.fuzz-32 {
-  display: inline-block;
-  background: url("../src/icons/FuzzBalls/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .xhi-32 {
   display: inline-block;
   background: url("../src/icons/HiCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.arco-32 {
-  display: inline-block;
-  background: url("../src/icons/AquariusCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.xbtc21-32 {
-  display: inline-block;
-  background: url("../src/icons/Bitcoin 21/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14621,30 +13256,9 @@
   height: 32px;
 }
 
-.xptx-32 {
-  display: inline-block;
-  background: url("../src/icons/PlatinumBAR/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .abc-32 {
   display: inline-block;
   background: url("../src/icons/Alphabit/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.lana-32 {
-  display: inline-block;
-  background: url("../src/icons/LanaCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.ponzi-32 {
-  display: inline-block;
-  background: url("../src/icons/PonziCoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14666,20 +13280,6 @@
 .nlx-32 {
   display: inline-block;
   background: url("../src/icons/Nullex/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.richx-32 {
-  display: inline-block;
-  background: url("../src/icons/RichCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.prm-32 {
-  display: inline-block;
-  background: url("../src/icons/PrismChain/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14712,30 +13312,9 @@
   height: 32px;
 }
 
-.hvco-32 {
-  display: inline-block;
-  background: url("../src/icons/High Voltage/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.mnm-32 {
-  display: inline-block;
-  background: url("../src/icons/Mineum/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .xre-32 {
   display: inline-block;
   background: url("../src/icons/RevolverCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.gb-32 {
-  display: inline-block;
-  background: url("../src/icons/GoldBlocks/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14803,23 +13382,9 @@
   height: 32px;
 }
 
-.cj-32 {
-  display: inline-block;
-  background: url("../src/icons/Cryptojacks/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .heat-32 {
   display: inline-block;
   background: url("../src/icons/HEAT/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.lir-32 {
-  display: inline-block;
-  background: url("../src/icons/LetItRide/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14859,13 +13424,6 @@
   height: 32px;
 }
 
-.gain-32 {
-  display: inline-block;
-  background: url("../src/icons/UGAIN/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .krb-32 {
   display: inline-block;
   background: url("../src/icons/Karbo/32x32.jpg") no-repeat center;
@@ -14883,27 +13441,6 @@
 .strat-32 {
   display: inline-block;
   background: url("../src/icons/Stratis/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.pres-32 {
-  display: inline-block;
-  background: url("../src/icons/President Trump/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.aces-32 {
-  display: inline-block;
-  background: url("../src/icons/Aces/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.gary-32 {
-  display: inline-block;
-  background: url("../src/icons/President Johnson/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -14992,13 +13529,6 @@
   height: 32px;
 }
 
-.zyd-32 {
-  display: inline-block;
-  background: url("../src/icons/Zayedcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .jin-32 {
   display: inline-block;
   background: url("../src/icons/Jin Coin/32x32.jpg") no-repeat center;
@@ -15020,34 +13550,6 @@
   height: 32px;
 }
 
-.tell-32 {
-  display: inline-block;
-  background: url("../src/icons/Tellurion/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.dlc-32 {
-  display: inline-block;
-  background: url("../src/icons/Dollarcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.mst-32 {
-  display: inline-block;
-  background: url("../src/icons/MustangCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.xbts-32 {
-  display: inline-block;
-  background: url("../src/icons/Beatcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .proud-32 {
   display: inline-block;
   background: url("../src/icons/PROUD Money/32x32.jpg") no-repeat center;
@@ -15058,13 +13560,6 @@
 .seq-32 {
   display: inline-block;
   background: url("../src/icons/Sequence/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.omc-32 {
-  display: inline-block;
-  background: url("../src/icons/Omicron/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -15107,20 +13602,6 @@
 .rcn-32 {
   display: inline-block;
   background: url("../src/icons/Rcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.atom-32 {
-  display: inline-block;
-  background: url("../src/icons/Atomic Coin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.jobs-32 {
-  display: inline-block;
-  background: url("../src/icons/JobsCoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -15181,13 +13662,6 @@
   height: 32px;
 }
 
-.bip-32 {
-  display: inline-block;
-  background: url("../src/icons/BipCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .zcl-32 {
   display: inline-block;
   background: url("../src/icons/ZClassic/32x32.jpg") no-repeat center;
@@ -15198,13 +13672,6 @@
 .zoi-32 {
   display: inline-block;
   background: url("../src/icons/Zoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.wa-32 {
-  display: inline-block;
-  background: url("../src/icons/WA Space/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -15349,20 +13816,6 @@
   height: 32px;
 }
 
-.pcs-32 {
-  display: inline-block;
-  background: url("../src/icons/Pabyosi Coin (Special)/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.tcoin-32 {
-  display: inline-block;
-  background: url("../src/icons/T-coin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .gbyte-32 {
   display: inline-block;
   background: url("../src/icons/Byteball Bytes/32x32.jpg") no-repeat center;
@@ -15380,13 +13833,6 @@
 .luna-32 {
   display: inline-block;
   background: url("../src/icons/Luna Coin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.frgc-32 {
-  display: inline-block;
-  background: url("../src/icons/Fargocoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -15433,20 +13879,6 @@
   height: 32px;
 }
 
-.ldcn-32 {
-  display: inline-block;
-  background: url("../src/icons/LandCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.benji-32 {
-  display: inline-block;
-  background: url("../src/icons/BenjiRolls/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .ccrb-32 {
   display: inline-block;
   background: url("../src/icons/CryptoCarbon/32x32.jpg") no-repeat center;
@@ -15464,20 +13896,6 @@
 .bcc-32 {
   display: inline-block;
   background: url("../src/icons/BitConnect/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.icob-32 {
-  display: inline-block;
-  background: url("../src/icons/ICOBID/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.ibank-32 {
-  display: inline-block;
-  background: url("../src/icons/iBank/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -15510,23 +13928,9 @@
   height: 32px;
 }
 
-.mgm-32 {
-  display: inline-block;
-  background: url("../src/icons/Magnum/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .tse-32 {
   display: inline-block;
   background: url("../src/icons/Tattoocoin (Standard Edition)/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.sfc-32 {
-  display: inline-block;
-  background: url("../src/icons/Solarflarecoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -15545,23 +13949,9 @@
   height: 32px;
 }
 
-.kush-32 {
-  display: inline-block;
-  background: url("../src/icons/KushCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .gcc-32 {
   display: inline-block;
   background: url("../src/icons/Global Cryptocurrency/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.acn-32 {
-  display: inline-block;
-  background: url("../src/icons/Avoncoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -15576,13 +13966,6 @@
 .ery-32 {
   display: inline-block;
   background: url("../src/icons/Eryllium/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.els-32 {
-  display: inline-block;
-  background: url("../src/icons/Elysium/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -15741,13 +14124,6 @@
   height: 32px;
 }
 
-.biob-32 {
-  display: inline-block;
-  background: url("../src/icons/BioBar/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .honey-32 {
   display: inline-block;
   background: url("../src/icons/Honey/32x32.jpg") no-repeat center;
@@ -15814,13 +14190,6 @@
 .ba-32 {
   display: inline-block;
   background: url("../src/icons/Bankcoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.zse-32 {
-  display: inline-block;
-  background: url("../src/icons/ZSEcoin/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -16077,13 +14446,6 @@
   height: 32px;
 }
 
-.tkn-32 {
-  display: inline-block;
-  background: url("../src/icons/TokenCard/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .rain-32 {
   display: inline-block;
   background: url("../src/icons/Condensate/32x32.jpg") no-repeat center;
@@ -16136,13 +14498,6 @@
 .crea-32 {
   display: inline-block;
   background: url("../src/icons/Creativecoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.dice-32 {
-  display: inline-block;
-  background: url("../src/icons/Etheroll/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -16658,13 +15013,6 @@
   height: 32px;
 }
 
-.bet-32 {
-  display: inline-block;
-  background: url("../src/icons/DAO.Casino/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .storj-32 {
   display: inline-block;
   background: url("../src/icons/Storj/32x32.jpg") no-repeat center;
@@ -16812,13 +15160,6 @@
   height: 32px;
 }
 
-.daxx-32 {
-  display: inline-block;
-  background: url("../src/icons/DaxxCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .rup-32 {
   display: inline-block;
   background: url("../src/icons/Rupee/32x32.jpg") no-repeat center;
@@ -16857,13 +15198,6 @@
 .omg-32 {
   display: inline-block;
   background: url("../src/icons/OmiseGO/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.ter-32 {
-  display: inline-block;
-  background: url("../src/icons/TerraNova/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -17015,13 +15349,6 @@
   height: 32px;
 }
 
-.oct-32 {
-  display: inline-block;
-  background: url("../src/icons/OracleChain/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .bnb-32 {
   display: inline-block;
   background: url("../src/icons/Binance Coin/32x32.jpg") no-repeat center;
@@ -17102,13 +15429,6 @@
 .kek-32 {
   display: inline-block;
   background: url("../src/icons/KekCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.oax-32 {
-  display: inline-block;
-  background: url("../src/icons/OAX/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -17445,13 +15765,6 @@
 .wtc-32 {
   display: inline-block;
   background: url("../src/icons/Waltonchain/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.brat-32 {
-  display: inline-block;
-  background: url("../src/icons/BROTHER/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -18163,13 +16476,6 @@
   height: 32px;
 }
 
-.sic-32 {
-  display: inline-block;
-  background: url("../src/icons/Swisscoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .ats-32 {
   display: inline-block;
   background: url("../src/icons/Authorship/32x32.jpg") no-repeat center;
@@ -18705,13 +17011,6 @@
 .eltcoin-32 {
   display: inline-block;
   background: url("../src/icons/ELTCOIN/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.dsr-32 {
-  display: inline-block;
-  background: url("../src/icons/Desire/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -19293,13 +17592,6 @@
 .send-32 {
   display: inline-block;
   background: url("../src/icons/Social Send/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.bon-32 {
-  display: inline-block;
-  background: url("../src/icons/Bonpay/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -20060,13 +18352,6 @@
   height: 32px;
 }
 
-.topc-32 {
-  display: inline-block;
-  background: url("../src/icons/TopChain/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .lev-32 {
   display: inline-block;
   background: url("../src/icons/Leverj/32x32.jpg") no-repeat center;
@@ -20189,13 +18474,6 @@
 .ic-32 {
   display: inline-block;
   background: url("../src/icons/Ignition/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.weth-32 {
-  display: inline-block;
-  background: url("../src/icons/WETH/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -20396,13 +18674,6 @@
   height: 32px;
 }
 
-.chat-32 {
-  display: inline-block;
-  background: url("../src/icons/ChatCoin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .ddd-32 {
   display: inline-block;
   background: url("../src/icons/Scry.info/32x32.jpg") no-repeat center;
@@ -20476,13 +18747,6 @@
 .ssc-32 {
   display: inline-block;
   background: url("../src/icons/SelfSell/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
-.read-32 {
-  display: inline-block;
-  background: url("../src/icons/Read/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -23609,13 +21873,6 @@
   height: 32px;
 }
 
-.gbc-32 {
-  display: inline-block;
-  background: url("../src/icons/Gold Bits Coin/32x32.jpg") no-repeat center;
-  width: 32px;
-  height: 32px;
-}
-
 .bwx-32 {
   display: inline-block;
   background: url("../src/icons/Blue Whale Token/32x32.jpg") no-repeat center;
@@ -24386,13 +22643,6 @@
   height: 64px;
 }
 
-.kdc-64 {
-  display: inline-block;
-  background: url("../src/icons/KlondikeCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .red-64 {
   display: inline-block;
   background: url("../src/icons/RedCoin/64x64.jpg") no-repeat center;
@@ -24501,13 +22751,6 @@
 .cach-64 {
   display: inline-block;
   background: url("../src/icons/CacheCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.top-64 {
-  display: inline-block;
-  background: url("../src/icons/TopCoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -24666,13 +22909,6 @@
   height: 64px;
 }
 
-.cno-64 {
-  display: inline-block;
-  background: url("../src/icons/Coin(O)/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .ecc-64 {
   display: inline-block;
   background: url("../src/icons/ECC/64x64.jpg") no-repeat center;
@@ -24764,13 +23000,6 @@
   height: 64px;
 }
 
-.plnc-64 {
-  display: inline-block;
-  background: url("../src/icons/PLNcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .xwc-64 {
   display: inline-block;
   background: url("../src/icons/WhiteCoin/64x64.jpg") no-repeat center;
@@ -24841,13 +23070,6 @@
   height: 64px;
 }
 
-.talk-64 {
-  display: inline-block;
-  background: url("../src/icons/BTCtalkcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .nyc-64 {
   display: inline-block;
   background: url("../src/icons/NewYorkCoin/64x64.jpg") no-repeat center;
@@ -24876,20 +23098,6 @@
   height: 64px;
 }
 
-.drm-64 {
-  display: inline-block;
-  background: url("../src/icons/Dreamcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.cfc-64 {
-  display: inline-block;
-  background: url("../src/icons/CoffeeCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .enrg-64 {
   display: inline-block;
   background: url("../src/icons/Energycoin/64x64.jpg") no-repeat center;
@@ -24900,13 +23108,6 @@
 .vrc-64 {
   display: inline-block;
   background: url("../src/icons/VeriCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.tek-64 {
-  display: inline-block;
-  background: url("../src/icons/TEKcoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -24963,13 +23164,6 @@
 .hyper-64 {
   display: inline-block;
   background: url("../src/icons/Hyper/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.btq-64 {
-  display: inline-block;
-  background: url("../src/icons/BitQuark/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25114,23 +23308,9 @@
   height: 64px;
 }
 
-.trust-64 {
-  display: inline-block;
-  background: url("../src/icons/TrustPlus/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .clam-64 {
   display: inline-block;
   background: url("../src/icons/Clams/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.qtl-64 {
-  display: inline-block;
-  background: url("../src/icons/Quatloo/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25145,13 +23325,6 @@
 .btcd-64 {
   display: inline-block;
   background: url("../src/icons/BitcoinDark/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.trk-64 {
-  display: inline-block;
-  background: url("../src/icons/Truckcoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25289,13 +23462,6 @@
   height: 64px;
 }
 
-.wsx-64 {
-  display: inline-block;
-  background: url("../src/icons/WeAreSatoshi/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .ubq-64 {
   display: inline-block;
   background: url("../src/icons/Ubiq/64x64.jpg") no-repeat center;
@@ -25306,13 +23472,6 @@
 .bun-64 {
   display: inline-block;
   background: url("../src/icons/BunnyCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.opal-64 {
-  display: inline-block;
-  background: url("../src/icons/Opal/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25331,23 +23490,9 @@
   height: 64px;
 }
 
-.bitusd-64 {
-  display: inline-block;
-  background: url("../src/icons/bitUSD/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .bitcny-64 {
   display: inline-block;
   background: url("../src/icons/bitCNY/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.bitbtc-64 {
-  display: inline-block;
-  background: url("../src/icons/bitBTC/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25394,23 +23539,9 @@
   height: 64px;
 }
 
-.bsty-64 {
-  display: inline-block;
-  background: url("../src/icons/GlobalBoost-Y/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .dp-64 {
   display: inline-block;
   background: url("../src/icons/DigitalPrice/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.pxi-64 {
-  display: inline-block;
-  background: url("../src/icons/Prime-XI/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25485,13 +23616,6 @@
   height: 64px;
 }
 
-.gap-64 {
-  display: inline-block;
-  background: url("../src/icons/Gapcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .ttc-64 {
   display: inline-block;
   background: url("../src/icons/TittieCoin/64x64.jpg") no-repeat center;
@@ -25527,13 +23651,6 @@
   height: 64px;
 }
 
-.byc-64 {
-  display: inline-block;
-  background: url("../src/icons/Bytecent/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .bcf-64 {
   display: inline-block;
   background: url("../src/icons/Bitcoin Fast/64x64.jpg") no-repeat center;
@@ -25548,30 +23665,9 @@
   height: 64px;
 }
 
-.xpy-64 {
-  display: inline-block;
-  background: url("../src/icons/PayCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.bitgold-64 {
-  display: inline-block;
-  background: url("../src/icons/bitGold/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .uis-64 {
   display: inline-block;
   background: url("../src/icons/Unitus/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.gp-64 {
-  display: inline-block;
-  background: url("../src/icons/GoldPieces/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25586,20 +23682,6 @@
 .nxs-64 {
   display: inline-block;
   background: url("../src/icons/Nexus/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.soon-64 {
-  display: inline-block;
-  background: url("../src/icons/SoonCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.metal-64 {
-  display: inline-block;
-  background: url("../src/icons/MetalCoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25625,30 +23707,9 @@
   height: 64px;
 }
 
-.bitsilver-64 {
-  display: inline-block;
-  background: url("../src/icons/bitSilver/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .dot-64 {
   display: inline-block;
   background: url("../src/icons/Dotcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.kobo-64 {
-  display: inline-block;
-  background: url("../src/icons/Kobocoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.con-64 {
-  display: inline-block;
-  background: url("../src/icons/PayCon/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25695,37 +23756,9 @@
   height: 64px;
 }
 
-.xco-64 {
-  display: inline-block;
-  background: url("../src/icons/X-Coin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.sak-64 {
-  display: inline-block;
-  background: url("../src/icons/Sharkcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .ldoge-64 {
   display: inline-block;
   background: url("../src/icons/LiteDoge/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.song-64 {
-  display: inline-block;
-  background: url("../src/icons/SongCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.log-64 {
-  display: inline-block;
-  background: url("../src/icons/Woodcoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25793,13 +23826,6 @@
   height: 64px;
 }
 
-.egg-64 {
-  display: inline-block;
-  background: url("../src/icons/EggCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .sphr-64 {
   display: inline-block;
   background: url("../src/icons/Sphere/64x64.jpg") no-repeat center;
@@ -25842,20 +23868,6 @@
   height: 64px;
 }
 
-.cto-64 {
-  display: inline-block;
-  background: url("../src/icons/Crypto/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.pkb-64 {
-  display: inline-block;
-  background: url("../src/icons/ParkByte/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .arb-64 {
   display: inline-block;
   background: url("../src/icons/ARbit/64x64.jpg") no-repeat center;
@@ -25884,27 +23896,6 @@
   height: 64px;
 }
 
-.snrg-64 {
-  display: inline-block;
-  background: url("../src/icons/Synergy/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.biteur-64 {
-  display: inline-block;
-  background: url("../src/icons/bitEUR/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.unic-64 {
-  display: inline-block;
-  background: url("../src/icons/UniCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .fjc-64 {
   display: inline-block;
   background: url("../src/icons/FujiCoin/64x64.jpg") no-repeat center;
@@ -25915,13 +23906,6 @@
 .erc-64 {
   display: inline-block;
   background: url("../src/icons/EuropeCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.funk-64 {
-  display: inline-block;
-  background: url("../src/icons/The Cypherfunks/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -25940,13 +23924,6 @@
   height: 64px;
 }
 
-.creva-64 {
-  display: inline-block;
-  background: url("../src/icons/CrevaCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .irl-64 {
   display: inline-block;
   background: url("../src/icons/IrishCoin/64x64.jpg") no-repeat center;
@@ -25957,13 +23934,6 @@
 .zny-64 {
   display: inline-block;
   background: url("../src/icons/Bitzeny/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.bsc-64 {
-  display: inline-block;
-  background: url("../src/icons/BowsCoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26010,23 +23980,9 @@
   height: 64px;
 }
 
-.flax-64 {
-  display: inline-block;
-  background: url("../src/icons/Flaxscript/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .manna-64 {
   display: inline-block;
   background: url("../src/icons/Manna/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.axiom-64 {
-  display: inline-block;
-  background: url("../src/icons/Axiom/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26122,13 +24078,6 @@
   height: 64px;
 }
 
-.space-64 {
-  display: inline-block;
-  background: url("../src/icons/SpaceCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .bcy-64 {
   display: inline-block;
   background: url("../src/icons/Bitcrystals/64x64.jpg") no-repeat center;
@@ -26139,13 +24088,6 @@
 .pak-64 {
   display: inline-block;
   background: url("../src/icons/Pakcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.infx-64 {
-  display: inline-block;
-  background: url("../src/icons/Influxcoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26164,20 +24106,6 @@
   height: 64px;
 }
 
-.isl-64 {
-  display: inline-block;
-  background: url("../src/icons/IslaCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.swing-64 {
-  display: inline-block;
-  background: url("../src/icons/Swing/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .fct-64 {
   display: inline-block;
   background: url("../src/icons/Factom/64x64.jpg") no-repeat center;
@@ -26185,30 +24113,9 @@
   height: 64px;
 }
 
-.duo-64 {
-  display: inline-block;
-  background: url("../src/icons/ParallelCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.sandg-64 {
-  display: inline-block;
-  background: url("../src/icons/Save and Gain/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .pr-64 {
   display: inline-block;
   background: url("../src/icons/Prototanium/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.cube-64 {
-  display: inline-block;
-  background: url("../src/icons/DigiCube/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26241,13 +24148,6 @@
   height: 64px;
 }
 
-.money-64 {
-  display: inline-block;
-  background: url("../src/icons/Money/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .soil-64 {
   display: inline-block;
   background: url("../src/icons/SOILcoin/64x64.jpg") no-repeat center;
@@ -26255,23 +24155,9 @@
   height: 64px;
 }
 
-.scrt-64 {
-  display: inline-block;
-  background: url("../src/icons/SecretCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .dft-64 {
   display: inline-block;
   background: url("../src/icons/DraftCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.obits-64 {
-  display: inline-block;
-  background: url("../src/icons/OBITS/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26293,20 +24179,6 @@
 .adz-64 {
   display: inline-block;
   background: url("../src/icons/Adzcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.moin-64 {
-  display: inline-block;
-  background: url("../src/icons/Moin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.av-64 {
-  display: inline-block;
-  background: url("../src/icons/AvatarCoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26339,13 +24211,6 @@
   height: 64px;
 }
 
-.ltcr-64 {
-  display: inline-block;
-  background: url("../src/icons/Litecred/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .yoc-64 {
   display: inline-block;
   background: url("../src/icons/Yocoin/64x64.jpg") no-repeat center;
@@ -26363,13 +24228,6 @@
 .frn-64 {
   display: inline-block;
   background: url("../src/icons/Francs/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.evil-64 {
-  display: inline-block;
-  background: url("../src/icons/Evil Coin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26395,27 +24253,6 @@
   height: 64px;
 }
 
-.rbies-64 {
-  display: inline-block;
-  background: url("../src/icons/Rubies/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.adcn-64 {
-  display: inline-block;
-  background: url("../src/icons/Asiadigicoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.klc-64 {
-  display: inline-block;
-  background: url("../src/icons/KiloCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .trump-64 {
   display: inline-block;
   background: url("../src/icons/TrumpCoin/64x64.jpg") no-repeat center;
@@ -26430,23 +24267,9 @@
   height: 64px;
 }
 
-.ims-64 {
-  display: inline-block;
-  background: url("../src/icons/Independent Money System/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .hodl-64 {
   display: inline-block;
   background: url("../src/icons/HOdlcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.bigup-64 {
-  display: inline-block;
-  background: url("../src/icons/BigUp/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26458,13 +24281,6 @@
   height: 64px;
 }
 
-.bumba-64 {
-  display: inline-block;
-  background: url("../src/icons/BumbaCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .rvr-64 {
   display: inline-block;
   background: url("../src/icons/RevolutionVR/64x64.jpg") no-repeat center;
@@ -26472,30 +24288,9 @@
   height: 64px;
 }
 
-.pex-64 {
-  display: inline-block;
-  background: url("../src/icons/PosEx/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.cab-64 {
-  display: inline-block;
-  background: url("../src/icons/Cabbage/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .mojo-64 {
   display: inline-block;
   background: url("../src/icons/MojoCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.gmx-64 {
-  display: inline-block;
-  background: url("../src/icons/GoldMaxCoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26517,13 +24312,6 @@
 .post-64 {
   display: inline-block;
   background: url("../src/icons/PostCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.bern-64 {
-  display: inline-block;
-  background: url("../src/icons/BERNcash/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26563,30 +24351,9 @@
   height: 64px;
 }
 
-.fuzz-64 {
-  display: inline-block;
-  background: url("../src/icons/FuzzBalls/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .xhi-64 {
   display: inline-block;
   background: url("../src/icons/HiCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.arco-64 {
-  display: inline-block;
-  background: url("../src/icons/AquariusCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.xbtc21-64 {
-  display: inline-block;
-  background: url("../src/icons/Bitcoin 21/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26619,30 +24386,9 @@
   height: 64px;
 }
 
-.xptx-64 {
-  display: inline-block;
-  background: url("../src/icons/PlatinumBAR/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .abc-64 {
   display: inline-block;
   background: url("../src/icons/Alphabit/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.lana-64 {
-  display: inline-block;
-  background: url("../src/icons/LanaCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.ponzi-64 {
-  display: inline-block;
-  background: url("../src/icons/PonziCoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26664,20 +24410,6 @@
 .nlx-64 {
   display: inline-block;
   background: url("../src/icons/Nullex/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.richx-64 {
-  display: inline-block;
-  background: url("../src/icons/RichCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.prm-64 {
-  display: inline-block;
-  background: url("../src/icons/PrismChain/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26710,30 +24442,9 @@
   height: 64px;
 }
 
-.hvco-64 {
-  display: inline-block;
-  background: url("../src/icons/High Voltage/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.mnm-64 {
-  display: inline-block;
-  background: url("../src/icons/Mineum/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .xre-64 {
   display: inline-block;
   background: url("../src/icons/RevolverCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.gb-64 {
-  display: inline-block;
-  background: url("../src/icons/GoldBlocks/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26801,23 +24512,9 @@
   height: 64px;
 }
 
-.cj-64 {
-  display: inline-block;
-  background: url("../src/icons/Cryptojacks/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .heat-64 {
   display: inline-block;
   background: url("../src/icons/HEAT/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.lir-64 {
-  display: inline-block;
-  background: url("../src/icons/LetItRide/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26857,13 +24554,6 @@
   height: 64px;
 }
 
-.gain-64 {
-  display: inline-block;
-  background: url("../src/icons/UGAIN/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .krb-64 {
   display: inline-block;
   background: url("../src/icons/Karbo/64x64.jpg") no-repeat center;
@@ -26881,27 +24571,6 @@
 .strat-64 {
   display: inline-block;
   background: url("../src/icons/Stratis/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.pres-64 {
-  display: inline-block;
-  background: url("../src/icons/President Trump/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.aces-64 {
-  display: inline-block;
-  background: url("../src/icons/Aces/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.gary-64 {
-  display: inline-block;
-  background: url("../src/icons/President Johnson/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -26990,13 +24659,6 @@
   height: 64px;
 }
 
-.zyd-64 {
-  display: inline-block;
-  background: url("../src/icons/Zayedcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .jin-64 {
   display: inline-block;
   background: url("../src/icons/Jin Coin/64x64.jpg") no-repeat center;
@@ -27018,34 +24680,6 @@
   height: 64px;
 }
 
-.tell-64 {
-  display: inline-block;
-  background: url("../src/icons/Tellurion/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.dlc-64 {
-  display: inline-block;
-  background: url("../src/icons/Dollarcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.mst-64 {
-  display: inline-block;
-  background: url("../src/icons/MustangCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.xbts-64 {
-  display: inline-block;
-  background: url("../src/icons/Beatcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .proud-64 {
   display: inline-block;
   background: url("../src/icons/PROUD Money/64x64.jpg") no-repeat center;
@@ -27056,13 +24690,6 @@
 .seq-64 {
   display: inline-block;
   background: url("../src/icons/Sequence/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.omc-64 {
-  display: inline-block;
-  background: url("../src/icons/Omicron/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -27105,20 +24732,6 @@
 .rcn-64 {
   display: inline-block;
   background: url("../src/icons/Rcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.atom-64 {
-  display: inline-block;
-  background: url("../src/icons/Atomic Coin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.jobs-64 {
-  display: inline-block;
-  background: url("../src/icons/JobsCoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -27179,13 +24792,6 @@
   height: 64px;
 }
 
-.bip-64 {
-  display: inline-block;
-  background: url("../src/icons/BipCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .zcl-64 {
   display: inline-block;
   background: url("../src/icons/ZClassic/64x64.jpg") no-repeat center;
@@ -27196,13 +24802,6 @@
 .zoi-64 {
   display: inline-block;
   background: url("../src/icons/Zoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.wa-64 {
-  display: inline-block;
-  background: url("../src/icons/WA Space/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -27347,20 +24946,6 @@
   height: 64px;
 }
 
-.pcs-64 {
-  display: inline-block;
-  background: url("../src/icons/Pabyosi Coin (Special)/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.tcoin-64 {
-  display: inline-block;
-  background: url("../src/icons/T-coin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .gbyte-64 {
   display: inline-block;
   background: url("../src/icons/Byteball Bytes/64x64.jpg") no-repeat center;
@@ -27378,13 +24963,6 @@
 .luna-64 {
   display: inline-block;
   background: url("../src/icons/Luna Coin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.frgc-64 {
-  display: inline-block;
-  background: url("../src/icons/Fargocoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -27431,20 +25009,6 @@
   height: 64px;
 }
 
-.ldcn-64 {
-  display: inline-block;
-  background: url("../src/icons/LandCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.benji-64 {
-  display: inline-block;
-  background: url("../src/icons/BenjiRolls/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .ccrb-64 {
   display: inline-block;
   background: url("../src/icons/CryptoCarbon/64x64.jpg") no-repeat center;
@@ -27462,20 +25026,6 @@
 .bcc-64 {
   display: inline-block;
   background: url("../src/icons/BitConnect/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.icob-64 {
-  display: inline-block;
-  background: url("../src/icons/ICOBID/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.ibank-64 {
-  display: inline-block;
-  background: url("../src/icons/iBank/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -27508,23 +25058,9 @@
   height: 64px;
 }
 
-.mgm-64 {
-  display: inline-block;
-  background: url("../src/icons/Magnum/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .tse-64 {
   display: inline-block;
   background: url("../src/icons/Tattoocoin (Standard Edition)/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.sfc-64 {
-  display: inline-block;
-  background: url("../src/icons/Solarflarecoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -27543,23 +25079,9 @@
   height: 64px;
 }
 
-.kush-64 {
-  display: inline-block;
-  background: url("../src/icons/KushCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .gcc-64 {
   display: inline-block;
   background: url("../src/icons/Global Cryptocurrency/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.acn-64 {
-  display: inline-block;
-  background: url("../src/icons/Avoncoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -27574,13 +25096,6 @@
 .ery-64 {
   display: inline-block;
   background: url("../src/icons/Eryllium/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.els-64 {
-  display: inline-block;
-  background: url("../src/icons/Elysium/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -27739,13 +25254,6 @@
   height: 64px;
 }
 
-.biob-64 {
-  display: inline-block;
-  background: url("../src/icons/BioBar/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .honey-64 {
   display: inline-block;
   background: url("../src/icons/Honey/64x64.jpg") no-repeat center;
@@ -27812,13 +25320,6 @@
 .ba-64 {
   display: inline-block;
   background: url("../src/icons/Bankcoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.zse-64 {
-  display: inline-block;
-  background: url("../src/icons/ZSEcoin/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -28075,13 +25576,6 @@
   height: 64px;
 }
 
-.tkn-64 {
-  display: inline-block;
-  background: url("../src/icons/TokenCard/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .rain-64 {
   display: inline-block;
   background: url("../src/icons/Condensate/64x64.jpg") no-repeat center;
@@ -28134,13 +25628,6 @@
 .crea-64 {
   display: inline-block;
   background: url("../src/icons/Creativecoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.dice-64 {
-  display: inline-block;
-  background: url("../src/icons/Etheroll/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -28656,13 +26143,6 @@
   height: 64px;
 }
 
-.bet-64 {
-  display: inline-block;
-  background: url("../src/icons/DAO.Casino/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .storj-64 {
   display: inline-block;
   background: url("../src/icons/Storj/64x64.jpg") no-repeat center;
@@ -28810,13 +26290,6 @@
   height: 64px;
 }
 
-.daxx-64 {
-  display: inline-block;
-  background: url("../src/icons/DaxxCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .rup-64 {
   display: inline-block;
   background: url("../src/icons/Rupee/64x64.jpg") no-repeat center;
@@ -28855,13 +26328,6 @@
 .omg-64 {
   display: inline-block;
   background: url("../src/icons/OmiseGO/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.ter-64 {
-  display: inline-block;
-  background: url("../src/icons/TerraNova/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -29013,13 +26479,6 @@
   height: 64px;
 }
 
-.oct-64 {
-  display: inline-block;
-  background: url("../src/icons/OracleChain/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .bnb-64 {
   display: inline-block;
   background: url("../src/icons/Binance Coin/64x64.jpg") no-repeat center;
@@ -29100,13 +26559,6 @@
 .kek-64 {
   display: inline-block;
   background: url("../src/icons/KekCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.oax-64 {
-  display: inline-block;
-  background: url("../src/icons/OAX/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -29443,13 +26895,6 @@
 .wtc-64 {
   display: inline-block;
   background: url("../src/icons/Waltonchain/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.brat-64 {
-  display: inline-block;
-  background: url("../src/icons/BROTHER/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -30161,13 +27606,6 @@
   height: 64px;
 }
 
-.sic-64 {
-  display: inline-block;
-  background: url("../src/icons/Swisscoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .ats-64 {
   display: inline-block;
   background: url("../src/icons/Authorship/64x64.jpg") no-repeat center;
@@ -30703,13 +28141,6 @@
 .eltcoin-64 {
   display: inline-block;
   background: url("../src/icons/ELTCOIN/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.dsr-64 {
-  display: inline-block;
-  background: url("../src/icons/Desire/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -31291,13 +28722,6 @@
 .send-64 {
   display: inline-block;
   background: url("../src/icons/Social Send/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.bon-64 {
-  display: inline-block;
-  background: url("../src/icons/Bonpay/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -32058,13 +29482,6 @@
   height: 64px;
 }
 
-.topc-64 {
-  display: inline-block;
-  background: url("../src/icons/TopChain/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .lev-64 {
   display: inline-block;
   background: url("../src/icons/Leverj/64x64.jpg") no-repeat center;
@@ -32187,13 +29604,6 @@
 .ic-64 {
   display: inline-block;
   background: url("../src/icons/Ignition/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.weth-64 {
-  display: inline-block;
-  background: url("../src/icons/WETH/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -32394,13 +29804,6 @@
   height: 64px;
 }
 
-.chat-64 {
-  display: inline-block;
-  background: url("../src/icons/ChatCoin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .ddd-64 {
   display: inline-block;
   background: url("../src/icons/Scry.info/64x64.jpg") no-repeat center;
@@ -32474,13 +29877,6 @@
 .ssc-64 {
   display: inline-block;
   background: url("../src/icons/SelfSell/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
-.read-64 {
-  display: inline-block;
-  background: url("../src/icons/Read/64x64.jpg") no-repeat center;
   width: 64px;
   height: 64px;
 }
@@ -35607,13 +33003,6 @@
   height: 64px;
 }
 
-.gbc-64 {
-  display: inline-block;
-  background: url("../src/icons/Gold Bits Coin/64x64.jpg") no-repeat center;
-  width: 64px;
-  height: 64px;
-}
-
 .bwx-64 {
   display: inline-block;
   background: url("../src/icons/Blue Whale Token/64x64.jpg") no-repeat center;
@@ -36384,13 +33773,6 @@
   height: 128px;
 }
 
-.kdc-128 {
-  display: inline-block;
-  background: url("../src/icons/KlondikeCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .red-128 {
   display: inline-block;
   background: url("../src/icons/RedCoin/128x128.jpg") no-repeat center;
@@ -36499,13 +33881,6 @@
 .cach-128 {
   display: inline-block;
   background: url("../src/icons/CacheCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.top-128 {
-  display: inline-block;
-  background: url("../src/icons/TopCoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -36664,13 +34039,6 @@
   height: 128px;
 }
 
-.cno-128 {
-  display: inline-block;
-  background: url("../src/icons/Coin(O)/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .ecc-128 {
   display: inline-block;
   background: url("../src/icons/ECC/128x128.jpg") no-repeat center;
@@ -36762,13 +34130,6 @@
   height: 128px;
 }
 
-.plnc-128 {
-  display: inline-block;
-  background: url("../src/icons/PLNcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .xwc-128 {
   display: inline-block;
   background: url("../src/icons/WhiteCoin/128x128.jpg") no-repeat center;
@@ -36839,13 +34200,6 @@
   height: 128px;
 }
 
-.talk-128 {
-  display: inline-block;
-  background: url("../src/icons/BTCtalkcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .nyc-128 {
   display: inline-block;
   background: url("../src/icons/NewYorkCoin/128x128.jpg") no-repeat center;
@@ -36874,20 +34228,6 @@
   height: 128px;
 }
 
-.drm-128 {
-  display: inline-block;
-  background: url("../src/icons/Dreamcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.cfc-128 {
-  display: inline-block;
-  background: url("../src/icons/CoffeeCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .enrg-128 {
   display: inline-block;
   background: url("../src/icons/Energycoin/128x128.jpg") no-repeat center;
@@ -36898,13 +34238,6 @@
 .vrc-128 {
   display: inline-block;
   background: url("../src/icons/VeriCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.tek-128 {
-  display: inline-block;
-  background: url("../src/icons/TEKcoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -36961,13 +34294,6 @@
 .hyper-128 {
   display: inline-block;
   background: url("../src/icons/Hyper/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.btq-128 {
-  display: inline-block;
-  background: url("../src/icons/BitQuark/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37112,23 +34438,9 @@
   height: 128px;
 }
 
-.trust-128 {
-  display: inline-block;
-  background: url("../src/icons/TrustPlus/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .clam-128 {
   display: inline-block;
   background: url("../src/icons/Clams/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.qtl-128 {
-  display: inline-block;
-  background: url("../src/icons/Quatloo/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37143,13 +34455,6 @@
 .btcd-128 {
   display: inline-block;
   background: url("../src/icons/BitcoinDark/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.trk-128 {
-  display: inline-block;
-  background: url("../src/icons/Truckcoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37287,13 +34592,6 @@
   height: 128px;
 }
 
-.wsx-128 {
-  display: inline-block;
-  background: url("../src/icons/WeAreSatoshi/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .ubq-128 {
   display: inline-block;
   background: url("../src/icons/Ubiq/128x128.jpg") no-repeat center;
@@ -37304,13 +34602,6 @@
 .bun-128 {
   display: inline-block;
   background: url("../src/icons/BunnyCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.opal-128 {
-  display: inline-block;
-  background: url("../src/icons/Opal/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37329,23 +34620,9 @@
   height: 128px;
 }
 
-.bitusd-128 {
-  display: inline-block;
-  background: url("../src/icons/bitUSD/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .bitcny-128 {
   display: inline-block;
   background: url("../src/icons/bitCNY/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.bitbtc-128 {
-  display: inline-block;
-  background: url("../src/icons/bitBTC/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37392,23 +34669,9 @@
   height: 128px;
 }
 
-.bsty-128 {
-  display: inline-block;
-  background: url("../src/icons/GlobalBoost-Y/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .dp-128 {
   display: inline-block;
   background: url("../src/icons/DigitalPrice/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.pxi-128 {
-  display: inline-block;
-  background: url("../src/icons/Prime-XI/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37483,13 +34746,6 @@
   height: 128px;
 }
 
-.gap-128 {
-  display: inline-block;
-  background: url("../src/icons/Gapcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .ttc-128 {
   display: inline-block;
   background: url("../src/icons/TittieCoin/128x128.jpg") no-repeat center;
@@ -37525,13 +34781,6 @@
   height: 128px;
 }
 
-.byc-128 {
-  display: inline-block;
-  background: url("../src/icons/Bytecent/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .bcf-128 {
   display: inline-block;
   background: url("../src/icons/Bitcoin Fast/128x128.jpg") no-repeat center;
@@ -37546,30 +34795,9 @@
   height: 128px;
 }
 
-.xpy-128 {
-  display: inline-block;
-  background: url("../src/icons/PayCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.bitgold-128 {
-  display: inline-block;
-  background: url("../src/icons/bitGold/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .uis-128 {
   display: inline-block;
   background: url("../src/icons/Unitus/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.gp-128 {
-  display: inline-block;
-  background: url("../src/icons/GoldPieces/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37584,20 +34812,6 @@
 .nxs-128 {
   display: inline-block;
   background: url("../src/icons/Nexus/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.soon-128 {
-  display: inline-block;
-  background: url("../src/icons/SoonCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.metal-128 {
-  display: inline-block;
-  background: url("../src/icons/MetalCoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37623,30 +34837,9 @@
   height: 128px;
 }
 
-.bitsilver-128 {
-  display: inline-block;
-  background: url("../src/icons/bitSilver/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .dot-128 {
   display: inline-block;
   background: url("../src/icons/Dotcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.kobo-128 {
-  display: inline-block;
-  background: url("../src/icons/Kobocoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.con-128 {
-  display: inline-block;
-  background: url("../src/icons/PayCon/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37693,37 +34886,9 @@
   height: 128px;
 }
 
-.xco-128 {
-  display: inline-block;
-  background: url("../src/icons/X-Coin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.sak-128 {
-  display: inline-block;
-  background: url("../src/icons/Sharkcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .ldoge-128 {
   display: inline-block;
   background: url("../src/icons/LiteDoge/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.song-128 {
-  display: inline-block;
-  background: url("../src/icons/SongCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.log-128 {
-  display: inline-block;
-  background: url("../src/icons/Woodcoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37791,13 +34956,6 @@
   height: 128px;
 }
 
-.egg-128 {
-  display: inline-block;
-  background: url("../src/icons/EggCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .sphr-128 {
   display: inline-block;
   background: url("../src/icons/Sphere/128x128.jpg") no-repeat center;
@@ -37840,20 +34998,6 @@
   height: 128px;
 }
 
-.cto-128 {
-  display: inline-block;
-  background: url("../src/icons/Crypto/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.pkb-128 {
-  display: inline-block;
-  background: url("../src/icons/ParkByte/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .arb-128 {
   display: inline-block;
   background: url("../src/icons/ARbit/128x128.jpg") no-repeat center;
@@ -37882,27 +35026,6 @@
   height: 128px;
 }
 
-.snrg-128 {
-  display: inline-block;
-  background: url("../src/icons/Synergy/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.biteur-128 {
-  display: inline-block;
-  background: url("../src/icons/bitEUR/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.unic-128 {
-  display: inline-block;
-  background: url("../src/icons/UniCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .fjc-128 {
   display: inline-block;
   background: url("../src/icons/FujiCoin/128x128.jpg") no-repeat center;
@@ -37913,13 +35036,6 @@
 .erc-128 {
   display: inline-block;
   background: url("../src/icons/EuropeCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.funk-128 {
-  display: inline-block;
-  background: url("../src/icons/The Cypherfunks/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -37938,13 +35054,6 @@
   height: 128px;
 }
 
-.creva-128 {
-  display: inline-block;
-  background: url("../src/icons/CrevaCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .irl-128 {
   display: inline-block;
   background: url("../src/icons/IrishCoin/128x128.jpg") no-repeat center;
@@ -37955,13 +35064,6 @@
 .zny-128 {
   display: inline-block;
   background: url("../src/icons/Bitzeny/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.bsc-128 {
-  display: inline-block;
-  background: url("../src/icons/BowsCoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38008,23 +35110,9 @@
   height: 128px;
 }
 
-.flax-128 {
-  display: inline-block;
-  background: url("../src/icons/Flaxscript/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .manna-128 {
   display: inline-block;
   background: url("../src/icons/Manna/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.axiom-128 {
-  display: inline-block;
-  background: url("../src/icons/Axiom/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38120,13 +35208,6 @@
   height: 128px;
 }
 
-.space-128 {
-  display: inline-block;
-  background: url("../src/icons/SpaceCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .bcy-128 {
   display: inline-block;
   background: url("../src/icons/Bitcrystals/128x128.jpg") no-repeat center;
@@ -38137,13 +35218,6 @@
 .pak-128 {
   display: inline-block;
   background: url("../src/icons/Pakcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.infx-128 {
-  display: inline-block;
-  background: url("../src/icons/Influxcoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38162,20 +35236,6 @@
   height: 128px;
 }
 
-.isl-128 {
-  display: inline-block;
-  background: url("../src/icons/IslaCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.swing-128 {
-  display: inline-block;
-  background: url("../src/icons/Swing/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .fct-128 {
   display: inline-block;
   background: url("../src/icons/Factom/128x128.jpg") no-repeat center;
@@ -38183,30 +35243,9 @@
   height: 128px;
 }
 
-.duo-128 {
-  display: inline-block;
-  background: url("../src/icons/ParallelCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.sandg-128 {
-  display: inline-block;
-  background: url("../src/icons/Save and Gain/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .pr-128 {
   display: inline-block;
   background: url("../src/icons/Prototanium/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.cube-128 {
-  display: inline-block;
-  background: url("../src/icons/DigiCube/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38239,13 +35278,6 @@
   height: 128px;
 }
 
-.money-128 {
-  display: inline-block;
-  background: url("../src/icons/Money/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .soil-128 {
   display: inline-block;
   background: url("../src/icons/SOILcoin/128x128.jpg") no-repeat center;
@@ -38253,23 +35285,9 @@
   height: 128px;
 }
 
-.scrt-128 {
-  display: inline-block;
-  background: url("../src/icons/SecretCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .dft-128 {
   display: inline-block;
   background: url("../src/icons/DraftCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.obits-128 {
-  display: inline-block;
-  background: url("../src/icons/OBITS/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38291,20 +35309,6 @@
 .adz-128 {
   display: inline-block;
   background: url("../src/icons/Adzcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.moin-128 {
-  display: inline-block;
-  background: url("../src/icons/Moin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.av-128 {
-  display: inline-block;
-  background: url("../src/icons/AvatarCoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38337,13 +35341,6 @@
   height: 128px;
 }
 
-.ltcr-128 {
-  display: inline-block;
-  background: url("../src/icons/Litecred/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .yoc-128 {
   display: inline-block;
   background: url("../src/icons/Yocoin/128x128.jpg") no-repeat center;
@@ -38361,13 +35358,6 @@
 .frn-128 {
   display: inline-block;
   background: url("../src/icons/Francs/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.evil-128 {
-  display: inline-block;
-  background: url("../src/icons/Evil Coin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38393,27 +35383,6 @@
   height: 128px;
 }
 
-.rbies-128 {
-  display: inline-block;
-  background: url("../src/icons/Rubies/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.adcn-128 {
-  display: inline-block;
-  background: url("../src/icons/Asiadigicoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.klc-128 {
-  display: inline-block;
-  background: url("../src/icons/KiloCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .trump-128 {
   display: inline-block;
   background: url("../src/icons/TrumpCoin/128x128.jpg") no-repeat center;
@@ -38428,23 +35397,9 @@
   height: 128px;
 }
 
-.ims-128 {
-  display: inline-block;
-  background: url("../src/icons/Independent Money System/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .hodl-128 {
   display: inline-block;
   background: url("../src/icons/HOdlcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.bigup-128 {
-  display: inline-block;
-  background: url("../src/icons/BigUp/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38456,44 +35411,9 @@
   height: 128px;
 }
 
-.bumba-128 {
-  display: inline-block;
-  background: url("../src/icons/BumbaCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .rvr-128 {
   display: inline-block;
   background: url("../src/icons/RevolutionVR/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.pex-128 {
-  display: inline-block;
-  background: url("../src/icons/PosEx/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.cab-128 {
-  display: inline-block;
-  background: url("../src/icons/Cabbage/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.mojo-128 {
-  display: inline-block;
-  background: url("../src/icons/MojoCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.gmx-128 {
-  display: inline-block;
-  background: url("../src/icons/GoldMaxCoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38515,13 +35435,6 @@
 .post-128 {
   display: inline-block;
   background: url("../src/icons/PostCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.bern-128 {
-  display: inline-block;
-  background: url("../src/icons/BERNcash/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38561,30 +35474,9 @@
   height: 128px;
 }
 
-.fuzz-128 {
-  display: inline-block;
-  background: url("../src/icons/FuzzBalls/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .xhi-128 {
   display: inline-block;
   background: url("../src/icons/HiCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.arco-128 {
-  display: inline-block;
-  background: url("../src/icons/AquariusCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.xbtc21-128 {
-  display: inline-block;
-  background: url("../src/icons/Bitcoin 21/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38617,30 +35509,9 @@
   height: 128px;
 }
 
-.xptx-128 {
-  display: inline-block;
-  background: url("../src/icons/PlatinumBAR/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .abc-128 {
   display: inline-block;
   background: url("../src/icons/Alphabit/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.lana-128 {
-  display: inline-block;
-  background: url("../src/icons/LanaCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.ponzi-128 {
-  display: inline-block;
-  background: url("../src/icons/PonziCoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38662,20 +35533,6 @@
 .nlx-128 {
   display: inline-block;
   background: url("../src/icons/Nullex/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.richx-128 {
-  display: inline-block;
-  background: url("../src/icons/RichCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.prm-128 {
-  display: inline-block;
-  background: url("../src/icons/PrismChain/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38708,30 +35565,9 @@
   height: 128px;
 }
 
-.hvco-128 {
-  display: inline-block;
-  background: url("../src/icons/High Voltage/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.mnm-128 {
-  display: inline-block;
-  background: url("../src/icons/Mineum/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .xre-128 {
   display: inline-block;
   background: url("../src/icons/RevolverCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.gb-128 {
-  display: inline-block;
-  background: url("../src/icons/GoldBlocks/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38799,23 +35635,9 @@
   height: 128px;
 }
 
-.cj-128 {
-  display: inline-block;
-  background: url("../src/icons/Cryptojacks/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .heat-128 {
   display: inline-block;
   background: url("../src/icons/HEAT/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.lir-128 {
-  display: inline-block;
-  background: url("../src/icons/LetItRide/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38855,13 +35677,6 @@
   height: 128px;
 }
 
-.gain-128 {
-  display: inline-block;
-  background: url("../src/icons/UGAIN/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .krb-128 {
   display: inline-block;
   background: url("../src/icons/Karbo/128x128.jpg") no-repeat center;
@@ -38879,27 +35694,6 @@
 .strat-128 {
   display: inline-block;
   background: url("../src/icons/Stratis/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.pres-128 {
-  display: inline-block;
-  background: url("../src/icons/President Trump/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.aces-128 {
-  display: inline-block;
-  background: url("../src/icons/Aces/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.gary-128 {
-  display: inline-block;
-  background: url("../src/icons/President Johnson/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -38988,13 +35782,6 @@
   height: 128px;
 }
 
-.zyd-128 {
-  display: inline-block;
-  background: url("../src/icons/Zayedcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .jin-128 {
   display: inline-block;
   background: url("../src/icons/Jin Coin/128x128.jpg") no-repeat center;
@@ -39016,34 +35803,6 @@
   height: 128px;
 }
 
-.tell-128 {
-  display: inline-block;
-  background: url("../src/icons/Tellurion/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.dlc-128 {
-  display: inline-block;
-  background: url("../src/icons/Dollarcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.mst-128 {
-  display: inline-block;
-  background: url("../src/icons/MustangCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.xbts-128 {
-  display: inline-block;
-  background: url("../src/icons/Beatcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .proud-128 {
   display: inline-block;
   background: url("../src/icons/PROUD Money/128x128.jpg") no-repeat center;
@@ -39054,13 +35813,6 @@
 .seq-128 {
   display: inline-block;
   background: url("../src/icons/Sequence/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.omc-128 {
-  display: inline-block;
-  background: url("../src/icons/Omicron/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -39103,20 +35855,6 @@
 .rcn-128 {
   display: inline-block;
   background: url("../src/icons/Rcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.atom-128 {
-  display: inline-block;
-  background: url("../src/icons/Atomic Coin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.jobs-128 {
-  display: inline-block;
-  background: url("../src/icons/JobsCoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -39177,13 +35915,6 @@
   height: 128px;
 }
 
-.bip-128 {
-  display: inline-block;
-  background: url("../src/icons/BipCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .zcl-128 {
   display: inline-block;
   background: url("../src/icons/ZClassic/128x128.jpg") no-repeat center;
@@ -39194,13 +35925,6 @@
 .zoi-128 {
   display: inline-block;
   background: url("../src/icons/Zoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.wa-128 {
-  display: inline-block;
-  background: url("../src/icons/WA Space/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -39345,20 +36069,6 @@
   height: 128px;
 }
 
-.pcs-128 {
-  display: inline-block;
-  background: url("../src/icons/Pabyosi Coin (Special)/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.tcoin-128 {
-  display: inline-block;
-  background: url("../src/icons/T-coin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .gbyte-128 {
   display: inline-block;
   background: url("../src/icons/Byteball Bytes/128x128.jpg") no-repeat center;
@@ -39376,13 +36086,6 @@
 .luna-128 {
   display: inline-block;
   background: url("../src/icons/Luna Coin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.frgc-128 {
-  display: inline-block;
-  background: url("../src/icons/Fargocoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -39429,20 +36132,6 @@
   height: 128px;
 }
 
-.ldcn-128 {
-  display: inline-block;
-  background: url("../src/icons/LandCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.benji-128 {
-  display: inline-block;
-  background: url("../src/icons/BenjiRolls/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .ccrb-128 {
   display: inline-block;
   background: url("../src/icons/CryptoCarbon/128x128.jpg") no-repeat center;
@@ -39460,20 +36149,6 @@
 .bcc-128 {
   display: inline-block;
   background: url("../src/icons/BitConnect/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.icob-128 {
-  display: inline-block;
-  background: url("../src/icons/ICOBID/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.ibank-128 {
-  display: inline-block;
-  background: url("../src/icons/iBank/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -39506,23 +36181,9 @@
   height: 128px;
 }
 
-.mgm-128 {
-  display: inline-block;
-  background: url("../src/icons/Magnum/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .tse-128 {
   display: inline-block;
   background: url("../src/icons/Tattoocoin (Standard Edition)/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.sfc-128 {
-  display: inline-block;
-  background: url("../src/icons/Solarflarecoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -39541,23 +36202,9 @@
   height: 128px;
 }
 
-.kush-128 {
-  display: inline-block;
-  background: url("../src/icons/KushCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .gcc-128 {
   display: inline-block;
   background: url("../src/icons/Global Cryptocurrency/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.acn-128 {
-  display: inline-block;
-  background: url("../src/icons/Avoncoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -39572,13 +36219,6 @@
 .ery-128 {
   display: inline-block;
   background: url("../src/icons/Eryllium/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.els-128 {
-  display: inline-block;
-  background: url("../src/icons/Elysium/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -39737,13 +36377,6 @@
   height: 128px;
 }
 
-.biob-128 {
-  display: inline-block;
-  background: url("../src/icons/BioBar/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .honey-128 {
   display: inline-block;
   background: url("../src/icons/Honey/128x128.jpg") no-repeat center;
@@ -39810,13 +36443,6 @@
 .ba-128 {
   display: inline-block;
   background: url("../src/icons/Bankcoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.zse-128 {
-  display: inline-block;
-  background: url("../src/icons/ZSEcoin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -40073,13 +36699,6 @@
   height: 128px;
 }
 
-.tkn-128 {
-  display: inline-block;
-  background: url("../src/icons/TokenCard/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .rain-128 {
   display: inline-block;
   background: url("../src/icons/Condensate/128x128.jpg") no-repeat center;
@@ -40132,13 +36751,6 @@
 .crea-128 {
   display: inline-block;
   background: url("../src/icons/Creativecoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.dice-128 {
-  display: inline-block;
-  background: url("../src/icons/Etheroll/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -40654,13 +37266,6 @@
   height: 128px;
 }
 
-.bet-128 {
-  display: inline-block;
-  background: url("../src/icons/DAO.Casino/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .storj-128 {
   display: inline-block;
   background: url("../src/icons/Storj/128x128.jpg") no-repeat center;
@@ -40808,13 +37413,6 @@
   height: 128px;
 }
 
-.daxx-128 {
-  display: inline-block;
-  background: url("../src/icons/DaxxCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .rup-128 {
   display: inline-block;
   background: url("../src/icons/Rupee/128x128.jpg") no-repeat center;
@@ -40853,13 +37451,6 @@
 .omg-128 {
   display: inline-block;
   background: url("../src/icons/OmiseGO/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.ter-128 {
-  display: inline-block;
-  background: url("../src/icons/TerraNova/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -41011,13 +37602,6 @@
   height: 128px;
 }
 
-.oct-128 {
-  display: inline-block;
-  background: url("../src/icons/OracleChain/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .bnb-128 {
   display: inline-block;
   background: url("../src/icons/Binance Coin/128x128.jpg") no-repeat center;
@@ -41098,13 +37682,6 @@
 .kek-128 {
   display: inline-block;
   background: url("../src/icons/KekCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.oax-128 {
-  display: inline-block;
-  background: url("../src/icons/OAX/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -41441,13 +38018,6 @@
 .wtc-128 {
   display: inline-block;
   background: url("../src/icons/Waltonchain/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.brat-128 {
-  display: inline-block;
-  background: url("../src/icons/BROTHER/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -42159,13 +38729,6 @@
   height: 128px;
 }
 
-.sic-128 {
-  display: inline-block;
-  background: url("../src/icons/Swisscoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .ats-128 {
   display: inline-block;
   background: url("../src/icons/Authorship/128x128.jpg") no-repeat center;
@@ -42701,13 +39264,6 @@
 .eltcoin-128 {
   display: inline-block;
   background: url("../src/icons/ELTCOIN/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.dsr-128 {
-  display: inline-block;
-  background: url("../src/icons/Desire/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -43289,13 +39845,6 @@
 .send-128 {
   display: inline-block;
   background: url("../src/icons/Social Send/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.bon-128 {
-  display: inline-block;
-  background: url("../src/icons/Bonpay/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -44056,13 +40605,6 @@
   height: 128px;
 }
 
-.topc-128 {
-  display: inline-block;
-  background: url("../src/icons/TopChain/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .lev-128 {
   display: inline-block;
   background: url("../src/icons/Leverj/128x128.jpg") no-repeat center;
@@ -44185,13 +40727,6 @@
 .ic-128 {
   display: inline-block;
   background: url("../src/icons/Ignition/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.weth-128 {
-  display: inline-block;
-  background: url("../src/icons/WETH/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -44392,13 +40927,6 @@
   height: 128px;
 }
 
-.chat-128 {
-  display: inline-block;
-  background: url("../src/icons/ChatCoin/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
 .ddd-128 {
   display: inline-block;
   background: url("../src/icons/Scry.info/128x128.jpg") no-repeat center;
@@ -44472,13 +41000,6 @@
 .ssc-128 {
   display: inline-block;
   background: url("../src/icons/SelfSell/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.read-128 {
-  display: inline-block;
-  background: url("../src/icons/Read/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -47601,13 +44122,6 @@
 .lemo-128 {
   display: inline-block;
   background: url("../src/icons/LemoChain/128x128.jpg") no-repeat center;
-  width: 128px;
-  height: 128px;
-}
-
-.gbc-128 {
-  display: inline-block;
-  background: url("../src/icons/Gold Bits Coin/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
