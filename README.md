@@ -36,7 +36,7 @@ Leia nossa metodologia de contribuição - [Diretrizes de Contribuição](https:
 - [Guilherme Flores](https://github.com/guisantos)
 - [Victor Hugo](https://github.com/victorbmaximo)
 
-[background-ca]: <https://user-images.githubusercontent.com/14335913/44111384-9f1c73be-9fd8-11e8-97b5-771dbc825040.PNG>
+[background-ca]: <https://user-images.githubusercontent.com/14335913/44114479-ad98e8c4-9fe1-11e8-9441-d54f415b86ff.png>
 [btc-16]: <https://user-images.githubusercontent.com/14335913/44107308-5a7bc076-9fcd-11e8-8dc1-25da9a3918ca.jpg>
 [btc-32]: <https://user-images.githubusercontent.com/14335913/44107309-5aa9c174-9fcd-11e8-9e8e-2b2d62fc7cbe.jpg>
 [btc-64]: <https://user-images.githubusercontent.com/14335913/44107310-5ac93054-9fcd-11e8-92b7-7b6321bf79bc.jpg>
