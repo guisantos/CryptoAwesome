@@ -2807,7 +2807,7 @@
 
 .tse-32 {
   display: inline-block;
-  background: url("../src/icons/Tattoocoin(StandardEdition)/32x32.jpg") no-repeat center;
+  background: url("../src/icons/TattoocoinStandardEdition/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -3269,7 +3269,7 @@
 
 .tle-32 {
   display: inline-block;
-  background: url("../src/icons/Tattoocoin(LimitedEdition)/32x32.jpg") no-repeat center;
+  background: url("../src/icons/TattoocoinLimitedEdition/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -6818,7 +6818,7 @@
 
 .ace-32 {
   display: inline-block;
-  background: url("../src/icons/ACE(TokenStars)/32x32.jpg") no-repeat center;
+  background: url("../src/icons/ACETokenStars/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -9562,7 +9562,7 @@
 
 .team-32 {
   display: inline-block;
-  background: url("../src/icons/TEAM(TokenStars)/32x32.jpg") no-repeat center;
+  background: url("../src/icons/TEAMTokenStars/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }
@@ -10318,7 +10318,7 @@
 
 .bob-32 {
   display: inline-block;
-  background: url("../src/icons/Bob'sRepair/32x32.jpg") no-repeat center;
+  background: url("../src/icons/BobsRepair/32x32.jpg") no-repeat center;
   width: 32px;
   height: 32px;
 }

@@ -2800,7 +2800,7 @@
 
 .tse-128 {
   display: inline-block;
-  background: url("../src/icons/Tattoocoin(StandardEdition)/128x128.jpg") no-repeat center;
+  background: url("../src/icons/TattoocoinStandardEdition/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -3262,7 +3262,7 @@
 
 .tle-128 {
   display: inline-block;
-  background: url("../src/icons/Tattoocoin(LimitedEdition)/128x128.jpg") no-repeat center;
+  background: url("../src/icons/TattoocoinLimitedEdition/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -6811,7 +6811,7 @@
 
 .ace-128 {
   display: inline-block;
-  background: url("../src/icons/ACE(TokenStars)/128x128.jpg") no-repeat center;
+  background: url("../src/icons/ACETokenStars/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -9555,7 +9555,7 @@
 
 .team-128 {
   display: inline-block;
-  background: url("../src/icons/TEAM(TokenStars)/128x128.jpg") no-repeat center;
+  background: url("../src/icons/TEAMTokenStars/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
@@ -10311,7 +10311,7 @@
 
 .bob-128 {
   display: inline-block;
-  background: url("../src/icons/Bob'sRepair/128x128.jpg") no-repeat center;
+  background: url("../src/icons/BobsRepair/128x128.jpg") no-repeat center;
   width: 128px;
   height: 128px;
 }
