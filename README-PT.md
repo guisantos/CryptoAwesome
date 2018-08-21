@@ -4,7 +4,7 @@
 ##### Translations
 [English](https://github.com/guisantos/CryptoAwesome/blob/master/README.md)
 
-**Crypto Awesome** é a biblítoca de imagens de cryptomoeda mais completa na atualidade, utilize classes simples e de fácil entendimento, para ter ícones de diversos tamanhos e com boa qualidade em seu projeto.
+**Crypto Awesome** é a biblioteca de imagens de criptomoedas mais completa da atualidade. Utilize classes simples e de fácil entendimento, para ter ícones de diversos tamanhos e de boa qualidade em seu projeto.
 
 ![background-ca]
 ### Exemplo:
@@ -21,9 +21,9 @@
   4. Use as classes de CSS para visualizar os ícones desejados p.e. **nano-16, eth-32, ltc-64**
 
 ##### Você também pode:
-  - Encontrar os ícones desejados no nosso repositório
+  - Encontrar os ícones desejados em nosso repositório
   - Fazer o download e importa-los em seu projeto
-  - Usa-los como Imagem ou encontrar a classe em nosso .css e copia-la
+  - Usa-los como imagem ou encontrar a classe em nosso .css e copia-la
 
 ## Contribuindo
 Leia nossa metodologia de contribuição - [Diretrizes de Contribuição](https://github.com/guisantos/CryptoAwesome/blob/master/CONTRIBUTING-PT.md)
