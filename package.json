@@ -1,6 +1,6 @@
 {
   "name": "cryptoawesome",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Pack of cryptocurrencies images",
   "main": "index.js",
   "scripts": {
