@@ -1,0 +1,6362 @@
+@mixin img-64 ($src) {
+    display: inline-block;
+    background: url($src) no-repeat center;
+    width: 64px;
+    height: 64px;
+}
+
+.btc-64 {
+    @include img-64("../src/icons/Bitcoin/64x64.jpg");
+}
+
+.ltc-64 {
+    @include img-64("../src/icons/Litecoin/64x64.jpg");
+}
+
+.nmc-64 {
+    @include img-64("../src/icons/Namecoin/64x64.jpg");
+}
+
+.trc-64 {
+    @include img-64("../src/icons/Terracoin/64x64.jpg");
+}
+
+.ppc-64 {
+    @include img-64("../src/icons/Peercoin/64x64.jpg");
+}
+
+.nvc-64 {
+    @include img-64("../src/icons/Novacoin/64x64.jpg");
+}
+
+.ftc-64 {
+    @include img-64("../src/icons/Feathercoin/64x64.jpg");
+}
+
+.mnc-64 {
+    @include img-64("../src/icons/Mincoin/64x64.jpg");
+}
+
+.frc-64 {
+    @include img-64("../src/icons/Freicoin/64x64.jpg");
+}
+
+.ixc-64 {
+    @include img-64("../src/icons/Ixcoin/64x64.jpg");
+}
+
+.btb-64 {
+    @include img-64("../src/icons/BitBar/64x64.jpg");
+}
+
+.wdc-64 {
+    @include img-64("../src/icons/WorldCoin/64x64.jpg");
+}
+
+.dgc-64 {
+    @include img-64("../src/icons/Digitalcoin/64x64.jpg");
+}
+
+.gld-64 {
+    @include img-64("../src/icons/GoldCoin/64x64.jpg");
+}
+
+.arg-64 {
+    @include img-64("../src/icons/Argentum/64x64.jpg");
+}
+
+.fst-64 {
+    @include img-64("../src/icons/Fastcoin/64x64.jpg");
+}
+
+.btgem-64 {
+    @include img-64("../src/icons/Bitgem/64x64.jpg");
+}
+
+.phxc-64 {
+    @include img-64("../src/icons/Phoenixcoin/64x64.jpg");
+}
+
+.mec-64 {
+    @include img-64("../src/icons/Megacoin/64x64.jpg");
+}
+
+.ifc-64 {
+    @include img-64("../src/icons/Infinitecoin/64x64.jpg");
+}
+
+.xpm-64 {
+    @include img-64("../src/icons/Primecoin/64x64.jpg");
+}
+
+.anc-64 {
+    @include img-64("../src/icons/Anoncoin/64x64.jpg");
+}
+
+.csc-64 {
+    @include img-64("../src/icons/CasinoCoin/64x64.jpg");
+}
+
+.cbx-64 {
+    @include img-64("../src/icons/Bullion/64x64.jpg");
+}
+
+.emd-64 {
+    @include img-64("../src/icons/EmeraldCrypto/64x64.jpg");
+}
+
+.glc-64 {
+    @include img-64("../src/icons/GlobalCoin/64x64.jpg");
+}
+
+.xrp-64 {
+    @include img-64("../src/icons/XRP/64x64.jpg");
+}
+
+.qrk-64 {
+    @include img-64("../src/icons/Quark/64x64.jpg");
+}
+
+.zet-64 {
+    @include img-64("../src/icons/Zetacoin/64x64.jpg");
+}
+
+.src-64 {
+    @include img-64("../src/icons/SecureCoin/64x64.jpg");
+}
+
+.sxc-64 {
+    @include img-64("../src/icons/Sexcoin/64x64.jpg");
+}
+
+.tag-64 {
+    @include img-64("../src/icons/TagCoin/64x64.jpg");
+}
+
+.i0c-64 {
+    @include img-64("../src/icons/I0Coin/64x64.jpg");
+}
+
+.flo-64 {
+    @include img-64("../src/icons/FlorinCoin/64x64.jpg");
+}
+
+.nxt-64 {
+    @include img-64("../src/icons/Nxt/64x64.jpg");
+}
+
+.uno-64 {
+    @include img-64("../src/icons/Unobtanium/64x64.jpg");
+}
+
+.xjo-64 {
+    @include img-64("../src/icons/Joulecoin/64x64.jpg");
+}
+
+.dtc-64 {
+    @include img-64("../src/icons/Datacoin/64x64.jpg");
+}
+
+.bet-64 {
+    @include img-64("../src/icons/BetaCoin/64x64.jpg");
+}
+
+.gdc-64 {
+    @include img-64("../src/icons/GrandCoin/64x64.jpg");
+}
+
+.dem-64 {
+    @include img-64("../src/icons/DeutscheeMark/64x64.jpg");
+}
+
+.doge-64 {
+    @include img-64("../src/icons/Dogecoin/64x64.jpg");
+}
+
+.net-64 {
+    @include img-64("../src/icons/NetCoin/64x64.jpg");
+}
+
+.phs-64 {
+    @include img-64("../src/icons/PhilosopherStones/64x64.jpg");
+}
+
+.dmd-64 {
+    @include img-64("../src/icons/Diamond/64x64.jpg");
+}
+
+.hbn-64 {
+    @include img-64("../src/icons/HoboNickels/64x64.jpg");
+}
+
+.tgc-64 {
+    @include img-64("../src/icons/Tigercoin/64x64.jpg");
+}
+
+.orb-64 {
+    @include img-64("../src/icons/Orbitcoin/64x64.jpg");
+}
+
+.omni-64 {
+    @include img-64("../src/icons/Omni/64x64.jpg");
+}
+
+.cat-64 {
+    @include img-64("../src/icons/Catcoin/64x64.jpg");
+}
+
+.tips-64 {
+    @include img-64("../src/icons/FedoraCoin/64x64.jpg");
+}
+
+.rpc-64 {
+    @include img-64("../src/icons/RonPaulCoin/64x64.jpg");
+}
+
+.moon-64 {
+    @include img-64("../src/icons/Mooncoin/64x64.jpg");
+}
+
+.dime-64 {
+    @include img-64("../src/icons/Dimecoin/64x64.jpg");
+}
+
+.f2-64 {
+    @include img-64("../src/icons/42-coin/64x64.jpg");
+}
+
+.vtc-64 {
+    @include img-64("../src/icons/Vertcoin/64x64.jpg");
+}
+
+.red-64 {
+    @include img-64("../src/icons/RedCoin/64x64.jpg");
+}
+
+.dgb-64 {
+    @include img-64("../src/icons/DigiByte/64x64.jpg");
+}
+
+.smc-64 {
+    @include img-64("../src/icons/SmartCoin/64x64.jpg");
+}
+
+.tes-64 {
+    @include img-64("../src/icons/TeslaCoin/64x64.jpg");
+}
+
+.nobl-64 {
+    @include img-64("../src/icons/NobleCoin/64x64.jpg");
+}
+
+.rdd-64 {
+    @include img-64("../src/icons/ReddCoin/64x64.jpg");
+}
+
+.nyan-64 {
+    @include img-64("../src/icons/Nyancoin/64x64.jpg");
+}
+
+.utc-64 {
+    @include img-64("../src/icons/UltraCoin/64x64.jpg");
+}
+
+.pot-64 {
+    @include img-64("../src/icons/PotCoin/64x64.jpg");
+}
+
+.blc-64 {
+    @include img-64("../src/icons/Blakecoin/64x64.jpg");
+}
+
+.max-64 {
+    @include img-64("../src/icons/MaxCoin/64x64.jpg");
+}
+
+.q2c-64 {
+    @include img-64("../src/icons/QubitCoin/64x64.jpg");
+}
+
+.huc-64 {
+    @include img-64("../src/icons/HunterCoin/64x64.jpg");
+}
+
+.dash-64 {
+    @include img-64("../src/icons/Dash/64x64.jpg");
+}
+
+.xcp-64 {
+    @include img-64("../src/icons/Counterparty/64x64.jpg");
+}
+
+.cach-64 {
+    @include img-64("../src/icons/CacheCoin/64x64.jpg");
+}
+
+.icn-64 {
+    @include img-64("../src/icons/iCoin/64x64.jpg");
+}
+
+.mint-64 {
+    @include img-64("../src/icons/Mintcoin/64x64.jpg");
+}
+
+.ari-64 {
+    @include img-64("../src/icons/Aricoin/64x64.jpg");
+}
+
+.dope-64 {
+    @include img-64("../src/icons/DopeCoin/64x64.jpg");
+}
+
+.aur-64 {
+    @include img-64("../src/icons/Auroracoin/64x64.jpg");
+}
+
+.ani-64 {
+    @include img-64("../src/icons/Animecoin/64x64.jpg");
+}
+
+.ptc-64 {
+    @include img-64("../src/icons/Pesetacoin/64x64.jpg");
+}
+
+.mars-64 {
+    @include img-64("../src/icons/Marscoin/64x64.jpg");
+}
+
+.cash-64 {
+    @include img-64("../src/icons/Cashcoin/64x64.jpg");
+}
+
+.ric-64 {
+    @include img-64("../src/icons/Riecoin/64x64.jpg");
+}
+
+.pnd-64 {
+    @include img-64("../src/icons/Pandacoin/64x64.jpg");
+}
+
+.maza-64 {
+    @include img-64("../src/icons/MAZA/64x64.jpg");
+}
+
+.ufo-64 {
+    @include img-64("../src/icons/UniformFiscalObject/64x64.jpg");
+}
+
+.blk-64 {
+    @include img-64("../src/icons/BlackCoin/64x64.jpg");
+}
+
+.ltb-64 {
+    @include img-64("../src/icons/LiteBar/64x64.jpg");
+}
+
+.pho-64 {
+    @include img-64("../src/icons/Photon/64x64.jpg");
+}
+
+.zeit-64 {
+    @include img-64("../src/icons/Zeitcoin/64x64.jpg");
+}
+
+.xmy-64 {
+    @include img-64("../src/icons/Myriad/64x64.jpg");
+}
+
+.note-64 {
+    @include img-64("../src/icons/DNotes/64x64.jpg");
+}
+
+.skc-64 {
+    @include img-64("../src/icons/Skeincoin/64x64.jpg");
+}
+
+.emc2-64 {
+    @include img-64("../src/icons/Einsteinium/64x64.jpg");
+}
+
+.btcs-64 {
+    @include img-64("../src/icons/BitcoinScrypt/64x64.jpg");
+}
+
+.ecc-64 {
+    @include img-64("../src/icons/ECC/64x64.jpg");
+}
+
+.mona-64 {
+    @include img-64("../src/icons/MonaCoin/64x64.jpg");
+}
+
+.rby-64 {
+    @include img-64("../src/icons/Rubycoin/64x64.jpg");
+}
+
+.bela-64 {
+    @include img-64("../src/icons/Bela/64x64.jpg");
+}
+
+.flt-64 {
+    @include img-64("../src/icons/FlutterCoin/64x64.jpg");
+}
+
+.e88-64 {
+    @include img-64("../src/icons/OctoCoin/64x64.jpg");
+}
+
+.fair-64 {
+    @include img-64("../src/icons/FairCoin/64x64.jpg");
+}
+
+.slr-64 {
+    @include img-64("../src/icons/SolarCoin/64x64.jpg");
+}
+
+.efl-64 {
+    @include img-64("../src/icons/e-Gulden/64x64.jpg");
+}
+
+.nlg-64 {
+    @include img-64("../src/icons/Gulden/64x64.jpg");
+}
+
+.plc-64 {
+    @include img-64("../src/icons/Polcoin/64x64.jpg");
+}
+
+.grs-64 {
+    @include img-64("../src/icons/Groestlcoin/64x64.jpg");
+}
+
+.xpd-64 {
+    @include img-64("../src/icons/PetroDollar/64x64.jpg");
+}
+
+.xwc-64 {
+    @include img-64("../src/icons/WhiteCoin/64x64.jpg");
+}
+
+.ac-64 {
+    @include img-64("../src/icons/AsiaCoin/64x64.jpg");
+}
+
+.pop-64 {
+    @include img-64("../src/icons/PopularCoin/64x64.jpg");
+}
+
+.bits-64 {
+    @include img-64("../src/icons/Bitstar/64x64.jpg");
+}
+
+.qbc-64 {
+    @include img-64("../src/icons/Quebecoin/64x64.jpg");
+}
+
+.ccn-64 {
+    @include img-64("../src/icons/CannaCoin/64x64.jpg");
+}
+
+.sloth-64 {
+    @include img-64("../src/icons/Slothcoin/64x64.jpg");
+}
+
+.blu-64 {
+    @include img-64("../src/icons/BlueCoin/64x64.jpg");
+}
+
+.maid-64 {
+    @include img-64("../src/icons/MaidSafeCoin/64x64.jpg");
+}
+
+.xbc-64 {
+    @include img-64("../src/icons/BitcoinPlus/64x64.jpg");
+}
+
+.nyc-64 {
+    @include img-64("../src/icons/NewYorkCoin/64x64.jpg");
+}
+
+.cdn-64 {
+    @include img-64("../src/icons/CanadaeCoin/64x64.jpg");
+}
+
+.gun-64 {
+    @include img-64("../src/icons/Guncoin/64x64.jpg");
+}
+
+.pink-64 {
+    @include img-64("../src/icons/PinkCoin/64x64.jpg");
+}
+
+.enrg-64 {
+    @include img-64("../src/icons/Energycoin/64x64.jpg");
+}
+
+.vrc-64 {
+    @include img-64("../src/icons/VeriCoin/64x64.jpg");
+}
+
+.xmr-64 {
+    @include img-64("../src/icons/Monero/64x64.jpg");
+}
+
+.lcp-64 {
+    @include img-64("../src/icons/LitecoinPlus/64x64.jpg");
+}
+
+.cure-64 {
+    @include img-64("../src/icons/Curecoin/64x64.jpg");
+}
+
+.unb-64 {
+    @include img-64("../src/icons/UnbreakableCoin/64x64.jpg");
+}
+
+.crypt-64 {
+    @include img-64("../src/icons/CryptCoin/64x64.jpg");
+}
+
+.super-64 {
+    @include img-64("../src/icons/SuperCoin/64x64.jpg");
+}
+
+.bost-64 {
+    @include img-64("../src/icons/BoostCoin/64x64.jpg");
+}
+
+.hyper-64 {
+    @include img-64("../src/icons/Hyper/64x64.jpg");
+}
+
+.moto-64 {
+    @include img-64("../src/icons/Motocoin/64x64.jpg");
+}
+
+.cloak-64 {
+    @include img-64("../src/icons/CloakCoin/64x64.jpg");
+}
+
+.bsd-64 {
+    @include img-64("../src/icons/BitSend/64x64.jpg");
+}
+
+.c2-64 {
+    @include img-64("../src/icons/Coin2.1/64x64.jpg");
+}
+
+.fcn-64 {
+    @include img-64("../src/icons/Fantomcoin/64x64.jpg");
+}
+
+.bcn-64 {
+    @include img-64("../src/icons/Bytecoin/64x64.jpg");
+}
+
+.aby-64 {
+    @include img-64("../src/icons/ArtByte/64x64.jpg");
+}
+
+.nav-64 {
+    @include img-64("../src/icons/NavCoin/64x64.jpg");
+}
+
+.grn-64 {
+    @include img-64("../src/icons/Granite/64x64.jpg");
+}
+
+.don-64 {
+    @include img-64("../src/icons/Donationcoin/64x64.jpg");
+}
+
+.piggy-64 {
+    @include img-64("../src/icons/Piggycoin/64x64.jpg");
+}
+
+.start-64 {
+    @include img-64("../src/icons/Startcoin/64x64.jpg");
+}
+
+.kore-64 {
+    @include img-64("../src/icons/Kore/64x64.jpg");
+}
+
+.xdn-64 {
+    @include img-64("../src/icons/DigitalNote/64x64.jpg");
+}
+
+.bbr-64 {
+    @include img-64("../src/icons/Boolberry/64x64.jpg");
+}
+
+.sha-64 {
+    @include img-64("../src/icons/SHACoin/64x64.jpg");
+}
+
+.blz-64 {
+    @include img-64("../src/icons/BlazeCoin/64x64.jpg");
+}
+
+.thc-64 {
+    @include img-64("../src/icons/HempCoin/64x64.jpg");
+}
+
+.brit-64 {
+    @include img-64("../src/icons/BritCoin/64x64.jpg");
+}
+
+.xst-64 {
+    @include img-64("../src/icons/Stealth/64x64.jpg");
+}
+
+.clam-64 {
+    @include img-64("../src/icons/Clams/64x64.jpg");
+}
+
+.bts-64 {
+    @include img-64("../src/icons/BitShares/64x64.jpg");
+}
+
+.btcd-64 {
+    @include img-64("../src/icons/BitcoinDark/64x64.jpg");
+}
+
+.via-64 {
+    @include img-64("../src/icons/Viacoin/64x64.jpg");
+}
+
+.tri-64 {
+    @include img-64("../src/icons/Triangles/64x64.jpg");
+}
+
+.xcn-64 {
+    @include img-64("../src/icons/Cryptonite/64x64.jpg");
+}
+
+.carbon-64 {
+    @include img-64("../src/icons/Carboncoin/64x64.jpg");
+}
+
+.cann-64 {
+    @include img-64("../src/icons/CannabisCoin/64x64.jpg");
+}
+
+.xlm-64 {
+    @include img-64("../src/icons/Stellar/64x64.jpg");
+}
+
+.tit-64 {
+    @include img-64("../src/icons/Titcoin/64x64.jpg");
+}
+
+.vta-64 {
+    @include img-64("../src/icons/Virtacoin/64x64.jpg");
+}
+
+.hyp-64 {
+    @include img-64("../src/icons/HyperStake/64x64.jpg");
+}
+
+.j-64 {
+    @include img-64("../src/icons/Joincoin/64x64.jpg");
+}
+
+.sys-64 {
+    @include img-64("../src/icons/Syscoin/64x64.jpg");
+}
+
+.btm-64 {
+    @include img-64("../src/icons/Bitmark/64x64.jpg");
+}
+
+.hal-64 {
+    @include img-64("../src/icons/Halcyon/64x64.jpg");
+}
+
+.sjcx-64 {
+    @include img-64("../src/icons/StorjcoinX/64x64.jpg");
+}
+
+.neos-64 {
+    @include img-64("../src/icons/NeosCoin/64x64.jpg");
+}
+
+.emc-64 {
+    @include img-64("../src/icons/Emercoin/64x64.jpg");
+}
+
+.rbbt-64 {
+    @include img-64("../src/icons/RabbitCoin/64x64.jpg");
+}
+
+.burst-64 {
+    @include img-64("../src/icons/Burst/64x64.jpg");
+}
+
+.game-64 {
+    @include img-64("../src/icons/GameCredits/64x64.jpg");
+}
+
+.ubq-64 {
+    @include img-64("../src/icons/Ubiq/64x64.jpg");
+}
+
+.bun-64 {
+    @include img-64("../src/icons/BunnyCoin/64x64.jpg");
+}
+
+.acoin-64 {
+    @include img-64("../src/icons/Acoin/64x64.jpg");
+}
+
+.fldc-64 {
+    @include img-64("../src/icons/FoldingCoin/64x64.jpg");
+}
+
+.bitcny-64 {
+    @include img-64("../src/icons/bitCNY/64x64.jpg");
+}
+
+.usnbt-64 {
+    @include img-64("../src/icons/NuBits/64x64.jpg");
+}
+
+.slg-64 {
+    @include img-64("../src/icons/Sterlingcoin/64x64.jpg");
+}
+
+.xmg-64 {
+    @include img-64("../src/icons/Magi/64x64.jpg");
+}
+
+.excl-64 {
+    @include img-64("../src/icons/ExclusiveCoin/64x64.jpg");
+}
+
+.troll-64 {
+    @include img-64("../src/icons/Trollcoin/64x64.jpg");
+}
+
+.unity-64 {
+    @include img-64("../src/icons/SuperNET/64x64.jpg");
+}
+
+.dp-64 {
+    @include img-64("../src/icons/DigitalPrice/64x64.jpg");
+}
+
+.bits-64 {
+    @include img-64("../src/icons/Bitswift/64x64.jpg");
+}
+
+.dsh-64 {
+    @include img-64("../src/icons/Dashcoin/64x64.jpg");
+}
+
+.au-64 {
+    @include img-64("../src/icons/AurumCoin/64x64.jpg");
+}
+
+.stv-64 {
+    @include img-64("../src/icons/Sativacoin/64x64.jpg");
+}
+
+.xvg-64 {
+    @include img-64("../src/icons/Verge/64x64.jpg");
+}
+
+.nsr-64 {
+    @include img-64("../src/icons/NuShares/64x64.jpg");
+}
+
+.spr-64 {
+    @include img-64("../src/icons/SpreadCoin/64x64.jpg");
+}
+
+.rbt-64 {
+    @include img-64("../src/icons/Rimbit/64x64.jpg");
+}
+
+.mue-64 {
+    @include img-64("../src/icons/MonetaryUnit/64x64.jpg");
+}
+
+.block-64 {
+    @include img-64("../src/icons/Blocknet/64x64.jpg");
+}
+
+.ttc-64 {
+    @include img-64("../src/icons/TittieCoin/64x64.jpg");
+}
+
+.crw-64 {
+    @include img-64("../src/icons/Crown/64x64.jpg");
+}
+
+.bay-64 {
+    @include img-64("../src/icons/BitBay/64x64.jpg");
+}
+
+.gcn-64 {
+    @include img-64("../src/icons/GCNCoin/64x64.jpg");
+}
+
+.xqn-64 {
+    @include img-64("../src/icons/Quotient/64x64.jpg");
+}
+
+.bcf-64 {
+    @include img-64("../src/icons/BitcoinFast/64x64.jpg");
+}
+
+.ok-64 {
+    @include img-64("../src/icons/OKCash/64x64.jpg");
+}
+
+.uis-64 {
+    @include img-64("../src/icons/Unitus/64x64.jpg");
+}
+
+.coval-64 {
+    @include img-64("../src/icons/CircuitsofValue/64x64.jpg");
+}
+
+.nxs-64 {
+    @include img-64("../src/icons/Nexus/64x64.jpg");
+}
+
+.nka-64 {
+    @include img-64("../src/icons/IncaKoin/64x64.jpg");
+}
+
+.smly-64 {
+    @include img-64("../src/icons/SmileyCoin/64x64.jpg");
+}
+
+.mac-64 {
+    @include img-64("../src/icons/Machinecoin/64x64.jpg");
+}
+
+.dot-64 {
+    @include img-64("../src/icons/Dotcoin/64x64.jpg");
+}
+
+.bitb-64 {
+    @include img-64("../src/icons/BeanCash/64x64.jpg");
+}
+
+.geo-64 {
+    @include img-64("../src/icons/GeoCoin/64x64.jpg");
+}
+
+.usdt-64 {
+    @include img-64("../src/icons/Tether/64x64.jpg");
+}
+
+.wbb-64 {
+    @include img-64("../src/icons/WildBeastBlock/64x64.jpg");
+}
+
+.grc-64 {
+    @include img-64("../src/icons/GridCoin/64x64.jpg");
+}
+
+.xvc-64 {
+    @include img-64("../src/icons/Vcash/64x64.jpg");
+}
+
+.ldoge-64 {
+    @include img-64("../src/icons/LiteDoge/64x64.jpg");
+}
+
+.crave-64 {
+    @include img-64("../src/icons/Crave/64x64.jpg");
+}
+
+.pura-64 {
+    @include img-64("../src/icons/Pura/64x64.jpg");
+}
+
+.xem-64 {
+    @include img-64("../src/icons/NEM/64x64.jpg");
+}
+
+.ebit-64 {
+    @include img-64("../src/icons/8Bit/64x64.jpg");
+}
+
+.lea-64 {
+    @include img-64("../src/icons/LeaCoin/64x64.jpg");
+}
+
+.ntrn-64 {
+    @include img-64("../src/icons/Neutron/64x64.jpg");
+}
+
+.xaur-64 {
+    @include img-64("../src/icons/Xaurum/64x64.jpg");
+}
+
+.cf-64 {
+    @include img-64("../src/icons/Californium/64x64.jpg");
+}
+
+.aib-64 {
+    @include img-64("../src/icons/AdvancedInternetBlocks/64x64.jpg");
+}
+
+.sphr-64 {
+    @include img-64("../src/icons/Sphere/64x64.jpg");
+}
+
+.medic-64 {
+    @include img-64("../src/icons/MedicCoin/64x64.jpg");
+}
+
+.bub-64 {
+    @include img-64("../src/icons/Bubble/64x64.jpg");
+}
+
+.muse-64 {
+    @include img-64("../src/icons/MUSE/64x64.jpg");
+}
+
+.unit-64 {
+    @include img-64("../src/icons/UniversalCurrency/64x64.jpg");
+}
+
+.shell-64 {
+    @include img-64("../src/icons/ShellCoin/64x64.jpg");
+}
+
+.arb-64 {
+    @include img-64("../src/icons/ARbit/64x64.jpg");
+}
+
+.gam-64 {
+    @include img-64("../src/icons/Gambit/64x64.jpg");
+}
+
+.bta-64 {
+    @include img-64("../src/icons/Bata/64x64.jpg");
+}
+
+.adc-64 {
+    @include img-64("../src/icons/AudioCoin/64x64.jpg");
+}
+
+.fjc-64 {
+    @include img-64("../src/icons/FujiCoin/64x64.jpg");
+}
+
+.erc-64 {
+    @include img-64("../src/icons/EuropeCoin/64x64.jpg");
+}
+
+.hxx-64 {
+    @include img-64("../src/icons/Hexx/64x64.jpg");
+}
+
+.xra-64 {
+    @include img-64("../src/icons/Ratecoin/64x64.jpg");
+}
+
+.irl-64 {
+    @include img-64("../src/icons/IrishCoin/64x64.jpg");
+}
+
+.zny-64 {
+    @include img-64("../src/icons/Bitzeny/64x64.jpg");
+}
+
+.acp-64 {
+    @include img-64("../src/icons/AnarchistsPrime/64x64.jpg");
+}
+
+.cpn-64 {
+    @include img-64("../src/icons/CompuCoin/64x64.jpg");
+}
+
+.chc-64 {
+    @include img-64("../src/icons/ChainCoin/64x64.jpg");
+}
+
+.sprts-64 {
+    @include img-64("../src/icons/Sprouts/64x64.jpg");
+}
+
+.hnc-64 {
+    @include img-64("../src/icons/Helleniccoin/64x64.jpg");
+}
+
+.cpc-64 {
+    @include img-64("../src/icons/Capricoin/64x64.jpg");
+}
+
+.manna-64 {
+    @include img-64("../src/icons/Manna/64x64.jpg");
+}
+
+.leo-64 {
+    @include img-64("../src/icons/LEOcoin/64x64.jpg");
+}
+
+.aeon-64 {
+    @include img-64("../src/icons/Aeon/64x64.jpg");
+}
+
+.eth-64 {
+    @include img-64("../src/icons/Ethereum/64x64.jpg");
+}
+
+.sjw-64 {
+    @include img-64("../src/icons/SJWCoin/64x64.jpg");
+}
+
+.tx-64 {
+    @include img-64("../src/icons/TransferCoin/64x64.jpg");
+}
+
+.gcc-64 {
+    @include img-64("../src/icons/GuccioneCoin/64x64.jpg");
+}
+
+.ams-64 {
+    @include img-64("../src/icons/AmsterdamCoin/64x64.jpg");
+}
+
+.euc-64 {
+    @include img-64("../src/icons/Eurocoin/64x64.jpg");
+}
+
+.sc-64 {
+    @include img-64("../src/icons/Siacoin/64x64.jpg");
+}
+
+.gcr-64 {
+    @include img-64("../src/icons/GlobalCurrencyReserve/64x64.jpg");
+}
+
+.shift-64 {
+    @include img-64("../src/icons/Shift/64x64.jpg");
+}
+
+.vec2-64 {
+    @include img-64("../src/icons/VectorAI/64x64.jpg");
+}
+
+.boli-64 {
+    @include img-64("../src/icons/Bolivarcoin/64x64.jpg");
+}
+
+.bcy-64 {
+    @include img-64("../src/icons/Bitcrystals/64x64.jpg");
+}
+
+.pak-64 {
+    @include img-64("../src/icons/Pakcoin/64x64.jpg");
+}
+
+.exp-64 {
+    @include img-64("../src/icons/Expanse/64x64.jpg");
+}
+
+.sib-64 {
+    @include img-64("../src/icons/SIBCoin/64x64.jpg");
+}
+
+.fct-64 {
+    @include img-64("../src/icons/Factom/64x64.jpg");
+}
+
+.pr-64 {
+    @include img-64("../src/icons/Prototanium/64x64.jpg");
+}
+
+.rep-64 {
+    @include img-64("../src/icons/Augur/64x64.jpg");
+}
+
+.shnd-64 {
+    @include img-64("../src/icons/StrongHands/64x64.jpg");
+}
+
+.pac-64 {
+    @include img-64("../src/icons/PACcoin/64x64.jpg");
+}
+
+.leet-64 {
+    @include img-64("../src/icons/Elite/64x64.jpg");
+}
+
+.soil-64 {
+    @include img-64("../src/icons/SOILcoin/64x64.jpg");
+}
+
+.dft-64 {
+    @include img-64("../src/icons/DraftCoin/64x64.jpg");
+}
+
+.amp-64 {
+    @include img-64("../src/icons/Synereo/64x64.jpg");
+}
+
+.club-64 {
+    @include img-64("../src/icons/ClubCoin/64x64.jpg");
+}
+
+.adz-64 {
+    @include img-64("../src/icons/Adzcoin/64x64.jpg");
+}
+
+.rc-64 {
+    @include img-64("../src/icons/RussiaCoin/64x64.jpg");
+}
+
+.egc-64 {
+    @include img-64("../src/icons/EverGreenCoin/64x64.jpg");
+}
+
+.crb-64 {
+    @include img-64("../src/icons/Creditbit/64x64.jpg");
+}
+
+.rads-64 {
+    @include img-64("../src/icons/Radium/64x64.jpg");
+}
+
+.yoc-64 {
+    @include img-64("../src/icons/Yocoin/64x64.jpg");
+}
+
+.sls-64 {
+    @include img-64("../src/icons/SaluS/64x64.jpg");
+}
+
+.frn-64 {
+    @include img-64("../src/icons/Francs/64x64.jpg");
+}
+
+.dcr-64 {
+    @include img-64("../src/icons/Decred/64x64.jpg");
+}
+
+.pivx-64 {
+    @include img-64("../src/icons/PIVX/64x64.jpg");
+}
+
+.safex-64 {
+    @include img-64("../src/icons/SafeExchangeCoin/64x64.jpg");
+}
+
+.trump-64 {
+    @include img-64("../src/icons/TrumpCoin/64x64.jpg");
+}
+
+.xct-64 {
+    @include img-64("../src/icons/C-Bit/64x64.jpg");
+}
+
+.hodl-64 {
+    @include img-64("../src/icons/HOdlcoin/64x64.jpg");
+}
+
+.neva-64 {
+    @include img-64("../src/icons/NevaCoin/64x64.jpg");
+}
+
+.rvr-64 {
+    @include img-64("../src/icons/RevolutionVR/64x64.jpg");
+}
+
+.mojo-64 {
+    @include img-64("../src/icons/MojoCoin/64x64.jpg");
+}
+
+.lsk-64 {
+    @include img-64("../src/icons/Lisk/64x64.jpg");
+}
+
+.edrc-64 {
+    @include img-64("../src/icons/EDRCoin/64x64.jpg");
+}
+
+.post-64 {
+    @include img-64("../src/icons/PostCoin/64x64.jpg");
+}
+
+.qwark-64 {
+    @include img-64("../src/icons/Qwark/64x64.jpg");
+}
+
+.dgd-64 {
+    @include img-64("../src/icons/DigixDAO/64x64.jpg");
+}
+
+.steem-64 {
+    @include img-64("../src/icons/Steem/64x64.jpg");
+}
+
+.fans-64 {
+    @include img-64("../src/icons/FantasyCash/64x64.jpg");
+}
+
+.esp-64 {
+    @include img-64("../src/icons/Espers/64x64.jpg");
+}
+
+.xhi-64 {
+    @include img-64("../src/icons/HiCoin/64x64.jpg");
+}
+
+.el-64 {
+    @include img-64("../src/icons/Elcoin/64x64.jpg");
+}
+
+.zur-64 {
+    @include img-64("../src/icons/Zurcoin/64x64.jpg");
+}
+
+.s11-64 {
+    @include img-64("../src/icons/SixEleven/64x64.jpg");
+}
+
+.tgive-64 {
+    @include img-64("../src/icons/2GIVE/64x64.jpg");
+}
+
+.abc-64 {
+    @include img-64("../src/icons/Alphabit/64x64.jpg");
+}
+
+.tesla-64 {
+    @include img-64("../src/icons/TeslaCoilCoin/64x64.jpg");
+}
+
+.mxt-64 {
+    @include img-64("../src/icons/MarteXcoin/64x64.jpg");
+}
+
+.nlx-64 {
+    @include img-64("../src/icons/Nullex/64x64.jpg");
+}
+
+.waves-64 {
+    @include img-64("../src/icons/Waves/64x64.jpg");
+}
+
+.icoo-64 {
+    @include img-64("../src/icons/ICOOpenLedger/64x64.jpg");
+}
+
+.pwr-64 {
+    @include img-64("../src/icons/Powercoin/64x64.jpg");
+}
+
+.ion-64 {
+    @include img-64("../src/icons/ION/64x64.jpg");
+}
+
+.xre-64 {
+    @include img-64("../src/icons/RevolverCoin/64x64.jpg");
+}
+
+.brk-64 {
+    @include img-64("../src/icons/Breakout/64x64.jpg");
+}
+
+.dbtc-64 {
+    @include img-64("../src/icons/Debitcoin/64x64.jpg");
+}
+
+.cmt-64 {
+    @include img-64("../src/icons/Comet/64x64.jpg");
+}
+
+.rise-64 {
+    @include img-64("../src/icons/Rise/64x64.jpg");
+}
+
+.chess-64 {
+    @include img-64("../src/icons/ChessCoin/64x64.jpg");
+}
+
+.lbc-64 {
+    @include img-64("../src/icons/LBRYCredits/64x64.jpg");
+}
+
+.put-64 {
+    @include img-64("../src/icons/PutinCoin/64x64.jpg");
+}
+
+.brx-64 {
+    @include img-64("../src/icons/BreakoutStake/64x64.jpg");
+}
+
+.synx-64 {
+    @include img-64("../src/icons/Syndicate/64x64.jpg");
+}
+
+.heat-64 {
+    @include img-64("../src/icons/HEAT/64x64.jpg");
+}
+
+.sbd-64 {
+    @include img-64("../src/icons/SteemDollars/64x64.jpg");
+}
+
+.ardr-64 {
+    @include img-64("../src/icons/Ardor/64x64.jpg");
+}
+
+.etc-64 {
+    @include img-64("../src/icons/EthereumClassic/64x64.jpg");
+}
+
+.bit-64 {
+    @include img-64("../src/icons/FirstBitcoin/64x64.jpg");
+}
+
+.ele-64 {
+    @include img-64("../src/icons/Elementrem/64x64.jpg");
+}
+
+.krb-64 {
+    @include img-64("../src/icons/Karbo/64x64.jpg");
+}
+
+.vprc-64 {
+    @include img-64("../src/icons/VapersCoin/64x64.jpg");
+}
+
+.strat-64 {
+    @include img-64("../src/icons/Stratis/64x64.jpg");
+}
+
+.taj-64 {
+    @include img-64("../src/icons/TajCoin/64x64.jpg");
+}
+
+.edr-64 {
+    @include img-64("../src/icons/E-DinarCoin/64x64.jpg");
+}
+
+.atx-64 {
+    @include img-64("../src/icons/ArtexCoin/64x64.jpg");
+}
+
+.xp-64 {
+    @include img-64("../src/icons/ExperiencePoints/64x64.jpg");
+}
+
+.vlt-64 {
+    @include img-64("../src/icons/Veltor/64x64.jpg");
+}
+
+.kb3-64 {
+    @include img-64("../src/icons/B3Coin/64x64.jpg");
+}
+
+.golf-64 {
+    @include img-64("../src/icons/Golfcoin/64x64.jpg");
+}
+
+.neo-64 {
+    @include img-64("../src/icons/NEO/64x64.jpg");
+}
+
+.lmc-64 {
+    @include img-64("../src/icons/LoMoCoin/64x64.jpg");
+}
+
+.btdx-64 {
+    @include img-64("../src/icons/Bitcloud/64x64.jpg");
+}
+
+.nlc2-64 {
+    @include img-64("../src/icons/NoLimitCoin/64x64.jpg");
+}
+
+.vrm-64 {
+    @include img-64("../src/icons/VeriumReserve/64x64.jpg");
+}
+
+.jin-64 {
+    @include img-64("../src/icons/JinCoin/64x64.jpg");
+}
+
+.xto-64 {
+    @include img-64("../src/icons/Tao/64x64.jpg");
+}
+
+.plu-64 {
+    @include img-64("../src/icons/Pluton/64x64.jpg");
+}
+
+.proud-64 {
+    @include img-64("../src/icons/PROUDMoney/64x64.jpg");
+}
+
+.seq-64 {
+    @include img-64("../src/icons/Sequence/64x64.jpg");
+}
+
+.fst-64 {
+    @include img-64("../src/icons/FirstBlood/64x64.jpg");
+}
+
+.pepecash-64 {
+    @include img-64("../src/icons/PepeCash/64x64.jpg");
+}
+
+.icn-64 {
+    @include img-64("../src/icons/Iconomi/64x64.jpg");
+}
+
+.sngls-64 {
+    @include img-64("../src/icons/SingularDTV/64x64.jpg");
+}
+
+.xzc-64 {
+    @include img-64("../src/icons/ZCoin/64x64.jpg");
+}
+
+.rcn-64 {
+    @include img-64("../src/icons/Rcoin/64x64.jpg");
+}
+
+.trig-64 {
+    @include img-64("../src/icons/Triggers/64x64.jpg");
+}
+
+.skr-64 {
+    @include img-64("../src/icons/Sakuracoin/64x64.jpg");
+}
+
+.levo-64 {
+    @include img-64("../src/icons/Levocoin/64x64.jpg");
+}
+
+.arc-64 {
+    @include img-64("../src/icons/AdvancedTechnologyCoin/64x64.jpg");
+}
+
+.qbt-64 {
+    @include img-64("../src/icons/Cubits/64x64.jpg");
+}
+
+.dmc-64 {
+    @include img-64("../src/icons/DynamicCoin/64x64.jpg");
+}
+
+.zec-64 {
+    @include img-64("../src/icons/Zcash/64x64.jpg");
+}
+
+.asafe2-64 {
+    @include img-64("../src/icons/AllSafe/64x64.jpg");
+}
+
+.zcl-64 {
+    @include img-64("../src/icons/ZClassic/64x64.jpg");
+}
+
+.zoi-64 {
+    @include img-64("../src/icons/Zoin/64x64.jpg");
+}
+
+.lkk-64 {
+    @include img-64("../src/icons/Lykke/64x64.jpg");
+}
+
+.gnt-64 {
+    @include img-64("../src/icons/Golem/64x64.jpg");
+}
+
+.zmc-64 {
+    @include img-64("../src/icons/ZetaMicron/64x64.jpg");
+}
+
+.btcr-64 {
+    @include img-64("../src/icons/Bitcurrency/64x64.jpg");
+}
+
+.rega-64 {
+    @include img-64("../src/icons/Regacoin/64x64.jpg");
+}
+
+.iop-64 {
+    @include img-64("../src/icons/InternetofPeople/64x64.jpg");
+}
+
+.vrs-64 {
+    @include img-64("../src/icons/Veros/64x64.jpg");
+}
+
+.hush-64 {
+    @include img-64("../src/icons/Hush/64x64.jpg");
+}
+
+.kurt-64 {
+    @include img-64("../src/icons/Kurrent/64x64.jpg");
+}
+
+.xcre-64 {
+    @include img-64("../src/icons/Creatio/64x64.jpg");
+}
+
+.xrc-64 {
+    @include img-64("../src/icons/Rawcoin/64x64.jpg");
+}
+
+.pasc-64 {
+    @include img-64("../src/icons/PascalCoin/64x64.jpg");
+}
+
+.ent-64 {
+    @include img-64("../src/icons/Eternity/64x64.jpg");
+}
+
+.incnt-64 {
+    @include img-64("../src/icons/Incent/64x64.jpg");
+}
+
+.dct-64 {
+    @include img-64("../src/icons/DECENT/64x64.jpg");
+}
+
+.golos-64 {
+    @include img-64("../src/icons/Golos/64x64.jpg");
+}
+
+.nxc-64 {
+    @include img-64("../src/icons/Nexium/64x64.jpg");
+}
+
+.vsl-64 {
+    @include img-64("../src/icons/vSlice/64x64.jpg");
+}
+
+.dollar-64 {
+    @include img-64("../src/icons/DollarOnline/64x64.jpg");
+}
+
+.vltc-64 {
+    @include img-64("../src/icons/VaultCoin/64x64.jpg");
+}
+
+.gbyte-64 {
+    @include img-64("../src/icons/ByteballBytes/64x64.jpg");
+}
+
+.posw-64 {
+    @include img-64("../src/icons/PoSWCoin/64x64.jpg");
+}
+
+.luna-64 {
+    @include img-64("../src/icons/LunaCoin/64x64.jpg");
+}
+
+.wings-64 {
+    @include img-64("../src/icons/Wings/64x64.jpg");
+}
+
+.dix-64 {
+    @include img-64("../src/icons/DixAsset/64x64.jpg");
+}
+
+.dar-64 {
+    @include img-64("../src/icons/Darcrus/64x64.jpg");
+}
+
+.iflt-64 {
+    @include img-64("../src/icons/InflationCoin/64x64.jpg");
+}
+
+.xspec-64 {
+    @include img-64("../src/icons/Spectrecoin/64x64.jpg");
+}
+
+.xstc-64 {
+    @include img-64("../src/icons/SafeTradeCoin/64x64.jpg");
+}
+
+.ccrb-64 {
+    @include img-64("../src/icons/CryptoCarbon/64x64.jpg");
+}
+
+.vidz-64 {
+    @include img-64("../src/icons/PureVidz/64x64.jpg");
+}
+
+.bcc-64 {
+    @include img-64("../src/icons/BitConnect/64x64.jpg");
+}
+
+.mkr-64 {
+    @include img-64("../src/icons/Maker/64x64.jpg");
+}
+
+.drs-64 {
+    @include img-64("../src/icons/DigitalRupees/64x64.jpg");
+}
+
+.kmd-64 {
+    @include img-64("../src/icons/Komodo/64x64.jpg");
+}
+
+.frst-64 {
+    @include img-64("../src/icons/FirstCoin/64x64.jpg");
+}
+
+.tse-64 {
+    @include img-64("../src/icons/Tattoocoin(StandardEdition)/64x64.jpg");
+}
+
+.wct-64 {
+    @include img-64("../src/icons/WavesCommunityToken/64x64.jpg");
+}
+
+.icon-64 {
+    @include img-64("../src/icons/Iconic/64x64.jpg");
+}
+
+.gcc-64 {
+    @include img-64("../src/icons/GlobalCryptocurrency/64x64.jpg");
+}
+
+.boat-64 {
+    @include img-64("../src/icons/BOAT/64x64.jpg");
+}
+
+.ery-64 {
+    @include img-64("../src/icons/Eryllium/64x64.jpg");
+}
+
+.gbg-64 {
+    @include img-64("../src/icons/GolosGold/64x64.jpg");
+}
+
+.cnt-64 {
+    @include img-64("../src/icons/Centurion/64x64.jpg");
+}
+
+.mar-64 {
+    @include img-64("../src/icons/Marijuanacoin/64x64.jpg");
+}
+
+.mscn-64 {
+    @include img-64("../src/icons/MasterSwiscoin/64x64.jpg");
+}
+
+.mln-64 {
+    @include img-64("../src/icons/Melon/64x64.jpg");
+}
+
+.all-64 {
+    @include img-64("../src/icons/Allion/64x64.jpg");
+}
+
+.prc-64 {
+    @include img-64("../src/icons/PRCoin/64x64.jpg");
+}
+
+.time-64 {
+    @include img-64("../src/icons/Chronobank/64x64.jpg");
+}
+
+.argus-64 {
+    @include img-64("../src/icons/Argus/64x64.jpg");
+}
+
+.rns-64 {
+    @include img-64("../src/icons/Renos/64x64.jpg");
+}
+
+.ur-64 {
+    @include img-64("../src/icons/UR/64x64.jpg");
+}
+
+.swt-64 {
+    @include img-64("../src/icons/SwarmCity/64x64.jpg");
+}
+
+.pie-64 {
+    @include img-64("../src/icons/PIECoin/64x64.jpg");
+}
+
+.marx-64 {
+    @include img-64("../src/icons/MarxCoin/64x64.jpg");
+}
+
+.visio-64 {
+    @include img-64("../src/icons/Visio/64x64.jpg");
+}
+
+.nano-64 {
+    @include img-64("../src/icons/Nano/64x64.jpg");
+}
+
+.lvps-64 {
+    @include img-64("../src/icons/LevoPlus/64x64.jpg");
+}
+
+.geert-64 {
+    @include img-64("../src/icons/GeertCoin/64x64.jpg");
+}
+
+.pasl-64 {
+    @include img-64("../src/icons/PascalLite/64x64.jpg");
+}
+
+.milo-64 {
+    @include img-64("../src/icons/MiloCoin/64x64.jpg");
+}
+
+.music-64 {
+    @include img-64("../src/icons/Musicoin/64x64.jpg");
+}
+
+.zer-64 {
+    @include img-64("../src/icons/Zero/64x64.jpg");
+}
+
+.honey-64 {
+    @include img-64("../src/icons/Honey/64x64.jpg");
+}
+
+.netko-64 {
+    @include img-64("../src/icons/Netko/64x64.jpg");
+}
+
+.ark-64 {
+    @include img-64("../src/icons/Ark/64x64.jpg");
+}
+
+.dyn-64 {
+    @include img-64("../src/icons/Dynamic/64x64.jpg");
+}
+
+.tks-64 {
+    @include img-64("../src/icons/Tokes/64x64.jpg");
+}
+
+.mer-64 {
+    @include img-64("../src/icons/Mercury/64x64.jpg");
+}
+
+.taas-64 {
+    @include img-64("../src/icons/TaaS/64x64.jpg");
+}
+
+.soar-64 {
+    @include img-64("../src/icons/Soarcoin/64x64.jpg");
+}
+
+.edg-64 {
+    @include img-64("../src/icons/Edgeless/64x64.jpg");
+}
+
+.worm-64 {
+    @include img-64("../src/icons/HealthyWormCoin/64x64.jpg");
+}
+
+.dtb-64 {
+    @include img-64("../src/icons/Databits/64x64.jpg");
+}
+
+.uni-64 {
+    @include img-64("../src/icons/Universe/64x64.jpg");
+}
+
+.xlr-64 {
+    @include img-64("../src/icons/Solaris/64x64.jpg");
+}
+
+.imx-64 {
+    @include img-64("../src/icons/Impact/64x64.jpg");
+}
+
+.tstr-64 {
+    @include img-64("../src/icons/TristarCoin/64x64.jpg");
+}
+
+.xas-64 {
+    @include img-64("../src/icons/Asch/64x64.jpg");
+}
+
+.dbix-64 {
+    @include img-64("../src/icons/DubaiCoin/64x64.jpg");
+}
+
+.ked-64 {
+    @include img-64("../src/icons/Darsek/64x64.jpg");
+}
+
+.gup-64 {
+    @include img-64("../src/icons/Matchpool/64x64.jpg");
+}
+
+.usc-64 {
+    @include img-64("../src/icons/UltimateSecureCash/64x64.jpg");
+}
+
+.ecn-64 {
+    @include img-64("../src/icons/E-coin/64x64.jpg");
+}
+
+.sky-64 {
+    @include img-64("../src/icons/Skycoin/64x64.jpg");
+}
+
+.blazr-64 {
+    @include img-64("../src/icons/BlazerCoin/64x64.jpg");
+}
+
+.atmos-64 {
+    @include img-64("../src/icons/Atmos/64x64.jpg");
+}
+
+.emv-64 {
+    @include img-64("../src/icons/EthereumMovieVenture/64x64.jpg");
+}
+
+.inpay-64 {
+    @include img-64("../src/icons/InPay/64x64.jpg");
+}
+
+.hpc-64 {
+    @include img-64("../src/icons/Happycoin/64x64.jpg");
+}
+
+.zeni-64 {
+    @include img-64("../src/icons/Zennies/64x64.jpg");
+}
+
+.cxt-64 {
+    @include img-64("../src/icons/Coinonat/64x64.jpg");
+}
+
+.xot-64 {
+    @include img-64("../src/icons/InternetofThings/64x64.jpg");
+}
+
+.conx-64 {
+    @include img-64("../src/icons/Concoin/64x64.jpg");
+}
+
+.xby-64 {
+    @include img-64("../src/icons/XTRABYTES/64x64.jpg");
+}
+
+.rlc-64 {
+    @include img-64("../src/icons/iExecRLC/64x64.jpg");
+}
+
+.trst-64 {
+    @include img-64("../src/icons/WeTrust/64x64.jpg");
+}
+
+.deus-64 {
+    @include img-64("../src/icons/DeusCoin/64x64.jpg");
+}
+
+.alt-64 {
+    @include img-64("../src/icons/Altcoin/64x64.jpg");
+}
+
+.wgo-64 {
+    @include img-64("../src/icons/WavesGo/64x64.jpg");
+}
+
+.mcrn-64 {
+    @include img-64("../src/icons/MACRON/64x64.jpg");
+}
+
+.tle-64 {
+    @include img-64("../src/icons/Tattoocoin(LimitedEdition)/64x64.jpg");
+}
+
+.proc-64 {
+    @include img-64("../src/icons/ProCurrency/64x64.jpg");
+}
+
+.scs-64 {
+    @include img-64("../src/icons/SpeedCash/64x64.jpg");
+}
+
+.btx-64 {
+    @include img-64("../src/icons/Bitcore/64x64.jpg");
+}
+
+.volt-64 {
+    @include img-64("../src/icons/Bitvolt/64x64.jpg");
+}
+
+.lun-64 {
+    @include img-64("../src/icons/Lunyr/64x64.jpg");
+}
+
+.gno-64 {
+    @include img-64("../src/icons/Gnosis/64x64.jpg");
+}
+
+.rain-64 {
+    @include img-64("../src/icons/Condensate/64x64.jpg");
+}
+
+.gpl-64 {
+    @include img-64("../src/icons/GoldPressedLatinum/64x64.jpg");
+}
+
+.hmq-64 {
+    @include img-64("../src/icons/Humaniq/64x64.jpg");
+}
+
+.func-64 {
+    @include img-64("../src/icons/FUNCoin/64x64.jpg");
+}
+
+.iti-64 {
+    @include img-64("../src/icons/iTicoin/64x64.jpg");
+}
+
+.mne-64 {
+    @include img-64("../src/icons/Minereum/64x64.jpg");
+}
+
+.cnnc-64 {
+    @include img-64("../src/icons/Cannation/64x64.jpg");
+}
+
+.crea-64 {
+    @include img-64("../src/icons/Creativecoin/64x64.jpg");
+}
+
+.insn-64 {
+    @include img-64("../src/icons/InsaneCoin/64x64.jpg");
+}
+
+.hallo-64 {
+    @include img-64("../src/icons/HalloweenCoin/64x64.jpg");
+}
+
+.ant-64 {
+    @include img-64("../src/icons/Aragon/64x64.jpg");
+}
+
+.pzm-64 {
+    @include img-64("../src/icons/PRIZM/64x64.jpg");
+}
+
+.rlt-64 {
+    @include img-64("../src/icons/RouletteToken/64x64.jpg");
+}
+
+.qtum-64 {
+    @include img-64("../src/icons/Qtum/64x64.jpg");
+}
+
+.eco-64 {
+    @include img-64("../src/icons/EcoCoin/64x64.jpg");
+}
+
+.eqt-64 {
+    @include img-64("../src/icons/EquiTrader/64x64.jpg");
+}
+
+.dmb-64 {
+    @include img-64("../src/icons/DigitalMoneyBits/64x64.jpg");
+}
+
+.apx-64 {
+    @include img-64("../src/icons/APX/64x64.jpg");
+}
+
+.mcap-64 {
+    @include img-64("../src/icons/MCAP/64x64.jpg");
+}
+
+.nanox-64 {
+    @include img-64("../src/icons/Project-X/64x64.jpg");
+}
+
+.may-64 {
+    @include img-64("../src/icons/TheresaMayCoin/64x64.jpg");
+}
+
+.sumo-64 {
+    @include img-64("../src/icons/Sumokoin/64x64.jpg");
+}
+
+.zengold-64 {
+    @include img-64("../src/icons/ZenGold/64x64.jpg");
+}
+
+.bat-64 {
+    @include img-64("../src/icons/BasicAttentionToken/64x64.jpg");
+}
+
+.zen-64 {
+    @include img-64("../src/icons/ZenCash/64x64.jpg");
+}
+
+.etbs-64 {
+    @include img-64("../src/icons/Ethbits/64x64.jpg");
+}
+
+.ae-64 {
+    @include img-64("../src/icons/Aeternity/64x64.jpg");
+}
+
+.v-64 {
+    @include img-64("../src/icons/Version/64x64.jpg");
+}
+
+.etp-64 {
+    @include img-64("../src/icons/MetaverseETP/64x64.jpg");
+}
+
+.ebst-64 {
+    @include img-64("../src/icons/eBoost/64x64.jpg");
+}
+
+.adk-64 {
+    @include img-64("../src/icons/AidosKuneen/64x64.jpg");
+}
+
+.stex-64 {
+    @include img-64("../src/icons/STEX/64x64.jpg");
+}
+
+.ptoy-64 {
+    @include img-64("../src/icons/Patientory/64x64.jpg");
+}
+
+.qau-64 {
+    @include img-64("../src/icons/Quantum/64x64.jpg");
+}
+
+.veri-64 {
+    @include img-64("../src/icons/Veritaseum/64x64.jpg");
+}
+
+.eca-64 {
+    @include img-64("../src/icons/Electra/64x64.jpg");
+}
+
+.qrl-64 {
+    @include img-64("../src/icons/QuantumResistantLedger/64x64.jpg");
+}
+
+.ett-64 {
+    @include img-64("../src/icons/EncryptoTel[WAVES]/64x64.jpg");
+}
+
+.mgo-64 {
+    @include img-64("../src/icons/MobileGo/64x64.jpg");
+}
+
+.ammo-64 {
+    @include img-64("../src/icons/AmmoReloaded/64x64.jpg");
+}
+
+.nro-64 {
+    @include img-64("../src/icons/Neuro/64x64.jpg");
+}
+
+.ppy-64 {
+    @include img-64("../src/icons/Peerplays/64x64.jpg");
+}
+
+.miota-64 {
+    @include img-64("../src/icons/IOTA/64x64.jpg");
+}
+
+.myst-64 {
+    @include img-64("../src/icons/Mysterium/64x64.jpg");
+}
+
+.more-64 {
+    @include img-64("../src/icons/MoreCoin/64x64.jpg");
+}
+
+.snm-64 {
+    @include img-64("../src/icons/SONM/64x64.jpg");
+}
+
+.linx-64 {
+    @include img-64("../src/icons/Linx/64x64.jpg");
+}
+
+.zrc-64 {
+    @include img-64("../src/icons/ZrCoin/64x64.jpg");
+}
+
+.bnt-64 {
+    @include img-64("../src/icons/Bancor/64x64.jpg");
+}
+
+.cheap-64 {
+    @include img-64("../src/icons/Cheapcoin/64x64.jpg");
+}
+
+.cfi-64 {
+    @include img-64("../src/icons/Cofound.it/64x64.jpg");
+}
+
+.glt-64 {
+    @include img-64("../src/icons/GlobalToken/64x64.jpg");
+}
+
+.nmr-64 {
+    @include img-64("../src/icons/Numeraire/64x64.jpg");
+}
+
+.otx-64 {
+    @include img-64("../src/icons/Octanox/64x64.jpg");
+}
+
+.unify-64 {
+    @include img-64("../src/icons/Unify/64x64.jpg");
+}
+
+.xel-64 {
+    @include img-64("../src/icons/Elastic/64x64.jpg");
+}
+
+.coupe-64 {
+    @include img-64("../src/icons/Coupecoin/64x64.jpg");
+}
+
+.mrt-64 {
+    @include img-64("../src/icons/Miners'RewardToken/64x64.jpg");
+}
+
+.bitok-64 {
+    @include img-64("../src/icons/Bitok/64x64.jpg");
+}
+
+.hnc-64 {
+    @include img-64("../src/icons/Huncoin/64x64.jpg");
+}
+
+.knc-64 {
+    @include img-64("../src/icons/KingNCoin/64x64.jpg");
+}
+
+.dcy-64 {
+    @include img-64("../src/icons/Dinastycoin/64x64.jpg");
+}
+
+.xlc-64 {
+    @include img-64("../src/icons/Leviar/64x64.jpg");
+}
+
+.onx-64 {
+    @include img-64("../src/icons/Onix/64x64.jpg");
+}
+
+.btpl-64 {
+    @include img-64("../src/icons/BitcoinPlanet/64x64.jpg");
+}
+
+.gxs-64 {
+    @include img-64("../src/icons/GXChain/64x64.jpg");
+}
+
+.atcc-64 {
+    @include img-64("../src/icons/ATCCoin/64x64.jpg");
+}
+
+.good-64 {
+    @include img-64("../src/icons/Goodomy/64x64.jpg");
+}
+
+.antx-64 {
+    @include img-64("../src/icons/Antimatter/64x64.jpg");
+}
+
+.bro-64 {
+    @include img-64("../src/icons/Bitradio/64x64.jpg");
+}
+
+.flash-64 {
+    @include img-64("../src/icons/Flash/64x64.jpg");
+}
+
+.fun-64 {
+    @include img-64("../src/icons/FunFair/64x64.jpg");
+}
+
+.pay-64 {
+    @include img-64("../src/icons/TenX/64x64.jpg");
+}
+
+.snt-64 {
+    @include img-64("../src/icons/Status/64x64.jpg");
+}
+
+.chan-64 {
+    @include img-64("../src/icons/ChanCoin/64x64.jpg");
+}
+
+.efyt-64 {
+    @include img-64("../src/icons/Ergo/64x64.jpg");
+}
+
+.bria-64 {
+    @include img-64("../src/icons/BriaCoin/64x64.jpg");
+}
+
+.eos-64 {
+    @include img-64("../src/icons/EOS/64x64.jpg");
+}
+
+.turbo-64 {
+    @include img-64("../src/icons/TurboCoin/64x64.jpg");
+}
+
+.adx-64 {
+    @include img-64("../src/icons/AdEx/64x64.jpg");
+}
+
+.dnr-64 {
+    @include img-64("../src/icons/Denarius/64x64.jpg");
+}
+
+.storj-64 {
+    @include img-64("../src/icons/Storj/64x64.jpg");
+}
+
+.bnx-64 {
+    @include img-64("../src/icons/BnrtxCoin/64x64.jpg");
+}
+
+.socc-64 {
+    @include img-64("../src/icons/SocialCoin/64x64.jpg");
+}
+
+.adt-64 {
+    @include img-64("../src/icons/adToken/64x64.jpg");
+}
+
+.mco-64 {
+    @include img-64("../src/icons/MCO/64x64.jpg");
+}
+
+.ping-64 {
+    @include img-64("../src/icons/CryptoPing/64x64.jpg");
+}
+
+.uet-64 {
+    @include img-64("../src/icons/UselessEthereumToken/64x64.jpg");
+}
+
+.wgr-64 {
+    @include img-64("../src/icons/Wagerr/64x64.jpg");
+}
+
+.slevin-64 {
+    @include img-64("../src/icons/Slevin/64x64.jpg");
+}
+
+.ecob-64 {
+    @include img-64("../src/icons/Ecobit/64x64.jpg");
+}
+
+.unrc-64 {
+    @include img-64("../src/icons/UniversalRoyalCoin/64x64.jpg");
+}
+
+.plbt-64 {
+    @include img-64("../src/icons/Polybius/64x64.jpg");
+}
+
+.gas-64 {
+    @include img-64("../src/icons/Gas/64x64.jpg");
+}
+
+.snc-64 {
+    @include img-64("../src/icons/SunContract/64x64.jpg");
+}
+
+.jet-64 {
+    @include img-64("../src/icons/Jetcoin/64x64.jpg");
+}
+
+.mtl-64 {
+    @include img-64("../src/icons/Metal/64x64.jpg");
+}
+
+.ppt-64 {
+    @include img-64("../src/icons/Populous/64x64.jpg");
+}
+
+.women-64 {
+    @include img-64("../src/icons/WomenCoin/64x64.jpg");
+}
+
+.vuc-64 {
+    @include img-64("../src/icons/VirtaUniqueCoin/64x64.jpg");
+}
+
+.bdl-64 {
+    @include img-64("../src/icons/Bitdeal/64x64.jpg");
+}
+
+.xid-64 {
+    @include img-64("../src/icons/SphreAIR/64x64.jpg");
+}
+
+.rup-64 {
+    @include img-64("../src/icons/Rupee/64x64.jpg");
+}
+
+.gtc-64 {
+    @include img-64("../src/icons/GlobalTourCoin/64x64.jpg");
+}
+
+.pcn-64 {
+    @include img-64("../src/icons/PeepCoin/64x64.jpg");
+}
+
+.hero-64 {
+    @include img-64("../src/icons/SovereignHero/64x64.jpg");
+}
+
+.san-64 {
+    @include img-64("../src/icons/SantimentNetworkToken/64x64.jpg");
+}
+
+.omg-64 {
+    @include img-64("../src/icons/OmiseGO/64x64.jpg");
+}
+
+.cvcoin-64 {
+    @include img-64("../src/icons/CVCoin/64x64.jpg");
+}
+
+.nimictoken-64 {
+    @include img-64("../src/icons/NimiqExchangeToken/64x64.jpg");
+}
+
+.xrl-64 {
+    @include img-64("../src/icons/Rialto/64x64.jpg");
+}
+
+.linda-64 {
+    @include img-64("../src/icons/Linda/64x64.jpg");
+}
+
+.mbrs-64 {
+    @include img-64("../src/icons/Embers/64x64.jpg");
+}
+
+.cvc-64 {
+    @include img-64("../src/icons/Civic/64x64.jpg");
+}
+
+.ethos-64 {
+    @include img-64("../src/icons/Ethos/64x64.jpg");
+}
+
+.btwty-64 {
+    @include img-64("../src/icons/Bit20/64x64.jpg");
+}
+
+.sta-64 {
+    @include img-64("../src/icons/Starta/64x64.jpg");
+}
+
+.coal-64 {
+    @include img-64("../src/icons/BitCoal/64x64.jpg");
+}
+
+.lbtc-64 {
+    @include img-64("../src/icons/LiteBitcoin/64x64.jpg");
+}
+
+.part-64 {
+    @include img-64("../src/icons/Particl/64x64.jpg");
+}
+
+.smart-64 {
+    @include img-64("../src/icons/SmartCash/64x64.jpg");
+}
+
+.skin-64 {
+    @include img-64("../src/icons/SkinCoin/64x64.jpg");
+}
+
+.bch-64 {
+    @include img-64("../src/icons/BitcoinCash/64x64.jpg");
+}
+
+.hmc-64 {
+    @include img-64("../src/icons/HarmonyCoin/64x64.jpg");
+}
+
+.toa-64 {
+    @include img-64("../src/icons/ToaCoin/64x64.jpg");
+}
+
+.plr-64 {
+    @include img-64("../src/icons/Pillar/64x64.jpg");
+}
+
+.xry-64 {
+    @include img-64("../src/icons/Royalties/64x64.jpg");
+}
+
+.sigt-64 {
+    @include img-64("../src/icons/Signatum/64x64.jpg");
+}
+
+.ctic2-64 {
+    @include img-64("../src/icons/Coimatic2.0/64x64.jpg");
+}
+
+.bnb-64 {
+    @include img-64("../src/icons/BinanceCoin/64x64.jpg");
+}
+
+.pbt-64 {
+    @include img-64("../src/icons/PrimalbaseToken/64x64.jpg");
+}
+
+.cmpco-64 {
+    @include img-64("../src/icons/CampusCoin/64x64.jpg");
+}
+
+.emb-64 {
+    @include img-64("../src/icons/EmberCoin/64x64.jpg");
+}
+
+.ixt-64 {
+    @include img-64("../src/icons/IXT/64x64.jpg");
+}
+
+.gsr-64 {
+    @include img-64("../src/icons/GeyserCoin/64x64.jpg");
+}
+
+.msp-64 {
+    @include img-64("../src/icons/Mothership/64x64.jpg");
+}
+
+.asn-64 {
+    @include img-64("../src/icons/Aseancoin/64x64.jpg");
+}
+
+.birds-64 {
+    @include img-64("../src/icons/Birds/64x64.jpg");
+}
+
+.crm-64 {
+    @include img-64("../src/icons/Cream/64x64.jpg");
+}
+
+.era-64 {
+    @include img-64("../src/icons/ERA/64x64.jpg");
+}
+
+.kek-64 {
+    @include img-64("../src/icons/KekCoin/64x64.jpg");
+}
+
+.dnt-64 {
+    @include img-64("../src/icons/district0x/64x64.jpg");
+}
+
+.fyn-64 {
+    @include img-64("../src/icons/FundYourselfNow/64x64.jpg");
+}
+
+.stx-64 {
+    @include img-64("../src/icons/Stox/64x64.jpg");
+}
+
+.minex-64 {
+    @include img-64("../src/icons/Minex/64x64.jpg");
+}
+
+.cdt-64 {
+    @include img-64("../src/icons/Blox/64x64.jpg");
+}
+
+.wink-64 {
+    @include img-64("../src/icons/Wink/64x64.jpg");
+}
+
+.btm-64 {
+    @include img-64("../src/icons/Bytom/64x64.jpg");
+}
+
+.mao-64 {
+    @include img-64("../src/icons/MaoZedong/64x64.jpg");
+}
+
+.bitcf-64 {
+    @include img-64("../src/icons/FirstBitcoinCapital/64x64.jpg");
+}
+
+.ndc-64 {
+    @include img-64("../src/icons/NEVERDIE/64x64.jpg");
+}
+
+.tix-64 {
+    @include img-64("../src/icons/Blocktix/64x64.jpg");
+}
+
+.dcn-64 {
+    @include img-64("../src/icons/Dentacoin/64x64.jpg");
+}
+
+.rupx-64 {
+    @include img-64("../src/icons/Rupaya/64x64.jpg");
+}
+
+.shdw-64 {
+    @include img-64("../src/icons/ShadowToken/64x64.jpg");
+}
+
+.onion-64 {
+    @include img-64("../src/icons/DeepOnion/64x64.jpg");
+}
+
+.cat-64 {
+    @include img-64("../src/icons/BlockCAT/64x64.jpg");
+}
+
+.adst-64 {
+    @include img-64("../src/icons/AdShares/64x64.jpg");
+}
+
+.ddf-64 {
+    @include img-64("../src/icons/DigitalDevelopersFund/64x64.jpg");
+}
+
+.bas-64 {
+    @include img-64("../src/icons/BitAsean/64x64.jpg");
+}
+
+.dent-64 {
+    @include img-64("../src/icons/Dent/64x64.jpg");
+}
+
+.mbi-64 {
+    @include img-64("../src/icons/MonsterByte/64x64.jpg");
+}
+
+.ift-64 {
+    @include img-64("../src/icons/InvestFeed/64x64.jpg");
+}
+
+.xcxt-64 {
+    @include img-64("../src/icons/CoinonatX/64x64.jpg");
+}
+
+.riya-64 {
+    @include img-64("../src/icons/Etheriya/64x64.jpg");
+}
+
+.tcc-64 {
+    @include img-64("../src/icons/TheChampCoin/64x64.jpg");
+}
+
+.zrx-64 {
+    @include img-64("../src/icons/0x/64x64.jpg");
+}
+
+.bln-64 {
+    @include img-64("../src/icons/Bolenum/64x64.jpg");
+}
+
+.smoke-64 {
+    @include img-64("../src/icons/Smoke/64x64.jpg");
+}
+
+.yoyow-64 {
+    @include img-64("../src/icons/YOYOW/64x64.jpg");
+}
+
+.grwi-64 {
+    @include img-64("../src/icons/GrowersInternational/64x64.jpg");
+}
+
+.myb-64 {
+    @include img-64("../src/icons/MyBitToken/64x64.jpg");
+}
+
+.hsr-64 {
+    @include img-64("../src/icons/Hshare/64x64.jpg");
+}
+
+.ven-64 {
+    @include img-64("../src/icons/VeChain/64x64.jpg");
+}
+
+.tfl-64 {
+    @include img-64("../src/icons/TrueFlip/64x64.jpg");
+}
+
+.xtd-64 {
+    @include img-64("../src/icons/XTDCoin/64x64.jpg");
+}
+
+.nas-64 {
+    @include img-64("../src/icons/Nebulas/64x64.jpg");
+}
+
+.atmc-64 {
+    @include img-64("../src/icons/ATMCoin/64x64.jpg");
+}
+
+.dalc-64 {
+    @include img-64("../src/icons/Dalecoin/64x64.jpg");
+}
+
+.prn-64 {
+    @include img-64("../src/icons/Protean/64x64.jpg");
+}
+
+.acc-64 {
+    @include img-64("../src/icons/AdCoin/64x64.jpg");
+}
+
+.bbp-64 {
+    @include img-64("../src/icons/BiblePay/64x64.jpg");
+}
+
+.bq-64 {
+    @include img-64("../src/icons/bitqy/64x64.jpg");
+}
+
+.act-64 {
+    @include img-64("../src/icons/Achain/64x64.jpg");
+}
+
+.namo-64 {
+    @include img-64("../src/icons/NamoCoin/64x64.jpg");
+}
+
+.sigma-64 {
+    @include img-64("../src/icons/SIGMAcoin/64x64.jpg");
+}
+
+.xmcc-64 {
+    @include img-64("../src/icons/Monoeci/64x64.jpg");
+}
+
+.tnt-64 {
+    @include img-64("../src/icons/Tierion/64x64.jpg");
+}
+
+.wtc-64 {
+    @include img-64("../src/icons/Waltonchain/64x64.jpg");
+}
+
+.ula-64 {
+    @include img-64("../src/icons/Ulatech/64x64.jpg");
+}
+
+.pst-64 {
+    @include img-64("../src/icons/Primas/64x64.jpg");
+}
+
+.opt-64 {
+    @include img-64("../src/icons/Opus/64x64.jpg");
+}
+
+.sur-64 {
+    @include img-64("../src/icons/Suretly/64x64.jpg");
+}
+
+.lrc-64 {
+    @include img-64("../src/icons/Loopring/64x64.jpg");
+}
+
+.ltcu-64 {
+    @include img-64("../src/icons/LiteCoinUltra/64x64.jpg");
+}
+
+.poe-64 {
+    @include img-64("../src/icons/Po.et/64x64.jpg");
+}
+
+.nto-64 {
+    @include img-64("../src/icons/Fujinto/64x64.jpg");
+}
+
+.strc-64 {
+    @include img-64("../src/icons/StarCredits/64x64.jpg");
+}
+
+.krone-64 {
+    @include img-64("../src/icons/Kronecoin/64x64.jpg");
+}
+
+.mcc-64 {
+    @include img-64("../src/icons/MovingCloudCoin/64x64.jpg");
+}
+
+.cyder-64 {
+    @include img-64("../src/icons/Cyder/64x64.jpg");
+}
+
+.mtnc-64 {
+    @include img-64("../src/icons/Masternodecoin/64x64.jpg");
+}
+
+.mth-64 {
+    @include img-64("../src/icons/Monetha/64x64.jpg");
+}
+
+.avt-64 {
+    @include img-64("../src/icons/Aventus/64x64.jpg");
+}
+
+.dlt-64 {
+    @include img-64("../src/icons/Agrello/64x64.jpg");
+}
+
+.hvn-64 {
+    @include img-64("../src/icons/HiveProject/64x64.jpg");
+}
+
+.vsx-64 {
+    @include img-64("../src/icons/Vsync/64x64.jpg");
+}
+
+.magn-64 {
+    @include img-64("../src/icons/Magnetcoin/64x64.jpg");
+}
+
+.mda-64 {
+    @include img-64("../src/icons/MoedaLoyaltyPoints/64x64.jpg");
+}
+
+.nebl-64 {
+    @include img-64("../src/icons/Neblio/64x64.jpg");
+}
+
+.vivo-64 {
+    @include img-64("../src/icons/VIVO/64x64.jpg");
+}
+
+.trx-64 {
+    @include img-64("../src/icons/TRON/64x64.jpg");
+}
+
+.ocl-64 {
+    @include img-64("../src/icons/Oceanlab/64x64.jpg");
+}
+
+.rex-64 {
+    @include img-64("../src/icons/imbrex/64x64.jpg");
+}
+
+.buzz-64 {
+    @include img-64("../src/icons/BuzzCoin/64x64.jpg");
+}
+
+.credo-64 {
+    @include img-64("../src/icons/Credo/64x64.jpg");
+}
+
+.drxne-64 {
+    @include img-64("../src/icons/DROXNE/64x64.jpg");
+}
+
+.aht-64 {
+    @include img-64("../src/icons/Bowhead/64x64.jpg");
+}
+
+.mana-64 {
+    @include img-64("../src/icons/Decentraland/64x64.jpg");
+}
+
+.ind-64 {
+    @include img-64("../src/icons/IndorseToken/64x64.jpg");
+}
+
+.xpa-64 {
+    @include img-64("../src/icons/XPA/64x64.jpg");
+}
+
+.scl-64 {
+    @include img-64("../src/icons/Sociall/64x64.jpg");
+}
+
+.atb-64 {
+    @include img-64("../src/icons/ATBCoin/64x64.jpg");
+}
+
+.iqt-64 {
+    @include img-64("../src/icons/iQuant/64x64.jpg");
+}
+
+.ethd-64 {
+    @include img-64("../src/icons/EthereumDark/64x64.jpg");
+}
+
+.pro-64 {
+    @include img-64("../src/icons/Propy/64x64.jpg");
+}
+
+.link-64 {
+    @include img-64("../src/icons/ChainLink/64x64.jpg");
+}
+
+.bmc-64 {
+    @include img-64("../src/icons/Blackmoon/64x64.jpg");
+}
+
+.wic-64 {
+    @include img-64("../src/icons/WiCoin/64x64.jpg");
+}
+
+.elix-64 {
+    @include img-64("../src/icons/Elixir/64x64.jpg");
+}
+
+.xbl-64 {
+    @include img-64("../src/icons/BillionaireToken/64x64.jpg");
+}
+
+.knc-64 {
+    @include img-64("../src/icons/KyberNetwork/64x64.jpg");
+}
+
+.vibe-64 {
+    @include img-64("../src/icons/VIBE/64x64.jpg");
+}
+
+.sub-64 {
+    @include img-64("../src/icons/Substratum/64x64.jpg");
+}
+
+.day-64 {
+    @include img-64("../src/icons/Chronologic/64x64.jpg");
+}
+
+.chips-64 {
+    @include img-64("../src/icons/CHIPS/64x64.jpg");
+}
+
+.tkr-64 {
+    @include img-64("../src/icons/CryptoInsight/64x64.jpg");
+}
+
+.pix-64 {
+    @include img-64("../src/icons/Lampix/64x64.jpg");
+}
+
+.coss-64 {
+    @include img-64("../src/icons/COSS/64x64.jpg");
+}
+
+.csno-64 {
+    @include img-64("../src/icons/BitDice/64x64.jpg");
+}
+
+.rvt-64 {
+    @include img-64("../src/icons/Rivetz/64x64.jpg");
+}
+
+.kin-64 {
+    @include img-64("../src/icons/Kin/64x64.jpg");
+}
+
+.itz-64 {
+    @include img-64("../src/icons/Interzone/64x64.jpg");
+}
+
+.tgt-64 {
+    @include img-64("../src/icons/TargetCoin/64x64.jpg");
+}
+
+.salt-64 {
+    @include img-64("../src/icons/SALT/64x64.jpg");
+}
+
+.orme-64 {
+    @include img-64("../src/icons/OrmeusCoin/64x64.jpg");
+}
+
+.kln-64 {
+    @include img-64("../src/icons/Kolion/64x64.jpg");
+}
+
+.mci-64 {
+    @include img-64("../src/icons/Musiconomi/64x64.jpg");
+}
+
+.colx-64 {
+    @include img-64("../src/icons/ColossusXT/64x64.jpg");
+}
+
+.tzc-64 {
+    @include img-64("../src/icons/TrezarCoin/64x64.jpg");
+}
+
+.hdlb-64 {
+    @include img-64("../src/icons/HODLBucks/64x64.jpg");
+}
+
+.odn-64 {
+    @include img-64("../src/icons/Obsidian/64x64.jpg");
+}
+
+.cob-64 {
+    @include img-64("../src/icons/Cobinhood/64x64.jpg");
+}
+
+.rec-64 {
+    @include img-64("../src/icons/Regalcoin/64x64.jpg");
+}
+
+.msd-64 {
+    @include img-64("../src/icons/MSD/64x64.jpg");
+}
+
+.bis-64 {
+    @include img-64("../src/icons/Bismuth/64x64.jpg");
+}
+
+.ada-64 {
+    @include img-64("../src/icons/Cardano/64x64.jpg");
+}
+
+.xtz-64 {
+    @include img-64("../src/icons/Tezos/64x64.jpg");
+}
+
+.voise-64 {
+    @include img-64("../src/icons/Voise/64x64.jpg");
+}
+
+.xin-64 {
+    @include img-64("../src/icons/InfinityEconomics/64x64.jpg");
+}
+
+.atm-64 {
+    @include img-64("../src/icons/ATMChain/64x64.jpg");
+}
+
+.kick-64 {
+    @include img-64("../src/icons/KickCoin/64x64.jpg");
+}
+
+.ett-64 {
+    @include img-64("../src/icons/EncryptoTel[ETH]/64x64.jpg");
+}
+
+.vib-64 {
+    @include img-64("../src/icons/Viberate/64x64.jpg");
+}
+
+.rhoc-64 {
+    @include img-64("../src/icons/RChain/64x64.jpg");
+}
+
+.inxt-64 {
+    @include img-64("../src/icons/Internxt/64x64.jpg");
+}
+
+.whl-64 {
+    @include img-64("../src/icons/WhaleCoin/64x64.jpg");
+}
+
+.flik-64 {
+    @include img-64("../src/icons/FLiK/64x64.jpg");
+}
+
+.ebet-64 {
+    @include img-64("../src/icons/EthBet/64x64.jpg");
+}
+
+.cnx-64 {
+    @include img-64("../src/icons/Cryptonex/64x64.jpg");
+}
+
+.wild-64 {
+    @include img-64("../src/icons/WildCrypto/64x64.jpg");
+}
+
+.real-64 {
+    @include img-64("../src/icons/REAL/64x64.jpg");
+}
+
+.hbt-64 {
+    @include img-64("../src/icons/HubiiNetwork/64x64.jpg");
+}
+
+.cct-64 {
+    @include img-64("../src/icons/CrystalClear/64x64.jpg");
+}
+
+.bco-64 {
+    @include img-64("../src/icons/BridgeCoin/64x64.jpg");
+}
+
+.evx-64 {
+    @include img-64("../src/icons/Everex/64x64.jpg");
+}
+
+.ppp-64 {
+    @include img-64("../src/icons/PayPie/64x64.jpg");
+}
+
+.air-64 {
+    @include img-64("../src/icons/AirToken/64x64.jpg");
+}
+
+.pos-64 {
+    @include img-64("../src/icons/PoSToken/64x64.jpg");
+}
+
+.sdrn-64 {
+    @include img-64("../src/icons/Senderon/64x64.jpg");
+}
+
+.alis-64 {
+    @include img-64("../src/icons/ALIS/64x64.jpg");
+}
+
+.btcz-64 {
+    @include img-64("../src/icons/BitcoinZ/64x64.jpg");
+}
+
+.hgt-64 {
+    @include img-64("../src/icons/HelloGold/64x64.jpg");
+}
+
+.cnd-64 {
+    @include img-64("../src/icons/Cindicator/64x64.jpg");
+}
+
+.eng-64 {
+    @include img-64("../src/icons/Enigma/64x64.jpg");
+}
+
+.ctic3-64 {
+    @include img-64("../src/icons/Coimatic3.0/64x64.jpg");
+}
+
+.bsn-64 {
+    @include img-64("../src/icons/Bastonet/64x64.jpg");
+}
+
+.zsc-64 {
+    @include img-64("../src/icons/Zeusshield/64x64.jpg");
+}
+
+.ecash-64 {
+    @include img-64("../src/icons/EthereumCash/64x64.jpg");
+}
+
+.cor-64 {
+    @include img-64("../src/icons/CORION/64x64.jpg");
+}
+
+.ats-64 {
+    @include img-64("../src/icons/Authorship/64x64.jpg");
+}
+
+.rkc-64 {
+    @include img-64("../src/icons/RoyalKingdomCoin/64x64.jpg");
+}
+
+.aky-64 {
+    @include img-64("../src/icons/AkuyaCoin/64x64.jpg");
+}
+
+.exn-64 {
+    @include img-64("../src/icons/ExchangeN/64x64.jpg");
+}
+
+.pipl-64 {
+    @include img-64("../src/icons/PiplCoin/64x64.jpg");
+}
+
+.edo-64 {
+    @include img-64("../src/icons/Eidoo/64x64.jpg");
+}
+
+.ast-64 {
+    @include img-64("../src/icons/AirSwap/64x64.jpg");
+}
+
+.bsr-64 {
+    @include img-64("../src/icons/BitSoar/64x64.jpg");
+}
+
+.cag-64 {
+    @include img-64("../src/icons/Change/64x64.jpg");
+}
+
+.bcpt-64 {
+    @include img-64("../src/icons/BlockMasonCreditProtocol/64x64.jpg");
+}
+
+.aion-64 {
+    @include img-64("../src/icons/Aion/64x64.jpg");
+}
+
+.trct-64 {
+    @include img-64("../src/icons/Tracto/64x64.jpg");
+}
+
+.art-64 {
+    @include img-64("../src/icons/Maecenas/64x64.jpg");
+}
+
+.xgox-64 {
+    @include img-64("../src/icons/XGOX/64x64.jpg");
+}
+
+.evr-64 {
+    @include img-64("../src/icons/Everus/64x64.jpg");
+}
+
+.dutch-64 {
+    @include img-64("../src/icons/DutchCoin/64x64.jpg");
+}
+
+.otn-64 {
+    @include img-64("../src/icons/OpenTradingNetwork/64x64.jpg");
+}
+
+.drt-64 {
+    @include img-64("../src/icons/DomRaider/64x64.jpg");
+}
+
+.req-64 {
+    @include img-64("../src/icons/RequestNetwork/64x64.jpg");
+}
+
+.b2x-64 {
+    @include img-64("../src/icons/SegWit2x/64x64.jpg");
+}
+
+.etg-64 {
+    @include img-64("../src/icons/EthereumGold/64x64.jpg");
+}
+
+.blue-64 {
+    @include img-64("../src/icons/BlueProtocol/64x64.jpg");
+}
+
+.runners-64 {
+    @include img-64("../src/icons/Runners/64x64.jpg");
+}
+
+.life-64 {
+    @include img-64("../src/icons/LIFE/64x64.jpg");
+}
+
+.hdg-64 {
+    @include img-64("../src/icons/Hedge/64x64.jpg");
+}
+
+.mod-64 {
+    @include img-64("../src/icons/Modum/64x64.jpg");
+}
+
+.amb-64 {
+    @include img-64("../src/icons/Ambrosus/64x64.jpg");
+}
+
+.icos-64 {
+    @include img-64("../src/icons/ICOS/64x64.jpg");
+}
+
+.btg-64 {
+    @include img-64("../src/icons/BitcoinGold/64x64.jpg");
+}
+
+.kcs-64 {
+    @include img-64("../src/icons/KuCoinShares/64x64.jpg");
+}
+
+.exrn-64 {
+    @include img-64("../src/icons/EXRNchain/64x64.jpg");
+}
+
+.poll-64 {
+    @include img-64("../src/icons/ClearPoll/64x64.jpg");
+}
+
+.la-64 {
+    @include img-64("../src/icons/LATOKEN/64x64.jpg");
+}
+
+.xuc-64 {
+    @include img-64("../src/icons/ExchangeUnion/64x64.jpg");
+}
+
+.nuls-64 {
+    @include img-64("../src/icons/Nuls/64x64.jpg");
+}
+
+.btcred-64 {
+    @include img-64("../src/icons/BitcoinRed/64x64.jpg");
+}
+
+.prg-64 {
+    @include img-64("../src/icons/Paragon/64x64.jpg");
+}
+
+.bos-64 {
+    @include img-64("../src/icons/BOScoin/64x64.jpg");
+}
+
+.rcn-64 {
+    @include img-64("../src/icons/RipioCreditNetwork/64x64.jpg");
+}
+
+.gmt-64 {
+    @include img-64("../src/icons/MercuryProtocol/64x64.jpg");
+}
+
+.icx-64 {
+    @include img-64("../src/icons/ICON/64x64.jpg");
+}
+
+.js-64 {
+    @include img-64("../src/icons/JavaScriptToken/64x64.jpg");
+}
+
+.elite-64 {
+    @include img-64("../src/icons/EthereumLite/64x64.jpg");
+}
+
+.itt-64 {
+    @include img-64("../src/icons/IntelligentTradingFoundation/64x64.jpg");
+}
+
+.ieth-64 {
+    @include img-64("../src/icons/iEthereum/64x64.jpg");
+}
+
+.pirl-64 {
+    @include img-64("../src/icons/Pirl/64x64.jpg");
+}
+
+.xnn-64 {
+    @include img-64("../src/icons/Xenon/64x64.jpg");
+}
+
+.lux-64 {
+    @include img-64("../src/icons/LUXCoin/64x64.jpg");
+}
+
+.ntwk-64 {
+    @include img-64("../src/icons/NetworkToken/64x64.jpg");
+}
+
+.dovu-64 {
+    @include img-64("../src/icons/Dovu/64x64.jpg");
+}
+
+.rpx-64 {
+    @include img-64("../src/icons/RedPulse/64x64.jpg");
+}
+
+.bt2-64 {
+    @include img-64("../src/icons/BT2[CST]/64x64.jpg");
+}
+
+.placo-64 {
+    @include img-64("../src/icons/PlayerCoin/64x64.jpg");
+}
+
+.roofs-64 {
+    @include img-64("../src/icons/Roofs/64x64.jpg");
+}
+
+.fap-64 {
+    @include img-64("../src/icons/FAPcoin/64x64.jpg");
+}
+
+.btcm-64 {
+    @include img-64("../src/icons/BTCMoon/64x64.jpg");
+}
+
+.fuel-64 {
+    @include img-64("../src/icons/Etherparty/64x64.jpg");
+}
+
+.ella-64 {
+    @include img-64("../src/icons/Ellaism/64x64.jpg");
+}
+
+.vulc-64 {
+    @include img-64("../src/icons/Vulcano/64x64.jpg");
+}
+
+.qvt-64 {
+    @include img-64("../src/icons/Qvolta/64x64.jpg");
+}
+
+.rmc-64 {
+    @include img-64("../src/icons/RussianMinerCoin/64x64.jpg");
+}
+
+.fyp-64 {
+    @include img-64("../src/icons/FlypMe/64x64.jpg");
+}
+
+.ebtc-64 {
+    @include img-64("../src/icons/eBitcoin/64x64.jpg");
+}
+
+.btbc-64 {
+    @include img-64("../src/icons/Bitbase/64x64.jpg");
+}
+
+.enj-64 {
+    @include img-64("../src/icons/EnjinCoin/64x64.jpg");
+}
+
+.powr-64 {
+    @include img-64("../src/icons/PowerLedger/64x64.jpg");
+}
+
+.grid-64 {
+    @include img-64("../src/icons/Grid+/64x64.jpg");
+}
+
+.r-64 {
+    @include img-64("../src/icons/Revain/64x64.jpg");
+}
+
+.atl-64 {
+    @include img-64("../src/icons/ATLANT/64x64.jpg");
+}
+
+.etn-64 {
+    @include img-64("../src/icons/Electroneum/64x64.jpg");
+}
+
+.high-64 {
+    @include img-64("../src/icons/HighGain/64x64.jpg");
+}
+
+.mnx-64 {
+    @include img-64("../src/icons/MinexCoin/64x64.jpg");
+}
+
+.for-64 {
+    @include img-64("../src/icons/FORCE/64x64.jpg");
+}
+
+.data-64 {
+    @include img-64("../src/icons/StreamrDATAcoin/64x64.jpg");
+}
+
+.xsh-64 {
+    @include img-64("../src/icons/SHIELD/64x64.jpg");
+}
+
+.pure-64 {
+    @include img-64("../src/icons/Pure/64x64.jpg");
+}
+
+.eltcoin-64 {
+    @include img-64("../src/icons/ELTCOIN/64x64.jpg");
+}
+
+.ukg-64 {
+    @include img-64("../src/icons/UnikoinGold/64x64.jpg");
+}
+
+.crdnc-64 {
+    @include img-64("../src/icons/CredenceCoin/64x64.jpg");
+}
+
+.nio-64 {
+    @include img-64("../src/icons/Autonio/64x64.jpg");
+}
+
+.ctx-64 {
+    @include img-64("../src/icons/CarTaxiToken/64x64.jpg");
+}
+
+.arn-64 {
+    @include img-64("../src/icons/Aeron/64x64.jpg");
+}
+
+.stars-64 {
+    @include img-64("../src/icons/StarCashNetwork/64x64.jpg");
+}
+
+.phr-64 {
+    @include img-64("../src/icons/Phore/64x64.jpg");
+}
+
+.frd-64 {
+    @include img-64("../src/icons/Farad/64x64.jpg");
+}
+
+.inn-64 {
+    @include img-64("../src/icons/Innova/64x64.jpg");
+}
+
+.rdn-64 {
+    @include img-64("../src/icons/RaidenNetworkToken/64x64.jpg");
+}
+
+.dpy-64 {
+    @include img-64("../src/icons/Delphy/64x64.jpg");
+}
+
+.zeph-64 {
+    @include img-64("../src/icons/Zephyr/64x64.jpg");
+}
+
+.erc20-64 {
+    @include img-64("../src/icons/ERC20/64x64.jpg");
+}
+
+.tie-64 {
+    @include img-64("../src/icons/Ties.DB/64x64.jpg");
+}
+
+.bpl-64 {
+    @include img-64("../src/icons/Blockpool/64x64.jpg");
+}
+
+.grim-64 {
+    @include img-64("../src/icons/Grimcoin/64x64.jpg");
+}
+
+.oxy-64 {
+    @include img-64("../src/icons/Oxycoin/64x64.jpg");
+}
+
+.epy-64 {
+    @include img-64("../src/icons/Emphy/64x64.jpg");
+}
+
+.hold-64 {
+    @include img-64("../src/icons/StellarHoldings/64x64.jpg");
+}
+
+.neog-64 {
+    @include img-64("../src/icons/NEOGOLD/64x64.jpg");
+}
+
+.dbet-64 {
+    @include img-64("../src/icons/DecentBet/64x64.jpg");
+}
+
+.hst-64 {
+    @include img-64("../src/icons/DecisionToken/64x64.jpg");
+}
+
+.sss-64 {
+    @include img-64("../src/icons/Sharechain/64x64.jpg");
+}
+
+.ufr-64 {
+    @include img-64("../src/icons/Upfiring/64x64.jpg");
+}
+
+.stu-64 {
+    @include img-64("../src/icons/bitJob/64x64.jpg");
+}
+
+.gvt-64 {
+    @include img-64("../src/icons/GenesisVision/64x64.jpg");
+}
+
+.eagle-64 {
+    @include img-64("../src/icons/EagleCoin/64x64.jpg");
+}
+
+.eag-64 {
+    @include img-64("../src/icons/EACoin/64x64.jpg");
+}
+
+.prix-64 {
+    @include img-64("../src/icons/Privatix/64x64.jpg");
+}
+
+.itns-64 {
+    @include img-64("../src/icons/IntenseCoin/64x64.jpg");
+}
+
+.ebch-64 {
+    @include img-64("../src/icons/EBCH/64x64.jpg");
+}
+
+.sisa-64 {
+    @include img-64("../src/icons/SISA/64x64.jpg");
+}
+
+.astro-64 {
+    @include img-64("../src/icons/Astro/64x64.jpg");
+}
+
+.payx-64 {
+    @include img-64("../src/icons/Paypex/64x64.jpg");
+}
+
+.grx-64 {
+    @include img-64("../src/icons/GOLDRewardToken/64x64.jpg");
+}
+
+.bte-64 {
+    @include img-64("../src/icons/BitSerial/64x64.jpg");
+}
+
+.sgr-64 {
+    @include img-64("../src/icons/SugarExchange/64x64.jpg");
+}
+
+.viu-64 {
+    @include img-64("../src/icons/Viuly/64x64.jpg");
+}
+
+.alqo-64 {
+    @include img-64("../src/icons/ALQO/64x64.jpg");
+}
+
+.gbx-64 {
+    @include img-64("../src/icons/GoByte/64x64.jpg");
+}
+
+.wc-64 {
+    @include img-64("../src/icons/WINCOIN/64x64.jpg");
+}
+
+.prl-64 {
+    @include img-64("../src/icons/Oyster/64x64.jpg");
+}
+
+.b2b-64 {
+    @include img-64("../src/icons/B2BX/64x64.jpg");
+}
+
+.pnx-64 {
+    @include img-64("../src/icons/Phantomx/64x64.jpg");
+}
+
+.dgpt-64 {
+    @include img-64("../src/icons/DigiPulse/64x64.jpg");
+}
+
+.dna-64 {
+    @include img-64("../src/icons/EncrypGen/64x64.jpg");
+}
+
+.ink-64 {
+    @include img-64("../src/icons/Ink/64x64.jpg");
+}
+
+.bot-64 {
+    @include img-64("../src/icons/Bodhi/64x64.jpg");
+}
+
+.qsp-64 {
+    @include img-64("../src/icons/Quantstamp/64x64.jpg");
+}
+
+.qash-64 {
+    @include img-64("../src/icons/QASH/64x64.jpg");
+}
+
+.zzc-64 {
+    @include img-64("../src/icons/ZoZoCoin/64x64.jpg");
+}
+
+.tsl-64 {
+    @include img-64("../src/icons/Energo/64x64.jpg");
+}
+
+.pbl-64 {
+    @include img-64("../src/icons/Publica/64x64.jpg");
+}
+
+.mag-64 {
+    @include img-64("../src/icons/Magnet/64x64.jpg");
+}
+
+.spank-64 {
+    @include img-64("../src/icons/SpankChain/64x64.jpg");
+}
+
+.vot-64 {
+    @include img-64("../src/icons/VoteCoin/64x64.jpg");
+}
+
+.bcd-64 {
+    @include img-64("../src/icons/BitcoinDiamond/64x64.jpg");
+}
+
+.vee-64 {
+    @include img-64("../src/icons/BLOCKv/64x64.jpg");
+}
+
+.ai-64 {
+    @include img-64("../src/icons/POLYAI/64x64.jpg");
+}
+
+.acc-64 {
+    @include img-64("../src/icons/AcceleratorNetwork/64x64.jpg");
+}
+
+.plx-64 {
+    @include img-64("../src/icons/PlexCoin/64x64.jpg");
+}
+
+.divx-64 {
+    @include img-64("../src/icons/Divi/64x64.jpg");
+}
+
+.monk-64 {
+    @include img-64("../src/icons/MonkeyProject/64x64.jpg");
+}
+
+.flixx-64 {
+    @include img-64("../src/icons/Flixxo/64x64.jpg");
+}
+
+.gls-64 {
+    @include img-64("../src/icons/GlassCoin/64x64.jpg");
+}
+
+.tnb-64 {
+    @include img-64("../src/icons/TimeNewBank/64x64.jpg");
+}
+
+.wish-64 {
+    @include img-64("../src/icons/MyWish/64x64.jpg");
+}
+
+.evc-64 {
+    @include img-64("../src/icons/EventChain/64x64.jpg");
+}
+
+.lend-64 {
+    @include img-64("../src/icons/ETHLend/64x64.jpg");
+}
+
+.ong-64 {
+    @include img-64("../src/icons/onG.social/64x64.jpg");
+}
+
+.cco-64 {
+    @include img-64("../src/icons/Ccore/64x64.jpg");
+}
+
+.qbt-64 {
+    @include img-64("../src/icons/Qbao/64x64.jpg");
+}
+
+.drgn-64 {
+    @include img-64("../src/icons/Dragonchain/64x64.jpg");
+}
+
+.pfr-64 {
+    @include img-64("../src/icons/Payfair/64x64.jpg");
+}
+
+.pre-64 {
+    @include img-64("../src/icons/Presearch/64x64.jpg");
+}
+
+.cmt-64 {
+    @include img-64("../src/icons/CyberMiles/64x64.jpg");
+}
+
+.bcdn-64 {
+    @include img-64("../src/icons/BlockCDN/64x64.jpg");
+}
+
+.capp-64 {
+    @include img-64("../src/icons/Cappasity/64x64.jpg");
+}
+
+.ero-64 {
+    @include img-64("../src/icons/Eroscoin/64x64.jpg");
+}
+
+.mage-64 {
+    @include img-64("../src/icons/MagicCoin/64x64.jpg");
+}
+
+.itc-64 {
+    @include img-64("../src/icons/IoTChain/64x64.jpg");
+}
+
+.jiyo-64 {
+    @include img-64("../src/icons/Jiyo/64x64.jpg");
+}
+
+.send-64 {
+    @include img-64("../src/icons/SocialSend/64x64.jpg");
+}
+
+.nuko-64 {
+    @include img-64("../src/icons/Nekonium/64x64.jpg");
+}
+
+.snov-64 {
+    @include img-64("../src/icons/Snovio/64x64.jpg");
+}
+
+.sbc-64 {
+    @include img-64("../src/icons/StrikeBitClub/64x64.jpg");
+}
+
+.bwk-64 {
+    @include img-64("../src/icons/Bulwark/64x64.jpg");
+}
+
+.saga-64 {
+    @include img-64("../src/icons/SagaCoin/64x64.jpg");
+}
+
+.cms-64 {
+    @include img-64("../src/icons/COMSA[ETH]/64x64.jpg");
+}
+
+.kbr-64 {
+    @include img-64("../src/icons/KuberaCoin/64x64.jpg");
+}
+
+.tok-64 {
+    @include img-64("../src/icons/Tokugawa/64x64.jpg");
+}
+
+.pcoin-64 {
+    @include img-64("../src/icons/PioneerCoin/64x64.jpg");
+}
+
+.cms-64 {
+    @include img-64("../src/icons/COMSA[XEM]/64x64.jpg");
+}
+
+.wabi-64 {
+    @include img-64("../src/icons/WaBi/64x64.jpg");
+}
+
+.crc-64 {
+    @include img-64("../src/icons/CrowdCoin/64x64.jpg");
+}
+
+.wand-64 {
+    @include img-64("../src/icons/WandX/64x64.jpg");
+}
+
+.spf-64 {
+    @include img-64("../src/icons/SportyCo/64x64.jpg");
+}
+
+.cred-64 {
+    @include img-64("../src/icons/Verify/64x64.jpg");
+}
+
+.sct-64 {
+    @include img-64("../src/icons/Soma/64x64.jpg");
+}
+
+.uqc-64 {
+    @include img-64("../src/icons/UquidCoin/64x64.jpg");
+}
+
+.mds-64 {
+    @include img-64("../src/icons/MediShares/64x64.jpg");
+}
+
+.pra-64 {
+    @include img-64("../src/icons/ProChain/64x64.jpg");
+}
+
+.ignis-64 {
+    @include img-64("../src/icons/Ignis/64x64.jpg");
+}
+
+.smt-64 {
+    @include img-64("../src/icons/SmartMesh/64x64.jpg");
+}
+
+.hwc-64 {
+    @include img-64("../src/icons/HollyWoodCoin/64x64.jpg");
+}
+
+.pkt-64 {
+    @include img-64("../src/icons/Playkey/64x64.jpg");
+}
+
+.fil-64 {
+    @include img-64("../src/icons/Filecoin[Futures]/64x64.jpg");
+}
+
+.bcx-64 {
+    @include img-64("../src/icons/BitcoinX/64x64.jpg");
+}
+
+.sbtc-64 {
+    @include img-64("../src/icons/SuperBitcoin/64x64.jpg");
+}
+
+.dat-64 {
+    @include img-64("../src/icons/Datum/64x64.jpg");
+}
+
+.trdt-64 {
+    @include img-64("../src/icons/TridentGroup/64x64.jpg");
+}
+
+.btca-64 {
+    @include img-64("../src/icons/Bitair/64x64.jpg");
+}
+
+.amm-64 {
+    @include img-64("../src/icons/MicroMoney/64x64.jpg");
+}
+
+.loc-64 {
+    @include img-64("../src/icons/LockTrip/64x64.jpg");
+}
+
+.wrc-64 {
+    @include img-64("../src/icons/Worldcore/64x64.jpg");
+}
+
+.gto-64 {
+    @include img-64("../src/icons/Gifto/64x64.jpg");
+}
+
+.ytn-64 {
+    @include img-64("../src/icons/YENTEN/64x64.jpg");
+}
+
+.gnx-64 {
+    @include img-64("../src/icons/GenaroNetwork/64x64.jpg");
+}
+
+.ubtc-64 {
+    @include img-64("../src/icons/UnitedBitcoin/64x64.jpg");
+}
+
+.star-64 {
+    @include img-64("../src/icons/Starbase/64x64.jpg");
+}
+
+.ost-64 {
+    @include img-64("../src/icons/OST/64x64.jpg");
+}
+
+.storm-64 {
+    @include img-64("../src/icons/Storm/64x64.jpg");
+}
+
+.dtr-64 {
+    @include img-64("../src/icons/DynamicTradingRights/64x64.jpg");
+}
+
+.elf-64 {
+    @include img-64("../src/icons/aelf/64x64.jpg");
+}
+
+.wax-64 {
+    @include img-64("../src/icons/WAX/64x64.jpg");
+}
+
+.med-64 {
+    @include img-64("../src/icons/MediBloc[QRC20]/64x64.jpg");
+}
+
+.dew-64 {
+    @include img-64("../src/icons/DEW/64x64.jpg");
+}
+
+.ngc-64 {
+    @include img-64("../src/icons/NAGA/64x64.jpg");
+}
+
+.brd-64 {
+    @include img-64("../src/icons/Bread/64x64.jpg");
+}
+
+.bix-64 {
+    @include img-64("../src/icons/BiboxToken/64x64.jpg");
+}
+
+.dai-64 {
+    @include img-64("../src/icons/Dai/64x64.jpg");
+}
+
+.sphtx-64 {
+    @include img-64("../src/icons/SophiaTX/64x64.jpg");
+}
+
+.bnty-64 {
+    @include img-64("../src/icons/Bounty0x/64x64.jpg");
+}
+
+.ace-64 {
+    @include img-64("../src/icons/ACE(TokenStars)/64x64.jpg");
+}
+
+.dim-64 {
+    @include img-64("../src/icons/DIMCOIN/64x64.jpg");
+}
+
+.srn-64 {
+    @include img-64("../src/icons/SIRINLABSToken/64x64.jpg");
+}
+
+.cpay-64 {
+    @include img-64("../src/icons/Cryptopay/64x64.jpg");
+}
+
+.html-64 {
+    @include img-64("../src/icons/HTMLCOIN/64x64.jpg");
+}
+
+.dbc-64 {
+    @include img-64("../src/icons/DeepBrainChain/64x64.jpg");
+}
+
+.hbc-64 {
+    @include img-64("../src/icons/HomeBlockCoin/64x64.jpg");
+}
+
+.neu-64 {
+    @include img-64("../src/icons/Neumark/64x64.jpg");
+}
+
+.utk-64 {
+    @include img-64("../src/icons/UTRUST/64x64.jpg");
+}
+
+.play-64 {
+    @include img-64("../src/icons/HEROcoin/64x64.jpg");
+}
+
+.big-64 {
+    @include img-64("../src/icons/BigONEToken/64x64.jpg");
+}
+
+.mtx-64 {
+    @include img-64("../src/icons/Matryx/64x64.jpg");
+}
+
+.mot-64 {
+    @include img-64("../src/icons/OlympusLabs/64x64.jpg");
+}
+
+.hpy-64 {
+    @include img-64("../src/icons/HyperPay/64x64.jpg");
+}
+
+.pylnt-64 {
+    @include img-64("../src/icons/PylonNetwork/64x64.jpg");
+}
+
+.ent-64 {
+    @include img-64("../src/icons/ENTCash/64x64.jpg");
+}
+
+.stak-64 {
+    @include img-64("../src/icons/STRAKS/64x64.jpg");
+}
+
+.fdx-64 {
+    @include img-64("../src/icons/FidentiaX/64x64.jpg");
+}
+
+.cat-64 {
+    @include img-64("../src/icons/BitClave/64x64.jpg");
+}
+
+.lbtc-64 {
+    @include img-64("../src/icons/LightningBitcoin/64x64.jpg");
+}
+
+.gtc-64 {
+    @include img-64("../src/icons/Game.com/64x64.jpg");
+}
+
+.tau-64 {
+    @include img-64("../src/icons/Lamden/64x64.jpg");
+}
+
+.esc-64 {
+    @include img-64("../src/icons/Escroco/64x64.jpg");
+}
+
+.blt-64 {
+    @include img-64("../src/icons/Bloom/64x64.jpg");
+}
+
+.swftc-64 {
+    @include img-64("../src/icons/SwftCoin/64x64.jpg");
+}
+
+.cov-64 {
+    @include img-64("../src/icons/Covesting/64x64.jpg");
+}
+
+.can-64 {
+    @include img-64("../src/icons/CanYaCoin/64x64.jpg");
+}
+
+.appc-64 {
+    @include img-64("../src/icons/AppCoins/64x64.jpg");
+}
+
+.hpb-64 {
+    @include img-64("../src/icons/HighPerformanceBlockchain/64x64.jpg");
+}
+
+.wicc-64 {
+    @include img-64("../src/icons/WaykiChain/64x64.jpg");
+}
+
+.numus-64 {
+    @include img-64("../src/icons/NumusCash/64x64.jpg");
+}
+
+.mdt-64 {
+    @include img-64("../src/icons/MeasurableDataToken/64x64.jpg");
+}
+
+.xin-64 {
+    @include img-64("../src/icons/Mixin/64x64.jpg");
+}
+
+.gcs-64 {
+    @include img-64("../src/icons/GameChainSystem/64x64.jpg");
+}
+
+.nms-64 {
+    @include img-64("../src/icons/Numus/64x64.jpg");
+}
+
+.cl-64 {
+    @include img-64("../src/icons/Coinlancer/64x64.jpg");
+}
+
+.cefs-64 {
+    @include img-64("../src/icons/CryptopiaFeeShares/64x64.jpg");
+}
+
+.get-64 {
+    @include img-64("../src/icons/GETProtocol/64x64.jpg");
+}
+
+.opc-64 {
+    @include img-64("../src/icons/OPCoin/64x64.jpg");
+}
+
+.cfun-64 {
+    @include img-64("../src/icons/CFun/64x64.jpg");
+}
+
+.aidoc-64 {
+    @include img-64("../src/icons/AIDoctor/64x64.jpg");
+}
+
+.can-64 {
+    @include img-64("../src/icons/ContentandADNetwork/64x64.jpg");
+}
+
+.polis-64 {
+    @include img-64("../src/icons/Polis/64x64.jpg");
+}
+
+.hkn-64 {
+    @include img-64("../src/icons/Hacken/64x64.jpg");
+}
+
+.show-64 {
+    @include img-64("../src/icons/Show/64x64.jpg");
+}
+
+.stn-64 {
+    @include img-64("../src/icons/SteneumCoin/64x64.jpg");
+}
+
+.zap-64 {
+    @include img-64("../src/icons/Zap/64x64.jpg");
+}
+
+.tct-64 {
+    @include img-64("../src/icons/TokenClub/64x64.jpg");
+}
+
+.fair-64 {
+    @include img-64("../src/icons/FairGame/64x64.jpg");
+}
+
+.aix-64 {
+    @include img-64("../src/icons/Aigang/64x64.jpg");
+}
+
+.rebl-64 {
+    @include img-64("../src/icons/REBL/64x64.jpg");
+}
+
+.ins-64 {
+    @include img-64("../src/icons/INSEcosystem/64x64.jpg");
+}
+
+.god-64 {
+    @include img-64("../src/icons/BitcoinGod/64x64.jpg");
+}
+
+.utt-64 {
+    @include img-64("../src/icons/UnitedTradersToken/64x64.jpg");
+}
+
+.cdx-64 {
+    @include img-64("../src/icons/CommodityAdNetwork/64x64.jpg");
+}
+
+.tio-64 {
+    @include img-64("../src/icons/TradeToken/64x64.jpg");
+}
+
+.bdg-64 {
+    @include img-64("../src/icons/BitDegree/64x64.jpg");
+}
+
+.qun-64 {
+    @include img-64("../src/icons/QunQun/64x64.jpg");
+}
+
+.lev-64 {
+    @include img-64("../src/icons/Leverj/64x64.jpg");
+}
+
+.krm-64 {
+    @include img-64("../src/icons/Karma/64x64.jpg");
+}
+
+.kcash-64 {
+    @include img-64("../src/icons/Kcash/64x64.jpg");
+}
+
+.atn-64 {
+    @include img-64("../src/icons/ATN/64x64.jpg");
+}
+
+.sxdt-64 {
+    @include img-64("../src/icons/Spectre.aiDividendToken/64x64.jpg");
+}
+
+.sxut-64 {
+    @include img-64("../src/icons/Spectre.aiUtilityToken/64x64.jpg");
+}
+
+.swtc-64 {
+    @include img-64("../src/icons/JingtumTech/64x64.jpg");
+}
+
+.vzt-64 {
+    @include img-64("../src/icons/Vezt/64x64.jpg");
+}
+
+.cld-64 {
+    @include img-64("../src/icons/Cloud/64x64.jpg");
+}
+
+.ucom-64 {
+    @include img-64("../src/icons/UnitedCryptoCommunity/64x64.jpg");
+}
+
+.bca-64 {
+    @include img-64("../src/icons/BitcoinAtom/64x64.jpg");
+}
+
+.ugc-64 {
+    @include img-64("../src/icons/ugChain/64x64.jpg");
+}
+
+.bkx-64 {
+    @include img-64("../src/icons/Bankex/64x64.jpg");
+}
+
+.eko-64 {
+    @include img-64("../src/icons/EchoLink/64x64.jpg");
+}
+
+.bto-64 {
+    @include img-64("../src/icons/Bottos/64x64.jpg");
+}
+
+.at-64 {
+    @include img-64("../src/icons/AWARE/64x64.jpg");
+}
+
+.tel-64 {
+    @include img-64("../src/icons/Telcoin/64x64.jpg");
+}
+
+.ic-64 {
+    @include img-64("../src/icons/Ignition/64x64.jpg");
+}
+
+.hac-64 {
+    @include img-64("../src/icons/HackspaceCapital/64x64.jpg");
+}
+
+.key-64 {
+    @include img-64("../src/icons/Selfkey/64x64.jpg");
+}
+
+.int-64 {
+    @include img-64("../src/icons/InternetNodeToken/64x64.jpg");
+}
+
+.rnt-64 {
+    @include img-64("../src/icons/OneRootNetwork/64x64.jpg");
+}
+
+.sense-64 {
+    @include img-64("../src/icons/Sense/64x64.jpg");
+}
+
+.moac-64 {
+    @include img-64("../src/icons/MOAC/64x64.jpg");
+}
+
+.tokc-64 {
+    @include img-64("../src/icons/TOKYO/64x64.jpg");
+}
+
+.iost-64 {
+    @include img-64("../src/icons/IOST/64x64.jpg");
+}
+
+.idt-64 {
+    @include img-64("../src/icons/InvestDigital/64x64.jpg");
+}
+
+.ait-64 {
+    @include img-64("../src/icons/AICHAIN/64x64.jpg");
+}
+
+.qube-64 {
+    @include img-64("../src/icons/Qube/64x64.jpg");
+}
+
+.edt-64 {
+    @include img-64("../src/icons/EtherDeltaToken/64x64.jpg");
+}
+
+.spc-64 {
+    @include img-64("../src/icons/SpaceChain/64x64.jpg");
+}
+
+.ore-64 {
+    @include img-64("../src/icons/Galactrum/64x64.jpg");
+}
+
+.hc-64 {
+    @include img-64("../src/icons/HarvestMasternodeCoin/64x64.jpg");
+}
+
+.horse-64 {
+    @include img-64("../src/icons/Ethorse/64x64.jpg");
+}
+
+.rct-64 {
+    @include img-64("../src/icons/RealChain/64x64.jpg");
+}
+
+.arct-64 {
+    @include img-64("../src/icons/ArbitrageCT/64x64.jpg");
+}
+
+.theta-64 {
+    @include img-64("../src/icons/ThetaToken/64x64.jpg");
+}
+
+.mvc-64 {
+    @include img-64("../src/icons/MaverickChain/64x64.jpg");
+}
+
+.put-64 {
+    @include img-64("../src/icons/ProfileUtilityToken/64x64.jpg");
+}
+
+.nox-64 {
+    @include img-64("../src/icons/Nitro/64x64.jpg");
+}
+
+.ipl-64 {
+    @include img-64("../src/icons/InsurePal/64x64.jpg");
+}
+
+.idxm-64 {
+    @include img-64("../src/icons/IDEXMembership/64x64.jpg");
+}
+
+.aura-64 {
+    @include img-64("../src/icons/AuroraDAO/64x64.jpg");
+}
+
+.agi-64 {
+    @include img-64("../src/icons/SingularityNET/64x64.jpg");
+}
+
+.gat-64 {
+    @include img-64("../src/icons/Gatcoin/64x64.jpg");
+}
+
+.sexc-64 {
+    @include img-64("../src/icons/ShareX/64x64.jpg");
+}
+
+.ddd-64 {
+    @include img-64("../src/icons/Scry.info/64x64.jpg");
+}
+
+.mobi-64 {
+    @include img-64("../src/icons/Mobius/64x64.jpg");
+}
+
+.hot-64 {
+    @include img-64("../src/icons/HydroProtocol/64x64.jpg");
+}
+
+.stc-64 {
+    @include img-64("../src/icons/StarChain/64x64.jpg");
+}
+
+.ipc-64 {
+    @include img-64("../src/icons/IPChain/64x64.jpg");
+}
+
+.mag-64 {
+    @include img-64("../src/icons/Maggie/64x64.jpg");
+}
+
+.light-64 {
+    @include img-64("../src/icons/LightChain/64x64.jpg");
+}
+
+.ref-64 {
+    @include img-64("../src/icons/RefToken/64x64.jpg");
+}
+
+.yee-64 {
+    @include img-64("../src/icons/YEE/64x64.jpg");
+}
+
+.aac-64 {
+    @include img-64("../src/icons/AcuteAngleCloud/64x64.jpg");
+}
+
+.ssc-64 {
+    @include img-64("../src/icons/SelfSell/64x64.jpg");
+}
+
+.mof-64 {
+    @include img-64("../src/icons/MolecularFuture/64x64.jpg");
+}
+
+.tnc-64 {
+    @include img-64("../src/icons/TrinityNetworkCredit/64x64.jpg");
+}
+
+.c20-64 {
+    @include img-64("../src/icons/CRYPTO20/64x64.jpg");
+}
+
+.ary-64 {
+    @include img-64("../src/icons/BlockArray/64x64.jpg");
+}
+
+.dta-64 {
+    @include img-64("../src/icons/DATA/64x64.jpg");
+}
+
+.crpt-64 {
+    @include img-64("../src/icons/Crypterium/64x64.jpg");
+}
+
+.spk-64 {
+    @include img-64("../src/icons/Sparks/64x64.jpg");
+}
+
+.cv-64 {
+    @include img-64("../src/icons/carVertical/64x64.jpg");
+}
+
+.tbx-64 {
+    @include img-64("../src/icons/Tokenbox/64x64.jpg");
+}
+
+.ekt-64 {
+    @include img-64("../src/icons/EDUCare/64x64.jpg");
+}
+
+.uip-64 {
+    @include img-64("../src/icons/UnlimitedIP/64x64.jpg");
+}
+
+.prs-64 {
+    @include img-64("../src/icons/PressOne/64x64.jpg");
+}
+
+.of-64 {
+    @include img-64("../src/icons/OFCOIN/64x64.jpg");
+}
+
+.true-64 {
+    @include img-64("../src/icons/TrueChain/64x64.jpg");
+}
+
+.ocn-64 {
+    @include img-64("../src/icons/Odyssey/64x64.jpg");
+}
+
+.idh-64 {
+    @include img-64("../src/icons/indaHash/64x64.jpg");
+}
+
+.qbic-64 {
+    @include img-64("../src/icons/Qbic/64x64.jpg");
+}
+
+.guess-64 {
+    @include img-64("../src/icons/Peerguess/64x64.jpg");
+}
+
+.aid-64 {
+    @include img-64("../src/icons/AidCoin/64x64.jpg");
+}
+
+.eve-64 {
+    @include img-64("../src/icons/Devery/64x64.jpg");
+}
+
+.bpt-64 {
+    @include img-64("../src/icons/Blockport/64x64.jpg");
+}
+
+.axp-64 {
+    @include img-64("../src/icons/aXpire/64x64.jpg");
+}
+
+.trac-64 {
+    @include img-64("../src/icons/OriginTrail/64x64.jpg");
+}
+
+.let-64 {
+    @include img-64("../src/icons/LinkEye/64x64.jpg");
+}
+
+.zil-64 {
+    @include img-64("../src/icons/Zilliqa/64x64.jpg");
+}
+
+.meet-64 {
+    @include img-64("../src/icons/CoinMeet/64x64.jpg");
+}
+
+.slt-64 {
+    @include img-64("../src/icons/Smartlands/64x64.jpg");
+}
+
+.fota-64 {
+    @include img-64("../src/icons/Fortuna/64x64.jpg");
+}
+
+.soc-64 {
+    @include img-64("../src/icons/AllSports/64x64.jpg");
+}
+
+.man-64 {
+    @include img-64("../src/icons/MatrixAINetwork/64x64.jpg");
+}
+
+.grlc-64 {
+    @include img-64("../src/icons/Garlicoin/64x64.jpg");
+}
+
+.ruff-64 {
+    @include img-64("../src/icons/Ruff/64x64.jpg");
+}
+
+.nkc-64 {
+    @include img-64("../src/icons/Nework/64x64.jpg");
+}
+
+.cofi-64 {
+    @include img-64("../src/icons/CoinFi/64x64.jpg");
+}
+
+.eql-64 {
+    @include img-64("../src/icons/Equal/64x64.jpg");
+}
+
+.hlc-64 {
+    @include img-64("../src/icons/HalalChain/64x64.jpg");
+}
+
+.zpt-64 {
+    @include img-64("../src/icons/Zeepin/64x64.jpg");
+}
+
+.cpc-64 {
+    @include img-64("../src/icons/CPChain/64x64.jpg");
+}
+
+.oc-64 {
+    @include img-64("../src/icons/OceanChain/64x64.jpg");
+}
+
+.hmc-64 {
+    @include img-64("../src/icons/HiMutualSociety/64x64.jpg");
+}
+
+.candy-64 {
+    @include img-64("../src/icons/Candy/64x64.jpg");
+}
+
+.sms-64 {
+    @include img-64("../src/icons/SpeedMiningService/64x64.jpg");
+}
+
+.epc-64 {
+    @include img-64("../src/icons/ElectronicPKChain/64x64.jpg");
+}
+
+.vlc-64 {
+    @include img-64("../src/icons/ValueChain/64x64.jpg");
+}
+
+.btw-64 {
+    @include img-64("../src/icons/BitWhite/64x64.jpg");
+}
+
+.cxo-64 {
+    @include img-64("../src/icons/CargoX/64x64.jpg");
+}
+
+.trf-64 {
+    @include img-64("../src/icons/Travelflex/64x64.jpg");
+}
+
+.ela-64 {
+    @include img-64("../src/icons/Elastos/64x64.jpg");
+}
+
+.stk-64 {
+    @include img-64("../src/icons/STK/64x64.jpg");
+}
+
+.pareto-64 {
+    @include img-64("../src/icons/ParetoNetwork/64x64.jpg");
+}
+
+.poly-64 {
+    @include img-64("../src/icons/Polymath/64x64.jpg");
+}
+
+.mtn-64 {
+    @include img-64("../src/icons/Medicalchain/64x64.jpg");
+}
+
+.jnt-64 {
+    @include img-64("../src/icons/JibrelNetwork/64x64.jpg");
+}
+
+.chsb-64 {
+    @include img-64("../src/icons/SwissBorg/64x64.jpg");
+}
+
+.zla-64 {
+    @include img-64("../src/icons/Zilla/64x64.jpg");
+}
+
+.adb-64 {
+    @include img-64("../src/icons/adbank/64x64.jpg");
+}
+
+.ht-64 {
+    @include img-64("../src/icons/HuobiToken/64x64.jpg");
+}
+
+.dmt-64 {
+    @include img-64("../src/icons/DMarket/64x64.jpg");
+}
+
+.ing-64 {
+    @include img-64("../src/icons/Iungo/64x64.jpg");
+}
+
+.blz-64 {
+    @include img-64("../src/icons/Bluzelle/64x64.jpg");
+}
+
+.swm-64 {
+    @include img-64("../src/icons/Swarm/64x64.jpg");
+}
+
+.tky-64 {
+    @include img-64("../src/icons/THEKEY/64x64.jpg");
+}
+
+.drpu-64 {
+    @include img-64("../src/icons/DCORPUtility/64x64.jpg");
+}
+
+.esz-64 {
+    @include img-64("../src/icons/EtherSportz/64x64.jpg");
+}
+
+.dxt-64 {
+    @include img-64("../src/icons/Datawallet/64x64.jpg");
+}
+
+.wpr-64 {
+    @include img-64("../src/icons/WePower/64x64.jpg");
+}
+
+.ucash-64 {
+    @include img-64("../src/icons/U.CASH/64x64.jpg");
+}
+
+.mntp-64 {
+    @include img-64("../src/icons/GoldMint/64x64.jpg");
+}
+
+.jew-64 {
+    @include img-64("../src/icons/Shekel/64x64.jpg");
+}
+
+.acc-64 {
+    @include img-64("../src/icons/ACChain/64x64.jpg");
+}
+
+.mlm-64 {
+    @include img-64("../src/icons/MktCoin/64x64.jpg");
+}
+
+.avh-64 {
+    @include img-64("../src/icons/AnimationVisionCash/64x64.jpg");
+}
+
+.loci-64 {
+    @include img-64("../src/icons/LOCIcoin/64x64.jpg");
+}
+
+.indi-64 {
+    @include img-64("../src/icons/Indicoin/64x64.jpg");
+}
+
+.jc-64 {
+    @include img-64("../src/icons/JesusCoin/64x64.jpg");
+}
+
+.bio-64 {
+    @include img-64("../src/icons/BioCoin/64x64.jpg");
+}
+
+.sup-64 {
+    @include img-64("../src/icons/SuperiorCoin/64x64.jpg");
+}
+
+.tig-64 {
+    @include img-64("../src/icons/Tigereum/64x64.jpg");
+}
+
+.utnp-64 {
+    @include img-64("../src/icons/Universa/64x64.jpg");
+}
+
+.acat-64 {
+    @include img-64("../src/icons/Alphacat/64x64.jpg");
+}
+
+.evn-64 {
+    @include img-64("../src/icons/Envion/64x64.jpg");
+}
+
+.rmt-64 {
+    @include img-64("../src/icons/SureRemit/64x64.jpg");
+}
+
+.dth-64 {
+    @include img-64("../src/icons/Dether/64x64.jpg");
+}
+
+.cas-64 {
+    @include img-64("../src/icons/Cashaa/64x64.jpg");
+}
+
+.fsn-64 {
+    @include img-64("../src/icons/Fusion/64x64.jpg");
+}
+
+.w3c-64 {
+    @include img-64("../src/icons/W3Coin/64x64.jpg");
+}
+
+.ech-64 {
+    @include img-64("../src/icons/Etherecash/64x64.jpg");
+}
+
+.mwat-64 {
+    @include img-64("../src/icons/RestartEnergyMWAT/64x64.jpg");
+}
+
+.gla-64 {
+    @include img-64("../src/icons/GladiusToken/64x64.jpg");
+}
+
+.dadi-64 {
+    @include img-64("../src/icons/DADI/64x64.jpg");
+}
+
+.ntk-64 {
+    @include img-64("../src/icons/Neurotoken/64x64.jpg");
+}
+
+.gem-64 {
+    @include img-64("../src/icons/Gems/64x64.jpg");
+}
+
+.nec-64 {
+    @include img-64("../src/icons/Nectar/64x64.jpg");
+}
+
+.ren-64 {
+    @include img-64("../src/icons/RepublicProtocol/64x64.jpg");
+}
+
+.lcc-64 {
+    @include img-64("../src/icons/LitecoinCash/64x64.jpg");
+}
+
+.stq-64 {
+    @include img-64("../src/icons/Storiqa/64x64.jpg");
+}
+
+.tdx-64 {
+    @include img-64("../src/icons/TidexToken/64x64.jpg");
+}
+
+.cpy-64 {
+    @include img-64("../src/icons/COPYTRACK/64x64.jpg");
+}
+
+.ncash-64 {
+    @include img-64("../src/icons/NucleusVision/64x64.jpg");
+}
+
+.abt-64 {
+    @include img-64("../src/icons/Arcblock/64x64.jpg");
+}
+
+.rem-64 {
+    @include img-64("../src/icons/Remme/64x64.jpg");
+}
+
+.exy-64 {
+    @include img-64("../src/icons/Experty/64x64.jpg");
+}
+
+.poa-64 {
+    @include img-64("../src/icons/POANetwork/64x64.jpg");
+}
+
+.xnk-64 {
+    @include img-64("../src/icons/InkProtocol/64x64.jpg");
+}
+
+.rkt-64 {
+    @include img-64("../src/icons/Rock/64x64.jpg");
+}
+
+.bez-64 {
+    @include img-64("../src/icons/Bezop/64x64.jpg");
+}
+
+.iht-64 {
+    @include img-64("../src/icons/IHTRealEstateProtocol/64x64.jpg");
+}
+
+.rfr-64 {
+    @include img-64("../src/icons/Refereum/64x64.jpg");
+}
+
+.lym-64 {
+    @include img-64("../src/icons/Lympo/64x64.jpg");
+}
+
+.seth-64 {
+    @include img-64("../src/icons/Sether/64x64.jpg");
+}
+
+.cs-64 {
+    @include img-64("../src/icons/Credits/64x64.jpg");
+}
+
+.bee-64 {
+    @include img-64("../src/icons/BeeToken/64x64.jpg");
+}
+
+.instar-64 {
+    @include img-64("../src/icons/InsightsNetwork/64x64.jpg");
+}
+
+.auto-64 {
+    @include img-64("../src/icons/Cube/64x64.jpg");
+}
+
+.ezt-64 {
+    @include img-64("../src/icons/EZToken/64x64.jpg");
+}
+
+.tube-64 {
+    @include img-64("../src/icons/BitTube/64x64.jpg");
+}
+
+.ledu-64 {
+    @include img-64("../src/icons/EducationEcosystem/64x64.jpg");
+}
+
+.tusd-64 {
+    @include img-64("../src/icons/TrueUSD/64x64.jpg");
+}
+
+.hqx-64 {
+    @include img-64("../src/icons/HOQU/64x64.jpg");
+}
+
+.stac-64 {
+    @include img-64("../src/icons/StarterCoin/64x64.jpg");
+}
+
+.ont-64 {
+    @include img-64("../src/icons/Ontology/64x64.jpg");
+}
+
+.datx-64 {
+    @include img-64("../src/icons/DATx/64x64.jpg");
+}
+
+.j8t-64 {
+    @include img-64("../src/icons/JET8/64x64.jpg");
+}
+
+.chp-64 {
+    @include img-64("../src/icons/CoinPoker/64x64.jpg");
+}
+
+.tomo-64 {
+    @include img-64("../src/icons/TomoChain/64x64.jpg");
+}
+
+.grft-64 {
+    @include img-64("../src/icons/Graft/64x64.jpg");
+}
+
+.bax-64 {
+    @include img-64("../src/icons/BABB/64x64.jpg");
+}
+
+.elec-64 {
+    @include img-64("../src/icons/Electrify.Asia/64x64.jpg");
+}
+
+.btcp-64 {
+    @include img-64("../src/icons/BitcoinPrivate/64x64.jpg");
+}
+
+.ten-64 {
+    @include img-64("../src/icons/Tokenomy/64x64.jpg");
+}
+
+.rvn-64 {
+    @include img-64("../src/icons/Ravencoin/64x64.jpg");
+}
+
+.tfd-64 {
+    @include img-64("../src/icons/TE-FOOD/64x64.jpg");
+}
+
+.ship-64 {
+    @include img-64("../src/icons/ShipChain/64x64.jpg");
+}
+
+.ldc-64 {
+    @include img-64("../src/icons/Leadcoin/64x64.jpg");
+}
+
+.shp-64 {
+    @include img-64("../src/icons/SharpePlatformToken/64x64.jpg");
+}
+
+.lala-64 {
+    @include img-64("../src/icons/LALAWorld/64x64.jpg");
+}
+
+.occ-64 {
+    @include img-64("../src/icons/OctoinCoin/64x64.jpg");
+}
+
+.deb-64 {
+    @include img-64("../src/icons/Debitum/64x64.jpg");
+}
+
+.cennz-64 {
+    @include img-64("../src/icons/Centrality/64x64.jpg");
+}
+
+.hav-64 {
+    @include img-64("../src/icons/Havven/64x64.jpg");
+}
+
+.fluz-64 {
+    @include img-64("../src/icons/FluzFluz/64x64.jpg");
+}
+
+.loom-64 {
+    @include img-64("../src/icons/LoomNetwork/64x64.jpg");
+}
+
+.getx-64 {
+    @include img-64("../src/icons/GuaranteedEthuranceTokenExtra/64x64.jpg");
+}
+
+.hire-64 {
+    @include img-64("../src/icons/HireMatch/64x64.jpg");
+}
+
+.drop-64 {
+    @include img-64("../src/icons/Dropil/64x64.jpg");
+}
+
+.banca-64 {
+    @include img-64("../src/icons/Banca/64x64.jpg");
+}
+
+.drg-64 {
+    @include img-64("../src/icons/DragonCoins/64x64.jpg");
+}
+
+.latx-64 {
+    @include img-64("../src/icons/LatiumX/64x64.jpg");
+}
+
+.nanj-64 {
+    @include img-64("../src/icons/NANJCOIN/64x64.jpg");
+}
+
+.ckusd-64 {
+    @include img-64("../src/icons/CKUSD/64x64.jpg");
+}
+
+.up-64 {
+    @include img-64("../src/icons/UpToken/64x64.jpg");
+}
+
+.bbn-64 {
+    @include img-64("../src/icons/BanyanNetwork/64x64.jpg");
+}
+
+.noah-64 {
+    @include img-64("../src/icons/NoahCoin/64x64.jpg");
+}
+
+.lgo-64 {
+    @include img-64("../src/icons/LGOExchange/64x64.jpg");
+}
+
+.owo-64 {
+    @include img-64("../src/icons/1World/64x64.jpg");
+}
+
+.npx-64 {
+    @include img-64("../src/icons/NaPoleonX/64x64.jpg");
+}
+
+.npxs-64 {
+    @include img-64("../src/icons/PundiX/64x64.jpg");
+}
+
+.bitg-64 {
+    @include img-64("../src/icons/BitcoinGreen/64x64.jpg");
+}
+
+.bft-64 {
+    @include img-64("../src/icons/BnkToTheFuture/64x64.jpg");
+}
+
+.wan-64 {
+    @include img-64("../src/icons/Wanchain/64x64.jpg");
+}
+
+.amlt-64 {
+    @include img-64("../src/icons/AMLT/64x64.jpg");
+}
+
+.mith-64 {
+    @include img-64("../src/icons/Mithril/64x64.jpg");
+}
+
+.lst-64 {
+    @include img-64("../src/icons/LendroidSupportToken/64x64.jpg");
+}
+
+.pcl-64 {
+    @include img-64("../src/icons/Peculium/64x64.jpg");
+}
+
+.sig-64 {
+    @include img-64("../src/icons/Spectiv/64x64.jpg");
+}
+
+.rntb-64 {
+    @include img-64("../src/icons/BitRent/64x64.jpg");
+}
+
+.xbp-64 {
+    @include img-64("../src/icons/BlitzPredict/64x64.jpg");
+}
+
+.lnc-64 {
+    @include img-64("../src/icons/Blocklancer/64x64.jpg");
+}
+
+.spd-64 {
+    @include img-64("../src/icons/Stipend/64x64.jpg");
+}
+
+.ipsx-64 {
+    @include img-64("../src/icons/IPExchange/64x64.jpg");
+}
+
+.scc-64 {
+    @include img-64("../src/icons/StockChain/64x64.jpg");
+}
+
+.bstn-64 {
+    @include img-64("../src/icons/BitStation/64x64.jpg");
+}
+
+.swth-64 {
+    @include img-64("../src/icons/Switcheo/64x64.jpg");
+}
+
+.sen-64 {
+    @include img-64("../src/icons/Consensus/64x64.jpg");
+}
+
+.senc-64 {
+    @include img-64("../src/icons/SentinelChain/64x64.jpg");
+}
+
+.vit-64 {
+    @include img-64("../src/icons/ViceIndustryToken/64x64.jpg");
+}
+
+.fdz-64 {
+    @include img-64("../src/icons/Friendz/64x64.jpg");
+}
+
+.tpay-64 {
+    @include img-64("../src/icons/TokenPay/64x64.jpg");
+}
+
+.berry-64 {
+    @include img-64("../src/icons/Rentberry/64x64.jpg");
+}
+
+.xtl-64 {
+    @include img-64("../src/icons/Stellite/64x64.jpg");
+}
+
+.nct-64 {
+    @include img-64("../src/icons/PolySwarm/64x64.jpg");
+}
+
+.ode-64 {
+    @include img-64("../src/icons/ODEM/64x64.jpg");
+}
+
+.xmo-64 {
+    @include img-64("../src/icons/MoneroOriginal/64x64.jpg");
+}
+
+.xsn-64 {
+    @include img-64("../src/icons/Stakenet/64x64.jpg");
+}
+
+.xdce-64 {
+    @include img-64("../src/icons/XinFinNetwork/64x64.jpg");
+}
+
+.tds-64 {
+    @include img-64("../src/icons/TokenDesk/64x64.jpg");
+}
+
+.bbi-64 {
+    @include img-64("../src/icons/BelugaPay/64x64.jpg");
+}
+
+.fid-64 {
+    @include img-64("../src/icons/Fidelium/64x64.jpg");
+}
+
+.ctxc-64 {
+    @include img-64("../src/icons/Cortex/64x64.jpg");
+}
+
+.atc-64 {
+    @include img-64("../src/icons/Arbitracoin/64x64.jpg");
+}
+
+.win-64 {
+    @include img-64("../src/icons/WCOIN/64x64.jpg");
+}
+
+.cpx-64 {
+    @include img-64("../src/icons/Apex/64x64.jpg");
+}
+
+.cvt-64 {
+    @include img-64("../src/icons/CyberVein/64x64.jpg");
+}
+
+.sent-64 {
+    @include img-64("../src/icons/Sentinel/64x64.jpg");
+}
+
+.eosdac-64 {
+    @include img-64("../src/icons/eosDAC/64x64.jpg");
+}
+
+.uuu-64 {
+    @include img-64("../src/icons/UNetwork/64x64.jpg");
+}
+
+.adh-64 {
+    @include img-64("../src/icons/AdHive/64x64.jpg");
+}
+
+.snip-64 {
+    @include img-64("../src/icons/SnipCoin/64x64.jpg");
+}
+
+.bsm-64 {
+    @include img-64("../src/icons/Bitsum/64x64.jpg");
+}
+
+.dev-64 {
+    @include img-64("../src/icons/DeviantCoin/64x64.jpg");
+}
+
+.cbt-64 {
+    @include img-64("../src/icons/CommerceBlock/64x64.jpg");
+}
+
+.grmd-64 {
+    @include img-64("../src/icons/GreenMed/64x64.jpg");
+}
+
+.cvh-64 {
+    @include img-64("../src/icons/CurriculumVitae/64x64.jpg");
+}
+
+.auc-64 {
+    @include img-64("../src/icons/Auctus/64x64.jpg");
+}
+
+.bubo-64 {
+    @include img-64("../src/icons/Budbo/64x64.jpg");
+}
+
+.xmc-64 {
+    @include img-64("../src/icons/MoneroClassic/64x64.jpg");
+}
+
+.dan-64 {
+    @include img-64("../src/icons/Daneel/64x64.jpg");
+}
+
+.brm-64 {
+    @include img-64("../src/icons/BrahmaOS/64x64.jpg");
+}
+
+.mfg-64 {
+    @include img-64("../src/icons/SyncFab/64x64.jpg");
+}
+
+.dig-64 {
+    @include img-64("../src/icons/Dignity/64x64.jpg");
+}
+
+.adi-64 {
+    @include img-64("../src/icons/Aditus/64x64.jpg");
+}
+
+.trio-64 {
+    @include img-64("../src/icons/Tripio/64x64.jpg");
+}
+
+.xhv-64 {
+    @include img-64("../src/icons/HavenProtocol/64x64.jpg");
+}
+
+.kst-64 {
+    @include img-64("../src/icons/StarCoin/64x64.jpg");
+}
+
+.crc-64 {
+    @include img-64("../src/icons/CryCash/64x64.jpg");
+}
+
+.dero-64 {
+    @include img-64("../src/icons/Dero/64x64.jpg");
+}
+
+.efx-64 {
+    @include img-64("../src/icons/Effect.AI/64x64.jpg");
+}
+
+.ftx-64 {
+    @include img-64("../src/icons/FintruXNetwork/64x64.jpg");
+}
+
+.earth-64 {
+    @include img-64("../src/icons/EarthToken/64x64.jpg");
+}
+
+.mrk-64 {
+    @include img-64("../src/icons/MARK.SPACE/64x64.jpg");
+}
+
+.pxc-64 {
+    @include img-64("../src/icons/PixieCoin/64x64.jpg");
+}
+
+.crop-64 {
+    @include img-64("../src/icons/Cropcoin/64x64.jpg");
+}
+
+.srcoin-64 {
+    @include img-64("../src/icons/SRCOIN/64x64.jpg");
+}
+
+.chx-64 {
+    @include img-64("../src/icons/Chainium/64x64.jpg");
+}
+
+.msr-64 {
+    @include img-64("../src/icons/Masari/64x64.jpg");
+}
+
+.dock-64 {
+    @include img-64("../src/icons/Dock/64x64.jpg");
+}
+
+.phi-64 {
+    @include img-64("../src/icons/PHIToken/64x64.jpg");
+}
+
+.lnc-64 {
+    @include img-64("../src/icons/LinkerCoin/64x64.jpg");
+}
+
+.bbc-64 {
+    @include img-64("../src/icons/TraDoveB2BCoin/64x64.jpg");
+}
+
+.dml-64 {
+    @include img-64("../src/icons/DecentralizedMachineLearning/64x64.jpg");
+}
+
+.hbz-64 {
+    @include img-64("../src/icons/Helbiz/64x64.jpg");
+}
+
+.ori-64 {
+    @include img-64("../src/icons/Origami/64x64.jpg");
+}
+
+.hot-64 {
+    @include img-64("../src/icons/Holo/64x64.jpg");
+}
+
+.trak-64 {
+    @include img-64("../src/icons/TrakInvest/64x64.jpg");
+}
+
+.aph-64 {
+    @include img-64("../src/icons/Aphelion/64x64.jpg");
+}
+
+.zco-64 {
+    @include img-64("../src/icons/Zebi/64x64.jpg");
+}
+
+.lnd-64 {
+    @include img-64("../src/icons/Lendingblock/64x64.jpg");
+}
+
+.xes-64 {
+    @include img-64("../src/icons/Proxeus/64x64.jpg");
+}
+
+.vips-64 {
+    @include img-64("../src/icons/VipstarCoin/64x64.jpg");
+}
+
+.rblx-64 {
+    @include img-64("../src/icons/Rublix/64x64.jpg");
+}
+
+.btrn-64 {
+    @include img-64("../src/icons/Biotron/64x64.jpg");
+}
+
+.pnt-64 {
+    @include img-64("../src/icons/Penta/64x64.jpg");
+}
+
+.nbai-64 {
+    @include img-64("../src/icons/NebulaAI/64x64.jpg");
+}
+
+.lrn-64 {
+    @include img-64("../src/icons/Loopring[NEO]/64x64.jpg");
+}
+
+.nexo-64 {
+    @include img-64("../src/icons/Nexo/64x64.jpg");
+}
+
+.vme-64 {
+    @include img-64("../src/icons/VeriME/64x64.jpg");
+}
+
+.dax-64 {
+    @include img-64("../src/icons/DAEX/64x64.jpg");
+}
+
+.hydro-64 {
+    @include img-64("../src/icons/Hydro/64x64.jpg");
+}
+
+.ss-64 {
+    @include img-64("../src/icons/Sharder/64x64.jpg");
+}
+
+.ttt-64 {
+    @include img-64("../src/icons/TrustNote/64x64.jpg");
+}
+
+.bci-64 {
+    @include img-64("../src/icons/BitcoinInterest/64x64.jpg");
+}
+
+.betr-64 {
+    @include img-64("../src/icons/BetterBetting/64x64.jpg");
+}
+
+.tns-64 {
+    @include img-64("../src/icons/Transcodium/64x64.jpg");
+}
+
+.amn-64 {
+    @include img-64("../src/icons/Amon/64x64.jpg");
+}
+
+.plan-64 {
+    @include img-64("../src/icons/Plancoin/64x64.jpg");
+}
+
+.flp-64 {
+    @include img-64("../src/icons/FLIP/64x64.jpg");
+}
+
+.cmct-64 {
+    @include img-64("../src/icons/CrowdMachine/64x64.jpg");
+}
+
+.mitx-64 {
+    @include img-64("../src/icons/MorpheusLabs/64x64.jpg");
+}
+
+.live-64 {
+    @include img-64("../src/icons/LiveStars/64x64.jpg");
+}
+
+.mtc-64 {
+    @include img-64("../src/icons/Docademic/64x64.jpg");
+}
+
+.mt-64 {
+    @include img-64("../src/icons/MyToken/64x64.jpg");
+}
+
+.key-64 {
+    @include img-64("../src/icons/KEY/64x64.jpg");
+}
+
+.nty-64 {
+    @include img-64("../src/icons/Nexty/64x64.jpg");
+}
+
+.cjt-64 {
+    @include img-64("../src/icons/ConnectJob/64x64.jpg");
+}
+
+.ges-64 {
+    @include img-64("../src/icons/GalaxyeSolutions/64x64.jpg");
+}
+
+.bouts-64 {
+    @include img-64("../src/icons/BoutsPro/64x64.jpg");
+}
+
+.pal-64 {
+    @include img-64("../src/icons/PolicyPalNetwork/64x64.jpg");
+}
+
+.cre-64 {
+    @include img-64("../src/icons/Cybereits/64x64.jpg");
+}
+
+.gene-64 {
+    @include img-64("../src/icons/Parkgene/64x64.jpg");
+}
+
+.apr-64 {
+    @include img-64("../src/icons/APRCoin/64x64.jpg");
+}
+
+.ac3-64 {
+    @include img-64("../src/icons/AC3/64x64.jpg");
+}
+
+.fxt-64 {
+    @include img-64("../src/icons/FuzeX/64x64.jpg");
+}
+
+.zipt-64 {
+    @include img-64("../src/icons/Zippie/64x64.jpg");
+}
+
+.skm-64 {
+    @include img-64("../src/icons/SkrumbleNetwork/64x64.jpg");
+}
+
+.gen-64 {
+    @include img-64("../src/icons/DAOstack/64x64.jpg");
+}
+
+.bznt-64 {
+    @include img-64("../src/icons/Bezant/64x64.jpg");
+}
+
+.lif-64 {
+    @include img-64("../src/icons/WindingTree/64x64.jpg");
+}
+
+.team-64 {
+    @include img-64("../src/icons/TEAM(TokenStars)/64x64.jpg");
+}
+
+.frv-64 {
+    @include img-64("../src/icons/Fitrova/64x64.jpg");
+}
+
+.oot-64 {
+    @include img-64("../src/icons/Utrum/64x64.jpg");
+}
+
+.atx-64 {
+    @include img-64("../src/icons/Aston/64x64.jpg");
+}
+
+.frec-64 {
+    @include img-64("../src/icons/Freyrchain/64x64.jpg");
+}
+
+.edu-64 {
+    @include img-64("../src/icons/EduCoin/64x64.jpg");
+}
+
+.cnn-64 {
+    @include img-64("../src/icons/ContentNeutralityNetwork/64x64.jpg");
+}
+
+.insur-64 {
+    @include img-64("../src/icons/InsurChain/64x64.jpg");
+}
+
+.gsc-64 {
+    @include img-64("../src/icons/GlobalSocialChain/64x64.jpg");
+}
+
+.sgcc-64 {
+    @include img-64("../src/icons/SuperGameChain/64x64.jpg");
+}
+
+.dgx-64 {
+    @include img-64("../src/icons/DigixGoldToken/64x64.jpg");
+}
+
+.inc-64 {
+    @include img-64("../src/icons/InfluenceChain/64x64.jpg");
+}
+
+.iic-64 {
+    @include img-64("../src/icons/IntelligentInvestmentChain/64x64.jpg");
+}
+
+.skb-64 {
+    @include img-64("../src/icons/SakuraBloom/64x64.jpg");
+}
+
+.bank-64 {
+    @include img-64("../src/icons/BankCoin/64x64.jpg");
+}
+
+.nper-64 {
+    @include img-64("../src/icons/NPER/64x64.jpg");
+}
+
+.dasc-64 {
+    @include img-64("../src/icons/DasCoin/64x64.jpg");
+}
+
+.bmh-64 {
+    @include img-64("../src/icons/BlockMesh/64x64.jpg");
+}
+
+.loki-64 {
+    @include img-64("../src/icons/Loki/64x64.jpg");
+}
+
+.sgn-64 {
+    @include img-64("../src/icons/SignalsNetwork/64x64.jpg");
+}
+
+.shl-64 {
+    @include img-64("../src/icons/OysterShell/64x64.jpg");
+}
+
+.fnd-64 {
+    @include img-64("../src/icons/FundRequest/64x64.jpg");
+}
+
+.dtrc-64 {
+    @include img-64("../src/icons/DatariusCredit/64x64.jpg");
+}
+
+.cln-64 {
+    @include img-64("../src/icons/ColuLocalNetwork/64x64.jpg");
+}
+
+.her-64 {
+    @include img-64("../src/icons/HeroNode/64x64.jpg");
+}
+
+.hero-64 {
+    @include img-64("../src/icons/Hero/64x64.jpg");
+}
+
+.tka-64 {
+    @include img-64("../src/icons/Tokia/64x64.jpg");
+}
+
+.clo-64 {
+    @include img-64("../src/icons/CallistoNetwork/64x64.jpg");
+}
+
+.ubt-64 {
+    @include img-64("../src/icons/Unibright/64x64.jpg");
+}
+
+.pat-64 {
+    @include img-64("../src/icons/Patron/64x64.jpg");
+}
+
+.lba-64 {
+    @include img-64("../src/icons/LibraCredit/64x64.jpg");
+}
+
+.lwf-64 {
+    @include img-64("../src/icons/LocalWorldForwarders/64x64.jpg");
+}
+
+.open-64 {
+    @include img-64("../src/icons/OpenPlatform/64x64.jpg");
+}
+
+.morph-64 {
+    @include img-64("../src/icons/MorpheusNetwork/64x64.jpg");
+}
+
+.sntr-64 {
+    @include img-64("../src/icons/SilentNotary/64x64.jpg");
+}
+
+.xyo-64 {
+    @include img-64("../src/icons/XYONetwork/64x64.jpg");
+}
+
+.cpt-64 {
+    @include img-64("../src/icons/Cryptaur/64x64.jpg");
+}
+
+.apis-64 {
+    @include img-64("../src/icons/APIS/64x64.jpg");
+}
+
+.ft-64 {
+    @include img-64("../src/icons/FabricToken/64x64.jpg");
+}
+
+.xrh-64 {
+    @include img-64("../src/icons/Rhenium/64x64.jpg");
+}
+
+.caz-64 {
+    @include img-64("../src/icons/Cazcoin/64x64.jpg");
+}
+
+.red-64 {
+    @include img-64("../src/icons/RED/64x64.jpg");
+}
+
+.dgtx-64 {
+    @include img-64("../src/icons/DigitexFutures/64x64.jpg");
+}
+
+.gin-64 {
+    @include img-64("../src/icons/GINcoin/64x64.jpg");
+}
+
+.inv-64 {
+    @include img-64("../src/icons/Invacio/64x64.jpg");
+}
+
+.face-64 {
+    @include img-64("../src/icons/Faceter/64x64.jpg");
+}
+
+.ava-64 {
+    @include img-64("../src/icons/Travala/64x64.jpg");
+}
+
+.iotx-64 {
+    @include img-64("../src/icons/IoTeX/64x64.jpg");
+}
+
+.exc-64 {
+    @include img-64("../src/icons/Eximchain/64x64.jpg");
+}
+
+.luc-64 {
+    @include img-64("../src/icons/LevelUpCoin/64x64.jpg");
+}
+
+.nkn-64 {
+    @include img-64("../src/icons/NKN/64x64.jpg");
+}
+
+.navi-64 {
+    @include img-64("../src/icons/Naviaddress/64x64.jpg");
+}
+
+.zip-64 {
+    @include img-64("../src/icons/Zipper/64x64.jpg");
+}
+
+.soul-64 {
+    @include img-64("../src/icons/Phantasma/64x64.jpg");
+}
+
+.spd-64 {
+    @include img-64("../src/icons/SPINDLE/64x64.jpg");
+}
+
+.repo-64 {
+    @include img-64("../src/icons/REPO/64x64.jpg");
+}
+
+.seele-64 {
+    @include img-64("../src/icons/Seele/64x64.jpg");
+}
+
+.ejoy-64 {
+    @include img-64("../src/icons/EJOY/64x64.jpg");
+}
+
+.ivy-64 {
+    @include img-64("../src/icons/Ivy/64x64.jpg");
+}
+
+.cnet-64 {
+    @include img-64("../src/icons/ContractNet/64x64.jpg");
+}
+
+.edr-64 {
+    @include img-64("../src/icons/EndorProtocol/64x64.jpg");
+}
+
+.bbo-64 {
+    @include img-64("../src/icons/Bigbom/64x64.jpg");
+}
+
+.zxbtc-64 {
+    @include img-64("../src/icons/0xBitcoin/64x64.jpg");
+}
+
+.pai-64 {
+    @include img-64("../src/icons/PCHAIN/64x64.jpg");
+}
+
+.qkc-64 {
+    @include img-64("../src/icons/QuarkChain/64x64.jpg");
+}
+
+.lyl-64 {
+    @include img-64("../src/icons/LoyalCoin/64x64.jpg");
+}
+
+.bnk-64 {
+    @include img-64("../src/icons/Bankera/64x64.jpg");
+}
+
+.etz-64 {
+    @include img-64("../src/icons/EtherZero/64x64.jpg");
+}
+
+.omx-64 {
+    @include img-64("../src/icons/Shivom/64x64.jpg");
+}
+
+.medx-64 {
+    @include img-64("../src/icons/MediBloc[ERC20]/64x64.jpg");
+}
+
+.fto-64 {
+    @include img-64("../src/icons/FuturoCoin/64x64.jpg");
+}
+
+.abyss-64 {
+    @include img-64("../src/icons/TheAbyss/64x64.jpg");
+}
+
+.pmnt-64 {
+    @include img-64("../src/icons/Paymon/64x64.jpg");
+}
+
+.hur-64 {
+    @include img-64("../src/icons/Hurify/64x64.jpg");
+}
+
+.tmt-64 {
+    @include img-64("../src/icons/TRAXIA/64x64.jpg");
+}
+
+.egcc-64 {
+    @include img-64("../src/icons/Engine/64x64.jpg");
+}
+
+.mrq-64 {
+    @include img-64("../src/icons/MIRQ/64x64.jpg");
+}
+
+.pkc-64 {
+    @include img-64("../src/icons/PikcioChain/64x64.jpg");
+}
+
+.cbc-64 {
+    @include img-64("../src/icons/CashBetCoin/64x64.jpg");
+}
+
+.ceek-64 {
+    @include img-64("../src/icons/CEEKVR/64x64.jpg");
+}
+
+.sal-64 {
+    @include img-64("../src/icons/SalPay/64x64.jpg");
+}
+
+.cou-64 {
+    @include img-64("../src/icons/Couchain/64x64.jpg");
+}
+
+.xmx-64 {
+    @include img-64("../src/icons/XMax/64x64.jpg");
+}
+
+.go-64 {
+    @include img-64("../src/icons/GoChain/64x64.jpg");
+}
+
+.ssp-64 {
+    @include img-64("../src/icons/Smartshare/64x64.jpg");
+}
+
+.trtt-64 {
+    @include img-64("../src/icons/Trittium/64x64.jpg");
+}
+
+.upp-64 {
+    @include img-64("../src/icons/SentinelProtocol/64x64.jpg");
+}
+
+.bwt-64 {
+    @include img-64("../src/icons/Bittwatt/64x64.jpg");
+}
+
+.dag-64 {
+    @include img-64("../src/icons/Constellation/64x64.jpg");
+}
+
+.mvp-64 {
+    @include img-64("../src/icons/Merculet/64x64.jpg");
+}
+
+.fgc-64 {
+    @include img-64("../src/icons/FantasyGold/64x64.jpg");
+}
+
+.etk-64 {
+    @include img-64("../src/icons/EnergiToken/64x64.jpg");
+}
+
+.met-64 {
+    @include img-64("../src/icons/Metronome/64x64.jpg");
+}
+
+.aoa-64 {
+    @include img-64("../src/icons/Aurora/64x64.jpg");
+}
+
+.alx-64 {
+    @include img-64("../src/icons/ALAX/64x64.jpg");
+}
+
+.tern-64 {
+    @include img-64("../src/icons/Ternio/64x64.jpg");
+}
+
+.boe-64 {
+    @include img-64("../src/icons/Bodhi[ETH]/64x64.jpg");
+}
+
+.dft-64 {
+    @include img-64("../src/icons/DigiFinexToken/64x64.jpg");
+}
+
+.ors-64 {
+    @include img-64("../src/icons/OriginSport/64x64.jpg");
+}
+
+.rte-64 {
+    @include img-64("../src/icons/Rate3/64x64.jpg");
+}
+
+.dcc-64 {
+    @include img-64("../src/icons/DistributedCreditChain/64x64.jpg");
+}
+
+.zcn-64 {
+    @include img-64("../src/icons/0chain/64x64.jpg");
+}
+
+.zinc-64 {
+    @include img-64("../src/icons/ZINC/64x64.jpg");
+}
+
+.fsbt-64 {
+    @include img-64("../src/icons/FortySevenBank/64x64.jpg");
+}
+
+.egt-64 {
+    @include img-64("../src/icons/Egretia/64x64.jpg");
+}
+
+.ttu-64 {
+    @include img-64("../src/icons/TaTaTu/64x64.jpg");
+}
+
+.dor-64 {
+    @include img-64("../src/icons/Dorado/64x64.jpg");
+}
+
+.car-64 {
+    @include img-64("../src/icons/CarBlock/64x64.jpg");
+}
+
+.bob-64 {
+    @include img-64("../src/icons/Bob'sRepair/64x64.jpg");
+}
+
+.kndc-64 {
+    @include img-64("../src/icons/KanadeCoin/64x64.jpg");
+}
+
+.card-64 {
+    @include img-64("../src/icons/Cardstack/64x64.jpg");
+}
+
+.wwb-64 {
+    @include img-64("../src/icons/Wowbit/64x64.jpg");
+}
+
+.onl-64 {
+    @include img-64("../src/icons/On.Live/64x64.jpg");
+}
+
+.otb-64 {
+    @include img-64("../src/icons/OTCBTCToken/64x64.jpg");
+}
+
+.coni-64 {
+    @include img-64("../src/icons/Coni/64x64.jpg");
+}
+
+.mft-64 {
+    @include img-64("../src/icons/Mainframe/64x64.jpg");
+}
+
+.cccx-64 {
+    @include img-64("../src/icons/ClipperCoin/64x64.jpg");
+}
+
+.got-64 {
+    @include img-64("../src/icons/GoNetwork/64x64.jpg");
+}
+
+.thrt-64 {
+    @include img-64("../src/icons/ThriveToken/64x64.jpg");
+}
+
+.pai-64 {
+    @include img-64("../src/icons/ProjectPai/64x64.jpg");
+}
+
+.fti-64 {
+    @include img-64("../src/icons/FansTime/64x64.jpg");
+}
+
+.pch-64 {
+    @include img-64("../src/icons/POPCHAIN/64x64.jpg");
+}
+
+.seer-64 {
+    @include img-64("../src/icons/SEER/64x64.jpg");
+}
+
+.ft-64 {
+    @include img-64("../src/icons/FCoinToken/64x64.jpg");
+}
+
+.ess-64 {
+    @include img-64("../src/icons/Essentia/64x64.jpg");
+}
+
+.kbc-64 {
+    @include img-64("../src/icons/KaratgoldCoin/64x64.jpg");
+}
+
+.hsc-64 {
+    @include img-64("../src/icons/HashCoin/64x64.jpg");
+}
+
+.like-64 {
+    @include img-64("../src/icons/LikeCoin/64x64.jpg");
+}
+
+.yup-64 {
+    @include img-64("../src/icons/Crowdholding/64x64.jpg");
+}
+
+.ors-64 {
+    @include img-64("../src/icons/ORSGroup/64x64.jpg");
+}
+
+.xsg-64 {
+    @include img-64("../src/icons/SnowGem/64x64.jpg");
+}
+
+.dtx-64 {
+    @include img-64("../src/icons/DaTaeXchange/64x64.jpg");
+}
+
+.bkbt-64 {
+    @include img-64("../src/icons/BeeKan/64x64.jpg");
+}
+
+.moc-64 {
+    @include img-64("../src/icons/Mossland/64x64.jpg");
+}
+
+.nim-64 {
+    @include img-64("../src/icons/Nimiq/64x64.jpg");
+}
+
+.sfu-64 {
+    @include img-64("../src/icons/Saifu/64x64.jpg");
+}
+
+.bz-64 {
+    @include img-64("../src/icons/Bit-ZToken/64x64.jpg");
+}
+
+.dws-64 {
+    @include img-64("../src/icons/DWS/64x64.jpg");
+}
+
+.zxc-64 {
+    @include img-64("../src/icons/0xcert/64x64.jpg");
+}
+
+.olt-64 {
+    @include img-64("../src/icons/OneLedger/64x64.jpg");
+}
+
+.atmi-64 {
+    @include img-64("../src/icons/Atonomi/64x64.jpg");
+}
+
+.xmct-64 {
+    @include img-64("../src/icons/XMCT/64x64.jpg");
+}
+
+.fnkos-64 {
+    @include img-64("../src/icons/FNKOS/64x64.jpg");
+}
+
+.rcd-64 {
+    @include img-64("../src/icons/RECORD/64x64.jpg");
+}
+
+.psm-64 {
+    @include img-64("../src/icons/PRASM/64x64.jpg");
+}
+
+.nusd-64 {
+    @include img-64("../src/icons/nUSD/64x64.jpg");
+}
+
+.ply-64 {
+    @include img-64("../src/icons/PlayCoin/64x64.jpg");
+}
+
+.tgame-64 {
+    @include img-64("../src/icons/Truegame/64x64.jpg");
+}
+
+.iq-64 {
+    @include img-64("../src/icons/Everipedia/64x64.jpg");
+}
+
+.engt-64 {
+    @include img-64("../src/icons/EngagementToken/64x64.jpg");
+}
+
+.nobs-64 {
+    @include img-64("../src/icons/NoBSCrypto/64x64.jpg");
+}
+
+.bmx-64 {
+    @include img-64("../src/icons/BitMartToken/64x64.jpg");
+}
+
+.kan-64 {
+    @include img-64("../src/icons/BitKan/64x64.jpg");
+}
+
+.cdm-64 {
+    @include img-64("../src/icons/Condominium/64x64.jpg");
+}
+
+.mtc-64 {
+    @include img-64("../src/icons/MTCMeshNetwork/64x64.jpg");
+}
+
+.vite-64 {
+    @include img-64("../src/icons/VITE/64x64.jpg");
+}
+
+.gard-64 {
+    @include img-64("../src/icons/Hashgard/64x64.jpg");
+}
+
+.scrl-64 {
+    @include img-64("../src/icons/Scroll/64x64.jpg");
+}
+
+.spx-64 {
+    @include img-64("../src/icons/Sp8de/64x64.jpg");
+}
+
+.cet-64 {
+    @include img-64("../src/icons/CoinExToken/64x64.jpg");
+}
+
+.aeg-64 {
+    @include img-64("../src/icons/Aegeus/64x64.jpg");
+}
+
+.rpl-64 {
+    @include img-64("../src/icons/RocketPool/64x64.jpg");
+}
+
+.ely-64 {
+    @include img-64("../src/icons/Elysian/64x64.jpg");
+}
+
+.box-64 {
+    @include img-64("../src/icons/ContentBox/64x64.jpg");
+}
+
+.ptt-64 {
+    @include img-64("../src/icons/ProtonToken/64x64.jpg");
+}
+
+.sop-64 {
+    @include img-64("../src/icons/SoPay/64x64.jpg");
+}
+
+.jot-64 {
+    @include img-64("../src/icons/Jury.OnlineToken/64x64.jpg");
+}
+
+.krl-64 {
+    @include img-64("../src/icons/Kryll/64x64.jpg");
+}
+
+.lemo-64 {
+    @include img-64("../src/icons/LemoChain/64x64.jpg");
+}
+
+.bwx-64 {
+    @include img-64("../src/icons/BlueWhaleToken/64x64.jpg");
+}
+
+.wys-64 {
+    @include img-64("../src/icons/wysToken/64x64.jpg");
+}
+
+.cosm-64 {
+    @include img-64("../src/icons/CosmoCoin/64x64.jpg");
+}
+
+.nrve-64 {
+    @include img-64("../src/icons/Narrative/64x64.jpg");
+}
+
+.ole-64 {
+    @include img-64("../src/icons/Olive/64x64.jpg");
+}
+
+.trtl-64 {
+    @include img-64("../src/icons/Turtlecoin/64x64.jpg");
+}
+
+.wt-64 {
+    @include img-64("../src/icons/WeToken/64x64.jpg");
+}
+
+.toto-64 {
+    @include img-64("../src/icons/TouristToken/64x64.jpg");
+}
+
+.rlx-64 {
+    @include img-64("../src/icons/Relex/64x64.jpg");
+}
+
+.chex-64 {
+    @include img-64("../src/icons/CHEX/64x64.jpg");
+}
+
+.view-64 {
+    @include img-64("../src/icons/View/64x64.jpg");
+}
+
+.vct-64 {
+    @include img-64("../src/icons/ValueCyberToken/64x64.jpg");
+}
+
+.vikky-64 {
+    @include img-64("../src/icons/VikkyToken/64x64.jpg");
+}
+
+.foxt-64 {
+    @include img-64("../src/icons/FoxTrading/64x64.jpg");
+}
+
+.rtb-64 {
+    @include img-64("../src/icons/AB-ChainRTB/64x64.jpg");
+}
+
+.toll-64 {
+    @include img-64("../src/icons/BridgeProtocol/64x64.jpg");
+}
+
+.gve-64 {
+    @include img-64("../src/icons/GlobalvillageEcosystem/64x64.jpg");
+}
+
+.lcs-64 {
+    @include img-64("../src/icons/LocalCoinSwap/64x64.jpg");
+}
+
+.zpr-64 {
+    @include img-64("../src/icons/ZPER/64x64.jpg");
+}
+
+.empr-64 {
+    @include img-64("../src/icons/empowrcoin/64x64.jpg");
+}
+
+.lpc-64 {
+    @include img-64("../src/icons/Lightpaycoin/64x64.jpg");
+}
+
+.fundz-64 {
+    @include img-64("../src/icons/FundToken/64x64.jpg");
+}
+
+.ryo-64 {
+    @include img-64("../src/icons/RyoCurrency/64x64.jpg");
+}
+
+.bit-64 {
+    @include img-64("../src/icons/BitRewards/64x64.jpg");
+}
+
+.aced-64 {
+    @include img-64("../src/icons/AceD/64x64.jpg");
+}
+
+.lft-64 {
+    @include img-64("../src/icons/Linfinity/64x64.jpg");
+}
+
+.wab-64 {
+    @include img-64("../src/icons/WABnetwork/64x64.jpg");
+}
+
+.csm-64 {
+    @include img-64("../src/icons/Consentium/64x64.jpg");
+}
+
+.mvl-64 {
+    @include img-64("../src/icons/MassVehicleLedger/64x64.jpg");
+}
+
+.xxx-64 {
+    @include img-64("../src/icons/AdultChain/64x64.jpg");
+}
+
+.ncp-64 {
+    @include img-64("../src/icons/NewtonCoinProject/64x64.jpg");
+}
+
+.arb-64 {
+    @include img-64("../src/icons/ARBITRAGE/64x64.jpg");
+}
+
+.dacc-64 {
+    @include img-64("../src/icons/DACC/64x64.jpg");
+}
+
+.tos-64 {
+    @include img-64("../src/icons/ThingsOperatingSystem/64x64.jpg");
+}
+
+.pgn-64 {
+    @include img-64("../src/icons/Pigeoncoin/64x64.jpg");
+}
+
+.eurs-64 {
+    @include img-64("../src/icons/STASISEURS/64x64.jpg");
+}
+
+.nix-64 {
+    @include img-64("../src/icons/NIX/64x64.jpg");
+}
+
+.apl-64 {
+    @include img-64("../src/icons/ApolloCurrency/64x64.jpg");
+}
+
+.horus-64 {
+    @include img-64("../src/icons/HorusPay/64x64.jpg");
+}
+
+.bifi-64 {
+    @include img-64("../src/icons/BitcoinFile/64x64.jpg");
+}
+
+.pwv-64 {
+    @include img-64("../src/icons/Wavebase/64x64.jpg");
+}
+
+.dpn-64 {
+    @include img-64("../src/icons/DIPNET/64x64.jpg");
+}
+
+.vex-64 {
+    @include img-64("../src/icons/Vexanium/64x64.jpg");
+}
+
+.mct-64 {
+    @include img-64("../src/icons/MasterContractToken/64x64.jpg");
+}
+
+.wsd-64 {
+    @include img-64("../src/icons/WhiteStandard/64x64.jpg");
+}
+
+.acdc-64 {
+    @include img-64("../src/icons/Volt/64x64.jpg");
+}
+
+.nbr-64 {
+    @include img-64("../src/icons/NiobioCash/64x64.jpg");
+}
+
+.purex-64 {
+    @include img-64("../src/icons/Purex/64x64.jpg");
+}
+
+.cen-64 {
+    @include img-64("../src/icons/CoinsuperEcosystemNetwork/64x64.jpg");
+}
+
+.bitx-64 {
+    @include img-64("../src/icons/BitScreenerToken/64x64.jpg");
+}
+
+.vtho-64 {
+    @include img-64("../src/icons/VeThorToken/64x64.jpg");
+}
+
+.priv-64 {
+    @include img-64("../src/icons/PRiVCY/64x64.jpg");
+}
+
+.coin-64 {
+    @include img-64("../src/icons/Coinvest/64x64.jpg");
+}
+
+.lstr-64 {
+    @include img-64("../src/icons/LunaStars/64x64.jpg");
+}

@@ -5,8 +5,6 @@ var rename = require('gulp-rename');
 /*
  * Variables
  */
-// Sass Source
-var scssFiles = './src/scss/icons.scss';
 
 // CSS destination
 var cssDest = './css';
@@ -26,22 +24,24 @@ var sassProdOptions = {
  */
 // Task 'sassdev' - Run with command 'gulp sassdev'
 gulp.task('sassdev', function() {
-  return gulp.src(scssFiles)
+  return gulp.src("./src/scss/*.scss")
     .pipe(sass(sassDevOptions).on('error', sass.logError))
     .pipe(gulp.dest(cssDest));
 });
 
 // Task 'sassprod' - Run with command 'gulp sassprod'
 gulp.task('sassprod', function() {
-  return gulp.src(scssFiles)
+  return gulp.src("./src/scss/*.scss")
     .pipe(sass(sassProdOptions).on('error', sass.logError))
-    .pipe(rename('icons.min.css'))
+    .pipe(rename(function (path) {
+      path.basename += ".min";
+    }))
     .pipe(gulp.dest(cssDest));
 });
 
 // Task 'watch' - Run with command 'gulp watch'
 gulp.task('watch', function() {
-  gulp.watch(scssFiles, ['sassdev', 'sassprod']);
+  gulp.watch("./src/scss/*.scss", ['sassdev', 'sassprod']);
 });
 
 // Default task - Run with command 'gulp'

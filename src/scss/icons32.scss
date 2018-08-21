@@ -1,0 +1,6362 @@
+@mixin img-32 ($src) {
+    display: inline-block;
+    background: url($src) no-repeat center;
+    width: 32px;
+    height: 32px;
+}
+
+.btc-32 {
+    @include img-32("../src/icons/Bitcoin/32x32.jpg");
+}
+
+.ltc-32 {
+    @include img-32("../src/icons/Litecoin/32x32.jpg");
+}
+
+.nmc-32 {
+    @include img-32("../src/icons/Namecoin/32x32.jpg");
+}
+
+.trc-32 {
+    @include img-32("../src/icons/Terracoin/32x32.jpg");
+}
+
+.ppc-32 {
+    @include img-32("../src/icons/Peercoin/32x32.jpg");
+}
+
+.nvc-32 {
+    @include img-32("../src/icons/Novacoin/32x32.jpg");
+}
+
+.ftc-32 {
+    @include img-32("../src/icons/Feathercoin/32x32.jpg");
+}
+
+.mnc-32 {
+    @include img-32("../src/icons/Mincoin/32x32.jpg");
+}
+
+.frc-32 {
+    @include img-32("../src/icons/Freicoin/32x32.jpg");
+}
+
+.ixc-32 {
+    @include img-32("../src/icons/Ixcoin/32x32.jpg");
+}
+
+.btb-32 {
+    @include img-32("../src/icons/BitBar/32x32.jpg");
+}
+
+.wdc-32 {
+    @include img-32("../src/icons/WorldCoin/32x32.jpg");
+}
+
+.dgc-32 {
+    @include img-32("../src/icons/Digitalcoin/32x32.jpg");
+}
+
+.gld-32 {
+    @include img-32("../src/icons/GoldCoin/32x32.jpg");
+}
+
+.arg-32 {
+    @include img-32("../src/icons/Argentum/32x32.jpg");
+}
+
+.fst-32 {
+    @include img-32("../src/icons/Fastcoin/32x32.jpg");
+}
+
+.btgem-32 {
+    @include img-32("../src/icons/Bitgem/32x32.jpg");
+}
+
+.phxc-32 {
+    @include img-32("../src/icons/Phoenixcoin/32x32.jpg");
+}
+
+.mec-32 {
+    @include img-32("../src/icons/Megacoin/32x32.jpg");
+}
+
+.ifc-32 {
+    @include img-32("../src/icons/Infinitecoin/32x32.jpg");
+}
+
+.xpm-32 {
+    @include img-32("../src/icons/Primecoin/32x32.jpg");
+}
+
+.anc-32 {
+    @include img-32("../src/icons/Anoncoin/32x32.jpg");
+}
+
+.csc-32 {
+    @include img-32("../src/icons/CasinoCoin/32x32.jpg");
+}
+
+.cbx-32 {
+    @include img-32("../src/icons/Bullion/32x32.jpg");
+}
+
+.emd-32 {
+    @include img-32("../src/icons/EmeraldCrypto/32x32.jpg");
+}
+
+.glc-32 {
+    @include img-32("../src/icons/GlobalCoin/32x32.jpg");
+}
+
+.xrp-32 {
+    @include img-32("../src/icons/XRP/32x32.jpg");
+}
+
+.qrk-32 {
+    @include img-32("../src/icons/Quark/32x32.jpg");
+}
+
+.zet-32 {
+    @include img-32("../src/icons/Zetacoin/32x32.jpg");
+}
+
+.src-32 {
+    @include img-32("../src/icons/SecureCoin/32x32.jpg");
+}
+
+.sxc-32 {
+    @include img-32("../src/icons/Sexcoin/32x32.jpg");
+}
+
+.tag-32 {
+    @include img-32("../src/icons/TagCoin/32x32.jpg");
+}
+
+.i0c-32 {
+    @include img-32("../src/icons/I0Coin/32x32.jpg");
+}
+
+.flo-32 {
+    @include img-32("../src/icons/FlorinCoin/32x32.jpg");
+}
+
+.nxt-32 {
+    @include img-32("../src/icons/Nxt/32x32.jpg");
+}
+
+.uno-32 {
+    @include img-32("../src/icons/Unobtanium/32x32.jpg");
+}
+
+.xjo-32 {
+    @include img-32("../src/icons/Joulecoin/32x32.jpg");
+}
+
+.dtc-32 {
+    @include img-32("../src/icons/Datacoin/32x32.jpg");
+}
+
+.bet-32 {
+    @include img-32("../src/icons/BetaCoin/32x32.jpg");
+}
+
+.gdc-32 {
+    @include img-32("../src/icons/GrandCoin/32x32.jpg");
+}
+
+.dem-32 {
+    @include img-32("../src/icons/DeutscheeMark/32x32.jpg");
+}
+
+.doge-32 {
+    @include img-32("../src/icons/Dogecoin/32x32.jpg");
+}
+
+.net-32 {
+    @include img-32("../src/icons/NetCoin/32x32.jpg");
+}
+
+.phs-32 {
+    @include img-32("../src/icons/PhilosopherStones/32x32.jpg");
+}
+
+.dmd-32 {
+    @include img-32("../src/icons/Diamond/32x32.jpg");
+}
+
+.hbn-32 {
+    @include img-32("../src/icons/HoboNickels/32x32.jpg");
+}
+
+.tgc-32 {
+    @include img-32("../src/icons/Tigercoin/32x32.jpg");
+}
+
+.orb-32 {
+    @include img-32("../src/icons/Orbitcoin/32x32.jpg");
+}
+
+.omni-32 {
+    @include img-32("../src/icons/Omni/32x32.jpg");
+}
+
+.cat-32 {
+    @include img-32("../src/icons/Catcoin/32x32.jpg");
+}
+
+.tips-32 {
+    @include img-32("../src/icons/FedoraCoin/32x32.jpg");
+}
+
+.rpc-32 {
+    @include img-32("../src/icons/RonPaulCoin/32x32.jpg");
+}
+
+.moon-32 {
+    @include img-32("../src/icons/Mooncoin/32x32.jpg");
+}
+
+.dime-32 {
+    @include img-32("../src/icons/Dimecoin/32x32.jpg");
+}
+
+.f2-32 {
+    @include img-32("../src/icons/42-coin/32x32.jpg");
+}
+
+.vtc-32 {
+    @include img-32("../src/icons/Vertcoin/32x32.jpg");
+}
+
+.red-32 {
+    @include img-32("../src/icons/RedCoin/32x32.jpg");
+}
+
+.dgb-32 {
+    @include img-32("../src/icons/DigiByte/32x32.jpg");
+}
+
+.smc-32 {
+    @include img-32("../src/icons/SmartCoin/32x32.jpg");
+}
+
+.tes-32 {
+    @include img-32("../src/icons/TeslaCoin/32x32.jpg");
+}
+
+.nobl-32 {
+    @include img-32("../src/icons/NobleCoin/32x32.jpg");
+}
+
+.rdd-32 {
+    @include img-32("../src/icons/ReddCoin/32x32.jpg");
+}
+
+.nyan-32 {
+    @include img-32("../src/icons/Nyancoin/32x32.jpg");
+}
+
+.utc-32 {
+    @include img-32("../src/icons/UltraCoin/32x32.jpg");
+}
+
+.pot-32 {
+    @include img-32("../src/icons/PotCoin/32x32.jpg");
+}
+
+.blc-32 {
+    @include img-32("../src/icons/Blakecoin/32x32.jpg");
+}
+
+.max-32 {
+    @include img-32("../src/icons/MaxCoin/32x32.jpg");
+}
+
+.q2c-32 {
+    @include img-32("../src/icons/QubitCoin/32x32.jpg");
+}
+
+.huc-32 {
+    @include img-32("../src/icons/HunterCoin/32x32.jpg");
+}
+
+.dash-32 {
+    @include img-32("../src/icons/Dash/32x32.jpg");
+}
+
+.xcp-32 {
+    @include img-32("../src/icons/Counterparty/32x32.jpg");
+}
+
+.cach-32 {
+    @include img-32("../src/icons/CacheCoin/32x32.jpg");
+}
+
+.icn-32 {
+    @include img-32("../src/icons/iCoin/32x32.jpg");
+}
+
+.mint-32 {
+    @include img-32("../src/icons/Mintcoin/32x32.jpg");
+}
+
+.ari-32 {
+    @include img-32("../src/icons/Aricoin/32x32.jpg");
+}
+
+.dope-32 {
+    @include img-32("../src/icons/DopeCoin/32x32.jpg");
+}
+
+.aur-32 {
+    @include img-32("../src/icons/Auroracoin/32x32.jpg");
+}
+
+.ani-32 {
+    @include img-32("../src/icons/Animecoin/32x32.jpg");
+}
+
+.ptc-32 {
+    @include img-32("../src/icons/Pesetacoin/32x32.jpg");
+}
+
+.mars-32 {
+    @include img-32("../src/icons/Marscoin/32x32.jpg");
+}
+
+.cash-32 {
+    @include img-32("../src/icons/Cashcoin/32x32.jpg");
+}
+
+.ric-32 {
+    @include img-32("../src/icons/Riecoin/32x32.jpg");
+}
+
+.pnd-32 {
+    @include img-32("../src/icons/Pandacoin/32x32.jpg");
+}
+
+.maza-32 {
+    @include img-32("../src/icons/MAZA/32x32.jpg");
+}
+
+.ufo-32 {
+    @include img-32("../src/icons/UniformFiscalObject/32x32.jpg");
+}
+
+.blk-32 {
+    @include img-32("../src/icons/BlackCoin/32x32.jpg");
+}
+
+.ltb-32 {
+    @include img-32("../src/icons/LiteBar/32x32.jpg");
+}
+
+.pho-32 {
+    @include img-32("../src/icons/Photon/32x32.jpg");
+}
+
+.zeit-32 {
+    @include img-32("../src/icons/Zeitcoin/32x32.jpg");
+}
+
+.xmy-32 {
+    @include img-32("../src/icons/Myriad/32x32.jpg");
+}
+
+.note-32 {
+    @include img-32("../src/icons/DNotes/32x32.jpg");
+}
+
+.skc-32 {
+    @include img-32("../src/icons/Skeincoin/32x32.jpg");
+}
+
+.emc2-32 {
+    @include img-32("../src/icons/Einsteinium/32x32.jpg");
+}
+
+.btcs-32 {
+    @include img-32("../src/icons/BitcoinScrypt/32x32.jpg");
+}
+
+.ecc-32 {
+    @include img-32("../src/icons/ECC/32x32.jpg");
+}
+
+.mona-32 {
+    @include img-32("../src/icons/MonaCoin/32x32.jpg");
+}
+
+.rby-32 {
+    @include img-32("../src/icons/Rubycoin/32x32.jpg");
+}
+
+.bela-32 {
+    @include img-32("../src/icons/Bela/32x32.jpg");
+}
+
+.flt-32 {
+    @include img-32("../src/icons/FlutterCoin/32x32.jpg");
+}
+
+.e88-32 {
+    @include img-32("../src/icons/OctoCoin/32x32.jpg");
+}
+
+.fair-32 {
+    @include img-32("../src/icons/FairCoin/32x32.jpg");
+}
+
+.slr-32 {
+    @include img-32("../src/icons/SolarCoin/32x32.jpg");
+}
+
+.efl-32 {
+    @include img-32("../src/icons/e-Gulden/32x32.jpg");
+}
+
+.nlg-32 {
+    @include img-32("../src/icons/Gulden/32x32.jpg");
+}
+
+.plc-32 {
+    @include img-32("../src/icons/Polcoin/32x32.jpg");
+}
+
+.grs-32 {
+    @include img-32("../src/icons/Groestlcoin/32x32.jpg");
+}
+
+.xpd-32 {
+    @include img-32("../src/icons/PetroDollar/32x32.jpg");
+}
+
+.xwc-32 {
+    @include img-32("../src/icons/WhiteCoin/32x32.jpg");
+}
+
+.ac-32 {
+    @include img-32("../src/icons/AsiaCoin/32x32.jpg");
+}
+
+.pop-32 {
+    @include img-32("../src/icons/PopularCoin/32x32.jpg");
+}
+
+.bits-32 {
+    @include img-32("../src/icons/Bitstar/32x32.jpg");
+}
+
+.qbc-32 {
+    @include img-32("../src/icons/Quebecoin/32x32.jpg");
+}
+
+.ccn-32 {
+    @include img-32("../src/icons/CannaCoin/32x32.jpg");
+}
+
+.sloth-32 {
+    @include img-32("../src/icons/Slothcoin/32x32.jpg");
+}
+
+.blu-32 {
+    @include img-32("../src/icons/BlueCoin/32x32.jpg");
+}
+
+.maid-32 {
+    @include img-32("../src/icons/MaidSafeCoin/32x32.jpg");
+}
+
+.xbc-32 {
+    @include img-32("../src/icons/BitcoinPlus/32x32.jpg");
+}
+
+.nyc-32 {
+    @include img-32("../src/icons/NewYorkCoin/32x32.jpg");
+}
+
+.cdn-32 {
+    @include img-32("../src/icons/CanadaeCoin/32x32.jpg");
+}
+
+.gun-32 {
+    @include img-32("../src/icons/Guncoin/32x32.jpg");
+}
+
+.pink-32 {
+    @include img-32("../src/icons/PinkCoin/32x32.jpg");
+}
+
+.enrg-32 {
+    @include img-32("../src/icons/Energycoin/32x32.jpg");
+}
+
+.vrc-32 {
+    @include img-32("../src/icons/VeriCoin/32x32.jpg");
+}
+
+.xmr-32 {
+    @include img-32("../src/icons/Monero/32x32.jpg");
+}
+
+.lcp-32 {
+    @include img-32("../src/icons/LitecoinPlus/32x32.jpg");
+}
+
+.cure-32 {
+    @include img-32("../src/icons/Curecoin/32x32.jpg");
+}
+
+.unb-32 {
+    @include img-32("../src/icons/UnbreakableCoin/32x32.jpg");
+}
+
+.crypt-32 {
+    @include img-32("../src/icons/CryptCoin/32x32.jpg");
+}
+
+.super-32 {
+    @include img-32("../src/icons/SuperCoin/32x32.jpg");
+}
+
+.bost-32 {
+    @include img-32("../src/icons/BoostCoin/32x32.jpg");
+}
+
+.hyper-32 {
+    @include img-32("../src/icons/Hyper/32x32.jpg");
+}
+
+.moto-32 {
+    @include img-32("../src/icons/Motocoin/32x32.jpg");
+}
+
+.cloak-32 {
+    @include img-32("../src/icons/CloakCoin/32x32.jpg");
+}
+
+.bsd-32 {
+    @include img-32("../src/icons/BitSend/32x32.jpg");
+}
+
+.c2-32 {
+    @include img-32("../src/icons/Coin2.1/32x32.jpg");
+}
+
+.fcn-32 {
+    @include img-32("../src/icons/Fantomcoin/32x32.jpg");
+}
+
+.bcn-32 {
+    @include img-32("../src/icons/Bytecoin/32x32.jpg");
+}
+
+.aby-32 {
+    @include img-32("../src/icons/ArtByte/32x32.jpg");
+}
+
+.nav-32 {
+    @include img-32("../src/icons/NavCoin/32x32.jpg");
+}
+
+.grn-32 {
+    @include img-32("../src/icons/Granite/32x32.jpg");
+}
+
+.don-32 {
+    @include img-32("../src/icons/Donationcoin/32x32.jpg");
+}
+
+.piggy-32 {
+    @include img-32("../src/icons/Piggycoin/32x32.jpg");
+}
+
+.start-32 {
+    @include img-32("../src/icons/Startcoin/32x32.jpg");
+}
+
+.kore-32 {
+    @include img-32("../src/icons/Kore/32x32.jpg");
+}
+
+.xdn-32 {
+    @include img-32("../src/icons/DigitalNote/32x32.jpg");
+}
+
+.bbr-32 {
+    @include img-32("../src/icons/Boolberry/32x32.jpg");
+}
+
+.sha-32 {
+    @include img-32("../src/icons/SHACoin/32x32.jpg");
+}
+
+.blz-32 {
+    @include img-32("../src/icons/BlazeCoin/32x32.jpg");
+}
+
+.thc-32 {
+    @include img-32("../src/icons/HempCoin/32x32.jpg");
+}
+
+.brit-32 {
+    @include img-32("../src/icons/BritCoin/32x32.jpg");
+}
+
+.xst-32 {
+    @include img-32("../src/icons/Stealth/32x32.jpg");
+}
+
+.clam-32 {
+    @include img-32("../src/icons/Clams/32x32.jpg");
+}
+
+.bts-32 {
+    @include img-32("../src/icons/BitShares/32x32.jpg");
+}
+
+.btcd-32 {
+    @include img-32("../src/icons/BitcoinDark/32x32.jpg");
+}
+
+.via-32 {
+    @include img-32("../src/icons/Viacoin/32x32.jpg");
+}
+
+.tri-32 {
+    @include img-32("../src/icons/Triangles/32x32.jpg");
+}
+
+.xcn-32 {
+    @include img-32("../src/icons/Cryptonite/32x32.jpg");
+}
+
+.carbon-32 {
+    @include img-32("../src/icons/Carboncoin/32x32.jpg");
+}
+
+.cann-32 {
+    @include img-32("../src/icons/CannabisCoin/32x32.jpg");
+}
+
+.xlm-32 {
+    @include img-32("../src/icons/Stellar/32x32.jpg");
+}
+
+.tit-32 {
+    @include img-32("../src/icons/Titcoin/32x32.jpg");
+}
+
+.vta-32 {
+    @include img-32("../src/icons/Virtacoin/32x32.jpg");
+}
+
+.hyp-32 {
+    @include img-32("../src/icons/HyperStake/32x32.jpg");
+}
+
+.j-32 {
+    @include img-32("../src/icons/Joincoin/32x32.jpg");
+}
+
+.sys-32 {
+    @include img-32("../src/icons/Syscoin/32x32.jpg");
+}
+
+.btm-32 {
+    @include img-32("../src/icons/Bitmark/32x32.jpg");
+}
+
+.hal-32 {
+    @include img-32("../src/icons/Halcyon/32x32.jpg");
+}
+
+.sjcx-32 {
+    @include img-32("../src/icons/StorjcoinX/32x32.jpg");
+}
+
+.neos-32 {
+    @include img-32("../src/icons/NeosCoin/32x32.jpg");
+}
+
+.emc-32 {
+    @include img-32("../src/icons/Emercoin/32x32.jpg");
+}
+
+.rbbt-32 {
+    @include img-32("../src/icons/RabbitCoin/32x32.jpg");
+}
+
+.burst-32 {
+    @include img-32("../src/icons/Burst/32x32.jpg");
+}
+
+.game-32 {
+    @include img-32("../src/icons/GameCredits/32x32.jpg");
+}
+
+.ubq-32 {
+    @include img-32("../src/icons/Ubiq/32x32.jpg");
+}
+
+.bun-32 {
+    @include img-32("../src/icons/BunnyCoin/32x32.jpg");
+}
+
+.acoin-32 {
+    @include img-32("../src/icons/Acoin/32x32.jpg");
+}
+
+.fldc-32 {
+    @include img-32("../src/icons/FoldingCoin/32x32.jpg");
+}
+
+.bitcny-32 {
+    @include img-32("../src/icons/bitCNY/32x32.jpg");
+}
+
+.usnbt-32 {
+    @include img-32("../src/icons/NuBits/32x32.jpg");
+}
+
+.slg-32 {
+    @include img-32("../src/icons/Sterlingcoin/32x32.jpg");
+}
+
+.xmg-32 {
+    @include img-32("../src/icons/Magi/32x32.jpg");
+}
+
+.excl-32 {
+    @include img-32("../src/icons/ExclusiveCoin/32x32.jpg");
+}
+
+.troll-32 {
+    @include img-32("../src/icons/Trollcoin/32x32.jpg");
+}
+
+.unity-32 {
+    @include img-32("../src/icons/SuperNET/32x32.jpg");
+}
+
+.dp-32 {
+    @include img-32("../src/icons/DigitalPrice/32x32.jpg");
+}
+
+.bits-32 {
+    @include img-32("../src/icons/Bitswift/32x32.jpg");
+}
+
+.dsh-32 {
+    @include img-32("../src/icons/Dashcoin/32x32.jpg");
+}
+
+.au-32 {
+    @include img-32("../src/icons/AurumCoin/32x32.jpg");
+}
+
+.stv-32 {
+    @include img-32("../src/icons/Sativacoin/32x32.jpg");
+}
+
+.xvg-32 {
+    @include img-32("../src/icons/Verge/32x32.jpg");
+}
+
+.nsr-32 {
+    @include img-32("../src/icons/NuShares/32x32.jpg");
+}
+
+.spr-32 {
+    @include img-32("../src/icons/SpreadCoin/32x32.jpg");
+}
+
+.rbt-32 {
+    @include img-32("../src/icons/Rimbit/32x32.jpg");
+}
+
+.mue-32 {
+    @include img-32("../src/icons/MonetaryUnit/32x32.jpg");
+}
+
+.block-32 {
+    @include img-32("../src/icons/Blocknet/32x32.jpg");
+}
+
+.ttc-32 {
+    @include img-32("../src/icons/TittieCoin/32x32.jpg");
+}
+
+.crw-32 {
+    @include img-32("../src/icons/Crown/32x32.jpg");
+}
+
+.bay-32 {
+    @include img-32("../src/icons/BitBay/32x32.jpg");
+}
+
+.gcn-32 {
+    @include img-32("../src/icons/GCNCoin/32x32.jpg");
+}
+
+.xqn-32 {
+    @include img-32("../src/icons/Quotient/32x32.jpg");
+}
+
+.bcf-32 {
+    @include img-32("../src/icons/BitcoinFast/32x32.jpg");
+}
+
+.ok-32 {
+    @include img-32("../src/icons/OKCash/32x32.jpg");
+}
+
+.uis-32 {
+    @include img-32("../src/icons/Unitus/32x32.jpg");
+}
+
+.coval-32 {
+    @include img-32("../src/icons/CircuitsofValue/32x32.jpg");
+}
+
+.nxs-32 {
+    @include img-32("../src/icons/Nexus/32x32.jpg");
+}
+
+.nka-32 {
+    @include img-32("../src/icons/IncaKoin/32x32.jpg");
+}
+
+.smly-32 {
+    @include img-32("../src/icons/SmileyCoin/32x32.jpg");
+}
+
+.mac-32 {
+    @include img-32("../src/icons/Machinecoin/32x32.jpg");
+}
+
+.dot-32 {
+    @include img-32("../src/icons/Dotcoin/32x32.jpg");
+}
+
+.bitb-32 {
+    @include img-32("../src/icons/BeanCash/32x32.jpg");
+}
+
+.geo-32 {
+    @include img-32("../src/icons/GeoCoin/32x32.jpg");
+}
+
+.usdt-32 {
+    @include img-32("../src/icons/Tether/32x32.jpg");
+}
+
+.wbb-32 {
+    @include img-32("../src/icons/WildBeastBlock/32x32.jpg");
+}
+
+.grc-32 {
+    @include img-32("../src/icons/GridCoin/32x32.jpg");
+}
+
+.xvc-32 {
+    @include img-32("../src/icons/Vcash/32x32.jpg");
+}
+
+.ldoge-32 {
+    @include img-32("../src/icons/LiteDoge/32x32.jpg");
+}
+
+.crave-32 {
+    @include img-32("../src/icons/Crave/32x32.jpg");
+}
+
+.pura-32 {
+    @include img-32("../src/icons/Pura/32x32.jpg");
+}
+
+.xem-32 {
+    @include img-32("../src/icons/NEM/32x32.jpg");
+}
+
+.ebit-32 {
+    @include img-32("../src/icons/8Bit/32x32.jpg");
+}
+
+.lea-32 {
+    @include img-32("../src/icons/LeaCoin/32x32.jpg");
+}
+
+.ntrn-32 {
+    @include img-32("../src/icons/Neutron/32x32.jpg");
+}
+
+.xaur-32 {
+    @include img-32("../src/icons/Xaurum/32x32.jpg");
+}
+
+.cf-32 {
+    @include img-32("../src/icons/Californium/32x32.jpg");
+}
+
+.aib-32 {
+    @include img-32("../src/icons/AdvancedInternetBlocks/32x32.jpg");
+}
+
+.sphr-32 {
+    @include img-32("../src/icons/Sphere/32x32.jpg");
+}
+
+.medic-32 {
+    @include img-32("../src/icons/MedicCoin/32x32.jpg");
+}
+
+.bub-32 {
+    @include img-32("../src/icons/Bubble/32x32.jpg");
+}
+
+.muse-32 {
+    @include img-32("../src/icons/MUSE/32x32.jpg");
+}
+
+.unit-32 {
+    @include img-32("../src/icons/UniversalCurrency/32x32.jpg");
+}
+
+.shell-32 {
+    @include img-32("../src/icons/ShellCoin/32x32.jpg");
+}
+
+.arb-32 {
+    @include img-32("../src/icons/ARbit/32x32.jpg");
+}
+
+.gam-32 {
+    @include img-32("../src/icons/Gambit/32x32.jpg");
+}
+
+.bta-32 {
+    @include img-32("../src/icons/Bata/32x32.jpg");
+}
+
+.adc-32 {
+    @include img-32("../src/icons/AudioCoin/32x32.jpg");
+}
+
+.fjc-32 {
+    @include img-32("../src/icons/FujiCoin/32x32.jpg");
+}
+
+.erc-32 {
+    @include img-32("../src/icons/EuropeCoin/32x32.jpg");
+}
+
+.hxx-32 {
+    @include img-32("../src/icons/Hexx/32x32.jpg");
+}
+
+.xra-32 {
+    @include img-32("../src/icons/Ratecoin/32x32.jpg");
+}
+
+.irl-32 {
+    @include img-32("../src/icons/IrishCoin/32x32.jpg");
+}
+
+.zny-32 {
+    @include img-32("../src/icons/Bitzeny/32x32.jpg");
+}
+
+.acp-32 {
+    @include img-32("../src/icons/AnarchistsPrime/32x32.jpg");
+}
+
+.cpn-32 {
+    @include img-32("../src/icons/CompuCoin/32x32.jpg");
+}
+
+.chc-32 {
+    @include img-32("../src/icons/ChainCoin/32x32.jpg");
+}
+
+.sprts-32 {
+    @include img-32("../src/icons/Sprouts/32x32.jpg");
+}
+
+.hnc-32 {
+    @include img-32("../src/icons/Helleniccoin/32x32.jpg");
+}
+
+.cpc-32 {
+    @include img-32("../src/icons/Capricoin/32x32.jpg");
+}
+
+.manna-32 {
+    @include img-32("../src/icons/Manna/32x32.jpg");
+}
+
+.leo-32 {
+    @include img-32("../src/icons/LEOcoin/32x32.jpg");
+}
+
+.aeon-32 {
+    @include img-32("../src/icons/Aeon/32x32.jpg");
+}
+
+.eth-32 {
+    @include img-32("../src/icons/Ethereum/32x32.jpg");
+}
+
+.sjw-32 {
+    @include img-32("../src/icons/SJWCoin/32x32.jpg");
+}
+
+.tx-32 {
+    @include img-32("../src/icons/TransferCoin/32x32.jpg");
+}
+
+.gcc-32 {
+    @include img-32("../src/icons/GuccioneCoin/32x32.jpg");
+}
+
+.ams-32 {
+    @include img-32("../src/icons/AmsterdamCoin/32x32.jpg");
+}
+
+.euc-32 {
+    @include img-32("../src/icons/Eurocoin/32x32.jpg");
+}
+
+.sc-32 {
+    @include img-32("../src/icons/Siacoin/32x32.jpg");
+}
+
+.gcr-32 {
+    @include img-32("../src/icons/GlobalCurrencyReserve/32x32.jpg");
+}
+
+.shift-32 {
+    @include img-32("../src/icons/Shift/32x32.jpg");
+}
+
+.vec2-32 {
+    @include img-32("../src/icons/VectorAI/32x32.jpg");
+}
+
+.boli-32 {
+    @include img-32("../src/icons/Bolivarcoin/32x32.jpg");
+}
+
+.bcy-32 {
+    @include img-32("../src/icons/Bitcrystals/32x32.jpg");
+}
+
+.pak-32 {
+    @include img-32("../src/icons/Pakcoin/32x32.jpg");
+}
+
+.exp-32 {
+    @include img-32("../src/icons/Expanse/32x32.jpg");
+}
+
+.sib-32 {
+    @include img-32("../src/icons/SIBCoin/32x32.jpg");
+}
+
+.fct-32 {
+    @include img-32("../src/icons/Factom/32x32.jpg");
+}
+
+.pr-32 {
+    @include img-32("../src/icons/Prototanium/32x32.jpg");
+}
+
+.rep-32 {
+    @include img-32("../src/icons/Augur/32x32.jpg");
+}
+
+.shnd-32 {
+    @include img-32("../src/icons/StrongHands/32x32.jpg");
+}
+
+.pac-32 {
+    @include img-32("../src/icons/PACcoin/32x32.jpg");
+}
+
+.leet-32 {
+    @include img-32("../src/icons/Elite/32x32.jpg");
+}
+
+.soil-32 {
+    @include img-32("../src/icons/SOILcoin/32x32.jpg");
+}
+
+.dft-32 {
+    @include img-32("../src/icons/DraftCoin/32x32.jpg");
+}
+
+.amp-32 {
+    @include img-32("../src/icons/Synereo/32x32.jpg");
+}
+
+.club-32 {
+    @include img-32("../src/icons/ClubCoin/32x32.jpg");
+}
+
+.adz-32 {
+    @include img-32("../src/icons/Adzcoin/32x32.jpg");
+}
+
+.rc-32 {
+    @include img-32("../src/icons/RussiaCoin/32x32.jpg");
+}
+
+.egc-32 {
+    @include img-32("../src/icons/EverGreenCoin/32x32.jpg");
+}
+
+.crb-32 {
+    @include img-32("../src/icons/Creditbit/32x32.jpg");
+}
+
+.rads-32 {
+    @include img-32("../src/icons/Radium/32x32.jpg");
+}
+
+.yoc-32 {
+    @include img-32("../src/icons/Yocoin/32x32.jpg");
+}
+
+.sls-32 {
+    @include img-32("../src/icons/SaluS/32x32.jpg");
+}
+
+.frn-32 {
+    @include img-32("../src/icons/Francs/32x32.jpg");
+}
+
+.dcr-32 {
+    @include img-32("../src/icons/Decred/32x32.jpg");
+}
+
+.pivx-32 {
+    @include img-32("../src/icons/PIVX/32x32.jpg");
+}
+
+.safex-32 {
+    @include img-32("../src/icons/SafeExchangeCoin/32x32.jpg");
+}
+
+.trump-32 {
+    @include img-32("../src/icons/TrumpCoin/32x32.jpg");
+}
+
+.xct-32 {
+    @include img-32("../src/icons/C-Bit/32x32.jpg");
+}
+
+.hodl-32 {
+    @include img-32("../src/icons/HOdlcoin/32x32.jpg");
+}
+
+.neva-32 {
+    @include img-32("../src/icons/NevaCoin/32x32.jpg");
+}
+
+.rvr-32 {
+    @include img-32("../src/icons/RevolutionVR/32x32.jpg");
+}
+
+.mojo-32 {
+    @include img-32("../src/icons/MojoCoin/32x32.jpg");
+}
+
+.lsk-32 {
+    @include img-32("../src/icons/Lisk/32x32.jpg");
+}
+
+.edrc-32 {
+    @include img-32("../src/icons/EDRCoin/32x32.jpg");
+}
+
+.post-32 {
+    @include img-32("../src/icons/PostCoin/32x32.jpg");
+}
+
+.qwark-32 {
+    @include img-32("../src/icons/Qwark/32x32.jpg");
+}
+
+.dgd-32 {
+    @include img-32("../src/icons/DigixDAO/32x32.jpg");
+}
+
+.steem-32 {
+    @include img-32("../src/icons/Steem/32x32.jpg");
+}
+
+.fans-32 {
+    @include img-32("../src/icons/FantasyCash/32x32.jpg");
+}
+
+.esp-32 {
+    @include img-32("../src/icons/Espers/32x32.jpg");
+}
+
+.xhi-32 {
+    @include img-32("../src/icons/HiCoin/32x32.jpg");
+}
+
+.el-32 {
+    @include img-32("../src/icons/Elcoin/32x32.jpg");
+}
+
+.zur-32 {
+    @include img-32("../src/icons/Zurcoin/32x32.jpg");
+}
+
+.s11-32 {
+    @include img-32("../src/icons/SixEleven/32x32.jpg");
+}
+
+.tgive-32 {
+    @include img-32("../src/icons/2GIVE/32x32.jpg");
+}
+
+.abc-32 {
+    @include img-32("../src/icons/Alphabit/32x32.jpg");
+}
+
+.tesla-32 {
+    @include img-32("../src/icons/TeslaCoilCoin/32x32.jpg");
+}
+
+.mxt-32 {
+    @include img-32("../src/icons/MarteXcoin/32x32.jpg");
+}
+
+.nlx-32 {
+    @include img-32("../src/icons/Nullex/32x32.jpg");
+}
+
+.waves-32 {
+    @include img-32("../src/icons/Waves/32x32.jpg");
+}
+
+.icoo-32 {
+    @include img-32("../src/icons/ICOOpenLedger/32x32.jpg");
+}
+
+.pwr-32 {
+    @include img-32("../src/icons/Powercoin/32x32.jpg");
+}
+
+.ion-32 {
+    @include img-32("../src/icons/ION/32x32.jpg");
+}
+
+.xre-32 {
+    @include img-32("../src/icons/RevolverCoin/32x32.jpg");
+}
+
+.brk-32 {
+    @include img-32("../src/icons/Breakout/32x32.jpg");
+}
+
+.dbtc-32 {
+    @include img-32("../src/icons/Debitcoin/32x32.jpg");
+}
+
+.cmt-32 {
+    @include img-32("../src/icons/Comet/32x32.jpg");
+}
+
+.rise-32 {
+    @include img-32("../src/icons/Rise/32x32.jpg");
+}
+
+.chess-32 {
+    @include img-32("../src/icons/ChessCoin/32x32.jpg");
+}
+
+.lbc-32 {
+    @include img-32("../src/icons/LBRYCredits/32x32.jpg");
+}
+
+.put-32 {
+    @include img-32("../src/icons/PutinCoin/32x32.jpg");
+}
+
+.brx-32 {
+    @include img-32("../src/icons/BreakoutStake/32x32.jpg");
+}
+
+.synx-32 {
+    @include img-32("../src/icons/Syndicate/32x32.jpg");
+}
+
+.heat-32 {
+    @include img-32("../src/icons/HEAT/32x32.jpg");
+}
+
+.sbd-32 {
+    @include img-32("../src/icons/SteemDollars/32x32.jpg");
+}
+
+.ardr-32 {
+    @include img-32("../src/icons/Ardor/32x32.jpg");
+}
+
+.etc-32 {
+    @include img-32("../src/icons/EthereumClassic/32x32.jpg");
+}
+
+.bit-32 {
+    @include img-32("../src/icons/FirstBitcoin/32x32.jpg");
+}
+
+.ele-32 {
+    @include img-32("../src/icons/Elementrem/32x32.jpg");
+}
+
+.krb-32 {
+    @include img-32("../src/icons/Karbo/32x32.jpg");
+}
+
+.vprc-32 {
+    @include img-32("../src/icons/VapersCoin/32x32.jpg");
+}
+
+.strat-32 {
+    @include img-32("../src/icons/Stratis/32x32.jpg");
+}
+
+.taj-32 {
+    @include img-32("../src/icons/TajCoin/32x32.jpg");
+}
+
+.edr-32 {
+    @include img-32("../src/icons/E-DinarCoin/32x32.jpg");
+}
+
+.atx-32 {
+    @include img-32("../src/icons/ArtexCoin/32x32.jpg");
+}
+
+.xp-32 {
+    @include img-32("../src/icons/ExperiencePoints/32x32.jpg");
+}
+
+.vlt-32 {
+    @include img-32("../src/icons/Veltor/32x32.jpg");
+}
+
+.kb3-32 {
+    @include img-32("../src/icons/B3Coin/32x32.jpg");
+}
+
+.golf-32 {
+    @include img-32("../src/icons/Golfcoin/32x32.jpg");
+}
+
+.neo-32 {
+    @include img-32("../src/icons/NEO/32x32.jpg");
+}
+
+.lmc-32 {
+    @include img-32("../src/icons/LoMoCoin/32x32.jpg");
+}
+
+.btdx-32 {
+    @include img-32("../src/icons/Bitcloud/32x32.jpg");
+}
+
+.nlc2-32 {
+    @include img-32("../src/icons/NoLimitCoin/32x32.jpg");
+}
+
+.vrm-32 {
+    @include img-32("../src/icons/VeriumReserve/32x32.jpg");
+}
+
+.jin-32 {
+    @include img-32("../src/icons/JinCoin/32x32.jpg");
+}
+
+.xto-32 {
+    @include img-32("../src/icons/Tao/32x32.jpg");
+}
+
+.plu-32 {
+    @include img-32("../src/icons/Pluton/32x32.jpg");
+}
+
+.proud-32 {
+    @include img-32("../src/icons/PROUDMoney/32x32.jpg");
+}
+
+.seq-32 {
+    @include img-32("../src/icons/Sequence/32x32.jpg");
+}
+
+.fst-32 {
+    @include img-32("../src/icons/FirstBlood/32x32.jpg");
+}
+
+.pepecash-32 {
+    @include img-32("../src/icons/PepeCash/32x32.jpg");
+}
+
+.icn-32 {
+    @include img-32("../src/icons/Iconomi/32x32.jpg");
+}
+
+.sngls-32 {
+    @include img-32("../src/icons/SingularDTV/32x32.jpg");
+}
+
+.xzc-32 {
+    @include img-32("../src/icons/ZCoin/32x32.jpg");
+}
+
+.rcn-32 {
+    @include img-32("../src/icons/Rcoin/32x32.jpg");
+}
+
+.trig-32 {
+    @include img-32("../src/icons/Triggers/32x32.jpg");
+}
+
+.skr-32 {
+    @include img-32("../src/icons/Sakuracoin/32x32.jpg");
+}
+
+.levo-32 {
+    @include img-32("../src/icons/Levocoin/32x32.jpg");
+}
+
+.arc-32 {
+    @include img-32("../src/icons/AdvancedTechnologyCoin/32x32.jpg");
+}
+
+.qbt-32 {
+    @include img-32("../src/icons/Cubits/32x32.jpg");
+}
+
+.dmc-32 {
+    @include img-32("../src/icons/DynamicCoin/32x32.jpg");
+}
+
+.zec-32 {
+    @include img-32("../src/icons/Zcash/32x32.jpg");
+}
+
+.asafe2-32 {
+    @include img-32("../src/icons/AllSafe/32x32.jpg");
+}
+
+.zcl-32 {
+    @include img-32("../src/icons/ZClassic/32x32.jpg");
+}
+
+.zoi-32 {
+    @include img-32("../src/icons/Zoin/32x32.jpg");
+}
+
+.lkk-32 {
+    @include img-32("../src/icons/Lykke/32x32.jpg");
+}
+
+.gnt-32 {
+    @include img-32("../src/icons/Golem/32x32.jpg");
+}
+
+.zmc-32 {
+    @include img-32("../src/icons/ZetaMicron/32x32.jpg");
+}
+
+.btcr-32 {
+    @include img-32("../src/icons/Bitcurrency/32x32.jpg");
+}
+
+.rega-32 {
+    @include img-32("../src/icons/Regacoin/32x32.jpg");
+}
+
+.iop-32 {
+    @include img-32("../src/icons/InternetofPeople/32x32.jpg");
+}
+
+.vrs-32 {
+    @include img-32("../src/icons/Veros/32x32.jpg");
+}
+
+.hush-32 {
+    @include img-32("../src/icons/Hush/32x32.jpg");
+}
+
+.kurt-32 {
+    @include img-32("../src/icons/Kurrent/32x32.jpg");
+}
+
+.xcre-32 {
+    @include img-32("../src/icons/Creatio/32x32.jpg");
+}
+
+.xrc-32 {
+    @include img-32("../src/icons/Rawcoin/32x32.jpg");
+}
+
+.pasc-32 {
+    @include img-32("../src/icons/PascalCoin/32x32.jpg");
+}
+
+.ent-32 {
+    @include img-32("../src/icons/Eternity/32x32.jpg");
+}
+
+.incnt-32 {
+    @include img-32("../src/icons/Incent/32x32.jpg");
+}
+
+.dct-32 {
+    @include img-32("../src/icons/DECENT/32x32.jpg");
+}
+
+.golos-32 {
+    @include img-32("../src/icons/Golos/32x32.jpg");
+}
+
+.nxc-32 {
+    @include img-32("../src/icons/Nexium/32x32.jpg");
+}
+
+.vsl-32 {
+    @include img-32("../src/icons/vSlice/32x32.jpg");
+}
+
+.dollar-32 {
+    @include img-32("../src/icons/DollarOnline/32x32.jpg");
+}
+
+.vltc-32 {
+    @include img-32("../src/icons/VaultCoin/32x32.jpg");
+}
+
+.gbyte-32 {
+    @include img-32("../src/icons/ByteballBytes/32x32.jpg");
+}
+
+.posw-32 {
+    @include img-32("../src/icons/PoSWCoin/32x32.jpg");
+}
+
+.luna-32 {
+    @include img-32("../src/icons/LunaCoin/32x32.jpg");
+}
+
+.wings-32 {
+    @include img-32("../src/icons/Wings/32x32.jpg");
+}
+
+.dix-32 {
+    @include img-32("../src/icons/DixAsset/32x32.jpg");
+}
+
+.dar-32 {
+    @include img-32("../src/icons/Darcrus/32x32.jpg");
+}
+
+.iflt-32 {
+    @include img-32("../src/icons/InflationCoin/32x32.jpg");
+}
+
+.xspec-32 {
+    @include img-32("../src/icons/Spectrecoin/32x32.jpg");
+}
+
+.xstc-32 {
+    @include img-32("../src/icons/SafeTradeCoin/32x32.jpg");
+}
+
+.ccrb-32 {
+    @include img-32("../src/icons/CryptoCarbon/32x32.jpg");
+}
+
+.vidz-32 {
+    @include img-32("../src/icons/PureVidz/32x32.jpg");
+}
+
+.bcc-32 {
+    @include img-32("../src/icons/BitConnect/32x32.jpg");
+}
+
+.mkr-32 {
+    @include img-32("../src/icons/Maker/32x32.jpg");
+}
+
+.drs-32 {
+    @include img-32("../src/icons/DigitalRupees/32x32.jpg");
+}
+
+.kmd-32 {
+    @include img-32("../src/icons/Komodo/32x32.jpg");
+}
+
+.frst-32 {
+    @include img-32("../src/icons/FirstCoin/32x32.jpg");
+}
+
+.tse-32 {
+    @include img-32("../src/icons/Tattoocoin(StandardEdition)/32x32.jpg");
+}
+
+.wct-32 {
+    @include img-32("../src/icons/WavesCommunityToken/32x32.jpg");
+}
+
+.icon-32 {
+    @include img-32("../src/icons/Iconic/32x32.jpg");
+}
+
+.gcc-32 {
+    @include img-32("../src/icons/GlobalCryptocurrency/32x32.jpg");
+}
+
+.boat-32 {
+    @include img-32("../src/icons/BOAT/32x32.jpg");
+}
+
+.ery-32 {
+    @include img-32("../src/icons/Eryllium/32x32.jpg");
+}
+
+.gbg-32 {
+    @include img-32("../src/icons/GolosGold/32x32.jpg");
+}
+
+.cnt-32 {
+    @include img-32("../src/icons/Centurion/32x32.jpg");
+}
+
+.mar-32 {
+    @include img-32("../src/icons/Marijuanacoin/32x32.jpg");
+}
+
+.mscn-32 {
+    @include img-32("../src/icons/MasterSwiscoin/32x32.jpg");
+}
+
+.mln-32 {
+    @include img-32("../src/icons/Melon/32x32.jpg");
+}
+
+.all-32 {
+    @include img-32("../src/icons/Allion/32x32.jpg");
+}
+
+.prc-32 {
+    @include img-32("../src/icons/PRCoin/32x32.jpg");
+}
+
+.time-32 {
+    @include img-32("../src/icons/Chronobank/32x32.jpg");
+}
+
+.argus-32 {
+    @include img-32("../src/icons/Argus/32x32.jpg");
+}
+
+.rns-32 {
+    @include img-32("../src/icons/Renos/32x32.jpg");
+}
+
+.ur-32 {
+    @include img-32("../src/icons/UR/32x32.jpg");
+}
+
+.swt-32 {
+    @include img-32("../src/icons/SwarmCity/32x32.jpg");
+}
+
+.pie-32 {
+    @include img-32("../src/icons/PIECoin/32x32.jpg");
+}
+
+.marx-32 {
+    @include img-32("../src/icons/MarxCoin/32x32.jpg");
+}
+
+.visio-32 {
+    @include img-32("../src/icons/Visio/32x32.jpg");
+}
+
+.nano-32 {
+    @include img-32("../src/icons/Nano/32x32.jpg");
+}
+
+.lvps-32 {
+    @include img-32("../src/icons/LevoPlus/32x32.jpg");
+}
+
+.geert-32 {
+    @include img-32("../src/icons/GeertCoin/32x32.jpg");
+}
+
+.pasl-32 {
+    @include img-32("../src/icons/PascalLite/32x32.jpg");
+}
+
+.milo-32 {
+    @include img-32("../src/icons/MiloCoin/32x32.jpg");
+}
+
+.music-32 {
+    @include img-32("../src/icons/Musicoin/32x32.jpg");
+}
+
+.zer-32 {
+    @include img-32("../src/icons/Zero/32x32.jpg");
+}
+
+.honey-32 {
+    @include img-32("../src/icons/Honey/32x32.jpg");
+}
+
+.netko-32 {
+    @include img-32("../src/icons/Netko/32x32.jpg");
+}
+
+.ark-32 {
+    @include img-32("../src/icons/Ark/32x32.jpg");
+}
+
+.dyn-32 {
+    @include img-32("../src/icons/Dynamic/32x32.jpg");
+}
+
+.tks-32 {
+    @include img-32("../src/icons/Tokes/32x32.jpg");
+}
+
+.mer-32 {
+    @include img-32("../src/icons/Mercury/32x32.jpg");
+}
+
+.taas-32 {
+    @include img-32("../src/icons/TaaS/32x32.jpg");
+}
+
+.soar-32 {
+    @include img-32("../src/icons/Soarcoin/32x32.jpg");
+}
+
+.edg-32 {
+    @include img-32("../src/icons/Edgeless/32x32.jpg");
+}
+
+.worm-32 {
+    @include img-32("../src/icons/HealthyWormCoin/32x32.jpg");
+}
+
+.dtb-32 {
+    @include img-32("../src/icons/Databits/32x32.jpg");
+}
+
+.uni-32 {
+    @include img-32("../src/icons/Universe/32x32.jpg");
+}
+
+.xlr-32 {
+    @include img-32("../src/icons/Solaris/32x32.jpg");
+}
+
+.imx-32 {
+    @include img-32("../src/icons/Impact/32x32.jpg");
+}
+
+.tstr-32 {
+    @include img-32("../src/icons/TristarCoin/32x32.jpg");
+}
+
+.xas-32 {
+    @include img-32("../src/icons/Asch/32x32.jpg");
+}
+
+.dbix-32 {
+    @include img-32("../src/icons/DubaiCoin/32x32.jpg");
+}
+
+.ked-32 {
+    @include img-32("../src/icons/Darsek/32x32.jpg");
+}
+
+.gup-32 {
+    @include img-32("../src/icons/Matchpool/32x32.jpg");
+}
+
+.usc-32 {
+    @include img-32("../src/icons/UltimateSecureCash/32x32.jpg");
+}
+
+.ecn-32 {
+    @include img-32("../src/icons/E-coin/32x32.jpg");
+}
+
+.sky-32 {
+    @include img-32("../src/icons/Skycoin/32x32.jpg");
+}
+
+.blazr-32 {
+    @include img-32("../src/icons/BlazerCoin/32x32.jpg");
+}
+
+.atmos-32 {
+    @include img-32("../src/icons/Atmos/32x32.jpg");
+}
+
+.emv-32 {
+    @include img-32("../src/icons/EthereumMovieVenture/32x32.jpg");
+}
+
+.inpay-32 {
+    @include img-32("../src/icons/InPay/32x32.jpg");
+}
+
+.hpc-32 {
+    @include img-32("../src/icons/Happycoin/32x32.jpg");
+}
+
+.zeni-32 {
+    @include img-32("../src/icons/Zennies/32x32.jpg");
+}
+
+.cxt-32 {
+    @include img-32("../src/icons/Coinonat/32x32.jpg");
+}
+
+.xot-32 {
+    @include img-32("../src/icons/InternetofThings/32x32.jpg");
+}
+
+.conx-32 {
+    @include img-32("../src/icons/Concoin/32x32.jpg");
+}
+
+.xby-32 {
+    @include img-32("../src/icons/XTRABYTES/32x32.jpg");
+}
+
+.rlc-32 {
+    @include img-32("../src/icons/iExecRLC/32x32.jpg");
+}
+
+.trst-32 {
+    @include img-32("../src/icons/WeTrust/32x32.jpg");
+}
+
+.deus-32 {
+    @include img-32("../src/icons/DeusCoin/32x32.jpg");
+}
+
+.alt-32 {
+    @include img-32("../src/icons/Altcoin/32x32.jpg");
+}
+
+.wgo-32 {
+    @include img-32("../src/icons/WavesGo/32x32.jpg");
+}
+
+.mcrn-32 {
+    @include img-32("../src/icons/MACRON/32x32.jpg");
+}
+
+.tle-32 {
+    @include img-32("../src/icons/Tattoocoin(LimitedEdition)/32x32.jpg");
+}
+
+.proc-32 {
+    @include img-32("../src/icons/ProCurrency/32x32.jpg");
+}
+
+.scs-32 {
+    @include img-32("../src/icons/SpeedCash/32x32.jpg");
+}
+
+.btx-32 {
+    @include img-32("../src/icons/Bitcore/32x32.jpg");
+}
+
+.volt-32 {
+    @include img-32("../src/icons/Bitvolt/32x32.jpg");
+}
+
+.lun-32 {
+    @include img-32("../src/icons/Lunyr/32x32.jpg");
+}
+
+.gno-32 {
+    @include img-32("../src/icons/Gnosis/32x32.jpg");
+}
+
+.rain-32 {
+    @include img-32("../src/icons/Condensate/32x32.jpg");
+}
+
+.gpl-32 {
+    @include img-32("../src/icons/GoldPressedLatinum/32x32.jpg");
+}
+
+.hmq-32 {
+    @include img-32("../src/icons/Humaniq/32x32.jpg");
+}
+
+.func-32 {
+    @include img-32("../src/icons/FUNCoin/32x32.jpg");
+}
+
+.iti-32 {
+    @include img-32("../src/icons/iTicoin/32x32.jpg");
+}
+
+.mne-32 {
+    @include img-32("../src/icons/Minereum/32x32.jpg");
+}
+
+.cnnc-32 {
+    @include img-32("../src/icons/Cannation/32x32.jpg");
+}
+
+.crea-32 {
+    @include img-32("../src/icons/Creativecoin/32x32.jpg");
+}
+
+.insn-32 {
+    @include img-32("../src/icons/InsaneCoin/32x32.jpg");
+}
+
+.hallo-32 {
+    @include img-32("../src/icons/HalloweenCoin/32x32.jpg");
+}
+
+.ant-32 {
+    @include img-32("../src/icons/Aragon/32x32.jpg");
+}
+
+.pzm-32 {
+    @include img-32("../src/icons/PRIZM/32x32.jpg");
+}
+
+.rlt-32 {
+    @include img-32("../src/icons/RouletteToken/32x32.jpg");
+}
+
+.qtum-32 {
+    @include img-32("../src/icons/Qtum/32x32.jpg");
+}
+
+.eco-32 {
+    @include img-32("../src/icons/EcoCoin/32x32.jpg");
+}
+
+.eqt-32 {
+    @include img-32("../src/icons/EquiTrader/32x32.jpg");
+}
+
+.dmb-32 {
+    @include img-32("../src/icons/DigitalMoneyBits/32x32.jpg");
+}
+
+.apx-32 {
+    @include img-32("../src/icons/APX/32x32.jpg");
+}
+
+.mcap-32 {
+    @include img-32("../src/icons/MCAP/32x32.jpg");
+}
+
+.nanox-32 {
+    @include img-32("../src/icons/Project-X/32x32.jpg");
+}
+
+.may-32 {
+    @include img-32("../src/icons/TheresaMayCoin/32x32.jpg");
+}
+
+.sumo-32 {
+    @include img-32("../src/icons/Sumokoin/32x32.jpg");
+}
+
+.zengold-32 {
+    @include img-32("../src/icons/ZenGold/32x32.jpg");
+}
+
+.bat-32 {
+    @include img-32("../src/icons/BasicAttentionToken/32x32.jpg");
+}
+
+.zen-32 {
+    @include img-32("../src/icons/ZenCash/32x32.jpg");
+}
+
+.etbs-32 {
+    @include img-32("../src/icons/Ethbits/32x32.jpg");
+}
+
+.ae-32 {
+    @include img-32("../src/icons/Aeternity/32x32.jpg");
+}
+
+.v-32 {
+    @include img-32("../src/icons/Version/32x32.jpg");
+}
+
+.etp-32 {
+    @include img-32("../src/icons/MetaverseETP/32x32.jpg");
+}
+
+.ebst-32 {
+    @include img-32("../src/icons/eBoost/32x32.jpg");
+}
+
+.adk-32 {
+    @include img-32("../src/icons/AidosKuneen/32x32.jpg");
+}
+
+.stex-32 {
+    @include img-32("../src/icons/STEX/32x32.jpg");
+}
+
+.ptoy-32 {
+    @include img-32("../src/icons/Patientory/32x32.jpg");
+}
+
+.qau-32 {
+    @include img-32("../src/icons/Quantum/32x32.jpg");
+}
+
+.veri-32 {
+    @include img-32("../src/icons/Veritaseum/32x32.jpg");
+}
+
+.eca-32 {
+    @include img-32("../src/icons/Electra/32x32.jpg");
+}
+
+.qrl-32 {
+    @include img-32("../src/icons/QuantumResistantLedger/32x32.jpg");
+}
+
+.ett-32 {
+    @include img-32("../src/icons/EncryptoTel[WAVES]/32x32.jpg");
+}
+
+.mgo-32 {
+    @include img-32("../src/icons/MobileGo/32x32.jpg");
+}
+
+.ammo-32 {
+    @include img-32("../src/icons/AmmoReloaded/32x32.jpg");
+}
+
+.nro-32 {
+    @include img-32("../src/icons/Neuro/32x32.jpg");
+}
+
+.ppy-32 {
+    @include img-32("../src/icons/Peerplays/32x32.jpg");
+}
+
+.miota-32 {
+    @include img-32("../src/icons/IOTA/32x32.jpg");
+}
+
+.myst-32 {
+    @include img-32("../src/icons/Mysterium/32x32.jpg");
+}
+
+.more-32 {
+    @include img-32("../src/icons/MoreCoin/32x32.jpg");
+}
+
+.snm-32 {
+    @include img-32("../src/icons/SONM/32x32.jpg");
+}
+
+.linx-32 {
+    @include img-32("../src/icons/Linx/32x32.jpg");
+}
+
+.zrc-32 {
+    @include img-32("../src/icons/ZrCoin/32x32.jpg");
+}
+
+.bnt-32 {
+    @include img-32("../src/icons/Bancor/32x32.jpg");
+}
+
+.cheap-32 {
+    @include img-32("../src/icons/Cheapcoin/32x32.jpg");
+}
+
+.cfi-32 {
+    @include img-32("../src/icons/Cofound.it/32x32.jpg");
+}
+
+.glt-32 {
+    @include img-32("../src/icons/GlobalToken/32x32.jpg");
+}
+
+.nmr-32 {
+    @include img-32("../src/icons/Numeraire/32x32.jpg");
+}
+
+.otx-32 {
+    @include img-32("../src/icons/Octanox/32x32.jpg");
+}
+
+.unify-32 {
+    @include img-32("../src/icons/Unify/32x32.jpg");
+}
+
+.xel-32 {
+    @include img-32("../src/icons/Elastic/32x32.jpg");
+}
+
+.coupe-32 {
+    @include img-32("../src/icons/Coupecoin/32x32.jpg");
+}
+
+.mrt-32 {
+    @include img-32("../src/icons/Miners'RewardToken/32x32.jpg");
+}
+
+.bitok-32 {
+    @include img-32("../src/icons/Bitok/32x32.jpg");
+}
+
+.hnc-32 {
+    @include img-32("../src/icons/Huncoin/32x32.jpg");
+}
+
+.knc-32 {
+    @include img-32("../src/icons/KingNCoin/32x32.jpg");
+}
+
+.dcy-32 {
+    @include img-32("../src/icons/Dinastycoin/32x32.jpg");
+}
+
+.xlc-32 {
+    @include img-32("../src/icons/Leviar/32x32.jpg");
+}
+
+.onx-32 {
+    @include img-32("../src/icons/Onix/32x32.jpg");
+}
+
+.btpl-32 {
+    @include img-32("../src/icons/BitcoinPlanet/32x32.jpg");
+}
+
+.gxs-32 {
+    @include img-32("../src/icons/GXChain/32x32.jpg");
+}
+
+.atcc-32 {
+    @include img-32("../src/icons/ATCCoin/32x32.jpg");
+}
+
+.good-32 {
+    @include img-32("../src/icons/Goodomy/32x32.jpg");
+}
+
+.antx-32 {
+    @include img-32("../src/icons/Antimatter/32x32.jpg");
+}
+
+.bro-32 {
+    @include img-32("../src/icons/Bitradio/32x32.jpg");
+}
+
+.flash-32 {
+    @include img-32("../src/icons/Flash/32x32.jpg");
+}
+
+.fun-32 {
+    @include img-32("../src/icons/FunFair/32x32.jpg");
+}
+
+.pay-32 {
+    @include img-32("../src/icons/TenX/32x32.jpg");
+}
+
+.snt-32 {
+    @include img-32("../src/icons/Status/32x32.jpg");
+}
+
+.chan-32 {
+    @include img-32("../src/icons/ChanCoin/32x32.jpg");
+}
+
+.efyt-32 {
+    @include img-32("../src/icons/Ergo/32x32.jpg");
+}
+
+.bria-32 {
+    @include img-32("../src/icons/BriaCoin/32x32.jpg");
+}
+
+.eos-32 {
+    @include img-32("../src/icons/EOS/32x32.jpg");
+}
+
+.turbo-32 {
+    @include img-32("../src/icons/TurboCoin/32x32.jpg");
+}
+
+.adx-32 {
+    @include img-32("../src/icons/AdEx/32x32.jpg");
+}
+
+.dnr-32 {
+    @include img-32("../src/icons/Denarius/32x32.jpg");
+}
+
+.storj-32 {
+    @include img-32("../src/icons/Storj/32x32.jpg");
+}
+
+.bnx-32 {
+    @include img-32("../src/icons/BnrtxCoin/32x32.jpg");
+}
+
+.socc-32 {
+    @include img-32("../src/icons/SocialCoin/32x32.jpg");
+}
+
+.adt-32 {
+    @include img-32("../src/icons/adToken/32x32.jpg");
+}
+
+.mco-32 {
+    @include img-32("../src/icons/MCO/32x32.jpg");
+}
+
+.ping-32 {
+    @include img-32("../src/icons/CryptoPing/32x32.jpg");
+}
+
+.uet-32 {
+    @include img-32("../src/icons/UselessEthereumToken/32x32.jpg");
+}
+
+.wgr-32 {
+    @include img-32("../src/icons/Wagerr/32x32.jpg");
+}
+
+.slevin-32 {
+    @include img-32("../src/icons/Slevin/32x32.jpg");
+}
+
+.ecob-32 {
+    @include img-32("../src/icons/Ecobit/32x32.jpg");
+}
+
+.unrc-32 {
+    @include img-32("../src/icons/UniversalRoyalCoin/32x32.jpg");
+}
+
+.plbt-32 {
+    @include img-32("../src/icons/Polybius/32x32.jpg");
+}
+
+.gas-32 {
+    @include img-32("../src/icons/Gas/32x32.jpg");
+}
+
+.snc-32 {
+    @include img-32("../src/icons/SunContract/32x32.jpg");
+}
+
+.jet-32 {
+    @include img-32("../src/icons/Jetcoin/32x32.jpg");
+}
+
+.mtl-32 {
+    @include img-32("../src/icons/Metal/32x32.jpg");
+}
+
+.ppt-32 {
+    @include img-32("../src/icons/Populous/32x32.jpg");
+}
+
+.women-32 {
+    @include img-32("../src/icons/WomenCoin/32x32.jpg");
+}
+
+.vuc-32 {
+    @include img-32("../src/icons/VirtaUniqueCoin/32x32.jpg");
+}
+
+.bdl-32 {
+    @include img-32("../src/icons/Bitdeal/32x32.jpg");
+}
+
+.xid-32 {
+    @include img-32("../src/icons/SphreAIR/32x32.jpg");
+}
+
+.rup-32 {
+    @include img-32("../src/icons/Rupee/32x32.jpg");
+}
+
+.gtc-32 {
+    @include img-32("../src/icons/GlobalTourCoin/32x32.jpg");
+}
+
+.pcn-32 {
+    @include img-32("../src/icons/PeepCoin/32x32.jpg");
+}
+
+.hero-32 {
+    @include img-32("../src/icons/SovereignHero/32x32.jpg");
+}
+
+.san-32 {
+    @include img-32("../src/icons/SantimentNetworkToken/32x32.jpg");
+}
+
+.omg-32 {
+    @include img-32("../src/icons/OmiseGO/32x32.jpg");
+}
+
+.cvcoin-32 {
+    @include img-32("../src/icons/CVCoin/32x32.jpg");
+}
+
+.nimictoken-32 {
+    @include img-32("../src/icons/NimiqExchangeToken/32x32.jpg");
+}
+
+.xrl-32 {
+    @include img-32("../src/icons/Rialto/32x32.jpg");
+}
+
+.linda-32 {
+    @include img-32("../src/icons/Linda/32x32.jpg");
+}
+
+.mbrs-32 {
+    @include img-32("../src/icons/Embers/32x32.jpg");
+}
+
+.cvc-32 {
+    @include img-32("../src/icons/Civic/32x32.jpg");
+}
+
+.ethos-32 {
+    @include img-32("../src/icons/Ethos/32x32.jpg");
+}
+
+.btwty-32 {
+    @include img-32("../src/icons/Bit20/32x32.jpg");
+}
+
+.sta-32 {
+    @include img-32("../src/icons/Starta/32x32.jpg");
+}
+
+.coal-32 {
+    @include img-32("../src/icons/BitCoal/32x32.jpg");
+}
+
+.lbtc-32 {
+    @include img-32("../src/icons/LiteBitcoin/32x32.jpg");
+}
+
+.part-32 {
+    @include img-32("../src/icons/Particl/32x32.jpg");
+}
+
+.smart-32 {
+    @include img-32("../src/icons/SmartCash/32x32.jpg");
+}
+
+.skin-32 {
+    @include img-32("../src/icons/SkinCoin/32x32.jpg");
+}
+
+.bch-32 {
+    @include img-32("../src/icons/BitcoinCash/32x32.jpg");
+}
+
+.hmc-32 {
+    @include img-32("../src/icons/HarmonyCoin/32x32.jpg");
+}
+
+.toa-32 {
+    @include img-32("../src/icons/ToaCoin/32x32.jpg");
+}
+
+.plr-32 {
+    @include img-32("../src/icons/Pillar/32x32.jpg");
+}
+
+.xry-32 {
+    @include img-32("../src/icons/Royalties/32x32.jpg");
+}
+
+.sigt-32 {
+    @include img-32("../src/icons/Signatum/32x32.jpg");
+}
+
+.ctic2-32 {
+    @include img-32("../src/icons/Coimatic2.0/32x32.jpg");
+}
+
+.bnb-32 {
+    @include img-32("../src/icons/BinanceCoin/32x32.jpg");
+}
+
+.pbt-32 {
+    @include img-32("../src/icons/PrimalbaseToken/32x32.jpg");
+}
+
+.cmpco-32 {
+    @include img-32("../src/icons/CampusCoin/32x32.jpg");
+}
+
+.emb-32 {
+    @include img-32("../src/icons/EmberCoin/32x32.jpg");
+}
+
+.ixt-32 {
+    @include img-32("../src/icons/IXT/32x32.jpg");
+}
+
+.gsr-32 {
+    @include img-32("../src/icons/GeyserCoin/32x32.jpg");
+}
+
+.msp-32 {
+    @include img-32("../src/icons/Mothership/32x32.jpg");
+}
+
+.asn-32 {
+    @include img-32("../src/icons/Aseancoin/32x32.jpg");
+}
+
+.birds-32 {
+    @include img-32("../src/icons/Birds/32x32.jpg");
+}
+
+.crm-32 {
+    @include img-32("../src/icons/Cream/32x32.jpg");
+}
+
+.era-32 {
+    @include img-32("../src/icons/ERA/32x32.jpg");
+}
+
+.kek-32 {
+    @include img-32("../src/icons/KekCoin/32x32.jpg");
+}
+
+.dnt-32 {
+    @include img-32("../src/icons/district0x/32x32.jpg");
+}
+
+.fyn-32 {
+    @include img-32("../src/icons/FundYourselfNow/32x32.jpg");
+}
+
+.stx-32 {
+    @include img-32("../src/icons/Stox/32x32.jpg");
+}
+
+.minex-32 {
+    @include img-32("../src/icons/Minex/32x32.jpg");
+}
+
+.cdt-32 {
+    @include img-32("../src/icons/Blox/32x32.jpg");
+}
+
+.wink-32 {
+    @include img-32("../src/icons/Wink/32x32.jpg");
+}
+
+.btm-32 {
+    @include img-32("../src/icons/Bytom/32x32.jpg");
+}
+
+.mao-32 {
+    @include img-32("../src/icons/MaoZedong/32x32.jpg");
+}
+
+.bitcf-32 {
+    @include img-32("../src/icons/FirstBitcoinCapital/32x32.jpg");
+}
+
+.ndc-32 {
+    @include img-32("../src/icons/NEVERDIE/32x32.jpg");
+}
+
+.tix-32 {
+    @include img-32("../src/icons/Blocktix/32x32.jpg");
+}
+
+.dcn-32 {
+    @include img-32("../src/icons/Dentacoin/32x32.jpg");
+}
+
+.rupx-32 {
+    @include img-32("../src/icons/Rupaya/32x32.jpg");
+}
+
+.shdw-32 {
+    @include img-32("../src/icons/ShadowToken/32x32.jpg");
+}
+
+.onion-32 {
+    @include img-32("../src/icons/DeepOnion/32x32.jpg");
+}
+
+.cat-32 {
+    @include img-32("../src/icons/BlockCAT/32x32.jpg");
+}
+
+.adst-32 {
+    @include img-32("../src/icons/AdShares/32x32.jpg");
+}
+
+.ddf-32 {
+    @include img-32("../src/icons/DigitalDevelopersFund/32x32.jpg");
+}
+
+.bas-32 {
+    @include img-32("../src/icons/BitAsean/32x32.jpg");
+}
+
+.dent-32 {
+    @include img-32("../src/icons/Dent/32x32.jpg");
+}
+
+.mbi-32 {
+    @include img-32("../src/icons/MonsterByte/32x32.jpg");
+}
+
+.ift-32 {
+    @include img-32("../src/icons/InvestFeed/32x32.jpg");
+}
+
+.xcxt-32 {
+    @include img-32("../src/icons/CoinonatX/32x32.jpg");
+}
+
+.riya-32 {
+    @include img-32("../src/icons/Etheriya/32x32.jpg");
+}
+
+.tcc-32 {
+    @include img-32("../src/icons/TheChampCoin/32x32.jpg");
+}
+
+.zrx-32 {
+    @include img-32("../src/icons/0x/32x32.jpg");
+}
+
+.bln-32 {
+    @include img-32("../src/icons/Bolenum/32x32.jpg");
+}
+
+.smoke-32 {
+    @include img-32("../src/icons/Smoke/32x32.jpg");
+}
+
+.yoyow-32 {
+    @include img-32("../src/icons/YOYOW/32x32.jpg");
+}
+
+.grwi-32 {
+    @include img-32("../src/icons/GrowersInternational/32x32.jpg");
+}
+
+.myb-32 {
+    @include img-32("../src/icons/MyBitToken/32x32.jpg");
+}
+
+.hsr-32 {
+    @include img-32("../src/icons/Hshare/32x32.jpg");
+}
+
+.ven-32 {
+    @include img-32("../src/icons/VeChain/32x32.jpg");
+}
+
+.tfl-32 {
+    @include img-32("../src/icons/TrueFlip/32x32.jpg");
+}
+
+.xtd-32 {
+    @include img-32("../src/icons/XTDCoin/32x32.jpg");
+}
+
+.nas-32 {
+    @include img-32("../src/icons/Nebulas/32x32.jpg");
+}
+
+.atmc-32 {
+    @include img-32("../src/icons/ATMCoin/32x32.jpg");
+}
+
+.dalc-32 {
+    @include img-32("../src/icons/Dalecoin/32x32.jpg");
+}
+
+.prn-32 {
+    @include img-32("../src/icons/Protean/32x32.jpg");
+}
+
+.acc-32 {
+    @include img-32("../src/icons/AdCoin/32x32.jpg");
+}
+
+.bbp-32 {
+    @include img-32("../src/icons/BiblePay/32x32.jpg");
+}
+
+.bq-32 {
+    @include img-32("../src/icons/bitqy/32x32.jpg");
+}
+
+.act-32 {
+    @include img-32("../src/icons/Achain/32x32.jpg");
+}
+
+.namo-32 {
+    @include img-32("../src/icons/NamoCoin/32x32.jpg");
+}
+
+.sigma-32 {
+    @include img-32("../src/icons/SIGMAcoin/32x32.jpg");
+}
+
+.xmcc-32 {
+    @include img-32("../src/icons/Monoeci/32x32.jpg");
+}
+
+.tnt-32 {
+    @include img-32("../src/icons/Tierion/32x32.jpg");
+}
+
+.wtc-32 {
+    @include img-32("../src/icons/Waltonchain/32x32.jpg");
+}
+
+.ula-32 {
+    @include img-32("../src/icons/Ulatech/32x32.jpg");
+}
+
+.pst-32 {
+    @include img-32("../src/icons/Primas/32x32.jpg");
+}
+
+.opt-32 {
+    @include img-32("../src/icons/Opus/32x32.jpg");
+}
+
+.sur-32 {
+    @include img-32("../src/icons/Suretly/32x32.jpg");
+}
+
+.lrc-32 {
+    @include img-32("../src/icons/Loopring/32x32.jpg");
+}
+
+.ltcu-32 {
+    @include img-32("../src/icons/LiteCoinUltra/32x32.jpg");
+}
+
+.poe-32 {
+    @include img-32("../src/icons/Po.et/32x32.jpg");
+}
+
+.nto-32 {
+    @include img-32("../src/icons/Fujinto/32x32.jpg");
+}
+
+.strc-32 {
+    @include img-32("../src/icons/StarCredits/32x32.jpg");
+}
+
+.krone-32 {
+    @include img-32("../src/icons/Kronecoin/32x32.jpg");
+}
+
+.mcc-32 {
+    @include img-32("../src/icons/MovingCloudCoin/32x32.jpg");
+}
+
+.cyder-32 {
+    @include img-32("../src/icons/Cyder/32x32.jpg");
+}
+
+.mtnc-32 {
+    @include img-32("../src/icons/Masternodecoin/32x32.jpg");
+}
+
+.mth-32 {
+    @include img-32("../src/icons/Monetha/32x32.jpg");
+}
+
+.avt-32 {
+    @include img-32("../src/icons/Aventus/32x32.jpg");
+}
+
+.dlt-32 {
+    @include img-32("../src/icons/Agrello/32x32.jpg");
+}
+
+.hvn-32 {
+    @include img-32("../src/icons/HiveProject/32x32.jpg");
+}
+
+.vsx-32 {
+    @include img-32("../src/icons/Vsync/32x32.jpg");
+}
+
+.magn-32 {
+    @include img-32("../src/icons/Magnetcoin/32x32.jpg");
+}
+
+.mda-32 {
+    @include img-32("../src/icons/MoedaLoyaltyPoints/32x32.jpg");
+}
+
+.nebl-32 {
+    @include img-32("../src/icons/Neblio/32x32.jpg");
+}
+
+.vivo-32 {
+    @include img-32("../src/icons/VIVO/32x32.jpg");
+}
+
+.trx-32 {
+    @include img-32("../src/icons/TRON/32x32.jpg");
+}
+
+.ocl-32 {
+    @include img-32("../src/icons/Oceanlab/32x32.jpg");
+}
+
+.rex-32 {
+    @include img-32("../src/icons/imbrex/32x32.jpg");
+}
+
+.buzz-32 {
+    @include img-32("../src/icons/BuzzCoin/32x32.jpg");
+}
+
+.credo-32 {
+    @include img-32("../src/icons/Credo/32x32.jpg");
+}
+
+.drxne-32 {
+    @include img-32("../src/icons/DROXNE/32x32.jpg");
+}
+
+.aht-32 {
+    @include img-32("../src/icons/Bowhead/32x32.jpg");
+}
+
+.mana-32 {
+    @include img-32("../src/icons/Decentraland/32x32.jpg");
+}
+
+.ind-32 {
+    @include img-32("../src/icons/IndorseToken/32x32.jpg");
+}
+
+.xpa-32 {
+    @include img-32("../src/icons/XPA/32x32.jpg");
+}
+
+.scl-32 {
+    @include img-32("../src/icons/Sociall/32x32.jpg");
+}
+
+.atb-32 {
+    @include img-32("../src/icons/ATBCoin/32x32.jpg");
+}
+
+.iqt-32 {
+    @include img-32("../src/icons/iQuant/32x32.jpg");
+}
+
+.ethd-32 {
+    @include img-32("../src/icons/EthereumDark/32x32.jpg");
+}
+
+.pro-32 {
+    @include img-32("../src/icons/Propy/32x32.jpg");
+}
+
+.link-32 {
+    @include img-32("../src/icons/ChainLink/32x32.jpg");
+}
+
+.bmc-32 {
+    @include img-32("../src/icons/Blackmoon/32x32.jpg");
+}
+
+.wic-32 {
+    @include img-32("../src/icons/WiCoin/32x32.jpg");
+}
+
+.elix-32 {
+    @include img-32("../src/icons/Elixir/32x32.jpg");
+}
+
+.xbl-32 {
+    @include img-32("../src/icons/BillionaireToken/32x32.jpg");
+}
+
+.knc-32 {
+    @include img-32("../src/icons/KyberNetwork/32x32.jpg");
+}
+
+.vibe-32 {
+    @include img-32("../src/icons/VIBE/32x32.jpg");
+}
+
+.sub-32 {
+    @include img-32("../src/icons/Substratum/32x32.jpg");
+}
+
+.day-32 {
+    @include img-32("../src/icons/Chronologic/32x32.jpg");
+}
+
+.chips-32 {
+    @include img-32("../src/icons/CHIPS/32x32.jpg");
+}
+
+.tkr-32 {
+    @include img-32("../src/icons/CryptoInsight/32x32.jpg");
+}
+
+.pix-32 {
+    @include img-32("../src/icons/Lampix/32x32.jpg");
+}
+
+.coss-32 {
+    @include img-32("../src/icons/COSS/32x32.jpg");
+}
+
+.csno-32 {
+    @include img-32("../src/icons/BitDice/32x32.jpg");
+}
+
+.rvt-32 {
+    @include img-32("../src/icons/Rivetz/32x32.jpg");
+}
+
+.kin-32 {
+    @include img-32("../src/icons/Kin/32x32.jpg");
+}
+
+.itz-32 {
+    @include img-32("../src/icons/Interzone/32x32.jpg");
+}
+
+.tgt-32 {
+    @include img-32("../src/icons/TargetCoin/32x32.jpg");
+}
+
+.salt-32 {
+    @include img-32("../src/icons/SALT/32x32.jpg");
+}
+
+.orme-32 {
+    @include img-32("../src/icons/OrmeusCoin/32x32.jpg");
+}
+
+.kln-32 {
+    @include img-32("../src/icons/Kolion/32x32.jpg");
+}
+
+.mci-32 {
+    @include img-32("../src/icons/Musiconomi/32x32.jpg");
+}
+
+.colx-32 {
+    @include img-32("../src/icons/ColossusXT/32x32.jpg");
+}
+
+.tzc-32 {
+    @include img-32("../src/icons/TrezarCoin/32x32.jpg");
+}
+
+.hdlb-32 {
+    @include img-32("../src/icons/HODLBucks/32x32.jpg");
+}
+
+.odn-32 {
+    @include img-32("../src/icons/Obsidian/32x32.jpg");
+}
+
+.cob-32 {
+    @include img-32("../src/icons/Cobinhood/32x32.jpg");
+}
+
+.rec-32 {
+    @include img-32("../src/icons/Regalcoin/32x32.jpg");
+}
+
+.msd-32 {
+    @include img-32("../src/icons/MSD/32x32.jpg");
+}
+
+.bis-32 {
+    @include img-32("../src/icons/Bismuth/32x32.jpg");
+}
+
+.ada-32 {
+    @include img-32("../src/icons/Cardano/32x32.jpg");
+}
+
+.xtz-32 {
+    @include img-32("../src/icons/Tezos/32x32.jpg");
+}
+
+.voise-32 {
+    @include img-32("../src/icons/Voise/32x32.jpg");
+}
+
+.xin-32 {
+    @include img-32("../src/icons/InfinityEconomics/32x32.jpg");
+}
+
+.atm-32 {
+    @include img-32("../src/icons/ATMChain/32x32.jpg");
+}
+
+.kick-32 {
+    @include img-32("../src/icons/KickCoin/32x32.jpg");
+}
+
+.ett-32 {
+    @include img-32("../src/icons/EncryptoTel[ETH]/32x32.jpg");
+}
+
+.vib-32 {
+    @include img-32("../src/icons/Viberate/32x32.jpg");
+}
+
+.rhoc-32 {
+    @include img-32("../src/icons/RChain/32x32.jpg");
+}
+
+.inxt-32 {
+    @include img-32("../src/icons/Internxt/32x32.jpg");
+}
+
+.whl-32 {
+    @include img-32("../src/icons/WhaleCoin/32x32.jpg");
+}
+
+.flik-32 {
+    @include img-32("../src/icons/FLiK/32x32.jpg");
+}
+
+.ebet-32 {
+    @include img-32("../src/icons/EthBet/32x32.jpg");
+}
+
+.cnx-32 {
+    @include img-32("../src/icons/Cryptonex/32x32.jpg");
+}
+
+.wild-32 {
+    @include img-32("../src/icons/WildCrypto/32x32.jpg");
+}
+
+.real-32 {
+    @include img-32("../src/icons/REAL/32x32.jpg");
+}
+
+.hbt-32 {
+    @include img-32("../src/icons/HubiiNetwork/32x32.jpg");
+}
+
+.cct-32 {
+    @include img-32("../src/icons/CrystalClear/32x32.jpg");
+}
+
+.bco-32 {
+    @include img-32("../src/icons/BridgeCoin/32x32.jpg");
+}
+
+.evx-32 {
+    @include img-32("../src/icons/Everex/32x32.jpg");
+}
+
+.ppp-32 {
+    @include img-32("../src/icons/PayPie/32x32.jpg");
+}
+
+.air-32 {
+    @include img-32("../src/icons/AirToken/32x32.jpg");
+}
+
+.pos-32 {
+    @include img-32("../src/icons/PoSToken/32x32.jpg");
+}
+
+.sdrn-32 {
+    @include img-32("../src/icons/Senderon/32x32.jpg");
+}
+
+.alis-32 {
+    @include img-32("../src/icons/ALIS/32x32.jpg");
+}
+
+.btcz-32 {
+    @include img-32("../src/icons/BitcoinZ/32x32.jpg");
+}
+
+.hgt-32 {
+    @include img-32("../src/icons/HelloGold/32x32.jpg");
+}
+
+.cnd-32 {
+    @include img-32("../src/icons/Cindicator/32x32.jpg");
+}
+
+.eng-32 {
+    @include img-32("../src/icons/Enigma/32x32.jpg");
+}
+
+.ctic3-32 {
+    @include img-32("../src/icons/Coimatic3.0/32x32.jpg");
+}
+
+.bsn-32 {
+    @include img-32("../src/icons/Bastonet/32x32.jpg");
+}
+
+.zsc-32 {
+    @include img-32("../src/icons/Zeusshield/32x32.jpg");
+}
+
+.ecash-32 {
+    @include img-32("../src/icons/EthereumCash/32x32.jpg");
+}
+
+.cor-32 {
+    @include img-32("../src/icons/CORION/32x32.jpg");
+}
+
+.ats-32 {
+    @include img-32("../src/icons/Authorship/32x32.jpg");
+}
+
+.rkc-32 {
+    @include img-32("../src/icons/RoyalKingdomCoin/32x32.jpg");
+}
+
+.aky-32 {
+    @include img-32("../src/icons/AkuyaCoin/32x32.jpg");
+}
+
+.exn-32 {
+    @include img-32("../src/icons/ExchangeN/32x32.jpg");
+}
+
+.pipl-32 {
+    @include img-32("../src/icons/PiplCoin/32x32.jpg");
+}
+
+.edo-32 {
+    @include img-32("../src/icons/Eidoo/32x32.jpg");
+}
+
+.ast-32 {
+    @include img-32("../src/icons/AirSwap/32x32.jpg");
+}
+
+.bsr-32 {
+    @include img-32("../src/icons/BitSoar/32x32.jpg");
+}
+
+.cag-32 {
+    @include img-32("../src/icons/Change/32x32.jpg");
+}
+
+.bcpt-32 {
+    @include img-32("../src/icons/BlockMasonCreditProtocol/32x32.jpg");
+}
+
+.aion-32 {
+    @include img-32("../src/icons/Aion/32x32.jpg");
+}
+
+.trct-32 {
+    @include img-32("../src/icons/Tracto/32x32.jpg");
+}
+
+.art-32 {
+    @include img-32("../src/icons/Maecenas/32x32.jpg");
+}
+
+.xgox-32 {
+    @include img-32("../src/icons/XGOX/32x32.jpg");
+}
+
+.evr-32 {
+    @include img-32("../src/icons/Everus/32x32.jpg");
+}
+
+.dutch-32 {
+    @include img-32("../src/icons/DutchCoin/32x32.jpg");
+}
+
+.otn-32 {
+    @include img-32("../src/icons/OpenTradingNetwork/32x32.jpg");
+}
+
+.drt-32 {
+    @include img-32("../src/icons/DomRaider/32x32.jpg");
+}
+
+.req-32 {
+    @include img-32("../src/icons/RequestNetwork/32x32.jpg");
+}
+
+.b2x-32 {
+    @include img-32("../src/icons/SegWit2x/32x32.jpg");
+}
+
+.etg-32 {
+    @include img-32("../src/icons/EthereumGold/32x32.jpg");
+}
+
+.blue-32 {
+    @include img-32("../src/icons/BlueProtocol/32x32.jpg");
+}
+
+.runners-32 {
+    @include img-32("../src/icons/Runners/32x32.jpg");
+}
+
+.life-32 {
+    @include img-32("../src/icons/LIFE/32x32.jpg");
+}
+
+.hdg-32 {
+    @include img-32("../src/icons/Hedge/32x32.jpg");
+}
+
+.mod-32 {
+    @include img-32("../src/icons/Modum/32x32.jpg");
+}
+
+.amb-32 {
+    @include img-32("../src/icons/Ambrosus/32x32.jpg");
+}
+
+.icos-32 {
+    @include img-32("../src/icons/ICOS/32x32.jpg");
+}
+
+.btg-32 {
+    @include img-32("../src/icons/BitcoinGold/32x32.jpg");
+}
+
+.kcs-32 {
+    @include img-32("../src/icons/KuCoinShares/32x32.jpg");
+}
+
+.exrn-32 {
+    @include img-32("../src/icons/EXRNchain/32x32.jpg");
+}
+
+.poll-32 {
+    @include img-32("../src/icons/ClearPoll/32x32.jpg");
+}
+
+.la-32 {
+    @include img-32("../src/icons/LATOKEN/32x32.jpg");
+}
+
+.xuc-32 {
+    @include img-32("../src/icons/ExchangeUnion/32x32.jpg");
+}
+
+.nuls-32 {
+    @include img-32("../src/icons/Nuls/32x32.jpg");
+}
+
+.btcred-32 {
+    @include img-32("../src/icons/BitcoinRed/32x32.jpg");
+}
+
+.prg-32 {
+    @include img-32("../src/icons/Paragon/32x32.jpg");
+}
+
+.bos-32 {
+    @include img-32("../src/icons/BOScoin/32x32.jpg");
+}
+
+.rcn-32 {
+    @include img-32("../src/icons/RipioCreditNetwork/32x32.jpg");
+}
+
+.gmt-32 {
+    @include img-32("../src/icons/MercuryProtocol/32x32.jpg");
+}
+
+.icx-32 {
+    @include img-32("../src/icons/ICON/32x32.jpg");
+}
+
+.js-32 {
+    @include img-32("../src/icons/JavaScriptToken/32x32.jpg");
+}
+
+.elite-32 {
+    @include img-32("../src/icons/EthereumLite/32x32.jpg");
+}
+
+.itt-32 {
+    @include img-32("../src/icons/IntelligentTradingFoundation/32x32.jpg");
+}
+
+.ieth-32 {
+    @include img-32("../src/icons/iEthereum/32x32.jpg");
+}
+
+.pirl-32 {
+    @include img-32("../src/icons/Pirl/32x32.jpg");
+}
+
+.xnn-32 {
+    @include img-32("../src/icons/Xenon/32x32.jpg");
+}
+
+.lux-32 {
+    @include img-32("../src/icons/LUXCoin/32x32.jpg");
+}
+
+.ntwk-32 {
+    @include img-32("../src/icons/NetworkToken/32x32.jpg");
+}
+
+.dovu-32 {
+    @include img-32("../src/icons/Dovu/32x32.jpg");
+}
+
+.rpx-32 {
+    @include img-32("../src/icons/RedPulse/32x32.jpg");
+}
+
+.bt2-32 {
+    @include img-32("../src/icons/BT2[CST]/32x32.jpg");
+}
+
+.placo-32 {
+    @include img-32("../src/icons/PlayerCoin/32x32.jpg");
+}
+
+.roofs-32 {
+    @include img-32("../src/icons/Roofs/32x32.jpg");
+}
+
+.fap-32 {
+    @include img-32("../src/icons/FAPcoin/32x32.jpg");
+}
+
+.btcm-32 {
+    @include img-32("../src/icons/BTCMoon/32x32.jpg");
+}
+
+.fuel-32 {
+    @include img-32("../src/icons/Etherparty/32x32.jpg");
+}
+
+.ella-32 {
+    @include img-32("../src/icons/Ellaism/32x32.jpg");
+}
+
+.vulc-32 {
+    @include img-32("../src/icons/Vulcano/32x32.jpg");
+}
+
+.qvt-32 {
+    @include img-32("../src/icons/Qvolta/32x32.jpg");
+}
+
+.rmc-32 {
+    @include img-32("../src/icons/RussianMinerCoin/32x32.jpg");
+}
+
+.fyp-32 {
+    @include img-32("../src/icons/FlypMe/32x32.jpg");
+}
+
+.ebtc-32 {
+    @include img-32("../src/icons/eBitcoin/32x32.jpg");
+}
+
+.btbc-32 {
+    @include img-32("../src/icons/Bitbase/32x32.jpg");
+}
+
+.enj-32 {
+    @include img-32("../src/icons/EnjinCoin/32x32.jpg");
+}
+
+.powr-32 {
+    @include img-32("../src/icons/PowerLedger/32x32.jpg");
+}
+
+.grid-32 {
+    @include img-32("../src/icons/Grid+/32x32.jpg");
+}
+
+.r-32 {
+    @include img-32("../src/icons/Revain/32x32.jpg");
+}
+
+.atl-32 {
+    @include img-32("../src/icons/ATLANT/32x32.jpg");
+}
+
+.etn-32 {
+    @include img-32("../src/icons/Electroneum/32x32.jpg");
+}
+
+.high-32 {
+    @include img-32("../src/icons/HighGain/32x32.jpg");
+}
+
+.mnx-32 {
+    @include img-32("../src/icons/MinexCoin/32x32.jpg");
+}
+
+.for-32 {
+    @include img-32("../src/icons/FORCE/32x32.jpg");
+}
+
+.data-32 {
+    @include img-32("../src/icons/StreamrDATAcoin/32x32.jpg");
+}
+
+.xsh-32 {
+    @include img-32("../src/icons/SHIELD/32x32.jpg");
+}
+
+.pure-32 {
+    @include img-32("../src/icons/Pure/32x32.jpg");
+}
+
+.eltcoin-32 {
+    @include img-32("../src/icons/ELTCOIN/32x32.jpg");
+}
+
+.ukg-32 {
+    @include img-32("../src/icons/UnikoinGold/32x32.jpg");
+}
+
+.crdnc-32 {
+    @include img-32("../src/icons/CredenceCoin/32x32.jpg");
+}
+
+.nio-32 {
+    @include img-32("../src/icons/Autonio/32x32.jpg");
+}
+
+.ctx-32 {
+    @include img-32("../src/icons/CarTaxiToken/32x32.jpg");
+}
+
+.arn-32 {
+    @include img-32("../src/icons/Aeron/32x32.jpg");
+}
+
+.stars-32 {
+    @include img-32("../src/icons/StarCashNetwork/32x32.jpg");
+}
+
+.phr-32 {
+    @include img-32("../src/icons/Phore/32x32.jpg");
+}
+
+.frd-32 {
+    @include img-32("../src/icons/Farad/32x32.jpg");
+}
+
+.inn-32 {
+    @include img-32("../src/icons/Innova/32x32.jpg");
+}
+
+.rdn-32 {
+    @include img-32("../src/icons/RaidenNetworkToken/32x32.jpg");
+}
+
+.dpy-32 {
+    @include img-32("../src/icons/Delphy/32x32.jpg");
+}
+
+.zeph-32 {
+    @include img-32("../src/icons/Zephyr/32x32.jpg");
+}
+
+.erc20-32 {
+    @include img-32("../src/icons/ERC20/32x32.jpg");
+}
+
+.tie-32 {
+    @include img-32("../src/icons/Ties.DB/32x32.jpg");
+}
+
+.bpl-32 {
+    @include img-32("../src/icons/Blockpool/32x32.jpg");
+}
+
+.grim-32 {
+    @include img-32("../src/icons/Grimcoin/32x32.jpg");
+}
+
+.oxy-32 {
+    @include img-32("../src/icons/Oxycoin/32x32.jpg");
+}
+
+.epy-32 {
+    @include img-32("../src/icons/Emphy/32x32.jpg");
+}
+
+.hold-32 {
+    @include img-32("../src/icons/StellarHoldings/32x32.jpg");
+}
+
+.neog-32 {
+    @include img-32("../src/icons/NEOGOLD/32x32.jpg");
+}
+
+.dbet-32 {
+    @include img-32("../src/icons/DecentBet/32x32.jpg");
+}
+
+.hst-32 {
+    @include img-32("../src/icons/DecisionToken/32x32.jpg");
+}
+
+.sss-32 {
+    @include img-32("../src/icons/Sharechain/32x32.jpg");
+}
+
+.ufr-32 {
+    @include img-32("../src/icons/Upfiring/32x32.jpg");
+}
+
+.stu-32 {
+    @include img-32("../src/icons/bitJob/32x32.jpg");
+}
+
+.gvt-32 {
+    @include img-32("../src/icons/GenesisVision/32x32.jpg");
+}
+
+.eagle-32 {
+    @include img-32("../src/icons/EagleCoin/32x32.jpg");
+}
+
+.eag-32 {
+    @include img-32("../src/icons/EACoin/32x32.jpg");
+}
+
+.prix-32 {
+    @include img-32("../src/icons/Privatix/32x32.jpg");
+}
+
+.itns-32 {
+    @include img-32("../src/icons/IntenseCoin/32x32.jpg");
+}
+
+.ebch-32 {
+    @include img-32("../src/icons/EBCH/32x32.jpg");
+}
+
+.sisa-32 {
+    @include img-32("../src/icons/SISA/32x32.jpg");
+}
+
+.astro-32 {
+    @include img-32("../src/icons/Astro/32x32.jpg");
+}
+
+.payx-32 {
+    @include img-32("../src/icons/Paypex/32x32.jpg");
+}
+
+.grx-32 {
+    @include img-32("../src/icons/GOLDRewardToken/32x32.jpg");
+}
+
+.bte-32 {
+    @include img-32("../src/icons/BitSerial/32x32.jpg");
+}
+
+.sgr-32 {
+    @include img-32("../src/icons/SugarExchange/32x32.jpg");
+}
+
+.viu-32 {
+    @include img-32("../src/icons/Viuly/32x32.jpg");
+}
+
+.alqo-32 {
+    @include img-32("../src/icons/ALQO/32x32.jpg");
+}
+
+.gbx-32 {
+    @include img-32("../src/icons/GoByte/32x32.jpg");
+}
+
+.wc-32 {
+    @include img-32("../src/icons/WINCOIN/32x32.jpg");
+}
+
+.prl-32 {
+    @include img-32("../src/icons/Oyster/32x32.jpg");
+}
+
+.b2b-32 {
+    @include img-32("../src/icons/B2BX/32x32.jpg");
+}
+
+.pnx-32 {
+    @include img-32("../src/icons/Phantomx/32x32.jpg");
+}
+
+.dgpt-32 {
+    @include img-32("../src/icons/DigiPulse/32x32.jpg");
+}
+
+.dna-32 {
+    @include img-32("../src/icons/EncrypGen/32x32.jpg");
+}
+
+.ink-32 {
+    @include img-32("../src/icons/Ink/32x32.jpg");
+}
+
+.bot-32 {
+    @include img-32("../src/icons/Bodhi/32x32.jpg");
+}
+
+.qsp-32 {
+    @include img-32("../src/icons/Quantstamp/32x32.jpg");
+}
+
+.qash-32 {
+    @include img-32("../src/icons/QASH/32x32.jpg");
+}
+
+.zzc-32 {
+    @include img-32("../src/icons/ZoZoCoin/32x32.jpg");
+}
+
+.tsl-32 {
+    @include img-32("../src/icons/Energo/32x32.jpg");
+}
+
+.pbl-32 {
+    @include img-32("../src/icons/Publica/32x32.jpg");
+}
+
+.mag-32 {
+    @include img-32("../src/icons/Magnet/32x32.jpg");
+}
+
+.spank-32 {
+    @include img-32("../src/icons/SpankChain/32x32.jpg");
+}
+
+.vot-32 {
+    @include img-32("../src/icons/VoteCoin/32x32.jpg");
+}
+
+.bcd-32 {
+    @include img-32("../src/icons/BitcoinDiamond/32x32.jpg");
+}
+
+.vee-32 {
+    @include img-32("../src/icons/BLOCKv/32x32.jpg");
+}
+
+.ai-32 {
+    @include img-32("../src/icons/POLYAI/32x32.jpg");
+}
+
+.acc-32 {
+    @include img-32("../src/icons/AcceleratorNetwork/32x32.jpg");
+}
+
+.plx-32 {
+    @include img-32("../src/icons/PlexCoin/32x32.jpg");
+}
+
+.divx-32 {
+    @include img-32("../src/icons/Divi/32x32.jpg");
+}
+
+.monk-32 {
+    @include img-32("../src/icons/MonkeyProject/32x32.jpg");
+}
+
+.flixx-32 {
+    @include img-32("../src/icons/Flixxo/32x32.jpg");
+}
+
+.gls-32 {
+    @include img-32("../src/icons/GlassCoin/32x32.jpg");
+}
+
+.tnb-32 {
+    @include img-32("../src/icons/TimeNewBank/32x32.jpg");
+}
+
+.wish-32 {
+    @include img-32("../src/icons/MyWish/32x32.jpg");
+}
+
+.evc-32 {
+    @include img-32("../src/icons/EventChain/32x32.jpg");
+}
+
+.lend-32 {
+    @include img-32("../src/icons/ETHLend/32x32.jpg");
+}
+
+.ong-32 {
+    @include img-32("../src/icons/onG.social/32x32.jpg");
+}
+
+.cco-32 {
+    @include img-32("../src/icons/Ccore/32x32.jpg");
+}
+
+.qbt-32 {
+    @include img-32("../src/icons/Qbao/32x32.jpg");
+}
+
+.drgn-32 {
+    @include img-32("../src/icons/Dragonchain/32x32.jpg");
+}
+
+.pfr-32 {
+    @include img-32("../src/icons/Payfair/32x32.jpg");
+}
+
+.pre-32 {
+    @include img-32("../src/icons/Presearch/32x32.jpg");
+}
+
+.cmt-32 {
+    @include img-32("../src/icons/CyberMiles/32x32.jpg");
+}
+
+.bcdn-32 {
+    @include img-32("../src/icons/BlockCDN/32x32.jpg");
+}
+
+.capp-32 {
+    @include img-32("../src/icons/Cappasity/32x32.jpg");
+}
+
+.ero-32 {
+    @include img-32("../src/icons/Eroscoin/32x32.jpg");
+}
+
+.mage-32 {
+    @include img-32("../src/icons/MagicCoin/32x32.jpg");
+}
+
+.itc-32 {
+    @include img-32("../src/icons/IoTChain/32x32.jpg");
+}
+
+.jiyo-32 {
+    @include img-32("../src/icons/Jiyo/32x32.jpg");
+}
+
+.send-32 {
+    @include img-32("../src/icons/SocialSend/32x32.jpg");
+}
+
+.nuko-32 {
+    @include img-32("../src/icons/Nekonium/32x32.jpg");
+}
+
+.snov-32 {
+    @include img-32("../src/icons/Snovio/32x32.jpg");
+}
+
+.sbc-32 {
+    @include img-32("../src/icons/StrikeBitClub/32x32.jpg");
+}
+
+.bwk-32 {
+    @include img-32("../src/icons/Bulwark/32x32.jpg");
+}
+
+.saga-32 {
+    @include img-32("../src/icons/SagaCoin/32x32.jpg");
+}
+
+.cms-32 {
+    @include img-32("../src/icons/COMSA[ETH]/32x32.jpg");
+}
+
+.kbr-32 {
+    @include img-32("../src/icons/KuberaCoin/32x32.jpg");
+}
+
+.tok-32 {
+    @include img-32("../src/icons/Tokugawa/32x32.jpg");
+}
+
+.pcoin-32 {
+    @include img-32("../src/icons/PioneerCoin/32x32.jpg");
+}
+
+.cms-32 {
+    @include img-32("../src/icons/COMSA[XEM]/32x32.jpg");
+}
+
+.wabi-32 {
+    @include img-32("../src/icons/WaBi/32x32.jpg");
+}
+
+.crc-32 {
+    @include img-32("../src/icons/CrowdCoin/32x32.jpg");
+}
+
+.wand-32 {
+    @include img-32("../src/icons/WandX/32x32.jpg");
+}
+
+.spf-32 {
+    @include img-32("../src/icons/SportyCo/32x32.jpg");
+}
+
+.cred-32 {
+    @include img-32("../src/icons/Verify/32x32.jpg");
+}
+
+.sct-32 {
+    @include img-32("../src/icons/Soma/32x32.jpg");
+}
+
+.uqc-32 {
+    @include img-32("../src/icons/UquidCoin/32x32.jpg");
+}
+
+.mds-32 {
+    @include img-32("../src/icons/MediShares/32x32.jpg");
+}
+
+.pra-32 {
+    @include img-32("../src/icons/ProChain/32x32.jpg");
+}
+
+.ignis-32 {
+    @include img-32("../src/icons/Ignis/32x32.jpg");
+}
+
+.smt-32 {
+    @include img-32("../src/icons/SmartMesh/32x32.jpg");
+}
+
+.hwc-32 {
+    @include img-32("../src/icons/HollyWoodCoin/32x32.jpg");
+}
+
+.pkt-32 {
+    @include img-32("../src/icons/Playkey/32x32.jpg");
+}
+
+.fil-32 {
+    @include img-32("../src/icons/Filecoin[Futures]/32x32.jpg");
+}
+
+.bcx-32 {
+    @include img-32("../src/icons/BitcoinX/32x32.jpg");
+}
+
+.sbtc-32 {
+    @include img-32("../src/icons/SuperBitcoin/32x32.jpg");
+}
+
+.dat-32 {
+    @include img-32("../src/icons/Datum/32x32.jpg");
+}
+
+.trdt-32 {
+    @include img-32("../src/icons/TridentGroup/32x32.jpg");
+}
+
+.btca-32 {
+    @include img-32("../src/icons/Bitair/32x32.jpg");
+}
+
+.amm-32 {
+    @include img-32("../src/icons/MicroMoney/32x32.jpg");
+}
+
+.loc-32 {
+    @include img-32("../src/icons/LockTrip/32x32.jpg");
+}
+
+.wrc-32 {
+    @include img-32("../src/icons/Worldcore/32x32.jpg");
+}
+
+.gto-32 {
+    @include img-32("../src/icons/Gifto/32x32.jpg");
+}
+
+.ytn-32 {
+    @include img-32("../src/icons/YENTEN/32x32.jpg");
+}
+
+.gnx-32 {
+    @include img-32("../src/icons/GenaroNetwork/32x32.jpg");
+}
+
+.ubtc-32 {
+    @include img-32("../src/icons/UnitedBitcoin/32x32.jpg");
+}
+
+.star-32 {
+    @include img-32("../src/icons/Starbase/32x32.jpg");
+}
+
+.ost-32 {
+    @include img-32("../src/icons/OST/32x32.jpg");
+}
+
+.storm-32 {
+    @include img-32("../src/icons/Storm/32x32.jpg");
+}
+
+.dtr-32 {
+    @include img-32("../src/icons/DynamicTradingRights/32x32.jpg");
+}
+
+.elf-32 {
+    @include img-32("../src/icons/aelf/32x32.jpg");
+}
+
+.wax-32 {
+    @include img-32("../src/icons/WAX/32x32.jpg");
+}
+
+.med-32 {
+    @include img-32("../src/icons/MediBloc[QRC20]/32x32.jpg");
+}
+
+.dew-32 {
+    @include img-32("../src/icons/DEW/32x32.jpg");
+}
+
+.ngc-32 {
+    @include img-32("../src/icons/NAGA/32x32.jpg");
+}
+
+.brd-32 {
+    @include img-32("../src/icons/Bread/32x32.jpg");
+}
+
+.bix-32 {
+    @include img-32("../src/icons/BiboxToken/32x32.jpg");
+}
+
+.dai-32 {
+    @include img-32("../src/icons/Dai/32x32.jpg");
+}
+
+.sphtx-32 {
+    @include img-32("../src/icons/SophiaTX/32x32.jpg");
+}
+
+.bnty-32 {
+    @include img-32("../src/icons/Bounty0x/32x32.jpg");
+}
+
+.ace-32 {
+    @include img-32("../src/icons/ACE(TokenStars)/32x32.jpg");
+}
+
+.dim-32 {
+    @include img-32("../src/icons/DIMCOIN/32x32.jpg");
+}
+
+.srn-32 {
+    @include img-32("../src/icons/SIRINLABSToken/32x32.jpg");
+}
+
+.cpay-32 {
+    @include img-32("../src/icons/Cryptopay/32x32.jpg");
+}
+
+.html-32 {
+    @include img-32("../src/icons/HTMLCOIN/32x32.jpg");
+}
+
+.dbc-32 {
+    @include img-32("../src/icons/DeepBrainChain/32x32.jpg");
+}
+
+.hbc-32 {
+    @include img-32("../src/icons/HomeBlockCoin/32x32.jpg");
+}
+
+.neu-32 {
+    @include img-32("../src/icons/Neumark/32x32.jpg");
+}
+
+.utk-32 {
+    @include img-32("../src/icons/UTRUST/32x32.jpg");
+}
+
+.play-32 {
+    @include img-32("../src/icons/HEROcoin/32x32.jpg");
+}
+
+.big-32 {
+    @include img-32("../src/icons/BigONEToken/32x32.jpg");
+}
+
+.mtx-32 {
+    @include img-32("../src/icons/Matryx/32x32.jpg");
+}
+
+.mot-32 {
+    @include img-32("../src/icons/OlympusLabs/32x32.jpg");
+}
+
+.hpy-32 {
+    @include img-32("../src/icons/HyperPay/32x32.jpg");
+}
+
+.pylnt-32 {
+    @include img-32("../src/icons/PylonNetwork/32x32.jpg");
+}
+
+.ent-32 {
+    @include img-32("../src/icons/ENTCash/32x32.jpg");
+}
+
+.stak-32 {
+    @include img-32("../src/icons/STRAKS/32x32.jpg");
+}
+
+.fdx-32 {
+    @include img-32("../src/icons/FidentiaX/32x32.jpg");
+}
+
+.cat-32 {
+    @include img-32("../src/icons/BitClave/32x32.jpg");
+}
+
+.lbtc-32 {
+    @include img-32("../src/icons/LightningBitcoin/32x32.jpg");
+}
+
+.gtc-32 {
+    @include img-32("../src/icons/Game.com/32x32.jpg");
+}
+
+.tau-32 {
+    @include img-32("../src/icons/Lamden/32x32.jpg");
+}
+
+.esc-32 {
+    @include img-32("../src/icons/Escroco/32x32.jpg");
+}
+
+.blt-32 {
+    @include img-32("../src/icons/Bloom/32x32.jpg");
+}
+
+.swftc-32 {
+    @include img-32("../src/icons/SwftCoin/32x32.jpg");
+}
+
+.cov-32 {
+    @include img-32("../src/icons/Covesting/32x32.jpg");
+}
+
+.can-32 {
+    @include img-32("../src/icons/CanYaCoin/32x32.jpg");
+}
+
+.appc-32 {
+    @include img-32("../src/icons/AppCoins/32x32.jpg");
+}
+
+.hpb-32 {
+    @include img-32("../src/icons/HighPerformanceBlockchain/32x32.jpg");
+}
+
+.wicc-32 {
+    @include img-32("../src/icons/WaykiChain/32x32.jpg");
+}
+
+.numus-32 {
+    @include img-32("../src/icons/NumusCash/32x32.jpg");
+}
+
+.mdt-32 {
+    @include img-32("../src/icons/MeasurableDataToken/32x32.jpg");
+}
+
+.xin-32 {
+    @include img-32("../src/icons/Mixin/32x32.jpg");
+}
+
+.gcs-32 {
+    @include img-32("../src/icons/GameChainSystem/32x32.jpg");
+}
+
+.nms-32 {
+    @include img-32("../src/icons/Numus/32x32.jpg");
+}
+
+.cl-32 {
+    @include img-32("../src/icons/Coinlancer/32x32.jpg");
+}
+
+.cefs-32 {
+    @include img-32("../src/icons/CryptopiaFeeShares/32x32.jpg");
+}
+
+.get-32 {
+    @include img-32("../src/icons/GETProtocol/32x32.jpg");
+}
+
+.opc-32 {
+    @include img-32("../src/icons/OPCoin/32x32.jpg");
+}
+
+.cfun-32 {
+    @include img-32("../src/icons/CFun/32x32.jpg");
+}
+
+.aidoc-32 {
+    @include img-32("../src/icons/AIDoctor/32x32.jpg");
+}
+
+.can-32 {
+    @include img-32("../src/icons/ContentandADNetwork/32x32.jpg");
+}
+
+.polis-32 {
+    @include img-32("../src/icons/Polis/32x32.jpg");
+}
+
+.hkn-32 {
+    @include img-32("../src/icons/Hacken/32x32.jpg");
+}
+
+.show-32 {
+    @include img-32("../src/icons/Show/32x32.jpg");
+}
+
+.stn-32 {
+    @include img-32("../src/icons/SteneumCoin/32x32.jpg");
+}
+
+.zap-32 {
+    @include img-32("../src/icons/Zap/32x32.jpg");
+}
+
+.tct-32 {
+    @include img-32("../src/icons/TokenClub/32x32.jpg");
+}
+
+.fair-32 {
+    @include img-32("../src/icons/FairGame/32x32.jpg");
+}
+
+.aix-32 {
+    @include img-32("../src/icons/Aigang/32x32.jpg");
+}
+
+.rebl-32 {
+    @include img-32("../src/icons/REBL/32x32.jpg");
+}
+
+.ins-32 {
+    @include img-32("../src/icons/INSEcosystem/32x32.jpg");
+}
+
+.god-32 {
+    @include img-32("../src/icons/BitcoinGod/32x32.jpg");
+}
+
+.utt-32 {
+    @include img-32("../src/icons/UnitedTradersToken/32x32.jpg");
+}
+
+.cdx-32 {
+    @include img-32("../src/icons/CommodityAdNetwork/32x32.jpg");
+}
+
+.tio-32 {
+    @include img-32("../src/icons/TradeToken/32x32.jpg");
+}
+
+.bdg-32 {
+    @include img-32("../src/icons/BitDegree/32x32.jpg");
+}
+
+.qun-32 {
+    @include img-32("../src/icons/QunQun/32x32.jpg");
+}
+
+.lev-32 {
+    @include img-32("../src/icons/Leverj/32x32.jpg");
+}
+
+.krm-32 {
+    @include img-32("../src/icons/Karma/32x32.jpg");
+}
+
+.kcash-32 {
+    @include img-32("../src/icons/Kcash/32x32.jpg");
+}
+
+.atn-32 {
+    @include img-32("../src/icons/ATN/32x32.jpg");
+}
+
+.sxdt-32 {
+    @include img-32("../src/icons/Spectre.aiDividendToken/32x32.jpg");
+}
+
+.sxut-32 {
+    @include img-32("../src/icons/Spectre.aiUtilityToken/32x32.jpg");
+}
+
+.swtc-32 {
+    @include img-32("../src/icons/JingtumTech/32x32.jpg");
+}
+
+.vzt-32 {
+    @include img-32("../src/icons/Vezt/32x32.jpg");
+}
+
+.cld-32 {
+    @include img-32("../src/icons/Cloud/32x32.jpg");
+}
+
+.ucom-32 {
+    @include img-32("../src/icons/UnitedCryptoCommunity/32x32.jpg");
+}
+
+.bca-32 {
+    @include img-32("../src/icons/BitcoinAtom/32x32.jpg");
+}
+
+.ugc-32 {
+    @include img-32("../src/icons/ugChain/32x32.jpg");
+}
+
+.bkx-32 {
+    @include img-32("../src/icons/Bankex/32x32.jpg");
+}
+
+.eko-32 {
+    @include img-32("../src/icons/EchoLink/32x32.jpg");
+}
+
+.bto-32 {
+    @include img-32("../src/icons/Bottos/32x32.jpg");
+}
+
+.at-32 {
+    @include img-32("../src/icons/AWARE/32x32.jpg");
+}
+
+.tel-32 {
+    @include img-32("../src/icons/Telcoin/32x32.jpg");
+}
+
+.ic-32 {
+    @include img-32("../src/icons/Ignition/32x32.jpg");
+}
+
+.hac-32 {
+    @include img-32("../src/icons/HackspaceCapital/32x32.jpg");
+}
+
+.key-32 {
+    @include img-32("../src/icons/Selfkey/32x32.jpg");
+}
+
+.int-32 {
+    @include img-32("../src/icons/InternetNodeToken/32x32.jpg");
+}
+
+.rnt-32 {
+    @include img-32("../src/icons/OneRootNetwork/32x32.jpg");
+}
+
+.sense-32 {
+    @include img-32("../src/icons/Sense/32x32.jpg");
+}
+
+.moac-32 {
+    @include img-32("../src/icons/MOAC/32x32.jpg");
+}
+
+.tokc-32 {
+    @include img-32("../src/icons/TOKYO/32x32.jpg");
+}
+
+.iost-32 {
+    @include img-32("../src/icons/IOST/32x32.jpg");
+}
+
+.idt-32 {
+    @include img-32("../src/icons/InvestDigital/32x32.jpg");
+}
+
+.ait-32 {
+    @include img-32("../src/icons/AICHAIN/32x32.jpg");
+}
+
+.qube-32 {
+    @include img-32("../src/icons/Qube/32x32.jpg");
+}
+
+.edt-32 {
+    @include img-32("../src/icons/EtherDeltaToken/32x32.jpg");
+}
+
+.spc-32 {
+    @include img-32("../src/icons/SpaceChain/32x32.jpg");
+}
+
+.ore-32 {
+    @include img-32("../src/icons/Galactrum/32x32.jpg");
+}
+
+.hc-32 {
+    @include img-32("../src/icons/HarvestMasternodeCoin/32x32.jpg");
+}
+
+.horse-32 {
+    @include img-32("../src/icons/Ethorse/32x32.jpg");
+}
+
+.rct-32 {
+    @include img-32("../src/icons/RealChain/32x32.jpg");
+}
+
+.arct-32 {
+    @include img-32("../src/icons/ArbitrageCT/32x32.jpg");
+}
+
+.theta-32 {
+    @include img-32("../src/icons/ThetaToken/32x32.jpg");
+}
+
+.mvc-32 {
+    @include img-32("../src/icons/MaverickChain/32x32.jpg");
+}
+
+.put-32 {
+    @include img-32("../src/icons/ProfileUtilityToken/32x32.jpg");
+}
+
+.nox-32 {
+    @include img-32("../src/icons/Nitro/32x32.jpg");
+}
+
+.ipl-32 {
+    @include img-32("../src/icons/InsurePal/32x32.jpg");
+}
+
+.idxm-32 {
+    @include img-32("../src/icons/IDEXMembership/32x32.jpg");
+}
+
+.aura-32 {
+    @include img-32("../src/icons/AuroraDAO/32x32.jpg");
+}
+
+.agi-32 {
+    @include img-32("../src/icons/SingularityNET/32x32.jpg");
+}
+
+.gat-32 {
+    @include img-32("../src/icons/Gatcoin/32x32.jpg");
+}
+
+.sexc-32 {
+    @include img-32("../src/icons/ShareX/32x32.jpg");
+}
+
+.ddd-32 {
+    @include img-32("../src/icons/Scry.info/32x32.jpg");
+}
+
+.mobi-32 {
+    @include img-32("../src/icons/Mobius/32x32.jpg");
+}
+
+.hot-32 {
+    @include img-32("../src/icons/HydroProtocol/32x32.jpg");
+}
+
+.stc-32 {
+    @include img-32("../src/icons/StarChain/32x32.jpg");
+}
+
+.ipc-32 {
+    @include img-32("../src/icons/IPChain/32x32.jpg");
+}
+
+.mag-32 {
+    @include img-32("../src/icons/Maggie/32x32.jpg");
+}
+
+.light-32 {
+    @include img-32("../src/icons/LightChain/32x32.jpg");
+}
+
+.ref-32 {
+    @include img-32("../src/icons/RefToken/32x32.jpg");
+}
+
+.yee-32 {
+    @include img-32("../src/icons/YEE/32x32.jpg");
+}
+
+.aac-32 {
+    @include img-32("../src/icons/AcuteAngleCloud/32x32.jpg");
+}
+
+.ssc-32 {
+    @include img-32("../src/icons/SelfSell/32x32.jpg");
+}
+
+.mof-32 {
+    @include img-32("../src/icons/MolecularFuture/32x32.jpg");
+}
+
+.tnc-32 {
+    @include img-32("../src/icons/TrinityNetworkCredit/32x32.jpg");
+}
+
+.c20-32 {
+    @include img-32("../src/icons/CRYPTO20/32x32.jpg");
+}
+
+.ary-32 {
+    @include img-32("../src/icons/BlockArray/32x32.jpg");
+}
+
+.dta-32 {
+    @include img-32("../src/icons/DATA/32x32.jpg");
+}
+
+.crpt-32 {
+    @include img-32("../src/icons/Crypterium/32x32.jpg");
+}
+
+.spk-32 {
+    @include img-32("../src/icons/Sparks/32x32.jpg");
+}
+
+.cv-32 {
+    @include img-32("../src/icons/carVertical/32x32.jpg");
+}
+
+.tbx-32 {
+    @include img-32("../src/icons/Tokenbox/32x32.jpg");
+}
+
+.ekt-32 {
+    @include img-32("../src/icons/EDUCare/32x32.jpg");
+}
+
+.uip-32 {
+    @include img-32("../src/icons/UnlimitedIP/32x32.jpg");
+}
+
+.prs-32 {
+    @include img-32("../src/icons/PressOne/32x32.jpg");
+}
+
+.of-32 {
+    @include img-32("../src/icons/OFCOIN/32x32.jpg");
+}
+
+.true-32 {
+    @include img-32("../src/icons/TrueChain/32x32.jpg");
+}
+
+.ocn-32 {
+    @include img-32("../src/icons/Odyssey/32x32.jpg");
+}
+
+.idh-32 {
+    @include img-32("../src/icons/indaHash/32x32.jpg");
+}
+
+.qbic-32 {
+    @include img-32("../src/icons/Qbic/32x32.jpg");
+}
+
+.guess-32 {
+    @include img-32("../src/icons/Peerguess/32x32.jpg");
+}
+
+.aid-32 {
+    @include img-32("../src/icons/AidCoin/32x32.jpg");
+}
+
+.eve-32 {
+    @include img-32("../src/icons/Devery/32x32.jpg");
+}
+
+.bpt-32 {
+    @include img-32("../src/icons/Blockport/32x32.jpg");
+}
+
+.axp-32 {
+    @include img-32("../src/icons/aXpire/32x32.jpg");
+}
+
+.trac-32 {
+    @include img-32("../src/icons/OriginTrail/32x32.jpg");
+}
+
+.let-32 {
+    @include img-32("../src/icons/LinkEye/32x32.jpg");
+}
+
+.zil-32 {
+    @include img-32("../src/icons/Zilliqa/32x32.jpg");
+}
+
+.meet-32 {
+    @include img-32("../src/icons/CoinMeet/32x32.jpg");
+}
+
+.slt-32 {
+    @include img-32("../src/icons/Smartlands/32x32.jpg");
+}
+
+.fota-32 {
+    @include img-32("../src/icons/Fortuna/32x32.jpg");
+}
+
+.soc-32 {
+    @include img-32("../src/icons/AllSports/32x32.jpg");
+}
+
+.man-32 {
+    @include img-32("../src/icons/MatrixAINetwork/32x32.jpg");
+}
+
+.grlc-32 {
+    @include img-32("../src/icons/Garlicoin/32x32.jpg");
+}
+
+.ruff-32 {
+    @include img-32("../src/icons/Ruff/32x32.jpg");
+}
+
+.nkc-32 {
+    @include img-32("../src/icons/Nework/32x32.jpg");
+}
+
+.cofi-32 {
+    @include img-32("../src/icons/CoinFi/32x32.jpg");
+}
+
+.eql-32 {
+    @include img-32("../src/icons/Equal/32x32.jpg");
+}
+
+.hlc-32 {
+    @include img-32("../src/icons/HalalChain/32x32.jpg");
+}
+
+.zpt-32 {
+    @include img-32("../src/icons/Zeepin/32x32.jpg");
+}
+
+.cpc-32 {
+    @include img-32("../src/icons/CPChain/32x32.jpg");
+}
+
+.oc-32 {
+    @include img-32("../src/icons/OceanChain/32x32.jpg");
+}
+
+.hmc-32 {
+    @include img-32("../src/icons/HiMutualSociety/32x32.jpg");
+}
+
+.candy-32 {
+    @include img-32("../src/icons/Candy/32x32.jpg");
+}
+
+.sms-32 {
+    @include img-32("../src/icons/SpeedMiningService/32x32.jpg");
+}
+
+.epc-32 {
+    @include img-32("../src/icons/ElectronicPKChain/32x32.jpg");
+}
+
+.vlc-32 {
+    @include img-32("../src/icons/ValueChain/32x32.jpg");
+}
+
+.btw-32 {
+    @include img-32("../src/icons/BitWhite/32x32.jpg");
+}
+
+.cxo-32 {
+    @include img-32("../src/icons/CargoX/32x32.jpg");
+}
+
+.trf-32 {
+    @include img-32("../src/icons/Travelflex/32x32.jpg");
+}
+
+.ela-32 {
+    @include img-32("../src/icons/Elastos/32x32.jpg");
+}
+
+.stk-32 {
+    @include img-32("../src/icons/STK/32x32.jpg");
+}
+
+.pareto-32 {
+    @include img-32("../src/icons/ParetoNetwork/32x32.jpg");
+}
+
+.poly-32 {
+    @include img-32("../src/icons/Polymath/32x32.jpg");
+}
+
+.mtn-32 {
+    @include img-32("../src/icons/Medicalchain/32x32.jpg");
+}
+
+.jnt-32 {
+    @include img-32("../src/icons/JibrelNetwork/32x32.jpg");
+}
+
+.chsb-32 {
+    @include img-32("../src/icons/SwissBorg/32x32.jpg");
+}
+
+.zla-32 {
+    @include img-32("../src/icons/Zilla/32x32.jpg");
+}
+
+.adb-32 {
+    @include img-32("../src/icons/adbank/32x32.jpg");
+}
+
+.ht-32 {
+    @include img-32("../src/icons/HuobiToken/32x32.jpg");
+}
+
+.dmt-32 {
+    @include img-32("../src/icons/DMarket/32x32.jpg");
+}
+
+.ing-32 {
+    @include img-32("../src/icons/Iungo/32x32.jpg");
+}
+
+.blz-32 {
+    @include img-32("../src/icons/Bluzelle/32x32.jpg");
+}
+
+.swm-32 {
+    @include img-32("../src/icons/Swarm/32x32.jpg");
+}
+
+.tky-32 {
+    @include img-32("../src/icons/THEKEY/32x32.jpg");
+}
+
+.drpu-32 {
+    @include img-32("../src/icons/DCORPUtility/32x32.jpg");
+}
+
+.esz-32 {
+    @include img-32("../src/icons/EtherSportz/32x32.jpg");
+}
+
+.dxt-32 {
+    @include img-32("../src/icons/Datawallet/32x32.jpg");
+}
+
+.wpr-32 {
+    @include img-32("../src/icons/WePower/32x32.jpg");
+}
+
+.ucash-32 {
+    @include img-32("../src/icons/U.CASH/32x32.jpg");
+}
+
+.mntp-32 {
+    @include img-32("../src/icons/GoldMint/32x32.jpg");
+}
+
+.jew-32 {
+    @include img-32("../src/icons/Shekel/32x32.jpg");
+}
+
+.acc-32 {
+    @include img-32("../src/icons/ACChain/32x32.jpg");
+}
+
+.mlm-32 {
+    @include img-32("../src/icons/MktCoin/32x32.jpg");
+}
+
+.avh-32 {
+    @include img-32("../src/icons/AnimationVisionCash/32x32.jpg");
+}
+
+.loci-32 {
+    @include img-32("../src/icons/LOCIcoin/32x32.jpg");
+}
+
+.indi-32 {
+    @include img-32("../src/icons/Indicoin/32x32.jpg");
+}
+
+.jc-32 {
+    @include img-32("../src/icons/JesusCoin/32x32.jpg");
+}
+
+.bio-32 {
+    @include img-32("../src/icons/BioCoin/32x32.jpg");
+}
+
+.sup-32 {
+    @include img-32("../src/icons/SuperiorCoin/32x32.jpg");
+}
+
+.tig-32 {
+    @include img-32("../src/icons/Tigereum/32x32.jpg");
+}
+
+.utnp-32 {
+    @include img-32("../src/icons/Universa/32x32.jpg");
+}
+
+.acat-32 {
+    @include img-32("../src/icons/Alphacat/32x32.jpg");
+}
+
+.evn-32 {
+    @include img-32("../src/icons/Envion/32x32.jpg");
+}
+
+.rmt-32 {
+    @include img-32("../src/icons/SureRemit/32x32.jpg");
+}
+
+.dth-32 {
+    @include img-32("../src/icons/Dether/32x32.jpg");
+}
+
+.cas-32 {
+    @include img-32("../src/icons/Cashaa/32x32.jpg");
+}
+
+.fsn-32 {
+    @include img-32("../src/icons/Fusion/32x32.jpg");
+}
+
+.w3c-32 {
+    @include img-32("../src/icons/W3Coin/32x32.jpg");
+}
+
+.ech-32 {
+    @include img-32("../src/icons/Etherecash/32x32.jpg");
+}
+
+.mwat-32 {
+    @include img-32("../src/icons/RestartEnergyMWAT/32x32.jpg");
+}
+
+.gla-32 {
+    @include img-32("../src/icons/GladiusToken/32x32.jpg");
+}
+
+.dadi-32 {
+    @include img-32("../src/icons/DADI/32x32.jpg");
+}
+
+.ntk-32 {
+    @include img-32("../src/icons/Neurotoken/32x32.jpg");
+}
+
+.gem-32 {
+    @include img-32("../src/icons/Gems/32x32.jpg");
+}
+
+.nec-32 {
+    @include img-32("../src/icons/Nectar/32x32.jpg");
+}
+
+.ren-32 {
+    @include img-32("../src/icons/RepublicProtocol/32x32.jpg");
+}
+
+.lcc-32 {
+    @include img-32("../src/icons/LitecoinCash/32x32.jpg");
+}
+
+.stq-32 {
+    @include img-32("../src/icons/Storiqa/32x32.jpg");
+}
+
+.tdx-32 {
+    @include img-32("../src/icons/TidexToken/32x32.jpg");
+}
+
+.cpy-32 {
+    @include img-32("../src/icons/COPYTRACK/32x32.jpg");
+}
+
+.ncash-32 {
+    @include img-32("../src/icons/NucleusVision/32x32.jpg");
+}
+
+.abt-32 {
+    @include img-32("../src/icons/Arcblock/32x32.jpg");
+}
+
+.rem-32 {
+    @include img-32("../src/icons/Remme/32x32.jpg");
+}
+
+.exy-32 {
+    @include img-32("../src/icons/Experty/32x32.jpg");
+}
+
+.poa-32 {
+    @include img-32("../src/icons/POANetwork/32x32.jpg");
+}
+
+.xnk-32 {
+    @include img-32("../src/icons/InkProtocol/32x32.jpg");
+}
+
+.rkt-32 {
+    @include img-32("../src/icons/Rock/32x32.jpg");
+}
+
+.bez-32 {
+    @include img-32("../src/icons/Bezop/32x32.jpg");
+}
+
+.iht-32 {
+    @include img-32("../src/icons/IHTRealEstateProtocol/32x32.jpg");
+}
+
+.rfr-32 {
+    @include img-32("../src/icons/Refereum/32x32.jpg");
+}
+
+.lym-32 {
+    @include img-32("../src/icons/Lympo/32x32.jpg");
+}
+
+.seth-32 {
+    @include img-32("../src/icons/Sether/32x32.jpg");
+}
+
+.cs-32 {
+    @include img-32("../src/icons/Credits/32x32.jpg");
+}
+
+.bee-32 {
+    @include img-32("../src/icons/BeeToken/32x32.jpg");
+}
+
+.instar-32 {
+    @include img-32("../src/icons/InsightsNetwork/32x32.jpg");
+}
+
+.auto-32 {
+    @include img-32("../src/icons/Cube/32x32.jpg");
+}
+
+.ezt-32 {
+    @include img-32("../src/icons/EZToken/32x32.jpg");
+}
+
+.tube-32 {
+    @include img-32("../src/icons/BitTube/32x32.jpg");
+}
+
+.ledu-32 {
+    @include img-32("../src/icons/EducationEcosystem/32x32.jpg");
+}
+
+.tusd-32 {
+    @include img-32("../src/icons/TrueUSD/32x32.jpg");
+}
+
+.hqx-32 {
+    @include img-32("../src/icons/HOQU/32x32.jpg");
+}
+
+.stac-32 {
+    @include img-32("../src/icons/StarterCoin/32x32.jpg");
+}
+
+.ont-32 {
+    @include img-32("../src/icons/Ontology/32x32.jpg");
+}
+
+.datx-32 {
+    @include img-32("../src/icons/DATx/32x32.jpg");
+}
+
+.j8t-32 {
+    @include img-32("../src/icons/JET8/32x32.jpg");
+}
+
+.chp-32 {
+    @include img-32("../src/icons/CoinPoker/32x32.jpg");
+}
+
+.tomo-32 {
+    @include img-32("../src/icons/TomoChain/32x32.jpg");
+}
+
+.grft-32 {
+    @include img-32("../src/icons/Graft/32x32.jpg");
+}
+
+.bax-32 {
+    @include img-32("../src/icons/BABB/32x32.jpg");
+}
+
+.elec-32 {
+    @include img-32("../src/icons/Electrify.Asia/32x32.jpg");
+}
+
+.btcp-32 {
+    @include img-32("../src/icons/BitcoinPrivate/32x32.jpg");
+}
+
+.ten-32 {
+    @include img-32("../src/icons/Tokenomy/32x32.jpg");
+}
+
+.rvn-32 {
+    @include img-32("../src/icons/Ravencoin/32x32.jpg");
+}
+
+.tfd-32 {
+    @include img-32("../src/icons/TE-FOOD/32x32.jpg");
+}
+
+.ship-32 {
+    @include img-32("../src/icons/ShipChain/32x32.jpg");
+}
+
+.ldc-32 {
+    @include img-32("../src/icons/Leadcoin/32x32.jpg");
+}
+
+.shp-32 {
+    @include img-32("../src/icons/SharpePlatformToken/32x32.jpg");
+}
+
+.lala-32 {
+    @include img-32("../src/icons/LALAWorld/32x32.jpg");
+}
+
+.occ-32 {
+    @include img-32("../src/icons/OctoinCoin/32x32.jpg");
+}
+
+.deb-32 {
+    @include img-32("../src/icons/Debitum/32x32.jpg");
+}
+
+.cennz-32 {
+    @include img-32("../src/icons/Centrality/32x32.jpg");
+}
+
+.hav-32 {
+    @include img-32("../src/icons/Havven/32x32.jpg");
+}
+
+.fluz-32 {
+    @include img-32("../src/icons/FluzFluz/32x32.jpg");
+}
+
+.loom-32 {
+    @include img-32("../src/icons/LoomNetwork/32x32.jpg");
+}
+
+.getx-32 {
+    @include img-32("../src/icons/GuaranteedEthuranceTokenExtra/32x32.jpg");
+}
+
+.hire-32 {
+    @include img-32("../src/icons/HireMatch/32x32.jpg");
+}
+
+.drop-32 {
+    @include img-32("../src/icons/Dropil/32x32.jpg");
+}
+
+.banca-32 {
+    @include img-32("../src/icons/Banca/32x32.jpg");
+}
+
+.drg-32 {
+    @include img-32("../src/icons/DragonCoins/32x32.jpg");
+}
+
+.latx-32 {
+    @include img-32("../src/icons/LatiumX/32x32.jpg");
+}
+
+.nanj-32 {
+    @include img-32("../src/icons/NANJCOIN/32x32.jpg");
+}
+
+.ckusd-32 {
+    @include img-32("../src/icons/CKUSD/32x32.jpg");
+}
+
+.up-32 {
+    @include img-32("../src/icons/UpToken/32x32.jpg");
+}
+
+.bbn-32 {
+    @include img-32("../src/icons/BanyanNetwork/32x32.jpg");
+}
+
+.noah-32 {
+    @include img-32("../src/icons/NoahCoin/32x32.jpg");
+}
+
+.lgo-32 {
+    @include img-32("../src/icons/LGOExchange/32x32.jpg");
+}
+
+.owo-32 {
+    @include img-32("../src/icons/1World/32x32.jpg");
+}
+
+.npx-32 {
+    @include img-32("../src/icons/NaPoleonX/32x32.jpg");
+}
+
+.npxs-32 {
+    @include img-32("../src/icons/PundiX/32x32.jpg");
+}
+
+.bitg-32 {
+    @include img-32("../src/icons/BitcoinGreen/32x32.jpg");
+}
+
+.bft-32 {
+    @include img-32("../src/icons/BnkToTheFuture/32x32.jpg");
+}
+
+.wan-32 {
+    @include img-32("../src/icons/Wanchain/32x32.jpg");
+}
+
+.amlt-32 {
+    @include img-32("../src/icons/AMLT/32x32.jpg");
+}
+
+.mith-32 {
+    @include img-32("../src/icons/Mithril/32x32.jpg");
+}
+
+.lst-32 {
+    @include img-32("../src/icons/LendroidSupportToken/32x32.jpg");
+}
+
+.pcl-32 {
+    @include img-32("../src/icons/Peculium/32x32.jpg");
+}
+
+.sig-32 {
+    @include img-32("../src/icons/Spectiv/32x32.jpg");
+}
+
+.rntb-32 {
+    @include img-32("../src/icons/BitRent/32x32.jpg");
+}
+
+.xbp-32 {
+    @include img-32("../src/icons/BlitzPredict/32x32.jpg");
+}
+
+.lnc-32 {
+    @include img-32("../src/icons/Blocklancer/32x32.jpg");
+}
+
+.spd-32 {
+    @include img-32("../src/icons/Stipend/32x32.jpg");
+}
+
+.ipsx-32 {
+    @include img-32("../src/icons/IPExchange/32x32.jpg");
+}
+
+.scc-32 {
+    @include img-32("../src/icons/StockChain/32x32.jpg");
+}
+
+.bstn-32 {
+    @include img-32("../src/icons/BitStation/32x32.jpg");
+}
+
+.swth-32 {
+    @include img-32("../src/icons/Switcheo/32x32.jpg");
+}
+
+.sen-32 {
+    @include img-32("../src/icons/Consensus/32x32.jpg");
+}
+
+.senc-32 {
+    @include img-32("../src/icons/SentinelChain/32x32.jpg");
+}
+
+.vit-32 {
+    @include img-32("../src/icons/ViceIndustryToken/32x32.jpg");
+}
+
+.fdz-32 {
+    @include img-32("../src/icons/Friendz/32x32.jpg");
+}
+
+.tpay-32 {
+    @include img-32("../src/icons/TokenPay/32x32.jpg");
+}
+
+.berry-32 {
+    @include img-32("../src/icons/Rentberry/32x32.jpg");
+}
+
+.xtl-32 {
+    @include img-32("../src/icons/Stellite/32x32.jpg");
+}
+
+.nct-32 {
+    @include img-32("../src/icons/PolySwarm/32x32.jpg");
+}
+
+.ode-32 {
+    @include img-32("../src/icons/ODEM/32x32.jpg");
+}
+
+.xmo-32 {
+    @include img-32("../src/icons/MoneroOriginal/32x32.jpg");
+}
+
+.xsn-32 {
+    @include img-32("../src/icons/Stakenet/32x32.jpg");
+}
+
+.xdce-32 {
+    @include img-32("../src/icons/XinFinNetwork/32x32.jpg");
+}
+
+.tds-32 {
+    @include img-32("../src/icons/TokenDesk/32x32.jpg");
+}
+
+.bbi-32 {
+    @include img-32("../src/icons/BelugaPay/32x32.jpg");
+}
+
+.fid-32 {
+    @include img-32("../src/icons/Fidelium/32x32.jpg");
+}
+
+.ctxc-32 {
+    @include img-32("../src/icons/Cortex/32x32.jpg");
+}
+
+.atc-32 {
+    @include img-32("../src/icons/Arbitracoin/32x32.jpg");
+}
+
+.win-32 {
+    @include img-32("../src/icons/WCOIN/32x32.jpg");
+}
+
+.cpx-32 {
+    @include img-32("../src/icons/Apex/32x32.jpg");
+}
+
+.cvt-32 {
+    @include img-32("../src/icons/CyberVein/32x32.jpg");
+}
+
+.sent-32 {
+    @include img-32("../src/icons/Sentinel/32x32.jpg");
+}
+
+.eosdac-32 {
+    @include img-32("../src/icons/eosDAC/32x32.jpg");
+}
+
+.uuu-32 {
+    @include img-32("../src/icons/UNetwork/32x32.jpg");
+}
+
+.adh-32 {
+    @include img-32("../src/icons/AdHive/32x32.jpg");
+}
+
+.snip-32 {
+    @include img-32("../src/icons/SnipCoin/32x32.jpg");
+}
+
+.bsm-32 {
+    @include img-32("../src/icons/Bitsum/32x32.jpg");
+}
+
+.dev-32 {
+    @include img-32("../src/icons/DeviantCoin/32x32.jpg");
+}
+
+.cbt-32 {
+    @include img-32("../src/icons/CommerceBlock/32x32.jpg");
+}
+
+.grmd-32 {
+    @include img-32("../src/icons/GreenMed/32x32.jpg");
+}
+
+.cvh-32 {
+    @include img-32("../src/icons/CurriculumVitae/32x32.jpg");
+}
+
+.auc-32 {
+    @include img-32("../src/icons/Auctus/32x32.jpg");
+}
+
+.bubo-32 {
+    @include img-32("../src/icons/Budbo/32x32.jpg");
+}
+
+.xmc-32 {
+    @include img-32("../src/icons/MoneroClassic/32x32.jpg");
+}
+
+.dan-32 {
+    @include img-32("../src/icons/Daneel/32x32.jpg");
+}
+
+.brm-32 {
+    @include img-32("../src/icons/BrahmaOS/32x32.jpg");
+}
+
+.mfg-32 {
+    @include img-32("../src/icons/SyncFab/32x32.jpg");
+}
+
+.dig-32 {
+    @include img-32("../src/icons/Dignity/32x32.jpg");
+}
+
+.adi-32 {
+    @include img-32("../src/icons/Aditus/32x32.jpg");
+}
+
+.trio-32 {
+    @include img-32("../src/icons/Tripio/32x32.jpg");
+}
+
+.xhv-32 {
+    @include img-32("../src/icons/HavenProtocol/32x32.jpg");
+}
+
+.kst-32 {
+    @include img-32("../src/icons/StarCoin/32x32.jpg");
+}
+
+.crc-32 {
+    @include img-32("../src/icons/CryCash/32x32.jpg");
+}
+
+.dero-32 {
+    @include img-32("../src/icons/Dero/32x32.jpg");
+}
+
+.efx-32 {
+    @include img-32("../src/icons/Effect.AI/32x32.jpg");
+}
+
+.ftx-32 {
+    @include img-32("../src/icons/FintruXNetwork/32x32.jpg");
+}
+
+.earth-32 {
+    @include img-32("../src/icons/EarthToken/32x32.jpg");
+}
+
+.mrk-32 {
+    @include img-32("../src/icons/MARK.SPACE/32x32.jpg");
+}
+
+.pxc-32 {
+    @include img-32("../src/icons/PixieCoin/32x32.jpg");
+}
+
+.crop-32 {
+    @include img-32("../src/icons/Cropcoin/32x32.jpg");
+}
+
+.srcoin-32 {
+    @include img-32("../src/icons/SRCOIN/32x32.jpg");
+}
+
+.chx-32 {
+    @include img-32("../src/icons/Chainium/32x32.jpg");
+}
+
+.msr-32 {
+    @include img-32("../src/icons/Masari/32x32.jpg");
+}
+
+.dock-32 {
+    @include img-32("../src/icons/Dock/32x32.jpg");
+}
+
+.phi-32 {
+    @include img-32("../src/icons/PHIToken/32x32.jpg");
+}
+
+.lnc-32 {
+    @include img-32("../src/icons/LinkerCoin/32x32.jpg");
+}
+
+.bbc-32 {
+    @include img-32("../src/icons/TraDoveB2BCoin/32x32.jpg");
+}
+
+.dml-32 {
+    @include img-32("../src/icons/DecentralizedMachineLearning/32x32.jpg");
+}
+
+.hbz-32 {
+    @include img-32("../src/icons/Helbiz/32x32.jpg");
+}
+
+.ori-32 {
+    @include img-32("../src/icons/Origami/32x32.jpg");
+}
+
+.hot-32 {
+    @include img-32("../src/icons/Holo/32x32.jpg");
+}
+
+.trak-32 {
+    @include img-32("../src/icons/TrakInvest/32x32.jpg");
+}
+
+.aph-32 {
+    @include img-32("../src/icons/Aphelion/32x32.jpg");
+}
+
+.zco-32 {
+    @include img-32("../src/icons/Zebi/32x32.jpg");
+}
+
+.lnd-32 {
+    @include img-32("../src/icons/Lendingblock/32x32.jpg");
+}
+
+.xes-32 {
+    @include img-32("../src/icons/Proxeus/32x32.jpg");
+}
+
+.vips-32 {
+    @include img-32("../src/icons/VipstarCoin/32x32.jpg");
+}
+
+.rblx-32 {
+    @include img-32("../src/icons/Rublix/32x32.jpg");
+}
+
+.btrn-32 {
+    @include img-32("../src/icons/Biotron/32x32.jpg");
+}
+
+.pnt-32 {
+    @include img-32("../src/icons/Penta/32x32.jpg");
+}
+
+.nbai-32 {
+    @include img-32("../src/icons/NebulaAI/32x32.jpg");
+}
+
+.lrn-32 {
+    @include img-32("../src/icons/Loopring[NEO]/32x32.jpg");
+}
+
+.nexo-32 {
+    @include img-32("../src/icons/Nexo/32x32.jpg");
+}
+
+.vme-32 {
+    @include img-32("../src/icons/VeriME/32x32.jpg");
+}
+
+.dax-32 {
+    @include img-32("../src/icons/DAEX/32x32.jpg");
+}
+
+.hydro-32 {
+    @include img-32("../src/icons/Hydro/32x32.jpg");
+}
+
+.ss-32 {
+    @include img-32("../src/icons/Sharder/32x32.jpg");
+}
+
+.ttt-32 {
+    @include img-32("../src/icons/TrustNote/32x32.jpg");
+}
+
+.bci-32 {
+    @include img-32("../src/icons/BitcoinInterest/32x32.jpg");
+}
+
+.betr-32 {
+    @include img-32("../src/icons/BetterBetting/32x32.jpg");
+}
+
+.tns-32 {
+    @include img-32("../src/icons/Transcodium/32x32.jpg");
+}
+
+.amn-32 {
+    @include img-32("../src/icons/Amon/32x32.jpg");
+}
+
+.plan-32 {
+    @include img-32("../src/icons/Plancoin/32x32.jpg");
+}
+
+.flp-32 {
+    @include img-32("../src/icons/FLIP/32x32.jpg");
+}
+
+.cmct-32 {
+    @include img-32("../src/icons/CrowdMachine/32x32.jpg");
+}
+
+.mitx-32 {
+    @include img-32("../src/icons/MorpheusLabs/32x32.jpg");
+}
+
+.live-32 {
+    @include img-32("../src/icons/LiveStars/32x32.jpg");
+}
+
+.mtc-32 {
+    @include img-32("../src/icons/Docademic/32x32.jpg");
+}
+
+.mt-32 {
+    @include img-32("../src/icons/MyToken/32x32.jpg");
+}
+
+.key-32 {
+    @include img-32("../src/icons/KEY/32x32.jpg");
+}
+
+.nty-32 {
+    @include img-32("../src/icons/Nexty/32x32.jpg");
+}
+
+.cjt-32 {
+    @include img-32("../src/icons/ConnectJob/32x32.jpg");
+}
+
+.ges-32 {
+    @include img-32("../src/icons/GalaxyeSolutions/32x32.jpg");
+}
+
+.bouts-32 {
+    @include img-32("../src/icons/BoutsPro/32x32.jpg");
+}
+
+.pal-32 {
+    @include img-32("../src/icons/PolicyPalNetwork/32x32.jpg");
+}
+
+.cre-32 {
+    @include img-32("../src/icons/Cybereits/32x32.jpg");
+}
+
+.gene-32 {
+    @include img-32("../src/icons/Parkgene/32x32.jpg");
+}
+
+.apr-32 {
+    @include img-32("../src/icons/APRCoin/32x32.jpg");
+}
+
+.ac3-32 {
+    @include img-32("../src/icons/AC3/32x32.jpg");
+}
+
+.fxt-32 {
+    @include img-32("../src/icons/FuzeX/32x32.jpg");
+}
+
+.zipt-32 {
+    @include img-32("../src/icons/Zippie/32x32.jpg");
+}
+
+.skm-32 {
+    @include img-32("../src/icons/SkrumbleNetwork/32x32.jpg");
+}
+
+.gen-32 {
+    @include img-32("../src/icons/DAOstack/32x32.jpg");
+}
+
+.bznt-32 {
+    @include img-32("../src/icons/Bezant/32x32.jpg");
+}
+
+.lif-32 {
+    @include img-32("../src/icons/WindingTree/32x32.jpg");
+}
+
+.team-32 {
+    @include img-32("../src/icons/TEAM(TokenStars)/32x32.jpg");
+}
+
+.frv-32 {
+    @include img-32("../src/icons/Fitrova/32x32.jpg");
+}
+
+.oot-32 {
+    @include img-32("../src/icons/Utrum/32x32.jpg");
+}
+
+.atx-32 {
+    @include img-32("../src/icons/Aston/32x32.jpg");
+}
+
+.frec-32 {
+    @include img-32("../src/icons/Freyrchain/32x32.jpg");
+}
+
+.edu-32 {
+    @include img-32("../src/icons/EduCoin/32x32.jpg");
+}
+
+.cnn-32 {
+    @include img-32("../src/icons/ContentNeutralityNetwork/32x32.jpg");
+}
+
+.insur-32 {
+    @include img-32("../src/icons/InsurChain/32x32.jpg");
+}
+
+.gsc-32 {
+    @include img-32("../src/icons/GlobalSocialChain/32x32.jpg");
+}
+
+.sgcc-32 {
+    @include img-32("../src/icons/SuperGameChain/32x32.jpg");
+}
+
+.dgx-32 {
+    @include img-32("../src/icons/DigixGoldToken/32x32.jpg");
+}
+
+.inc-32 {
+    @include img-32("../src/icons/InfluenceChain/32x32.jpg");
+}
+
+.iic-32 {
+    @include img-32("../src/icons/IntelligentInvestmentChain/32x32.jpg");
+}
+
+.skb-32 {
+    @include img-32("../src/icons/SakuraBloom/32x32.jpg");
+}
+
+.bank-32 {
+    @include img-32("../src/icons/BankCoin/32x32.jpg");
+}
+
+.nper-32 {
+    @include img-32("../src/icons/NPER/32x32.jpg");
+}
+
+.dasc-32 {
+    @include img-32("../src/icons/DasCoin/32x32.jpg");
+}
+
+.bmh-32 {
+    @include img-32("../src/icons/BlockMesh/32x32.jpg");
+}
+
+.loki-32 {
+    @include img-32("../src/icons/Loki/32x32.jpg");
+}
+
+.sgn-32 {
+    @include img-32("../src/icons/SignalsNetwork/32x32.jpg");
+}
+
+.shl-32 {
+    @include img-32("../src/icons/OysterShell/32x32.jpg");
+}
+
+.fnd-32 {
+    @include img-32("../src/icons/FundRequest/32x32.jpg");
+}
+
+.dtrc-32 {
+    @include img-32("../src/icons/DatariusCredit/32x32.jpg");
+}
+
+.cln-32 {
+    @include img-32("../src/icons/ColuLocalNetwork/32x32.jpg");
+}
+
+.her-32 {
+    @include img-32("../src/icons/HeroNode/32x32.jpg");
+}
+
+.hero-32 {
+    @include img-32("../src/icons/Hero/32x32.jpg");
+}
+
+.tka-32 {
+    @include img-32("../src/icons/Tokia/32x32.jpg");
+}
+
+.clo-32 {
+    @include img-32("../src/icons/CallistoNetwork/32x32.jpg");
+}
+
+.ubt-32 {
+    @include img-32("../src/icons/Unibright/32x32.jpg");
+}
+
+.pat-32 {
+    @include img-32("../src/icons/Patron/32x32.jpg");
+}
+
+.lba-32 {
+    @include img-32("../src/icons/LibraCredit/32x32.jpg");
+}
+
+.lwf-32 {
+    @include img-32("../src/icons/LocalWorldForwarders/32x32.jpg");
+}
+
+.open-32 {
+    @include img-32("../src/icons/OpenPlatform/32x32.jpg");
+}
+
+.morph-32 {
+    @include img-32("../src/icons/MorpheusNetwork/32x32.jpg");
+}
+
+.sntr-32 {
+    @include img-32("../src/icons/SilentNotary/32x32.jpg");
+}
+
+.xyo-32 {
+    @include img-32("../src/icons/XYONetwork/32x32.jpg");
+}
+
+.cpt-32 {
+    @include img-32("../src/icons/Cryptaur/32x32.jpg");
+}
+
+.apis-32 {
+    @include img-32("../src/icons/APIS/32x32.jpg");
+}
+
+.ft-32 {
+    @include img-32("../src/icons/FabricToken/32x32.jpg");
+}
+
+.xrh-32 {
+    @include img-32("../src/icons/Rhenium/32x32.jpg");
+}
+
+.caz-32 {
+    @include img-32("../src/icons/Cazcoin/32x32.jpg");
+}
+
+.red-32 {
+    @include img-32("../src/icons/RED/32x32.jpg");
+}
+
+.dgtx-32 {
+    @include img-32("../src/icons/DigitexFutures/32x32.jpg");
+}
+
+.gin-32 {
+    @include img-32("../src/icons/GINcoin/32x32.jpg");
+}
+
+.inv-32 {
+    @include img-32("../src/icons/Invacio/32x32.jpg");
+}
+
+.face-32 {
+    @include img-32("../src/icons/Faceter/32x32.jpg");
+}
+
+.ava-32 {
+    @include img-32("../src/icons/Travala/32x32.jpg");
+}
+
+.iotx-32 {
+    @include img-32("../src/icons/IoTeX/32x32.jpg");
+}
+
+.exc-32 {
+    @include img-32("../src/icons/Eximchain/32x32.jpg");
+}
+
+.luc-32 {
+    @include img-32("../src/icons/LevelUpCoin/32x32.jpg");
+}
+
+.nkn-32 {
+    @include img-32("../src/icons/NKN/32x32.jpg");
+}
+
+.navi-32 {
+    @include img-32("../src/icons/Naviaddress/32x32.jpg");
+}
+
+.zip-32 {
+    @include img-32("../src/icons/Zipper/32x32.jpg");
+}
+
+.soul-32 {
+    @include img-32("../src/icons/Phantasma/32x32.jpg");
+}
+
+.spd-32 {
+    @include img-32("../src/icons/SPINDLE/32x32.jpg");
+}
+
+.repo-32 {
+    @include img-32("../src/icons/REPO/32x32.jpg");
+}
+
+.seele-32 {
+    @include img-32("../src/icons/Seele/32x32.jpg");
+}
+
+.ejoy-32 {
+    @include img-32("../src/icons/EJOY/32x32.jpg");
+}
+
+.ivy-32 {
+    @include img-32("../src/icons/Ivy/32x32.jpg");
+}
+
+.cnet-32 {
+    @include img-32("../src/icons/ContractNet/32x32.jpg");
+}
+
+.edr-32 {
+    @include img-32("../src/icons/EndorProtocol/32x32.jpg");
+}
+
+.bbo-32 {
+    @include img-32("../src/icons/Bigbom/32x32.jpg");
+}
+
+.zxbtc-32 {
+    @include img-32("../src/icons/0xBitcoin/32x32.jpg");
+}
+
+.pai-32 {
+    @include img-32("../src/icons/PCHAIN/32x32.jpg");
+}
+
+.qkc-32 {
+    @include img-32("../src/icons/QuarkChain/32x32.jpg");
+}
+
+.lyl-32 {
+    @include img-32("../src/icons/LoyalCoin/32x32.jpg");
+}
+
+.bnk-32 {
+    @include img-32("../src/icons/Bankera/32x32.jpg");
+}
+
+.etz-32 {
+    @include img-32("../src/icons/EtherZero/32x32.jpg");
+}
+
+.omx-32 {
+    @include img-32("../src/icons/Shivom/32x32.jpg");
+}
+
+.medx-32 {
+    @include img-32("../src/icons/MediBloc[ERC20]/32x32.jpg");
+}
+
+.fto-32 {
+    @include img-32("../src/icons/FuturoCoin/32x32.jpg");
+}
+
+.abyss-32 {
+    @include img-32("../src/icons/TheAbyss/32x32.jpg");
+}
+
+.pmnt-32 {
+    @include img-32("../src/icons/Paymon/32x32.jpg");
+}
+
+.hur-32 {
+    @include img-32("../src/icons/Hurify/32x32.jpg");
+}
+
+.tmt-32 {
+    @include img-32("../src/icons/TRAXIA/32x32.jpg");
+}
+
+.egcc-32 {
+    @include img-32("../src/icons/Engine/32x32.jpg");
+}
+
+.mrq-32 {
+    @include img-32("../src/icons/MIRQ/32x32.jpg");
+}
+
+.pkc-32 {
+    @include img-32("../src/icons/PikcioChain/32x32.jpg");
+}
+
+.cbc-32 {
+    @include img-32("../src/icons/CashBetCoin/32x32.jpg");
+}
+
+.ceek-32 {
+    @include img-32("../src/icons/CEEKVR/32x32.jpg");
+}
+
+.sal-32 {
+    @include img-32("../src/icons/SalPay/32x32.jpg");
+}
+
+.cou-32 {
+    @include img-32("../src/icons/Couchain/32x32.jpg");
+}
+
+.xmx-32 {
+    @include img-32("../src/icons/XMax/32x32.jpg");
+}
+
+.go-32 {
+    @include img-32("../src/icons/GoChain/32x32.jpg");
+}
+
+.ssp-32 {
+    @include img-32("../src/icons/Smartshare/32x32.jpg");
+}
+
+.trtt-32 {
+    @include img-32("../src/icons/Trittium/32x32.jpg");
+}
+
+.upp-32 {
+    @include img-32("../src/icons/SentinelProtocol/32x32.jpg");
+}
+
+.bwt-32 {
+    @include img-32("../src/icons/Bittwatt/32x32.jpg");
+}
+
+.dag-32 {
+    @include img-32("../src/icons/Constellation/32x32.jpg");
+}
+
+.mvp-32 {
+    @include img-32("../src/icons/Merculet/32x32.jpg");
+}
+
+.fgc-32 {
+    @include img-32("../src/icons/FantasyGold/32x32.jpg");
+}
+
+.etk-32 {
+    @include img-32("../src/icons/EnergiToken/32x32.jpg");
+}
+
+.met-32 {
+    @include img-32("../src/icons/Metronome/32x32.jpg");
+}
+
+.aoa-32 {
+    @include img-32("../src/icons/Aurora/32x32.jpg");
+}
+
+.alx-32 {
+    @include img-32("../src/icons/ALAX/32x32.jpg");
+}
+
+.tern-32 {
+    @include img-32("../src/icons/Ternio/32x32.jpg");
+}
+
+.boe-32 {
+    @include img-32("../src/icons/Bodhi[ETH]/32x32.jpg");
+}
+
+.dft-32 {
+    @include img-32("../src/icons/DigiFinexToken/32x32.jpg");
+}
+
+.ors-32 {
+    @include img-32("../src/icons/OriginSport/32x32.jpg");
+}
+
+.rte-32 {
+    @include img-32("../src/icons/Rate3/32x32.jpg");
+}
+
+.dcc-32 {
+    @include img-32("../src/icons/DistributedCreditChain/32x32.jpg");
+}
+
+.zcn-32 {
+    @include img-32("../src/icons/0chain/32x32.jpg");
+}
+
+.zinc-32 {
+    @include img-32("../src/icons/ZINC/32x32.jpg");
+}
+
+.fsbt-32 {
+    @include img-32("../src/icons/FortySevenBank/32x32.jpg");
+}
+
+.egt-32 {
+    @include img-32("../src/icons/Egretia/32x32.jpg");
+}
+
+.ttu-32 {
+    @include img-32("../src/icons/TaTaTu/32x32.jpg");
+}
+
+.dor-32 {
+    @include img-32("../src/icons/Dorado/32x32.jpg");
+}
+
+.car-32 {
+    @include img-32("../src/icons/CarBlock/32x32.jpg");
+}
+
+.bob-32 {
+    @include img-32("../src/icons/Bob'sRepair/32x32.jpg");
+}
+
+.kndc-32 {
+    @include img-32("../src/icons/KanadeCoin/32x32.jpg");
+}
+
+.card-32 {
+    @include img-32("../src/icons/Cardstack/32x32.jpg");
+}
+
+.wwb-32 {
+    @include img-32("../src/icons/Wowbit/32x32.jpg");
+}
+
+.onl-32 {
+    @include img-32("../src/icons/On.Live/32x32.jpg");
+}
+
+.otb-32 {
+    @include img-32("../src/icons/OTCBTCToken/32x32.jpg");
+}
+
+.coni-32 {
+    @include img-32("../src/icons/Coni/32x32.jpg");
+}
+
+.mft-32 {
+    @include img-32("../src/icons/Mainframe/32x32.jpg");
+}
+
+.cccx-32 {
+    @include img-32("../src/icons/ClipperCoin/32x32.jpg");
+}
+
+.got-32 {
+    @include img-32("../src/icons/GoNetwork/32x32.jpg");
+}
+
+.thrt-32 {
+    @include img-32("../src/icons/ThriveToken/32x32.jpg");
+}
+
+.pai-32 {
+    @include img-32("../src/icons/ProjectPai/32x32.jpg");
+}
+
+.fti-32 {
+    @include img-32("../src/icons/FansTime/32x32.jpg");
+}
+
+.pch-32 {
+    @include img-32("../src/icons/POPCHAIN/32x32.jpg");
+}
+
+.seer-32 {
+    @include img-32("../src/icons/SEER/32x32.jpg");
+}
+
+.ft-32 {
+    @include img-32("../src/icons/FCoinToken/32x32.jpg");
+}
+
+.ess-32 {
+    @include img-32("../src/icons/Essentia/32x32.jpg");
+}
+
+.kbc-32 {
+    @include img-32("../src/icons/KaratgoldCoin/32x32.jpg");
+}
+
+.hsc-32 {
+    @include img-32("../src/icons/HashCoin/32x32.jpg");
+}
+
+.like-32 {
+    @include img-32("../src/icons/LikeCoin/32x32.jpg");
+}
+
+.yup-32 {
+    @include img-32("../src/icons/Crowdholding/32x32.jpg");
+}
+
+.ors-32 {
+    @include img-32("../src/icons/ORSGroup/32x32.jpg");
+}
+
+.xsg-32 {
+    @include img-32("../src/icons/SnowGem/32x32.jpg");
+}
+
+.dtx-32 {
+    @include img-32("../src/icons/DaTaeXchange/32x32.jpg");
+}
+
+.bkbt-32 {
+    @include img-32("../src/icons/BeeKan/32x32.jpg");
+}
+
+.moc-32 {
+    @include img-32("../src/icons/Mossland/32x32.jpg");
+}
+
+.nim-32 {
+    @include img-32("../src/icons/Nimiq/32x32.jpg");
+}
+
+.sfu-32 {
+    @include img-32("../src/icons/Saifu/32x32.jpg");
+}
+
+.bz-32 {
+    @include img-32("../src/icons/Bit-ZToken/32x32.jpg");
+}
+
+.dws-32 {
+    @include img-32("../src/icons/DWS/32x32.jpg");
+}
+
+.zxc-32 {
+    @include img-32("../src/icons/0xcert/32x32.jpg");
+}
+
+.olt-32 {
+    @include img-32("../src/icons/OneLedger/32x32.jpg");
+}
+
+.atmi-32 {
+    @include img-32("../src/icons/Atonomi/32x32.jpg");
+}
+
+.xmct-32 {
+    @include img-32("../src/icons/XMCT/32x32.jpg");
+}
+
+.fnkos-32 {
+    @include img-32("../src/icons/FNKOS/32x32.jpg");
+}
+
+.rcd-32 {
+    @include img-32("../src/icons/RECORD/32x32.jpg");
+}
+
+.psm-32 {
+    @include img-32("../src/icons/PRASM/32x32.jpg");
+}
+
+.nusd-32 {
+    @include img-32("../src/icons/nUSD/32x32.jpg");
+}
+
+.ply-32 {
+    @include img-32("../src/icons/PlayCoin/32x32.jpg");
+}
+
+.tgame-32 {
+    @include img-32("../src/icons/Truegame/32x32.jpg");
+}
+
+.iq-32 {
+    @include img-32("../src/icons/Everipedia/32x32.jpg");
+}
+
+.engt-32 {
+    @include img-32("../src/icons/EngagementToken/32x32.jpg");
+}
+
+.nobs-32 {
+    @include img-32("../src/icons/NoBSCrypto/32x32.jpg");
+}
+
+.bmx-32 {
+    @include img-32("../src/icons/BitMartToken/32x32.jpg");
+}
+
+.kan-32 {
+    @include img-32("../src/icons/BitKan/32x32.jpg");
+}
+
+.cdm-32 {
+    @include img-32("../src/icons/Condominium/32x32.jpg");
+}
+
+.mtc-32 {
+    @include img-32("../src/icons/MTCMeshNetwork/32x32.jpg");
+}
+
+.vite-32 {
+    @include img-32("../src/icons/VITE/32x32.jpg");
+}
+
+.gard-32 {
+    @include img-32("../src/icons/Hashgard/32x32.jpg");
+}
+
+.scrl-32 {
+    @include img-32("../src/icons/Scroll/32x32.jpg");
+}
+
+.spx-32 {
+    @include img-32("../src/icons/Sp8de/32x32.jpg");
+}
+
+.cet-32 {
+    @include img-32("../src/icons/CoinExToken/32x32.jpg");
+}
+
+.aeg-32 {
+    @include img-32("../src/icons/Aegeus/32x32.jpg");
+}
+
+.rpl-32 {
+    @include img-32("../src/icons/RocketPool/32x32.jpg");
+}
+
+.ely-32 {
+    @include img-32("../src/icons/Elysian/32x32.jpg");
+}
+
+.box-32 {
+    @include img-32("../src/icons/ContentBox/32x32.jpg");
+}
+
+.ptt-32 {
+    @include img-32("../src/icons/ProtonToken/32x32.jpg");
+}
+
+.sop-32 {
+    @include img-32("../src/icons/SoPay/32x32.jpg");
+}
+
+.jot-32 {
+    @include img-32("../src/icons/Jury.OnlineToken/32x32.jpg");
+}
+
+.krl-32 {
+    @include img-32("../src/icons/Kryll/32x32.jpg");
+}
+
+.lemo-32 {
+    @include img-32("../src/icons/LemoChain/32x32.jpg");
+}
+
+.bwx-32 {
+    @include img-32("../src/icons/BlueWhaleToken/32x32.jpg");
+}
+
+.wys-32 {
+    @include img-32("../src/icons/wysToken/32x32.jpg");
+}
+
+.cosm-32 {
+    @include img-32("../src/icons/CosmoCoin/32x32.jpg");
+}
+
+.nrve-32 {
+    @include img-32("../src/icons/Narrative/32x32.jpg");
+}
+
+.ole-32 {
+    @include img-32("../src/icons/Olive/32x32.jpg");
+}
+
+.trtl-32 {
+    @include img-32("../src/icons/Turtlecoin/32x32.jpg");
+}
+
+.wt-32 {
+    @include img-32("../src/icons/WeToken/32x32.jpg");
+}
+
+.toto-32 {
+    @include img-32("../src/icons/TouristToken/32x32.jpg");
+}
+
+.rlx-32 {
+    @include img-32("../src/icons/Relex/32x32.jpg");
+}
+
+.chex-32 {
+    @include img-32("../src/icons/CHEX/32x32.jpg");
+}
+
+.view-32 {
+    @include img-32("../src/icons/View/32x32.jpg");
+}
+
+.vct-32 {
+    @include img-32("../src/icons/ValueCyberToken/32x32.jpg");
+}
+
+.vikky-32 {
+    @include img-32("../src/icons/VikkyToken/32x32.jpg");
+}
+
+.foxt-32 {
+    @include img-32("../src/icons/FoxTrading/32x32.jpg");
+}
+
+.rtb-32 {
+    @include img-32("../src/icons/AB-ChainRTB/32x32.jpg");
+}
+
+.toll-32 {
+    @include img-32("../src/icons/BridgeProtocol/32x32.jpg");
+}
+
+.gve-32 {
+    @include img-32("../src/icons/GlobalvillageEcosystem/32x32.jpg");
+}
+
+.lcs-32 {
+    @include img-32("../src/icons/LocalCoinSwap/32x32.jpg");
+}
+
+.zpr-32 {
+    @include img-32("../src/icons/ZPER/32x32.jpg");
+}
+
+.empr-32 {
+    @include img-32("../src/icons/empowrcoin/32x32.jpg");
+}
+
+.lpc-32 {
+    @include img-32("../src/icons/Lightpaycoin/32x32.jpg");
+}
+
+.fundz-32 {
+    @include img-32("../src/icons/FundToken/32x32.jpg");
+}
+
+.ryo-32 {
+    @include img-32("../src/icons/RyoCurrency/32x32.jpg");
+}
+
+.bit-32 {
+    @include img-32("../src/icons/BitRewards/32x32.jpg");
+}
+
+.aced-32 {
+    @include img-32("../src/icons/AceD/32x32.jpg");
+}
+
+.lft-32 {
+    @include img-32("../src/icons/Linfinity/32x32.jpg");
+}
+
+.wab-32 {
+    @include img-32("../src/icons/WABnetwork/32x32.jpg");
+}
+
+.csm-32 {
+    @include img-32("../src/icons/Consentium/32x32.jpg");
+}
+
+.mvl-32 {
+    @include img-32("../src/icons/MassVehicleLedger/32x32.jpg");
+}
+
+.xxx-32 {
+    @include img-32("../src/icons/AdultChain/32x32.jpg");
+}
+
+.ncp-32 {
+    @include img-32("../src/icons/NewtonCoinProject/32x32.jpg");
+}
+
+.arb-32 {
+    @include img-32("../src/icons/ARBITRAGE/32x32.jpg");
+}
+
+.dacc-32 {
+    @include img-32("../src/icons/DACC/32x32.jpg");
+}
+
+.tos-32 {
+    @include img-32("../src/icons/ThingsOperatingSystem/32x32.jpg");
+}
+
+.pgn-32 {
+    @include img-32("../src/icons/Pigeoncoin/32x32.jpg");
+}
+
+.eurs-32 {
+    @include img-32("../src/icons/STASISEURS/32x32.jpg");
+}
+
+.nix-32 {
+    @include img-32("../src/icons/NIX/32x32.jpg");
+}
+
+.apl-32 {
+    @include img-32("../src/icons/ApolloCurrency/32x32.jpg");
+}
+
+.horus-32 {
+    @include img-32("../src/icons/HorusPay/32x32.jpg");
+}
+
+.bifi-32 {
+    @include img-32("../src/icons/BitcoinFile/32x32.jpg");
+}
+
+.pwv-32 {
+    @include img-32("../src/icons/Wavebase/32x32.jpg");
+}
+
+.dpn-32 {
+    @include img-32("../src/icons/DIPNET/32x32.jpg");
+}
+
+.vex-32 {
+    @include img-32("../src/icons/Vexanium/32x32.jpg");
+}
+
+.mct-32 {
+    @include img-32("../src/icons/MasterContractToken/32x32.jpg");
+}
+
+.wsd-32 {
+    @include img-32("../src/icons/WhiteStandard/32x32.jpg");
+}
+
+.acdc-32 {
+    @include img-32("../src/icons/Volt/32x32.jpg");
+}
+
+.nbr-32 {
+    @include img-32("../src/icons/NiobioCash/32x32.jpg");
+}
+
+.purex-32 {
+    @include img-32("../src/icons/Purex/32x32.jpg");
+}
+
+.cen-32 {
+    @include img-32("../src/icons/CoinsuperEcosystemNetwork/32x32.jpg");
+}
+
+.bitx-32 {
+    @include img-32("../src/icons/BitScreenerToken/32x32.jpg");
+}
+
+.vtho-32 {
+    @include img-32("../src/icons/VeThorToken/32x32.jpg");
+}
+
+.priv-32 {
+    @include img-32("../src/icons/PRiVCY/32x32.jpg");
+}
+
+.coin-32 {
+    @include img-32("../src/icons/Coinvest/32x32.jpg");
+}
+
+.lstr-32 {
+    @include img-32("../src/icons/LunaStars/32x32.jpg");
+}

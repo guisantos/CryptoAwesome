@@ -1,0 +1,6358 @@
+@mixin img-16 ($src) {
+    display: inline-block;
+    background: url($src) no-repeat center;
+    width: 16px;
+    height: 16px;
+}
+
+.btc-16 {
+    @include img-16("../src/icons/Bitcoin/16x16.jpg");
+}
+
+.ltc-16 {
+    @include img-16("../src/icons/Litecoin/16x16.jpg");
+}
+
+.nmc-16 {
+    @include img-16("../src/icons/Namecoin/16x16.jpg");
+}
+
+.trc-16 {
+    @include img-16("../src/icons/Terracoin/16x16.jpg");
+}
+
+.ppc-16 {
+    @include img-16("../src/icons/Peercoin/16x16.jpg");
+}
+
+.nvc-16 {
+    @include img-16("../src/icons/Novacoin/16x16.jpg");
+}
+
+.ftc-16 {
+    @include img-16("../src/icons/Feathercoin/16x16.jpg");
+}
+
+.mnc-16 {
+    @include img-16("../src/icons/Mincoin/16x16.jpg");
+}
+
+.frc-16 {
+    @include img-16("../src/icons/Freicoin/16x16.jpg");
+}
+
+.ixc-16 {
+    @include img-16("../src/icons/Ixcoin/16x16.jpg");
+}
+
+.btb-16 {
+    @include img-16("../src/icons/BitBar/16x16.jpg");
+}
+
+.wdc-16 {
+    @include img-16("../src/icons/WorldCoin/16x16.jpg");
+}
+
+.dgc-16 {
+    @include img-16("../src/icons/Digitalcoin/16x16.jpg");
+}
+
+.gld-16 {
+    @include img-16("../src/icons/GoldCoin/16x16.jpg");
+}
+
+.arg-16 {
+    @include img-16("../src/icons/Argentum/16x16.jpg");
+}
+
+.fst-16 {
+    @include img-16("../src/icons/Fastcoin/16x16.jpg");
+}
+
+.btgem-16 {
+    @include img-16("../src/icons/Bitgem/16x16.jpg");
+}
+
+.phxc-16 {
+    @include img-16("../src/icons/Phoenixcoin/16x16.jpg");
+}
+
+.mec-16 {
+    @include img-16("../src/icons/Megacoin/16x16.jpg");
+}
+
+.ifc-16 {
+    @include img-16("../src/icons/Infinitecoin/16x16.jpg");
+}
+
+.xpm-16 {
+    @include img-16("../src/icons/Primecoin/16x16.jpg");
+}
+
+.anc-16 {
+    @include img-16("../src/icons/Anoncoin/16x16.jpg");
+}
+
+.csc-16 {
+    @include img-16("../src/icons/CasinoCoin/16x16.jpg");
+}
+
+.cbx-16 {
+    @include img-16("../src/icons/Bullion/16x16.jpg");
+}
+
+.emd-16 {
+    @include img-16("../src/icons/EmeraldCrypto/16x16.jpg");
+}
+
+.glc-16 {
+    @include img-16("../src/icons/GlobalCoin/16x16.jpg");
+}
+
+.xrp-16 {
+    @include img-16("../src/icons/XRP/16x16.jpg");
+}
+
+.qrk-16 {
+    @include img-16("../src/icons/Quark/16x16.jpg");
+}
+
+.zet-16 {
+    @include img-16("../src/icons/Zetacoin/16x16.jpg");
+}
+
+.src-16 {
+    @include img-16("../src/icons/SecureCoin/16x16.jpg");
+}
+
+.sxc-16 {
+    @include img-16("../src/icons/Sexcoin/16x16.jpg");
+}
+
+.tag-16 {
+    @include img-16("../src/icons/TagCoin/16x16.jpg");
+}
+
+.i0c-16 {
+    @include img-16("../src/icons/I0Coin/16x16.jpg");
+}
+
+.flo-16 {
+    @include img-16("../src/icons/FlorinCoin/16x16.jpg");
+}
+
+.nxt-16 {
+    @include img-16("../src/icons/Nxt/16x16.jpg");
+}
+
+.uno-16 {
+    @include img-16("../src/icons/Unobtanium/16x16.jpg");
+}
+
+.xjo-16 {
+    @include img-16("../src/icons/Joulecoin/16x16.jpg");
+}
+
+.dtc-16 {
+    @include img-16("../src/icons/Datacoin/16x16.jpg");
+}
+
+.bet-16 {
+    @include img-16("../src/icons/BetaCoin/16x16.jpg");
+}
+
+.gdc-16 {
+    @include img-16("../src/icons/GrandCoin/16x16.jpg");
+}
+
+.dem-16 {
+    @include img-16("../src/icons/DeutscheeMark/16x16.jpg");
+}
+
+.doge-16 {
+    @include img-16("../src/icons/Dogecoin/16x16.jpg");
+}
+
+.net-16 {
+    @include img-16("../src/icons/NetCoin/16x16.jpg");
+}
+
+.phs-16 {
+    @include img-16("../src/icons/PhilosopherStones/16x16.jpg");
+}
+
+.dmd-16 {
+    @include img-16("../src/icons/Diamond/16x16.jpg");
+}
+
+.hbn-16 {
+    @include img-16("../src/icons/HoboNickels/16x16.jpg");
+}
+
+.tgc-16 {
+    @include img-16("../src/icons/Tigercoin/16x16.jpg");
+}
+
+.orb-16 {
+    @include img-16("../src/icons/Orbitcoin/16x16.jpg");
+}
+
+.omni-16 {
+    @include img-16("../src/icons/Omni/16x16.jpg");
+}
+
+.cat-16 {
+    @include img-16("../src/icons/Catcoin/16x16.jpg");
+}
+
+.tips-16 {
+    @include img-16("../src/icons/FedoraCoin/16x16.jpg");
+}
+
+.rpc-16 {
+    @include img-16("../src/icons/RonPaulCoin/16x16.jpg");
+}
+
+.moon-16 {
+    @include img-16("../src/icons/Mooncoin/16x16.jpg");
+}
+
+.dime-16 {
+    @include img-16("../src/icons/Dimecoin/16x16.jpg");
+}
+
+.f2-16 {
+    @include img-16("../src/icons/42-coin/16x16.jpg");
+}
+
+.vtc-16 {
+    @include img-16("../src/icons/Vertcoin/16x16.jpg");
+}
+
+.red-16 {
+    @include img-16("../src/icons/RedCoin/16x16.jpg");
+}
+
+.dgb-16 {
+    @include img-16("../src/icons/DigiByte/16x16.jpg");
+}
+
+.smc-16 {
+    @include img-16("../src/icons/SmartCoin/16x16.jpg");
+}
+
+.tes-16 {
+    @include img-16("../src/icons/TeslaCoin/16x16.jpg");
+}
+
+.nobl-16 {
+    @include img-16("../src/icons/NobleCoin/16x16.jpg");
+}
+
+.rdd-16 {
+    @include img-16("../src/icons/ReddCoin/16x16.jpg");
+}
+
+.nyan-16 {
+    @include img-16("../src/icons/Nyancoin/16x16.jpg");
+}
+
+.utc-16 {
+    @include img-16("../src/icons/UltraCoin/16x16.jpg");
+}
+
+.pot-16 {
+    @include img-16("../src/icons/PotCoin/16x16.jpg");
+}
+
+.blc-16 {
+    @include img-16("../src/icons/Blakecoin/16x16.jpg");
+}
+
+.max-16 {
+    @include img-16("../src/icons/MaxCoin/16x16.jpg");
+}
+
+.q2c-16 {
+    @include img-16("../src/icons/QubitCoin/16x16.jpg");
+}
+
+.huc-16 {
+    @include img-16("../src/icons/HunterCoin/16x16.jpg");
+}
+
+.dash-16 {
+    @include img-16("../src/icons/Dash/16x16.jpg");
+}
+
+.xcp-16 {
+    @include img-16("../src/icons/Counterparty/16x16.jpg");
+}
+
+.cach-16 {
+    @include img-16("../src/icons/CacheCoin/16x16.jpg");
+}
+
+.icn-16 {
+    @include img-16("../src/icons/iCoin/16x16.jpg");
+}
+
+.mint-16 {
+    @include img-16("../src/icons/Mintcoin/16x16.jpg");
+}
+
+.ari-16 {
+    @include img-16("../src/icons/Aricoin/16x16.jpg");
+}
+
+.dope-16 {
+    @include img-16("../src/icons/DopeCoin/16x16.jpg");
+}
+
+.aur-16 {
+    @include img-16("../src/icons/Auroracoin/16x16.jpg");
+}
+
+.ani-16 {
+    @include img-16("../src/icons/Animecoin/16x16.jpg");
+}
+
+.ptc-16 {
+    @include img-16("../src/icons/Pesetacoin/16x16.jpg");
+}
+
+.mars-16 {
+    @include img-16("../src/icons/Marscoin/16x16.jpg");
+}
+
+.cash-16 {
+    @include img-16("../src/icons/Cashcoin/16x16.jpg");
+}
+
+.ric-16 {
+    @include img-16("../src/icons/Riecoin/16x16.jpg");
+}
+
+.pnd-16 {
+    @include img-16("../src/icons/Pandacoin/16x16.jpg");
+}
+
+.maza-16 {
+    @include img-16("../src/icons/MAZA/16x16.jpg");
+}
+
+.ufo-16 {
+    @include img-16("../src/icons/UniformFiscalObject/16x16.jpg");
+}
+
+.blk-16 {
+    @include img-16("../src/icons/BlackCoin/16x16.jpg");
+}
+
+.ltb-16 {
+    @include img-16("../src/icons/LiteBar/16x16.jpg");
+}
+
+.pho-16 {
+    @include img-16("../src/icons/Photon/16x16.jpg");
+}
+
+.zeit-16 {
+    @include img-16("../src/icons/Zeitcoin/16x16.jpg");
+}
+
+.xmy-16 {
+    @include img-16("../src/icons/Myriad/16x16.jpg");
+}
+
+.note-16 {
+    @include img-16("../src/icons/DNotes/16x16.jpg");
+}
+
+.skc-16 {
+    @include img-16("../src/icons/Skeincoin/16x16.jpg");
+}
+
+.emc2-16 {
+    @include img-16("../src/icons/Einsteinium/16x16.jpg");
+}
+
+.btcs-16 {
+    @include img-16("../src/icons/BitcoinScrypt/16x16.jpg");
+}
+
+.ecc-16 {
+    @include img-16("../src/icons/ECC/16x16.jpg");
+}
+
+.mona-16 {
+    @include img-16("../src/icons/MonaCoin/16x16.jpg");
+}
+
+.rby-16 {
+    @include img-16("../src/icons/Rubycoin/16x16.jpg");
+}
+
+.bela-16 {
+    @include img-16("../src/icons/Bela/16x16.jpg");
+}
+
+.flt-16 {
+    @include img-16("../src/icons/FlutterCoin/16x16.jpg");
+}
+
+.e88-16 {
+    @include img-16("../src/icons/OctoCoin/16x16.jpg");
+}
+
+.fair-16 {
+    @include img-16("../src/icons/FairCoin/16x16.jpg");
+}
+
+.slr-16 {
+    @include img-16("../src/icons/SolarCoin/16x16.jpg");
+}
+
+.efl-16 {
+    @include img-16("../src/icons/e-Gulden/16x16.jpg");
+}
+
+.nlg-16 {
+    @include img-16("../src/icons/Gulden/16x16.jpg");
+}
+
+.plc-16 {
+    @include img-16("../src/icons/Polcoin/16x16.jpg");
+}
+
+.grs-16 {
+    @include img-16("../src/icons/Groestlcoin/16x16.jpg");
+}
+
+.xpd-16 {
+    @include img-16("../src/icons/PetroDollar/16x16.jpg");
+}
+
+.xwc-16 {
+    @include img-16("../src/icons/WhiteCoin/16x16.jpg");
+}
+
+.ac-16 {
+    @include img-16("../src/icons/AsiaCoin/16x16.jpg");
+}
+
+.pop-16 {
+    @include img-16("../src/icons/PopularCoin/16x16.jpg");
+}
+
+.bits-16 {
+    @include img-16("../src/icons/Bitstar/16x16.jpg");
+}
+
+.qbc-16 {
+    @include img-16("../src/icons/Quebecoin/16x16.jpg");
+}
+
+.ccn-16 {
+    @include img-16("../src/icons/CannaCoin/16x16.jpg");
+}
+
+.sloth-16 {
+    @include img-16("../src/icons/Slothcoin/16x16.jpg");
+}
+
+.blu-16 {
+    @include img-16("../src/icons/BlueCoin/16x16.jpg");
+}
+
+.maid-16 {
+    @include img-16("../src/icons/MaidSafeCoin/16x16.jpg");
+}
+
+.xbc-16 {
+    @include img-16("../src/icons/BitcoinPlus/16x16.jpg");
+}
+
+.nyc-16 {
+    @include img-16("../src/icons/NewYorkCoin/16x16.jpg");
+}
+
+.cdn-16 {
+    @include img-16("../src/icons/CanadaeCoin/16x16.jpg");
+}
+
+.gun-16 {
+    @include img-16("../src/icons/Guncoin/16x16.jpg");
+}
+
+.pink-16 {
+    @include img-16("../src/icons/PinkCoin/16x16.jpg");
+}
+
+.enrg-16 {
+    @include img-16("../src/icons/Energycoin/16x16.jpg");
+}
+
+.vrc-16 {
+    @include img-16("../src/icons/VeriCoin/16x16.jpg");
+}
+
+.xmr-16 {
+    @include img-16("../src/icons/Monero/16x16.jpg");
+}
+
+.lcp-16 {
+    @include img-16("../src/icons/LitecoinPlus/16x16.jpg");
+}
+
+.cure-16 {
+    @include img-16("../src/icons/Curecoin/16x16.jpg");
+}
+
+.unb-16 {
+    @include img-16("../src/icons/UnbreakableCoin/16x16.jpg");
+}
+
+.crypt-16 {
+    @include img-16("../src/icons/CryptCoin/16x16.jpg");
+}
+
+.super-16 {
+    @include img-16("../src/icons/SuperCoin/16x16.jpg");
+}
+
+.bost-16 {
+    @include img-16("../src/icons/BoostCoin/16x16.jpg");
+}
+
+.hyper-16 {
+    @include img-16("../src/icons/Hyper/16x16.jpg");
+}
+
+.moto-16 {
+    @include img-16("../src/icons/Motocoin/16x16.jpg");
+}
+
+.cloak-16 {
+    @include img-16("../src/icons/CloakCoin/16x16.jpg");
+}
+
+.bsd-16 {
+    @include img-16("../src/icons/BitSend/16x16.jpg");
+}
+
+.c2-16 {
+    @include img-16("../src/icons/Coin2.1/16x16.jpg");
+}
+
+.fcn-16 {
+    @include img-16("../src/icons/Fantomcoin/16x16.jpg");
+}
+
+.bcn-16 {
+    @include img-16("../src/icons/Bytecoin/16x16.jpg");
+}
+
+.aby-16 {
+    @include img-16("../src/icons/ArtByte/16x16.jpg");
+}
+
+.nav-16 {
+    @include img-16("../src/icons/NavCoin/16x16.jpg");
+}
+
+.grn-16 {
+    @include img-16("../src/icons/Granite/16x16.jpg");
+}
+
+.don-16 {
+    @include img-16("../src/icons/Donationcoin/16x16.jpg");
+}
+
+.piggy-16 {
+    @include img-16("../src/icons/Piggycoin/16x16.jpg");
+}
+
+.start-16 {
+    @include img-16("../src/icons/Startcoin/16x16.jpg");
+}
+
+.kore-16 {
+    @include img-16("../src/icons/Kore/16x16.jpg");
+}
+
+.xdn-16 {
+    @include img-16("../src/icons/DigitalNote/16x16.jpg");
+}
+
+.bbr-16 {
+    @include img-16("../src/icons/Boolberry/16x16.jpg");
+}
+
+.sha-16 {
+    @include img-16("../src/icons/SHACoin/16x16.jpg");
+}
+
+.blz-16 {
+    @include img-16("../src/icons/BlazeCoin/16x16.jpg");
+}
+
+.thc-16 {
+    @include img-16("../src/icons/HempCoin/16x16.jpg");
+}
+
+.brit-16 {
+    @include img-16("../src/icons/BritCoin/16x16.jpg");
+}
+
+.xst-16 {
+    @include img-16("../src/icons/Stealth/16x16.jpg");
+}
+
+.clam-16 {
+    @include img-16("../src/icons/Clams/16x16.jpg");
+}
+
+.bts-16 {
+    @include img-16("../src/icons/BitShares/16x16.jpg");
+}
+
+.btcd-16 {
+    @include img-16("../src/icons/BitcoinDark/16x16.jpg");
+}
+
+.via-16 {
+    @include img-16("../src/icons/Viacoin/16x16.jpg");
+}
+
+.tri-16 {
+    @include img-16("../src/icons/Triangles/16x16.jpg");
+}
+
+.xcn-16 {
+    @include img-16("../src/icons/Cryptonite/16x16.jpg");
+}
+
+.carbon-16 {
+    @include img-16("../src/icons/Carboncoin/16x16.jpg");
+}
+
+.cann-16 {
+    @include img-16("../src/icons/CannabisCoin/16x16.jpg");
+}
+
+.xlm-16 {
+    @include img-16("../src/icons/Stellar/16x16.jpg");
+}
+
+.tit-16 {
+    @include img-16("../src/icons/Titcoin/16x16.jpg");
+}
+
+.vta-16 {
+    @include img-16("../src/icons/Virtacoin/16x16.jpg");
+}
+
+.hyp-16 {
+    @include img-16("../src/icons/HyperStake/16x16.jpg");
+}
+
+.j-16 {
+    @include img-16("../src/icons/Joincoin/16x16.jpg");
+}
+
+.sys-16 {
+    @include img-16("../src/icons/Syscoin/16x16.jpg");
+}
+
+.btm-16 {
+    @include img-16("../src/icons/Bitmark/16x16.jpg");
+}
+
+.hal-16 {
+    @include img-16("../src/icons/Halcyon/16x16.jpg");
+}
+
+.sjcx-16 {
+    @include img-16("../src/icons/StorjcoinX/16x16.jpg");
+}
+
+.neos-16 {
+    @include img-16("../src/icons/NeosCoin/16x16.jpg");
+}
+
+.emc-16 {
+    @include img-16("../src/icons/Emercoin/16x16.jpg");
+}
+
+.rbbt-16 {
+    @include img-16("../src/icons/RabbitCoin/16x16.jpg");
+}
+
+.burst-16 {
+    @include img-16("../src/icons/Burst/16x16.jpg");
+}
+
+.game-16 {
+    @include img-16("../src/icons/GameCredits/16x16.jpg");
+}
+
+.ubq-16 {
+    @include img-16("../src/icons/Ubiq/16x16.jpg");
+}
+
+.bun-16 {
+    @include img-16("../src/icons/BunnyCoin/16x16.jpg");
+}
+
+.acoin-16 {
+    @include img-16("../src/icons/Acoin/16x16.jpg");
+}
+
+.fldc-16 {
+    @include img-16("../src/icons/FoldingCoin/16x16.jpg");
+}
+
+.bitcny-16 {
+    @include img-16("../src/icons/bitCNY/16x16.jpg");
+}
+
+.usnbt-16 {
+    @include img-16("../src/icons/NuBits/16x16.jpg");
+}
+
+.slg-16 {
+    @include img-16("../src/icons/Sterlingcoin/16x16.jpg");
+}
+
+.xmg-16 {
+    @include img-16("../src/icons/Magi/16x16.jpg");
+}
+
+.excl-16 {
+    @include img-16("../src/icons/ExclusiveCoin/16x16.jpg");
+}
+
+.troll-16 {
+    @include img-16("../src/icons/Trollcoin/16x16.jpg");
+}
+
+.unity-16 {
+    @include img-16("../src/icons/SuperNET/16x16.jpg");
+}
+
+.dp-16 {
+    @include img-16("../src/icons/DigitalPrice/16x16.jpg");
+}
+
+.bits-16 {
+    @include img-16("../src/icons/Bitswift/16x16.jpg");
+}
+
+.dsh-16 {
+    @include img-16("../src/icons/Dashcoin/16x16.jpg");
+}
+
+.au-16 {
+    @include img-16("../src/icons/AurumCoin/16x16.jpg");
+}
+
+.stv-16 {
+    @include img-16("../src/icons/Sativacoin/16x16.jpg");
+}
+
+.xvg-16 {
+    @include img-16("../src/icons/Verge/16x16.jpg");
+}
+
+.nsr-16 {
+    @include img-16("../src/icons/NuShares/16x16.jpg");
+}
+
+.spr-16 {
+    @include img-16("../src/icons/SpreadCoin/16x16.jpg");
+}
+
+.rbt-16 {
+    @include img-16("../src/icons/Rimbit/16x16.jpg");
+}
+
+.mue-16 {
+    @include img-16("../src/icons/MonetaryUnit/16x16.jpg");
+}
+
+.block-16 {
+    @include img-16("../src/icons/Blocknet/16x16.jpg");
+}
+
+.ttc-16 {
+    @include img-16("../src/icons/TittieCoin/16x16.jpg");
+}
+
+.crw-16 {
+    @include img-16("../src/icons/Crown/16x16.jpg");
+}
+
+.bay-16 {
+    @include img-16("../src/icons/BitBay/16x16.jpg");
+}
+
+.gcn-16 {
+    @include img-16("../src/icons/GCNCoin/16x16.jpg");
+}
+
+.xqn-16 {
+    @include img-16("../src/icons/Quotient/16x16.jpg");
+}
+
+.bcf-16 {
+    @include img-16("../src/icons/BitcoinFast/16x16.jpg");
+}
+
+.ok-16 {
+    @include img-16("../src/icons/OKCash/16x16.jpg");
+}
+
+.uis-16 {
+    @include img-16("../src/icons/Unitus/16x16.jpg");
+}
+
+.coval-16 {
+    @include img-16("../src/icons/CircuitsofValue/16x16.jpg");
+}
+
+.nxs-16 {
+    @include img-16("../src/icons/Nexus/16x16.jpg");
+}
+
+.nka-16 {
+    @include img-16("../src/icons/IncaKoin/16x16.jpg");
+}
+
+.smly-16 {
+    @include img-16("../src/icons/SmileyCoin/16x16.jpg");
+}
+
+.mac-16 {
+    @include img-16("../src/icons/Machinecoin/16x16.jpg");
+}
+
+.dot-16 {
+    @include img-16("../src/icons/Dotcoin/16x16.jpg");
+}
+
+.bitb-16 {
+    @include img-16("../src/icons/BeanCash/16x16.jpg");
+}
+
+.geo-16 {
+    @include img-16("../src/icons/GeoCoin/16x16.jpg");
+}
+
+.usdt-16 {
+    @include img-16("../src/icons/Tether/16x16.jpg");
+}
+
+.wbb-16 {
+    @include img-16("../src/icons/WildBeastBlock/16x16.jpg");
+}
+
+.grc-16 {
+    @include img-16("../src/icons/GridCoin/16x16.jpg");
+}
+
+.xvc-16 {
+    @include img-16("../src/icons/Vcash/16x16.jpg");
+}
+
+.ldoge-16 {
+    @include img-16("../src/icons/LiteDoge/16x16.jpg");
+}
+
+.crave-16 {
+    @include img-16("../src/icons/Crave/16x16.jpg");
+}
+
+.pura-16 {
+    @include img-16("../src/icons/Pura/16x16.jpg");
+}
+
+.xem-16 {
+    @include img-16("../src/icons/NEM/16x16.jpg");
+}
+
+.ebit-16 {
+    @include img-16("../src/icons/8Bit/16x16.jpg");
+}
+
+.lea-16 {
+    @include img-16("../src/icons/LeaCoin/16x16.jpg");
+}
+
+.ntrn-16 {
+    @include img-16("../src/icons/Neutron/16x16.jpg");
+}
+
+.xaur-16 {
+    @include img-16("../src/icons/Xaurum/16x16.jpg");
+}
+
+.cf-16 {
+    @include img-16("../src/icons/Californium/16x16.jpg");
+}
+
+.aib-16 {
+    @include img-16("../src/icons/AdvancedInternetBlocks/16x16.jpg");
+}
+
+.sphr-16 {
+    @include img-16("../src/icons/Sphere/16x16.jpg");
+}
+
+.medic-16 {
+    @include img-16("../src/icons/MedicCoin/16x16.jpg");
+}
+
+.bub-16 {
+    @include img-16("../src/icons/Bubble/16x16.jpg");
+}
+
+.muse-16 {
+    @include img-16("../src/icons/MUSE/16x16.jpg");
+}
+
+.unit-16 {
+    @include img-16("../src/icons/UniversalCurrency/16x16.jpg");
+}
+
+.shell-16 {
+    @include img-16("../src/icons/ShellCoin/16x16.jpg");
+}
+
+.arb-16 {
+    @include img-16("../src/icons/ARbit/16x16.jpg");
+}
+
+.gam-16 {
+    @include img-16("../src/icons/Gambit/16x16.jpg");
+}
+
+.bta-16 {
+    @include img-16("../src/icons/Bata/16x16.jpg");
+}
+
+.adc-16 {
+    @include img-16("../src/icons/AudioCoin/16x16.jpg");
+}
+
+.fjc-16 {
+    @include img-16("../src/icons/FujiCoin/16x16.jpg");
+}
+
+.erc-16 {
+    @include img-16("../src/icons/EuropeCoin/16x16.jpg");
+}
+
+.hxx-16 {
+    @include img-16("../src/icons/Hexx/16x16.jpg");
+}
+
+.xra-16 {
+    @include img-16("../src/icons/Ratecoin/16x16.jpg");
+}
+
+.irl-16 {
+    @include img-16("../src/icons/IrishCoin/16x16.jpg");
+}
+
+.zny-16 {
+    @include img-16("../src/icons/Bitzeny/16x16.jpg");
+}
+
+.acp-16 {
+    @include img-16("../src/icons/AnarchistsPrime/16x16.jpg");
+}
+
+.cpn-16 {
+    @include img-16("../src/icons/CompuCoin/16x16.jpg");
+}
+
+.chc-16 {
+    @include img-16("../src/icons/ChainCoin/16x16.jpg");
+}
+
+.sprts-16 {
+    @include img-16("../src/icons/Sprouts/16x16.jpg");
+}
+
+.hnc-16 {
+    @include img-16("../src/icons/Helleniccoin/16x16.jpg");
+}
+
+.cpc-16 {
+    @include img-16("../src/icons/Capricoin/16x16.jpg");
+}
+
+.manna-16 {
+    @include img-16("../src/icons/Manna/16x16.jpg");
+}
+
+.leo-16 {
+    @include img-16("../src/icons/LEOcoin/16x16.jpg");
+}
+
+.aeon-16 {
+    @include img-16("../src/icons/Aeon/16x16.jpg");
+}
+
+.eth-16 {
+    @include img-16("../src/icons/Ethereum/16x16.jpg");
+}
+
+.sjw-16 {
+    @include img-16("../src/icons/SJWCoin/16x16.jpg");
+}
+
+.tx-16 {
+    @include img-16("../src/icons/TransferCoin/16x16.jpg");
+}
+
+.gcc-16 {
+    @include img-16("../src/icons/GuccioneCoin/16x16.jpg");
+}
+
+.ams-16 {
+    @include img-16("../src/icons/AmsterdamCoin/16x16.jpg");
+}
+
+.euc-16 {
+    @include img-16("../src/icons/Eurocoin/16x16.jpg");
+}
+
+.sc-16 {
+    @include img-16("../src/icons/Siacoin/16x16.jpg");
+}
+
+.gcr-16 {
+    @include img-16("../src/icons/GlobalCurrencyReserve/16x16.jpg");
+}
+
+.shift-16 {
+    @include img-16("../src/icons/Shift/16x16.jpg");
+}
+
+.vec2-16 {
+    @include img-16("../src/icons/VectorAI/16x16.jpg");
+}
+
+.boli-16 {
+    @include img-16("../src/icons/Bolivarcoin/16x16.jpg");
+}
+
+.bcy-16 {
+    @include img-16("../src/icons/Bitcrystals/16x16.jpg");
+}
+
+.pak-16 {
+    @include img-16("../src/icons/Pakcoin/16x16.jpg");
+}
+
+.exp-16 {
+    @include img-16("../src/icons/Expanse/16x16.jpg");
+}
+
+.sib-16 {
+    @include img-16("../src/icons/SIBCoin/16x16.jpg");
+}
+
+.fct-16 {
+    @include img-16("../src/icons/Factom/16x16.jpg");
+}
+
+.pr-16 {
+    @include img-16("../src/icons/Prototanium/16x16.jpg");
+}
+
+.rep-16 {
+    @include img-16("../src/icons/Augur/16x16.jpg");
+}
+
+.shnd-16 {
+    @include img-16("../src/icons/StrongHands/16x16.jpg");
+}
+
+.pac-16 {
+    @include img-16("../src/icons/PACcoin/16x16.jpg");
+}
+
+.leet-16 {
+    @include img-16("../src/icons/Elite/16x16.jpg");
+}
+
+.soil-16 {
+    @include img-16("../src/icons/SOILcoin/16x16.jpg");
+}
+
+.dft-16 {
+    @include img-16("../src/icons/DraftCoin/16x16.jpg");
+}
+
+.amp-16 {
+    @include img-16("../src/icons/Synereo/16x16.jpg");
+}
+
+.club-16 {
+    @include img-16("../src/icons/ClubCoin/16x16.jpg");
+}
+
+.adz-16 {
+    @include img-16("../src/icons/Adzcoin/16x16.jpg");
+}
+
+.rc-16 {
+    @include img-16("../src/icons/RussiaCoin/16x16.jpg");
+}
+
+.egc-16 {
+    @include img-16("../src/icons/EverGreenCoin/16x16.jpg");
+}
+
+.crb-16 {
+    @include img-16("../src/icons/Creditbit/16x16.jpg");
+}
+
+.rads-16 {
+    @include img-16("../src/icons/Radium/16x16.jpg");
+}
+
+.yoc-16 {
+    @include img-16("../src/icons/Yocoin/16x16.jpg");
+}
+
+.sls-16 {
+    @include img-16("../src/icons/SaluS/16x16.jpg");
+}
+
+.frn-16 {
+    @include img-16("../src/icons/Francs/16x16.jpg");
+}
+
+.dcr-16 {
+    @include img-16("../src/icons/Decred/16x16.jpg");
+}
+
+.pivx-16 {
+    @include img-16("../src/icons/PIVX/16x16.jpg");
+}
+
+.safex-16 {
+    @include img-16("../src/icons/SafeExchangeCoin/16x16.jpg");
+}
+
+.trump-16 {
+    @include img-16("../src/icons/TrumpCoin/16x16.jpg");
+}
+
+.xct-16 {
+    @include img-16("../src/icons/C-Bit/16x16.jpg");
+}
+
+.hodl-16 {
+    @include img-16("../src/icons/HOdlcoin/16x16.jpg");
+}
+
+.neva-16 {
+    @include img-16("../src/icons/NevaCoin/16x16.jpg");
+}
+
+.rvr-16 {
+    @include img-16("../src/icons/RevolutionVR/16x16.jpg");
+}
+
+.lsk-16 {
+    @include img-16("../src/icons/Lisk/16x16.jpg");
+}
+
+.edrc-16 {
+    @include img-16("../src/icons/EDRCoin/16x16.jpg");
+}
+
+.post-16 {
+    @include img-16("../src/icons/PostCoin/16x16.jpg");
+}
+
+.qwark-16 {
+    @include img-16("../src/icons/Qwark/16x16.jpg");
+}
+
+.dgd-16 {
+    @include img-16("../src/icons/DigixDAO/16x16.jpg");
+}
+
+.steem-16 {
+    @include img-16("../src/icons/Steem/16x16.jpg");
+}
+
+.fans-16 {
+    @include img-16("../src/icons/FantasyCash/16x16.jpg");
+}
+
+.esp-16 {
+    @include img-16("../src/icons/Espers/16x16.jpg");
+}
+
+.xhi-16 {
+    @include img-16("../src/icons/HiCoin/16x16.jpg");
+}
+
+.el-16 {
+    @include img-16("../src/icons/Elcoin/16x16.jpg");
+}
+
+.zur-16 {
+    @include img-16("../src/icons/Zurcoin/16x16.jpg");
+}
+
+.s11-16 {
+    @include img-16("../src/icons/SixEleven/16x16.jpg");
+}
+
+.tgive-16 {
+    @include img-16("../src/icons/2GIVE/16x16.jpg");
+}
+
+.abc-16 {
+    @include img-16("../src/icons/Alphabit/16x16.jpg");
+}
+
+.tesla-16 {
+    @include img-16("../src/icons/TeslaCoilCoin/16x16.jpg");
+}
+
+.mxt-16 {
+    @include img-16("../src/icons/MarteXcoin/16x16.jpg");
+}
+
+.nlx-16 {
+    @include img-16("../src/icons/Nullex/16x16.jpg");
+}
+
+.waves-16 {
+    @include img-16("../src/icons/Waves/16x16.jpg");
+}
+
+.icoo-16 {
+    @include img-16("../src/icons/ICOOpenLedger/16x16.jpg");
+}
+
+.pwr-16 {
+    @include img-16("../src/icons/Powercoin/16x16.jpg");
+}
+
+.ion-16 {
+    @include img-16("../src/icons/ION/16x16.jpg");
+}
+
+.xre-16 {
+    @include img-16("../src/icons/RevolverCoin/16x16.jpg");
+}
+
+.brk-16 {
+    @include img-16("../src/icons/Breakout/16x16.jpg");
+}
+
+.dbtc-16 {
+    @include img-16("../src/icons/Debitcoin/16x16.jpg");
+}
+
+.cmt-16 {
+    @include img-16("../src/icons/Comet/16x16.jpg");
+}
+
+.rise-16 {
+    @include img-16("../src/icons/Rise/16x16.jpg");
+}
+
+.chess-16 {
+    @include img-16("../src/icons/ChessCoin/16x16.jpg");
+}
+
+.lbc-16 {
+    @include img-16("../src/icons/LBRYCredits/16x16.jpg");
+}
+
+.put-16 {
+    @include img-16("../src/icons/PutinCoin/16x16.jpg");
+}
+
+.brx-16 {
+    @include img-16("../src/icons/BreakoutStake/16x16.jpg");
+}
+
+.synx-16 {
+    @include img-16("../src/icons/Syndicate/16x16.jpg");
+}
+
+.heat-16 {
+    @include img-16("../src/icons/HEAT/16x16.jpg");
+}
+
+.sbd-16 {
+    @include img-16("../src/icons/SteemDollars/16x16.jpg");
+}
+
+.ardr-16 {
+    @include img-16("../src/icons/Ardor/16x16.jpg");
+}
+
+.etc-16 {
+    @include img-16("../src/icons/EthereumClassic/16x16.jpg");
+}
+
+.bit-16 {
+    @include img-16("../src/icons/FirstBitcoin/16x16.jpg");
+}
+
+.ele-16 {
+    @include img-16("../src/icons/Elementrem/16x16.jpg");
+}
+
+.krb-16 {
+    @include img-16("../src/icons/Karbo/16x16.jpg");
+}
+
+.vprc-16 {
+    @include img-16("../src/icons/VapersCoin/16x16.jpg");
+}
+
+.strat-16 {
+    @include img-16("../src/icons/Stratis/16x16.jpg");
+}
+
+.taj-16 {
+    @include img-16("../src/icons/TajCoin/16x16.jpg");
+}
+
+.edr-16 {
+    @include img-16("../src/icons/E-DinarCoin/16x16.jpg");
+}
+
+.atx-16 {
+    @include img-16("../src/icons/ArtexCoin/16x16.jpg");
+}
+
+.xp-16 {
+    @include img-16("../src/icons/ExperiencePoints/16x16.jpg");
+}
+
+.vlt-16 {
+    @include img-16("../src/icons/Veltor/16x16.jpg");
+}
+
+.kb3-16 {
+    @include img-16("../src/icons/B3Coin/16x16.jpg");
+}
+
+.golf-16 {
+    @include img-16("../src/icons/Golfcoin/16x16.jpg");
+}
+
+.neo-16 {
+    @include img-16("../src/icons/NEO/16x16.jpg");
+}
+
+.lmc-16 {
+    @include img-16("../src/icons/LoMoCoin/16x16.jpg");
+}
+
+.btdx-16 {
+    @include img-16("../src/icons/Bitcloud/16x16.jpg");
+}
+
+.nlc2-16 {
+    @include img-16("../src/icons/NoLimitCoin/16x16.jpg");
+}
+
+.vrm-16 {
+    @include img-16("../src/icons/VeriumReserve/16x16.jpg");
+}
+
+.jin-16 {
+    @include img-16("../src/icons/JinCoin/16x16.jpg");
+}
+
+.xto-16 {
+    @include img-16("../src/icons/Tao/16x16.jpg");
+}
+
+.plu-16 {
+    @include img-16("../src/icons/Pluton/16x16.jpg");
+}
+
+.proud-16 {
+    @include img-16("../src/icons/PROUDMoney/16x16.jpg");
+}
+
+.seq-16 {
+    @include img-16("../src/icons/Sequence/16x16.jpg");
+}
+
+.fst-16 {
+    @include img-16("../src/icons/FirstBlood/16x16.jpg");
+}
+
+.pepecash-16 {
+    @include img-16("../src/icons/PepeCash/16x16.jpg");
+}
+
+.icn-16 {
+    @include img-16("../src/icons/Iconomi/16x16.jpg");
+}
+
+.sngls-16 {
+    @include img-16("../src/icons/SingularDTV/16x16.jpg");
+}
+
+.xzc-16 {
+    @include img-16("../src/icons/ZCoin/16x16.jpg");
+}
+
+.rcn-16 {
+    @include img-16("../src/icons/Rcoin/16x16.jpg");
+}
+
+.trig-16 {
+    @include img-16("../src/icons/Triggers/16x16.jpg");
+}
+
+.skr-16 {
+    @include img-16("../src/icons/Sakuracoin/16x16.jpg");
+}
+
+.levo-16 {
+    @include img-16("../src/icons/Levocoin/16x16.jpg");
+}
+
+.arc-16 {
+    @include img-16("../src/icons/AdvancedTechnologyCoin/16x16.jpg");
+}
+
+.qbt-16 {
+    @include img-16("../src/icons/Cubits/16x16.jpg");
+}
+
+.dmc-16 {
+    @include img-16("../src/icons/DynamicCoin/16x16.jpg");
+}
+
+.zec-16 {
+    @include img-16("../src/icons/Zcash/16x16.jpg");
+}
+
+.asafe2-16 {
+    @include img-16("../src/icons/AllSafe/16x16.jpg");
+}
+
+.zcl-16 {
+    @include img-16("../src/icons/ZClassic/16x16.jpg");
+}
+
+.zoi-16 {
+    @include img-16("../src/icons/Zoin/16x16.jpg");
+}
+
+.lkk-16 {
+    @include img-16("../src/icons/Lykke/16x16.jpg");
+}
+
+.gnt-16 {
+    @include img-16("../src/icons/Golem/16x16.jpg");
+}
+
+.zmc-16 {
+    @include img-16("../src/icons/ZetaMicron/16x16.jpg");
+}
+
+.btcr-16 {
+    @include img-16("../src/icons/Bitcurrency/16x16.jpg");
+}
+
+.rega-16 {
+    @include img-16("../src/icons/Regacoin/16x16.jpg");
+}
+
+.iop-16 {
+    @include img-16("../src/icons/InternetofPeople/16x16.jpg");
+}
+
+.vrs-16 {
+    @include img-16("../src/icons/Veros/16x16.jpg");
+}
+
+.hush-16 {
+    @include img-16("../src/icons/Hush/16x16.jpg");
+}
+
+.kurt-16 {
+    @include img-16("../src/icons/Kurrent/16x16.jpg");
+}
+
+.xcre-16 {
+    @include img-16("../src/icons/Creatio/16x16.jpg");
+}
+
+.xrc-16 {
+    @include img-16("../src/icons/Rawcoin/16x16.jpg");
+}
+
+.pasc-16 {
+    @include img-16("../src/icons/PascalCoin/16x16.jpg");
+}
+
+.ent-16 {
+    @include img-16("../src/icons/Eternity/16x16.jpg");
+}
+
+.incnt-16 {
+    @include img-16("../src/icons/Incent/16x16.jpg");
+}
+
+.dct-16 {
+    @include img-16("../src/icons/DECENT/16x16.jpg");
+}
+
+.golos-16 {
+    @include img-16("../src/icons/Golos/16x16.jpg");
+}
+
+.nxc-16 {
+    @include img-16("../src/icons/Nexium/16x16.jpg");
+}
+
+.vsl-16 {
+    @include img-16("../src/icons/vSlice/16x16.jpg");
+}
+
+.dollar-16 {
+    @include img-16("../src/icons/DollarOnline/16x16.jpg");
+}
+
+.vltc-16 {
+    @include img-16("../src/icons/VaultCoin/16x16.jpg");
+}
+
+.gbyte-16 {
+    @include img-16("../src/icons/ByteballBytes/16x16.jpg");
+}
+
+.posw-16 {
+    @include img-16("../src/icons/PoSWCoin/16x16.jpg");
+}
+
+.luna-16 {
+    @include img-16("../src/icons/LunaCoin/16x16.jpg");
+}
+
+.wings-16 {
+    @include img-16("../src/icons/Wings/16x16.jpg");
+}
+
+.dix-16 {
+    @include img-16("../src/icons/DixAsset/16x16.jpg");
+}
+
+.dar-16 {
+    @include img-16("../src/icons/Darcrus/16x16.jpg");
+}
+
+.iflt-16 {
+    @include img-16("../src/icons/InflationCoin/16x16.jpg");
+}
+
+.xspec-16 {
+    @include img-16("../src/icons/Spectrecoin/16x16.jpg");
+}
+
+.xstc-16 {
+    @include img-16("../src/icons/SafeTradeCoin/16x16.jpg");
+}
+
+.ccrb-16 {
+    @include img-16("../src/icons/CryptoCarbon/16x16.jpg");
+}
+
+.vidz-16 {
+    @include img-16("../src/icons/PureVidz/16x16.jpg");
+}
+
+.bcc-16 {
+    @include img-16("../src/icons/BitConnect/16x16.jpg");
+}
+
+.mkr-16 {
+    @include img-16("../src/icons/Maker/16x16.jpg");
+}
+
+.drs-16 {
+    @include img-16("../src/icons/DigitalRupees/16x16.jpg");
+}
+
+.kmd-16 {
+    @include img-16("../src/icons/Komodo/16x16.jpg");
+}
+
+.frst-16 {
+    @include img-16("../src/icons/FirstCoin/16x16.jpg");
+}
+
+.tse-16 {
+    @include img-16("../src/icons/Tattoocoin(StandardEdition)/16x16.jpg");
+}
+
+.wct-16 {
+    @include img-16("../src/icons/WavesCommunityToken/16x16.jpg");
+}
+
+.icon-16 {
+    @include img-16("../src/icons/Iconic/16x16.jpg");
+}
+
+.gcc-16 {
+    @include img-16("../src/icons/GlobalCryptocurrency/16x16.jpg");
+}
+
+.boat-16 {
+    @include img-16("../src/icons/BOAT/16x16.jpg");
+}
+
+.ery-16 {
+    @include img-16("../src/icons/Eryllium/16x16.jpg");
+}
+
+.gbg-16 {
+    @include img-16("../src/icons/GolosGold/16x16.jpg");
+}
+
+.cnt-16 {
+    @include img-16("../src/icons/Centurion/16x16.jpg");
+}
+
+.mar-16 {
+    @include img-16("../src/icons/Marijuanacoin/16x16.jpg");
+}
+
+.mscn-16 {
+    @include img-16("../src/icons/MasterSwiscoin/16x16.jpg");
+}
+
+.mln-16 {
+    @include img-16("../src/icons/Melon/16x16.jpg");
+}
+
+.all-16 {
+    @include img-16("../src/icons/Allion/16x16.jpg");
+}
+
+.prc-16 {
+    @include img-16("../src/icons/PRCoin/16x16.jpg");
+}
+
+.time-16 {
+    @include img-16("../src/icons/Chronobank/16x16.jpg");
+}
+
+.argus-16 {
+    @include img-16("../src/icons/Argus/16x16.jpg");
+}
+
+.rns-16 {
+    @include img-16("../src/icons/Renos/16x16.jpg");
+}
+
+.ur-16 {
+    @include img-16("../src/icons/UR/16x16.jpg");
+}
+
+.swt-16 {
+    @include img-16("../src/icons/SwarmCity/16x16.jpg");
+}
+
+.pie-16 {
+    @include img-16("../src/icons/PIECoin/16x16.jpg");
+}
+
+.marx-16 {
+    @include img-16("../src/icons/MarxCoin/16x16.jpg");
+}
+
+.visio-16 {
+    @include img-16("../src/icons/Visio/16x16.jpg");
+}
+
+.nano-16 {
+    @include img-16("../src/icons/Nano/16x16.jpg");
+}
+
+.lvps-16 {
+    @include img-16("../src/icons/LevoPlus/16x16.jpg");
+}
+
+.geert-16 {
+    @include img-16("../src/icons/GeertCoin/16x16.jpg");
+}
+
+.pasl-16 {
+    @include img-16("../src/icons/PascalLite/16x16.jpg");
+}
+
+.milo-16 {
+    @include img-16("../src/icons/MiloCoin/16x16.jpg");
+}
+
+.music-16 {
+    @include img-16("../src/icons/Musicoin/16x16.jpg");
+}
+
+.zer-16 {
+    @include img-16("../src/icons/Zero/16x16.jpg");
+}
+
+.honey-16 {
+    @include img-16("../src/icons/Honey/16x16.jpg");
+}
+
+.netko-16 {
+    @include img-16("../src/icons/Netko/16x16.jpg");
+}
+
+.ark-16 {
+    @include img-16("../src/icons/Ark/16x16.jpg");
+}
+
+.dyn-16 {
+    @include img-16("../src/icons/Dynamic/16x16.jpg");
+}
+
+.tks-16 {
+    @include img-16("../src/icons/Tokes/16x16.jpg");
+}
+
+.mer-16 {
+    @include img-16("../src/icons/Mercury/16x16.jpg");
+}
+
+.taas-16 {
+    @include img-16("../src/icons/TaaS/16x16.jpg");
+}
+
+.soar-16 {
+    @include img-16("../src/icons/Soarcoin/16x16.jpg");
+}
+
+.edg-16 {
+    @include img-16("../src/icons/Edgeless/16x16.jpg");
+}
+
+.worm-16 {
+    @include img-16("../src/icons/HealthyWormCoin/16x16.jpg");
+}
+
+.dtb-16 {
+    @include img-16("../src/icons/Databits/16x16.jpg");
+}
+
+.uni-16 {
+    @include img-16("../src/icons/Universe/16x16.jpg");
+}
+
+.xlr-16 {
+    @include img-16("../src/icons/Solaris/16x16.jpg");
+}
+
+.imx-16 {
+    @include img-16("../src/icons/Impact/16x16.jpg");
+}
+
+.tstr-16 {
+    @include img-16("../src/icons/TristarCoin/16x16.jpg");
+}
+
+.xas-16 {
+    @include img-16("../src/icons/Asch/16x16.jpg");
+}
+
+.dbix-16 {
+    @include img-16("../src/icons/DubaiCoin/16x16.jpg");
+}
+
+.ked-16 {
+    @include img-16("../src/icons/Darsek/16x16.jpg");
+}
+
+.gup-16 {
+    @include img-16("../src/icons/Matchpool/16x16.jpg");
+}
+
+.usc-16 {
+    @include img-16("../src/icons/UltimateSecureCash/16x16.jpg");
+}
+
+.ecn-16 {
+    @include img-16("../src/icons/E-coin/16x16.jpg");
+}
+
+.sky-16 {
+    @include img-16("../src/icons/Skycoin/16x16.jpg");
+}
+
+.blazr-16 {
+    @include img-16("../src/icons/BlazerCoin/16x16.jpg");
+}
+
+.atmos-16 {
+    @include img-16("../src/icons/Atmos/16x16.jpg");
+}
+
+.emv-16 {
+    @include img-16("../src/icons/EthereumMovieVenture/16x16.jpg");
+}
+
+.inpay-16 {
+    @include img-16("../src/icons/InPay/16x16.jpg");
+}
+
+.hpc-16 {
+    @include img-16("../src/icons/Happycoin/16x16.jpg");
+}
+
+.zeni-16 {
+    @include img-16("../src/icons/Zennies/16x16.jpg");
+}
+
+.cxt-16 {
+    @include img-16("../src/icons/Coinonat/16x16.jpg");
+}
+
+.xot-16 {
+    @include img-16("../src/icons/InternetofThings/16x16.jpg");
+}
+
+.conx-16 {
+    @include img-16("../src/icons/Concoin/16x16.jpg");
+}
+
+.xby-16 {
+    @include img-16("../src/icons/XTRABYTES/16x16.jpg");
+}
+
+.rlc-16 {
+    @include img-16("../src/icons/iExecRLC/16x16.jpg");
+}
+
+.trst-16 {
+    @include img-16("../src/icons/WeTrust/16x16.jpg");
+}
+
+.deus-16 {
+    @include img-16("../src/icons/DeusCoin/16x16.jpg");
+}
+
+.alt-16 {
+    @include img-16("../src/icons/Altcoin/16x16.jpg");
+}
+
+.wgo-16 {
+    @include img-16("../src/icons/WavesGo/16x16.jpg");
+}
+
+.mcrn-16 {
+    @include img-16("../src/icons/MACRON/16x16.jpg");
+}
+
+.tle-16 {
+    @include img-16("../src/icons/Tattoocoin(LimitedEdition)/16x16.jpg");
+}
+
+.proc-16 {
+    @include img-16("../src/icons/ProCurrency/16x16.jpg");
+}
+
+.scs-16 {
+    @include img-16("../src/icons/SpeedCash/16x16.jpg");
+}
+
+.btx-16 {
+    @include img-16("../src/icons/Bitcore/16x16.jpg");
+}
+
+.volt-16 {
+    @include img-16("../src/icons/Bitvolt/16x16.jpg");
+}
+
+.lun-16 {
+    @include img-16("../src/icons/Lunyr/16x16.jpg");
+}
+
+.gno-16 {
+    @include img-16("../src/icons/Gnosis/16x16.jpg");
+}
+
+.rain-16 {
+    @include img-16("../src/icons/Condensate/16x16.jpg");
+}
+
+.gpl-16 {
+    @include img-16("../src/icons/GoldPressedLatinum/16x16.jpg");
+}
+
+.hmq-16 {
+    @include img-16("../src/icons/Humaniq/16x16.jpg");
+}
+
+.func-16 {
+    @include img-16("../src/icons/FUNCoin/16x16.jpg");
+}
+
+.iti-16 {
+    @include img-16("../src/icons/iTicoin/16x16.jpg");
+}
+
+.mne-16 {
+    @include img-16("../src/icons/Minereum/16x16.jpg");
+}
+
+.cnnc-16 {
+    @include img-16("../src/icons/Cannation/16x16.jpg");
+}
+
+.crea-16 {
+    @include img-16("../src/icons/Creativecoin/16x16.jpg");
+}
+
+.insn-16 {
+    @include img-16("../src/icons/InsaneCoin/16x16.jpg");
+}
+
+.hallo-16 {
+    @include img-16("../src/icons/HalloweenCoin/16x16.jpg");
+}
+
+.ant-16 {
+    @include img-16("../src/icons/Aragon/16x16.jpg");
+}
+
+.pzm-16 {
+    @include img-16("../src/icons/PRIZM/16x16.jpg");
+}
+
+.rlt-16 {
+    @include img-16("../src/icons/RouletteToken/16x16.jpg");
+}
+
+.qtum-16 {
+    @include img-16("../src/icons/Qtum/16x16.jpg");
+}
+
+.eco-16 {
+    @include img-16("../src/icons/EcoCoin/16x16.jpg");
+}
+
+.eqt-16 {
+    @include img-16("../src/icons/EquiTrader/16x16.jpg");
+}
+
+.dmb-16 {
+    @include img-16("../src/icons/DigitalMoneyBits/16x16.jpg");
+}
+
+.apx-16 {
+    @include img-16("../src/icons/APX/16x16.jpg");
+}
+
+.mcap-16 {
+    @include img-16("../src/icons/MCAP/16x16.jpg");
+}
+
+.nanox-16 {
+    @include img-16("../src/icons/Project-X/16x16.jpg");
+}
+
+.may-16 {
+    @include img-16("../src/icons/TheresaMayCoin/16x16.jpg");
+}
+
+.sumo-16 {
+    @include img-16("../src/icons/Sumokoin/16x16.jpg");
+}
+
+.zengold-16 {
+    @include img-16("../src/icons/ZenGold/16x16.jpg");
+}
+
+.bat-16 {
+    @include img-16("../src/icons/BasicAttentionToken/16x16.jpg");
+}
+
+.zen-16 {
+    @include img-16("../src/icons/ZenCash/16x16.jpg");
+}
+
+.etbs-16 {
+    @include img-16("../src/icons/Ethbits/16x16.jpg");
+}
+
+.ae-16 {
+    @include img-16("../src/icons/Aeternity/16x16.jpg");
+}
+
+.v-16 {
+    @include img-16("../src/icons/Version/16x16.jpg");
+}
+
+.etp-16 {
+    @include img-16("../src/icons/MetaverseETP/16x16.jpg");
+}
+
+.ebst-16 {
+    @include img-16("../src/icons/eBoost/16x16.jpg");
+}
+
+.adk-16 {
+    @include img-16("../src/icons/AidosKuneen/16x16.jpg");
+}
+
+.stex-16 {
+    @include img-16("../src/icons/STEX/16x16.jpg");
+}
+
+.ptoy-16 {
+    @include img-16("../src/icons/Patientory/16x16.jpg");
+}
+
+.qau-16 {
+    @include img-16("../src/icons/Quantum/16x16.jpg");
+}
+
+.veri-16 {
+    @include img-16("../src/icons/Veritaseum/16x16.jpg");
+}
+
+.eca-16 {
+    @include img-16("../src/icons/Electra/16x16.jpg");
+}
+
+.qrl-16 {
+    @include img-16("../src/icons/QuantumResistantLedger/16x16.jpg");
+}
+
+.ett-16 {
+    @include img-16("../src/icons/EncryptoTel[WAVES]/16x16.jpg");
+}
+
+.mgo-16 {
+    @include img-16("../src/icons/MobileGo/16x16.jpg");
+}
+
+.ammo-16 {
+    @include img-16("../src/icons/AmmoReloaded/16x16.jpg");
+}
+
+.nro-16 {
+    @include img-16("../src/icons/Neuro/16x16.jpg");
+}
+
+.ppy-16 {
+    @include img-16("../src/icons/Peerplays/16x16.jpg");
+}
+
+.miota-16 {
+    @include img-16("../src/icons/IOTA/16x16.jpg");
+}
+
+.myst-16 {
+    @include img-16("../src/icons/Mysterium/16x16.jpg");
+}
+
+.more-16 {
+    @include img-16("../src/icons/MoreCoin/16x16.jpg");
+}
+
+.snm-16 {
+    @include img-16("../src/icons/SONM/16x16.jpg");
+}
+
+.linx-16 {
+    @include img-16("../src/icons/Linx/16x16.jpg");
+}
+
+.zrc-16 {
+    @include img-16("../src/icons/ZrCoin/16x16.jpg");
+}
+
+.bnt-16 {
+    @include img-16("../src/icons/Bancor/16x16.jpg");
+}
+
+.cheap-16 {
+    @include img-16("../src/icons/Cheapcoin/16x16.jpg");
+}
+
+.cfi-16 {
+    @include img-16("../src/icons/Cofound.it/16x16.jpg");
+}
+
+.glt-16 {
+    @include img-16("../src/icons/GlobalToken/16x16.jpg");
+}
+
+.nmr-16 {
+    @include img-16("../src/icons/Numeraire/16x16.jpg");
+}
+
+.otx-16 {
+    @include img-16("../src/icons/Octanox/16x16.jpg");
+}
+
+.unify-16 {
+    @include img-16("../src/icons/Unify/16x16.jpg");
+}
+
+.xel-16 {
+    @include img-16("../src/icons/Elastic/16x16.jpg");
+}
+
+.coupe-16 {
+    @include img-16("../src/icons/Coupecoin/16x16.jpg");
+}
+
+.mrt-16 {
+    @include img-16("../src/icons/Miners'RewardToken/16x16.jpg");
+}
+
+.bitok-16 {
+    @include img-16("../src/icons/Bitok/16x16.jpg");
+}
+
+.hnc-16 {
+    @include img-16("../src/icons/Huncoin/16x16.jpg");
+}
+
+.knc-16 {
+    @include img-16("../src/icons/KingNCoin/16x16.jpg");
+}
+
+.dcy-16 {
+    @include img-16("../src/icons/Dinastycoin/16x16.jpg");
+}
+
+.xlc-16 {
+    @include img-16("../src/icons/Leviar/16x16.jpg");
+}
+
+.onx-16 {
+    @include img-16("../src/icons/Onix/16x16.jpg");
+}
+
+.btpl-16 {
+    @include img-16("../src/icons/BitcoinPlanet/16x16.jpg");
+}
+
+.gxs-16 {
+    @include img-16("../src/icons/GXChain/16x16.jpg");
+}
+
+.atcc-16 {
+    @include img-16("../src/icons/ATCCoin/16x16.jpg");
+}
+
+.good-16 {
+    @include img-16("../src/icons/Goodomy/16x16.jpg");
+}
+
+.antx-16 {
+    @include img-16("../src/icons/Antimatter/16x16.jpg");
+}
+
+.bro-16 {
+    @include img-16("../src/icons/Bitradio/16x16.jpg");
+}
+
+.flash-16 {
+    @include img-16("../src/icons/Flash/16x16.jpg");
+}
+
+.fun-16 {
+    @include img-16("../src/icons/FunFair/16x16.jpg");
+}
+
+.pay-16 {
+    @include img-16("../src/icons/TenX/16x16.jpg");
+}
+
+.snt-16 {
+    @include img-16("../src/icons/Status/16x16.jpg");
+}
+
+.chan-16 {
+    @include img-16("../src/icons/ChanCoin/16x16.jpg");
+}
+
+.efyt-16 {
+    @include img-16("../src/icons/Ergo/16x16.jpg");
+}
+
+.bria-16 {
+    @include img-16("../src/icons/BriaCoin/16x16.jpg");
+}
+
+.eos-16 {
+    @include img-16("../src/icons/EOS/16x16.jpg");
+}
+
+.turbo-16 {
+    @include img-16("../src/icons/TurboCoin/16x16.jpg");
+}
+
+.adx-16 {
+    @include img-16("../src/icons/AdEx/16x16.jpg");
+}
+
+.dnr-16 {
+    @include img-16("../src/icons/Denarius/16x16.jpg");
+}
+
+.storj-16 {
+    @include img-16("../src/icons/Storj/16x16.jpg");
+}
+
+.bnx-16 {
+    @include img-16("../src/icons/BnrtxCoin/16x16.jpg");
+}
+
+.socc-16 {
+    @include img-16("../src/icons/SocialCoin/16x16.jpg");
+}
+
+.adt-16 {
+    @include img-16("../src/icons/adToken/16x16.jpg");
+}
+
+.mco-16 {
+    @include img-16("../src/icons/MCO/16x16.jpg");
+}
+
+.ping-16 {
+    @include img-16("../src/icons/CryptoPing/16x16.jpg");
+}
+
+.uet-16 {
+    @include img-16("../src/icons/UselessEthereumToken/16x16.jpg");
+}
+
+.wgr-16 {
+    @include img-16("../src/icons/Wagerr/16x16.jpg");
+}
+
+.slevin-16 {
+    @include img-16("../src/icons/Slevin/16x16.jpg");
+}
+
+.ecob-16 {
+    @include img-16("../src/icons/Ecobit/16x16.jpg");
+}
+
+.unrc-16 {
+    @include img-16("../src/icons/UniversalRoyalCoin/16x16.jpg");
+}
+
+.plbt-16 {
+    @include img-16("../src/icons/Polybius/16x16.jpg");
+}
+
+.gas-16 {
+    @include img-16("../src/icons/Gas/16x16.jpg");
+}
+
+.snc-16 {
+    @include img-16("../src/icons/SunContract/16x16.jpg");
+}
+
+.jet-16 {
+    @include img-16("../src/icons/Jetcoin/16x16.jpg");
+}
+
+.mtl-16 {
+    @include img-16("../src/icons/Metal/16x16.jpg");
+}
+
+.ppt-16 {
+    @include img-16("../src/icons/Populous/16x16.jpg");
+}
+
+.women-16 {
+    @include img-16("../src/icons/WomenCoin/16x16.jpg");
+}
+
+.vuc-16 {
+    @include img-16("../src/icons/VirtaUniqueCoin/16x16.jpg");
+}
+
+.bdl-16 {
+    @include img-16("../src/icons/Bitdeal/16x16.jpg");
+}
+
+.xid-16 {
+    @include img-16("../src/icons/SphreAIR/16x16.jpg");
+}
+
+.rup-16 {
+    @include img-16("../src/icons/Rupee/16x16.jpg");
+}
+
+.gtc-16 {
+    @include img-16("../src/icons/GlobalTourCoin/16x16.jpg");
+}
+
+.pcn-16 {
+    @include img-16("../src/icons/PeepCoin/16x16.jpg");
+}
+
+.hero-16 {
+    @include img-16("../src/icons/SovereignHero/16x16.jpg");
+}
+
+.san-16 {
+    @include img-16("../src/icons/SantimentNetworkToken/16x16.jpg");
+}
+
+.omg-16 {
+    @include img-16("../src/icons/OmiseGO/16x16.jpg");
+}
+
+.cvcoin-16 {
+    @include img-16("../src/icons/CVCoin/16x16.jpg");
+}
+
+.nimictoken-16 {
+    @include img-16("../src/icons/NimiqExchangeToken/16x16.jpg");
+}
+
+.xrl-16 {
+    @include img-16("../src/icons/Rialto/16x16.jpg");
+}
+
+.linda-16 {
+    @include img-16("../src/icons/Linda/16x16.jpg");
+}
+
+.mbrs-16 {
+    @include img-16("../src/icons/Embers/16x16.jpg");
+}
+
+.cvc-16 {
+    @include img-16("../src/icons/Civic/16x16.jpg");
+}
+
+.ethos-16 {
+    @include img-16("../src/icons/Ethos/16x16.jpg");
+}
+
+.btwty-16 {
+    @include img-16("../src/icons/Bit20/16x16.jpg");
+}
+
+.sta-16 {
+    @include img-16("../src/icons/Starta/16x16.jpg");
+}
+
+.coal-16 {
+    @include img-16("../src/icons/BitCoal/16x16.jpg");
+}
+
+.lbtc-16 {
+    @include img-16("../src/icons/LiteBitcoin/16x16.jpg");
+}
+
+.part-16 {
+    @include img-16("../src/icons/Particl/16x16.jpg");
+}
+
+.smart-16 {
+    @include img-16("../src/icons/SmartCash/16x16.jpg");
+}
+
+.skin-16 {
+    @include img-16("../src/icons/SkinCoin/16x16.jpg");
+}
+
+.bch-16 {
+    @include img-16("../src/icons/BitcoinCash/16x16.jpg");
+}
+
+.hmc-16 {
+    @include img-16("../src/icons/HarmonyCoin/16x16.jpg");
+}
+
+.toa-16 {
+    @include img-16("../src/icons/ToaCoin/16x16.jpg");
+}
+
+.plr-16 {
+    @include img-16("../src/icons/Pillar/16x16.jpg");
+}
+
+.xry-16 {
+    @include img-16("../src/icons/Royalties/16x16.jpg");
+}
+
+.sigt-16 {
+    @include img-16("../src/icons/Signatum/16x16.jpg");
+}
+
+.ctic2-16 {
+    @include img-16("../src/icons/Coimatic2.0/16x16.jpg");
+}
+
+.bnb-16 {
+    @include img-16("../src/icons/BinanceCoin/16x16.jpg");
+}
+
+.pbt-16 {
+    @include img-16("../src/icons/PrimalbaseToken/16x16.jpg");
+}
+
+.cmpco-16 {
+    @include img-16("../src/icons/CampusCoin/16x16.jpg");
+}
+
+.emb-16 {
+    @include img-16("../src/icons/EmberCoin/16x16.jpg");
+}
+
+.ixt-16 {
+    @include img-16("../src/icons/IXT/16x16.jpg");
+}
+
+.gsr-16 {
+    @include img-16("../src/icons/GeyserCoin/16x16.jpg");
+}
+
+.msp-16 {
+    @include img-16("../src/icons/Mothership/16x16.jpg");
+}
+
+.asn-16 {
+    @include img-16("../src/icons/Aseancoin/16x16.jpg");
+}
+
+.birds-16 {
+    @include img-16("../src/icons/Birds/16x16.jpg");
+}
+
+.crm-16 {
+    @include img-16("../src/icons/Cream/16x16.jpg");
+}
+
+.era-16 {
+    @include img-16("../src/icons/ERA/16x16.jpg");
+}
+
+.kek-16 {
+    @include img-16("../src/icons/KekCoin/16x16.jpg");
+}
+
+.dnt-16 {
+    @include img-16("../src/icons/district0x/16x16.jpg");
+}
+
+.fyn-16 {
+    @include img-16("../src/icons/FundYourselfNow/16x16.jpg");
+}
+
+.stx-16 {
+    @include img-16("../src/icons/Stox/16x16.jpg");
+}
+
+.minex-16 {
+    @include img-16("../src/icons/Minex/16x16.jpg");
+}
+
+.cdt-16 {
+    @include img-16("../src/icons/Blox/16x16.jpg");
+}
+
+.wink-16 {
+    @include img-16("../src/icons/Wink/16x16.jpg");
+}
+
+.btm-16 {
+    @include img-16("../src/icons/Bytom/16x16.jpg");
+}
+
+.mao-16 {
+    @include img-16("../src/icons/MaoZedong/16x16.jpg");
+}
+
+.bitcf-16 {
+    @include img-16("../src/icons/FirstBitcoinCapital/16x16.jpg");
+}
+
+.ndc-16 {
+    @include img-16("../src/icons/NEVERDIE/16x16.jpg");
+}
+
+.tix-16 {
+    @include img-16("../src/icons/Blocktix/16x16.jpg");
+}
+
+.dcn-16 {
+    @include img-16("../src/icons/Dentacoin/16x16.jpg");
+}
+
+.rupx-16 {
+    @include img-16("../src/icons/Rupaya/16x16.jpg");
+}
+
+.shdw-16 {
+    @include img-16("../src/icons/ShadowToken/16x16.jpg");
+}
+
+.onion-16 {
+    @include img-16("../src/icons/DeepOnion/16x16.jpg");
+}
+
+.cat-16 {
+    @include img-16("../src/icons/BlockCAT/16x16.jpg");
+}
+
+.adst-16 {
+    @include img-16("../src/icons/AdShares/16x16.jpg");
+}
+
+.ddf-16 {
+    @include img-16("../src/icons/DigitalDevelopersFund/16x16.jpg");
+}
+
+.bas-16 {
+    @include img-16("../src/icons/BitAsean/16x16.jpg");
+}
+
+.dent-16 {
+    @include img-16("../src/icons/Dent/16x16.jpg");
+}
+
+.mbi-16 {
+    @include img-16("../src/icons/MonsterByte/16x16.jpg");
+}
+
+.ift-16 {
+    @include img-16("../src/icons/InvestFeed/16x16.jpg");
+}
+
+.xcxt-16 {
+    @include img-16("../src/icons/CoinonatX/16x16.jpg");
+}
+
+.riya-16 {
+    @include img-16("../src/icons/Etheriya/16x16.jpg");
+}
+
+.tcc-16 {
+    @include img-16("../src/icons/TheChampCoin/16x16.jpg");
+}
+
+.zrx-16 {
+    @include img-16("../src/icons/0x/16x16.jpg");
+}
+
+.bln-16 {
+    @include img-16("../src/icons/Bolenum/16x16.jpg");
+}
+
+.smoke-16 {
+    @include img-16("../src/icons/Smoke/16x16.jpg");
+}
+
+.yoyow-16 {
+    @include img-16("../src/icons/YOYOW/16x16.jpg");
+}
+
+.grwi-16 {
+    @include img-16("../src/icons/GrowersInternational/16x16.jpg");
+}
+
+.myb-16 {
+    @include img-16("../src/icons/MyBitToken/16x16.jpg");
+}
+
+.hsr-16 {
+    @include img-16("../src/icons/Hshare/16x16.jpg");
+}
+
+.ven-16 {
+    @include img-16("../src/icons/VeChain/16x16.jpg");
+}
+
+.tfl-16 {
+    @include img-16("../src/icons/TrueFlip/16x16.jpg");
+}
+
+.xtd-16 {
+    @include img-16("../src/icons/XTDCoin/16x16.jpg");
+}
+
+.nas-16 {
+    @include img-16("../src/icons/Nebulas/16x16.jpg");
+}
+
+.atmc-16 {
+    @include img-16("../src/icons/ATMCoin/16x16.jpg");
+}
+
+.dalc-16 {
+    @include img-16("../src/icons/Dalecoin/16x16.jpg");
+}
+
+.prn-16 {
+    @include img-16("../src/icons/Protean/16x16.jpg");
+}
+
+.acc-16 {
+    @include img-16("../src/icons/AdCoin/16x16.jpg");
+}
+
+.bbp-16 {
+    @include img-16("../src/icons/BiblePay/16x16.jpg");
+}
+
+.bq-16 {
+    @include img-16("../src/icons/bitqy/16x16.jpg");
+}
+
+.act-16 {
+    @include img-16("../src/icons/Achain/16x16.jpg");
+}
+
+.namo-16 {
+    @include img-16("../src/icons/NamoCoin/16x16.jpg");
+}
+
+.sigma-16 {
+    @include img-16("../src/icons/SIGMAcoin/16x16.jpg");
+}
+
+.xmcc-16 {
+    @include img-16("../src/icons/Monoeci/16x16.jpg");
+}
+
+.tnt-16 {
+    @include img-16("../src/icons/Tierion/16x16.jpg");
+}
+
+.wtc-16 {
+    @include img-16("../src/icons/Waltonchain/16x16.jpg");
+}
+
+.ula-16 {
+    @include img-16("../src/icons/Ulatech/16x16.jpg");
+}
+
+.pst-16 {
+    @include img-16("../src/icons/Primas/16x16.jpg");
+}
+
+.opt-16 {
+    @include img-16("../src/icons/Opus/16x16.jpg");
+}
+
+.sur-16 {
+    @include img-16("../src/icons/Suretly/16x16.jpg");
+}
+
+.lrc-16 {
+    @include img-16("../src/icons/Loopring/16x16.jpg");
+}
+
+.ltcu-16 {
+    @include img-16("../src/icons/LiteCoinUltra/16x16.jpg");
+}
+
+.poe-16 {
+    @include img-16("../src/icons/Po.et/16x16.jpg");
+}
+
+.nto-16 {
+    @include img-16("../src/icons/Fujinto/16x16.jpg");
+}
+
+.strc-16 {
+    @include img-16("../src/icons/StarCredits/16x16.jpg");
+}
+
+.krone-16 {
+    @include img-16("../src/icons/Kronecoin/16x16.jpg");
+}
+
+.mcc-16 {
+    @include img-16("../src/icons/MovingCloudCoin/16x16.jpg");
+}
+
+.cyder-16 {
+    @include img-16("../src/icons/Cyder/16x16.jpg");
+}
+
+.mtnc-16 {
+    @include img-16("../src/icons/Masternodecoin/16x16.jpg");
+}
+
+.mth-16 {
+    @include img-16("../src/icons/Monetha/16x16.jpg");
+}
+
+.avt-16 {
+    @include img-16("../src/icons/Aventus/16x16.jpg");
+}
+
+.dlt-16 {
+    @include img-16("../src/icons/Agrello/16x16.jpg");
+}
+
+.hvn-16 {
+    @include img-16("../src/icons/HiveProject/16x16.jpg");
+}
+
+.vsx-16 {
+    @include img-16("../src/icons/Vsync/16x16.jpg");
+}
+
+.magn-16 {
+    @include img-16("../src/icons/Magnetcoin/16x16.jpg");
+}
+
+.mda-16 {
+    @include img-16("../src/icons/MoedaLoyaltyPoints/16x16.jpg");
+}
+
+.nebl-16 {
+    @include img-16("../src/icons/Neblio/16x16.jpg");
+}
+
+.vivo-16 {
+    @include img-16("../src/icons/VIVO/16x16.jpg");
+}
+
+.trx-16 {
+    @include img-16("../src/icons/TRON/16x16.jpg");
+}
+
+.ocl-16 {
+    @include img-16("../src/icons/Oceanlab/16x16.jpg");
+}
+
+.rex-16 {
+    @include img-16("../src/icons/imbrex/16x16.jpg");
+}
+
+.buzz-16 {
+    @include img-16("../src/icons/BuzzCoin/16x16.jpg");
+}
+
+.credo-16 {
+    @include img-16("../src/icons/Credo/16x16.jpg");
+}
+
+.drxne-16 {
+    @include img-16("../src/icons/DROXNE/16x16.jpg");
+}
+
+.aht-16 {
+    @include img-16("../src/icons/Bowhead/16x16.jpg");
+}
+
+.mana-16 {
+    @include img-16("../src/icons/Decentraland/16x16.jpg");
+}
+
+.ind-16 {
+    @include img-16("../src/icons/IndorseToken/16x16.jpg");
+}
+
+.xpa-16 {
+    @include img-16("../src/icons/XPA/16x16.jpg");
+}
+
+.scl-16 {
+    @include img-16("../src/icons/Sociall/16x16.jpg");
+}
+
+.atb-16 {
+    @include img-16("../src/icons/ATBCoin/16x16.jpg");
+}
+
+.iqt-16 {
+    @include img-16("../src/icons/iQuant/16x16.jpg");
+}
+
+.ethd-16 {
+    @include img-16("../src/icons/EthereumDark/16x16.jpg");
+}
+
+.pro-16 {
+    @include img-16("../src/icons/Propy/16x16.jpg");
+}
+
+.link-16 {
+    @include img-16("../src/icons/ChainLink/16x16.jpg");
+}
+
+.bmc-16 {
+    @include img-16("../src/icons/Blackmoon/16x16.jpg");
+}
+
+.wic-16 {
+    @include img-16("../src/icons/WiCoin/16x16.jpg");
+}
+
+.elix-16 {
+    @include img-16("../src/icons/Elixir/16x16.jpg");
+}
+
+.xbl-16 {
+    @include img-16("../src/icons/BillionaireToken/16x16.jpg");
+}
+
+.knc-16 {
+    @include img-16("../src/icons/KyberNetwork/16x16.jpg");
+}
+
+.vibe-16 {
+    @include img-16("../src/icons/VIBE/16x16.jpg");
+}
+
+.sub-16 {
+    @include img-16("../src/icons/Substratum/16x16.jpg");
+}
+
+.day-16 {
+    @include img-16("../src/icons/Chronologic/16x16.jpg");
+}
+
+.chips-16 {
+    @include img-16("../src/icons/CHIPS/16x16.jpg");
+}
+
+.tkr-16 {
+    @include img-16("../src/icons/CryptoInsight/16x16.jpg");
+}
+
+.pix-16 {
+    @include img-16("../src/icons/Lampix/16x16.jpg");
+}
+
+.coss-16 {
+    @include img-16("../src/icons/COSS/16x16.jpg");
+}
+
+.csno-16 {
+    @include img-16("../src/icons/BitDice/16x16.jpg");
+}
+
+.rvt-16 {
+    @include img-16("../src/icons/Rivetz/16x16.jpg");
+}
+
+.kin-16 {
+    @include img-16("../src/icons/Kin/16x16.jpg");
+}
+
+.itz-16 {
+    @include img-16("../src/icons/Interzone/16x16.jpg");
+}
+
+.tgt-16 {
+    @include img-16("../src/icons/TargetCoin/16x16.jpg");
+}
+
+.salt-16 {
+    @include img-16("../src/icons/SALT/16x16.jpg");
+}
+
+.orme-16 {
+    @include img-16("../src/icons/OrmeusCoin/16x16.jpg");
+}
+
+.kln-16 {
+    @include img-16("../src/icons/Kolion/16x16.jpg");
+}
+
+.mci-16 {
+    @include img-16("../src/icons/Musiconomi/16x16.jpg");
+}
+
+.colx-16 {
+    @include img-16("../src/icons/ColossusXT/16x16.jpg");
+}
+
+.tzc-16 {
+    @include img-16("../src/icons/TrezarCoin/16x16.jpg");
+}
+
+.hdlb-16 {
+    @include img-16("../src/icons/HODLBucks/16x16.jpg");
+}
+
+.odn-16 {
+    @include img-16("../src/icons/Obsidian/16x16.jpg");
+}
+
+.cob-16 {
+    @include img-16("../src/icons/Cobinhood/16x16.jpg");
+}
+
+.rec-16 {
+    @include img-16("../src/icons/Regalcoin/16x16.jpg");
+}
+
+.msd-16 {
+    @include img-16("../src/icons/MSD/16x16.jpg");
+}
+
+.bis-16 {
+    @include img-16("../src/icons/Bismuth/16x16.jpg");
+}
+
+.ada-16 {
+    @include img-16("../src/icons/Cardano/16x16.jpg");
+}
+
+.xtz-16 {
+    @include img-16("../src/icons/Tezos/16x16.jpg");
+}
+
+.voise-16 {
+    @include img-16("../src/icons/Voise/16x16.jpg");
+}
+
+.xin-16 {
+    @include img-16("../src/icons/InfinityEconomics/16x16.jpg");
+}
+
+.atm-16 {
+    @include img-16("../src/icons/ATMChain/16x16.jpg");
+}
+
+.kick-16 {
+    @include img-16("../src/icons/KickCoin/16x16.jpg");
+}
+
+.ett-16 {
+    @include img-16("../src/icons/EncryptoTel[ETH]/16x16.jpg");
+}
+
+.vib-16 {
+    @include img-16("../src/icons/Viberate/16x16.jpg");
+}
+
+.rhoc-16 {
+    @include img-16("../src/icons/RChain/16x16.jpg");
+}
+
+.inxt-16 {
+    @include img-16("../src/icons/Internxt/16x16.jpg");
+}
+
+.whl-16 {
+    @include img-16("../src/icons/WhaleCoin/16x16.jpg");
+}
+
+.flik-16 {
+    @include img-16("../src/icons/FLiK/16x16.jpg");
+}
+
+.ebet-16 {
+    @include img-16("../src/icons/EthBet/16x16.jpg");
+}
+
+.cnx-16 {
+    @include img-16("../src/icons/Cryptonex/16x16.jpg");
+}
+
+.wild-16 {
+    @include img-16("../src/icons/WildCrypto/16x16.jpg");
+}
+
+.real-16 {
+    @include img-16("../src/icons/REAL/16x16.jpg");
+}
+
+.hbt-16 {
+    @include img-16("../src/icons/HubiiNetwork/16x16.jpg");
+}
+
+.cct-16 {
+    @include img-16("../src/icons/CrystalClear/16x16.jpg");
+}
+
+.bco-16 {
+    @include img-16("../src/icons/BridgeCoin/16x16.jpg");
+}
+
+.evx-16 {
+    @include img-16("../src/icons/Everex/16x16.jpg");
+}
+
+.ppp-16 {
+    @include img-16("../src/icons/PayPie/16x16.jpg");
+}
+
+.air-16 {
+    @include img-16("../src/icons/AirToken/16x16.jpg");
+}
+
+.pos-16 {
+    @include img-16("../src/icons/PoSToken/16x16.jpg");
+}
+
+.sdrn-16 {
+    @include img-16("../src/icons/Senderon/16x16.jpg");
+}
+
+.alis-16 {
+    @include img-16("../src/icons/ALIS/16x16.jpg");
+}
+
+.btcz-16 {
+    @include img-16("../src/icons/BitcoinZ/16x16.jpg");
+}
+
+.hgt-16 {
+    @include img-16("../src/icons/HelloGold/16x16.jpg");
+}
+
+.cnd-16 {
+    @include img-16("../src/icons/Cindicator/16x16.jpg");
+}
+
+.eng-16 {
+    @include img-16("../src/icons/Enigma/16x16.jpg");
+}
+
+.ctic3-16 {
+    @include img-16("../src/icons/Coimatic3.0/16x16.jpg");
+}
+
+.bsn-16 {
+    @include img-16("../src/icons/Bastonet/16x16.jpg");
+}
+
+.zsc-16 {
+    @include img-16("../src/icons/Zeusshield/16x16.jpg");
+}
+
+.ecash-16 {
+    @include img-16("../src/icons/EthereumCash/16x16.jpg");
+}
+
+.cor-16 {
+    @include img-16("../src/icons/CORION/16x16.jpg");
+}
+
+.ats-16 {
+    @include img-16("../src/icons/Authorship/16x16.jpg");
+}
+
+.rkc-16 {
+    @include img-16("../src/icons/RoyalKingdomCoin/16x16.jpg");
+}
+
+.aky-16 {
+    @include img-16("../src/icons/AkuyaCoin/16x16.jpg");
+}
+
+.exn-16 {
+    @include img-16("../src/icons/ExchangeN/16x16.jpg");
+}
+
+.pipl-16 {
+    @include img-16("../src/icons/PiplCoin/16x16.jpg");
+}
+
+.edo-16 {
+    @include img-16("../src/icons/Eidoo/16x16.jpg");
+}
+
+.ast-16 {
+    @include img-16("../src/icons/AirSwap/16x16.jpg");
+}
+
+.bsr-16 {
+    @include img-16("../src/icons/BitSoar/16x16.jpg");
+}
+
+.cag-16 {
+    @include img-16("../src/icons/Change/16x16.jpg");
+}
+
+.bcpt-16 {
+    @include img-16("../src/icons/BlockMasonCreditProtocol/16x16.jpg");
+}
+
+.aion-16 {
+    @include img-16("../src/icons/Aion/16x16.jpg");
+}
+
+.trct-16 {
+    @include img-16("../src/icons/Tracto/16x16.jpg");
+}
+
+.art-16 {
+    @include img-16("../src/icons/Maecenas/16x16.jpg");
+}
+
+.xgox-16 {
+    @include img-16("../src/icons/XGOX/16x16.jpg");
+}
+
+.evr-16 {
+    @include img-16("../src/icons/Everus/16x16.jpg");
+}
+
+.dutch-16 {
+    @include img-16("../src/icons/DutchCoin/16x16.jpg");
+}
+
+.otn-16 {
+    @include img-16("../src/icons/OpenTradingNetwork/16x16.jpg");
+}
+
+.drt-16 {
+    @include img-16("../src/icons/DomRaider/16x16.jpg");
+}
+
+.req-16 {
+    @include img-16("../src/icons/RequestNetwork/16x16.jpg");
+}
+
+.b2x-16 {
+    @include img-16("../src/icons/SegWit2x/16x16.jpg");
+}
+
+.etg-16 {
+    @include img-16("../src/icons/EthereumGold/16x16.jpg");
+}
+
+.blue-16 {
+    @include img-16("../src/icons/BlueProtocol/16x16.jpg");
+}
+
+.runners-16 {
+    @include img-16("../src/icons/Runners/16x16.jpg");
+}
+
+.life-16 {
+    @include img-16("../src/icons/LIFE/16x16.jpg");
+}
+
+.hdg-16 {
+    @include img-16("../src/icons/Hedge/16x16.jpg");
+}
+
+.mod-16 {
+    @include img-16("../src/icons/Modum/16x16.jpg");
+}
+
+.amb-16 {
+    @include img-16("../src/icons/Ambrosus/16x16.jpg");
+}
+
+.icos-16 {
+    @include img-16("../src/icons/ICOS/16x16.jpg");
+}
+
+.btg-16 {
+    @include img-16("../src/icons/BitcoinGold/16x16.jpg");
+}
+
+.kcs-16 {
+    @include img-16("../src/icons/KuCoinShares/16x16.jpg");
+}
+
+.exrn-16 {
+    @include img-16("../src/icons/EXRNchain/16x16.jpg");
+}
+
+.poll-16 {
+    @include img-16("../src/icons/ClearPoll/16x16.jpg");
+}
+
+.la-16 {
+    @include img-16("../src/icons/LATOKEN/16x16.jpg");
+}
+
+.xuc-16 {
+    @include img-16("../src/icons/ExchangeUnion/16x16.jpg");
+}
+
+.nuls-16 {
+    @include img-16("../src/icons/Nuls/16x16.jpg");
+}
+
+.btcred-16 {
+    @include img-16("../src/icons/BitcoinRed/16x16.jpg");
+}
+
+.prg-16 {
+    @include img-16("../src/icons/Paragon/16x16.jpg");
+}
+
+.bos-16 {
+    @include img-16("../src/icons/BOScoin/16x16.jpg");
+}
+
+.rcn-16 {
+    @include img-16("../src/icons/RipioCreditNetwork/16x16.jpg");
+}
+
+.gmt-16 {
+    @include img-16("../src/icons/MercuryProtocol/16x16.jpg");
+}
+
+.icx-16 {
+    @include img-16("../src/icons/ICON/16x16.jpg");
+}
+
+.js-16 {
+    @include img-16("../src/icons/JavaScriptToken/16x16.jpg");
+}
+
+.elite-16 {
+    @include img-16("../src/icons/EthereumLite/16x16.jpg");
+}
+
+.itt-16 {
+    @include img-16("../src/icons/IntelligentTradingFoundation/16x16.jpg");
+}
+
+.ieth-16 {
+    @include img-16("../src/icons/iEthereum/16x16.jpg");
+}
+
+.pirl-16 {
+    @include img-16("../src/icons/Pirl/16x16.jpg");
+}
+
+.xnn-16 {
+    @include img-16("../src/icons/Xenon/16x16.jpg");
+}
+
+.lux-16 {
+    @include img-16("../src/icons/LUXCoin/16x16.jpg");
+}
+
+.ntwk-16 {
+    @include img-16("../src/icons/NetworkToken/16x16.jpg");
+}
+
+.dovu-16 {
+    @include img-16("../src/icons/Dovu/16x16.jpg");
+}
+
+.rpx-16 {
+    @include img-16("../src/icons/RedPulse/16x16.jpg");
+}
+
+.bt2-16 {
+    @include img-16("../src/icons/BT2[CST]/16x16.jpg");
+}
+
+.placo-16 {
+    @include img-16("../src/icons/PlayerCoin/16x16.jpg");
+}
+
+.roofs-16 {
+    @include img-16("../src/icons/Roofs/16x16.jpg");
+}
+
+.fap-16 {
+    @include img-16("../src/icons/FAPcoin/16x16.jpg");
+}
+
+.btcm-16 {
+    @include img-16("../src/icons/BTCMoon/16x16.jpg");
+}
+
+.fuel-16 {
+    @include img-16("../src/icons/Etherparty/16x16.jpg");
+}
+
+.ella-16 {
+    @include img-16("../src/icons/Ellaism/16x16.jpg");
+}
+
+.vulc-16 {
+    @include img-16("../src/icons/Vulcano/16x16.jpg");
+}
+
+.qvt-16 {
+    @include img-16("../src/icons/Qvolta/16x16.jpg");
+}
+
+.rmc-16 {
+    @include img-16("../src/icons/RussianMinerCoin/16x16.jpg");
+}
+
+.fyp-16 {
+    @include img-16("../src/icons/FlypMe/16x16.jpg");
+}
+
+.ebtc-16 {
+    @include img-16("../src/icons/eBitcoin/16x16.jpg");
+}
+
+.btbc-16 {
+    @include img-16("../src/icons/Bitbase/16x16.jpg");
+}
+
+.enj-16 {
+    @include img-16("../src/icons/EnjinCoin/16x16.jpg");
+}
+
+.powr-16 {
+    @include img-16("../src/icons/PowerLedger/16x16.jpg");
+}
+
+.grid-16 {
+    @include img-16("../src/icons/Grid+/16x16.jpg");
+}
+
+.r-16 {
+    @include img-16("../src/icons/Revain/16x16.jpg");
+}
+
+.atl-16 {
+    @include img-16("../src/icons/ATLANT/16x16.jpg");
+}
+
+.etn-16 {
+    @include img-16("../src/icons/Electroneum/16x16.jpg");
+}
+
+.high-16 {
+    @include img-16("../src/icons/HighGain/16x16.jpg");
+}
+
+.mnx-16 {
+    @include img-16("../src/icons/MinexCoin/16x16.jpg");
+}
+
+.for-16 {
+    @include img-16("../src/icons/FORCE/16x16.jpg");
+}
+
+.data-16 {
+    @include img-16("../src/icons/StreamrDATAcoin/16x16.jpg");
+}
+
+.xsh-16 {
+    @include img-16("../src/icons/SHIELD/16x16.jpg");
+}
+
+.pure-16 {
+    @include img-16("../src/icons/Pure/16x16.jpg");
+}
+
+.eltcoin-16 {
+    @include img-16("../src/icons/ELTCOIN/16x16.jpg");
+}
+
+.ukg-16 {
+    @include img-16("../src/icons/UnikoinGold/16x16.jpg");
+}
+
+.crdnc-16 {
+    @include img-16("../src/icons/CredenceCoin/16x16.jpg");
+}
+
+.nio-16 {
+    @include img-16("../src/icons/Autonio/16x16.jpg");
+}
+
+.ctx-16 {
+    @include img-16("../src/icons/CarTaxiToken/16x16.jpg");
+}
+
+.arn-16 {
+    @include img-16("../src/icons/Aeron/16x16.jpg");
+}
+
+.stars-16 {
+    @include img-16("../src/icons/StarCashNetwork/16x16.jpg");
+}
+
+.phr-16 {
+    @include img-16("../src/icons/Phore/16x16.jpg");
+}
+
+.frd-16 {
+    @include img-16("../src/icons/Farad/16x16.jpg");
+}
+
+.inn-16 {
+    @include img-16("../src/icons/Innova/16x16.jpg");
+}
+
+.rdn-16 {
+    @include img-16("../src/icons/RaidenNetworkToken/16x16.jpg");
+}
+
+.dpy-16 {
+    @include img-16("../src/icons/Delphy/16x16.jpg");
+}
+
+.zeph-16 {
+    @include img-16("../src/icons/Zephyr/16x16.jpg");
+}
+
+.erc20-16 {
+    @include img-16("../src/icons/ERC20/16x16.jpg");
+}
+
+.tie-16 {
+    @include img-16("../src/icons/Ties.DB/16x16.jpg");
+}
+
+.bpl-16 {
+    @include img-16("../src/icons/Blockpool/16x16.jpg");
+}
+
+.grim-16 {
+    @include img-16("../src/icons/Grimcoin/16x16.jpg");
+}
+
+.oxy-16 {
+    @include img-16("../src/icons/Oxycoin/16x16.jpg");
+}
+
+.epy-16 {
+    @include img-16("../src/icons/Emphy/16x16.jpg");
+}
+
+.hold-16 {
+    @include img-16("../src/icons/StellarHoldings/16x16.jpg");
+}
+
+.neog-16 {
+    @include img-16("../src/icons/NEOGOLD/16x16.jpg");
+}
+
+.dbet-16 {
+    @include img-16("../src/icons/DecentBet/16x16.jpg");
+}
+
+.hst-16 {
+    @include img-16("../src/icons/DecisionToken/16x16.jpg");
+}
+
+.sss-16 {
+    @include img-16("../src/icons/Sharechain/16x16.jpg");
+}
+
+.ufr-16 {
+    @include img-16("../src/icons/Upfiring/16x16.jpg");
+}
+
+.stu-16 {
+    @include img-16("../src/icons/bitJob/16x16.jpg");
+}
+
+.gvt-16 {
+    @include img-16("../src/icons/GenesisVision/16x16.jpg");
+}
+
+.eagle-16 {
+    @include img-16("../src/icons/EagleCoin/16x16.jpg");
+}
+
+.eag-16 {
+    @include img-16("../src/icons/EACoin/16x16.jpg");
+}
+
+.prix-16 {
+    @include img-16("../src/icons/Privatix/16x16.jpg");
+}
+
+.itns-16 {
+    @include img-16("../src/icons/IntenseCoin/16x16.jpg");
+}
+
+.ebch-16 {
+    @include img-16("../src/icons/EBCH/16x16.jpg");
+}
+
+.sisa-16 {
+    @include img-16("../src/icons/SISA/16x16.jpg");
+}
+
+.astro-16 {
+    @include img-16("../src/icons/Astro/16x16.jpg");
+}
+
+.payx-16 {
+    @include img-16("../src/icons/Paypex/16x16.jpg");
+}
+
+.grx-16 {
+    @include img-16("../src/icons/GOLDRewardToken/16x16.jpg");
+}
+
+.bte-16 {
+    @include img-16("../src/icons/BitSerial/16x16.jpg");
+}
+
+.sgr-16 {
+    @include img-16("../src/icons/SugarExchange/16x16.jpg");
+}
+
+.viu-16 {
+    @include img-16("../src/icons/Viuly/16x16.jpg");
+}
+
+.alqo-16 {
+    @include img-16("../src/icons/ALQO/16x16.jpg");
+}
+
+.gbx-16 {
+    @include img-16("../src/icons/GoByte/16x16.jpg");
+}
+
+.wc-16 {
+    @include img-16("../src/icons/WINCOIN/16x16.jpg");
+}
+
+.prl-16 {
+    @include img-16("../src/icons/Oyster/16x16.jpg");
+}
+
+.b2b-16 {
+    @include img-16("../src/icons/B2BX/16x16.jpg");
+}
+
+.pnx-16 {
+    @include img-16("../src/icons/Phantomx/16x16.jpg");
+}
+
+.dgpt-16 {
+    @include img-16("../src/icons/DigiPulse/16x16.jpg");
+}
+
+.dna-16 {
+    @include img-16("../src/icons/EncrypGen/16x16.jpg");
+}
+
+.ink-16 {
+    @include img-16("../src/icons/Ink/16x16.jpg");
+}
+
+.bot-16 {
+    @include img-16("../src/icons/Bodhi/16x16.jpg");
+}
+
+.qsp-16 {
+    @include img-16("../src/icons/Quantstamp/16x16.jpg");
+}
+
+.qash-16 {
+    @include img-16("../src/icons/QASH/16x16.jpg");
+}
+
+.zzc-16 {
+    @include img-16("../src/icons/ZoZoCoin/16x16.jpg");
+}
+
+.tsl-16 {
+    @include img-16("../src/icons/Energo/16x16.jpg");
+}
+
+.pbl-16 {
+    @include img-16("../src/icons/Publica/16x16.jpg");
+}
+
+.mag-16 {
+    @include img-16("../src/icons/Magnet/16x16.jpg");
+}
+
+.spank-16 {
+    @include img-16("../src/icons/SpankChain/16x16.jpg");
+}
+
+.vot-16 {
+    @include img-16("../src/icons/VoteCoin/16x16.jpg");
+}
+
+.bcd-16 {
+    @include img-16("../src/icons/BitcoinDiamond/16x16.jpg");
+}
+
+.vee-16 {
+    @include img-16("../src/icons/BLOCKv/16x16.jpg");
+}
+
+.ai-16 {
+    @include img-16("../src/icons/POLYAI/16x16.jpg");
+}
+
+.acc-16 {
+    @include img-16("../src/icons/AcceleratorNetwork/16x16.jpg");
+}
+
+.plx-16 {
+    @include img-16("../src/icons/PlexCoin/16x16.jpg");
+}
+
+.divx-16 {
+    @include img-16("../src/icons/Divi/16x16.jpg");
+}
+
+.monk-16 {
+    @include img-16("../src/icons/MonkeyProject/16x16.jpg");
+}
+
+.flixx-16 {
+    @include img-16("../src/icons/Flixxo/16x16.jpg");
+}
+
+.gls-16 {
+    @include img-16("../src/icons/GlassCoin/16x16.jpg");
+}
+
+.tnb-16 {
+    @include img-16("../src/icons/TimeNewBank/16x16.jpg");
+}
+
+.wish-16 {
+    @include img-16("../src/icons/MyWish/16x16.jpg");
+}
+
+.evc-16 {
+    @include img-16("../src/icons/EventChain/16x16.jpg");
+}
+
+.lend-16 {
+    @include img-16("../src/icons/ETHLend/16x16.jpg");
+}
+
+.ong-16 {
+    @include img-16("../src/icons/onG.social/16x16.jpg");
+}
+
+.cco-16 {
+    @include img-16("../src/icons/Ccore/16x16.jpg");
+}
+
+.qbt-16 {
+    @include img-16("../src/icons/Qbao/16x16.jpg");
+}
+
+.drgn-16 {
+    @include img-16("../src/icons/Dragonchain/16x16.jpg");
+}
+
+.pfr-16 {
+    @include img-16("../src/icons/Payfair/16x16.jpg");
+}
+
+.pre-16 {
+    @include img-16("../src/icons/Presearch/16x16.jpg");
+}
+
+.cmt-16 {
+    @include img-16("../src/icons/CyberMiles/16x16.jpg");
+}
+
+.bcdn-16 {
+    @include img-16("../src/icons/BlockCDN/16x16.jpg");
+}
+
+.capp-16 {
+    @include img-16("../src/icons/Cappasity/16x16.jpg");
+}
+
+.ero-16 {
+    @include img-16("../src/icons/Eroscoin/16x16.jpg");
+}
+
+.mage-16 {
+    @include img-16("../src/icons/MagicCoin/16x16.jpg");
+}
+
+.itc-16 {
+    @include img-16("../src/icons/IoTChain/16x16.jpg");
+}
+
+.jiyo-16 {
+    @include img-16("../src/icons/Jiyo/16x16.jpg");
+}
+
+.send-16 {
+    @include img-16("../src/icons/SocialSend/16x16.jpg");
+}
+
+.nuko-16 {
+    @include img-16("../src/icons/Nekonium/16x16.jpg");
+}
+
+.snov-16 {
+    @include img-16("../src/icons/Snovio/16x16.jpg");
+}
+
+.sbc-16 {
+    @include img-16("../src/icons/StrikeBitClub/16x16.jpg");
+}
+
+.bwk-16 {
+    @include img-16("../src/icons/Bulwark/16x16.jpg");
+}
+
+.saga-16 {
+    @include img-16("../src/icons/SagaCoin/16x16.jpg");
+}
+
+.cms-16 {
+    @include img-16("../src/icons/COMSA[ETH]/16x16.jpg");
+}
+
+.kbr-16 {
+    @include img-16("../src/icons/KuberaCoin/16x16.jpg");
+}
+
+.tok-16 {
+    @include img-16("../src/icons/Tokugawa/16x16.jpg");
+}
+
+.pcoin-16 {
+    @include img-16("../src/icons/PioneerCoin/16x16.jpg");
+}
+
+.cms-16 {
+    @include img-16("../src/icons/COMSA[XEM]/16x16.jpg");
+}
+
+.wabi-16 {
+    @include img-16("../src/icons/WaBi/16x16.jpg");
+}
+
+.crc-16 {
+    @include img-16("../src/icons/CrowdCoin/16x16.jpg");
+}
+
+.wand-16 {
+    @include img-16("../src/icons/WandX/16x16.jpg");
+}
+
+.spf-16 {
+    @include img-16("../src/icons/SportyCo/16x16.jpg");
+}
+
+.cred-16 {
+    @include img-16("../src/icons/Verify/16x16.jpg");
+}
+
+.sct-16 {
+    @include img-16("../src/icons/Soma/16x16.jpg");
+}
+
+.uqc-16 {
+    @include img-16("../src/icons/UquidCoin/16x16.jpg");
+}
+
+.mds-16 {
+    @include img-16("../src/icons/MediShares/16x16.jpg");
+}
+
+.pra-16 {
+    @include img-16("../src/icons/ProChain/16x16.jpg");
+}
+
+.ignis-16 {
+    @include img-16("../src/icons/Ignis/16x16.jpg");
+}
+
+.smt-16 {
+    @include img-16("../src/icons/SmartMesh/16x16.jpg");
+}
+
+.hwc-16 {
+    @include img-16("../src/icons/HollyWoodCoin/16x16.jpg");
+}
+
+.pkt-16 {
+    @include img-16("../src/icons/Playkey/16x16.jpg");
+}
+
+.fil-16 {
+    @include img-16("../src/icons/Filecoin[Futures]/16x16.jpg");
+}
+
+.bcx-16 {
+    @include img-16("../src/icons/BitcoinX/16x16.jpg");
+}
+
+.sbtc-16 {
+    @include img-16("../src/icons/SuperBitcoin/16x16.jpg");
+}
+
+.dat-16 {
+    @include img-16("../src/icons/Datum/16x16.jpg");
+}
+
+.trdt-16 {
+    @include img-16("../src/icons/TridentGroup/16x16.jpg");
+}
+
+.btca-16 {
+    @include img-16("../src/icons/Bitair/16x16.jpg");
+}
+
+.amm-16 {
+    @include img-16("../src/icons/MicroMoney/16x16.jpg");
+}
+
+.loc-16 {
+    @include img-16("../src/icons/LockTrip/16x16.jpg");
+}
+
+.wrc-16 {
+    @include img-16("../src/icons/Worldcore/16x16.jpg");
+}
+
+.gto-16 {
+    @include img-16("../src/icons/Gifto/16x16.jpg");
+}
+
+.ytn-16 {
+    @include img-16("../src/icons/YENTEN/16x16.jpg");
+}
+
+.gnx-16 {
+    @include img-16("../src/icons/GenaroNetwork/16x16.jpg");
+}
+
+.ubtc-16 {
+    @include img-16("../src/icons/UnitedBitcoin/16x16.jpg");
+}
+
+.star-16 {
+    @include img-16("../src/icons/Starbase/16x16.jpg");
+}
+
+.ost-16 {
+    @include img-16("../src/icons/OST/16x16.jpg");
+}
+
+.storm-16 {
+    @include img-16("../src/icons/Storm/16x16.jpg");
+}
+
+.dtr-16 {
+    @include img-16("../src/icons/DynamicTradingRights/16x16.jpg");
+}
+
+.elf-16 {
+    @include img-16("../src/icons/aelf/16x16.jpg");
+}
+
+.wax-16 {
+    @include img-16("../src/icons/WAX/16x16.jpg");
+}
+
+.med-16 {
+    @include img-16("../src/icons/MediBloc[QRC20]/16x16.jpg");
+}
+
+.dew-16 {
+    @include img-16("../src/icons/DEW/16x16.jpg");
+}
+
+.ngc-16 {
+    @include img-16("../src/icons/NAGA/16x16.jpg");
+}
+
+.brd-16 {
+    @include img-16("../src/icons/Bread/16x16.jpg");
+}
+
+.bix-16 {
+    @include img-16("../src/icons/BiboxToken/16x16.jpg");
+}
+
+.dai-16 {
+    @include img-16("../src/icons/Dai/16x16.jpg");
+}
+
+.sphtx-16 {
+    @include img-16("../src/icons/SophiaTX/16x16.jpg");
+}
+
+.bnty-16 {
+    @include img-16("../src/icons/Bounty0x/16x16.jpg");
+}
+
+.ace-16 {
+    @include img-16("../src/icons/ACE(TokenStars)/16x16.jpg");
+}
+
+.dim-16 {
+    @include img-16("../src/icons/DIMCOIN/16x16.jpg");
+}
+
+.srn-16 {
+    @include img-16("../src/icons/SIRINLABSToken/16x16.jpg");
+}
+
+.cpay-16 {
+    @include img-16("../src/icons/Cryptopay/16x16.jpg");
+}
+
+.html-16 {
+    @include img-16("../src/icons/HTMLCOIN/16x16.jpg");
+}
+
+.dbc-16 {
+    @include img-16("../src/icons/DeepBrainChain/16x16.jpg");
+}
+
+.hbc-16 {
+    @include img-16("../src/icons/HomeBlockCoin/16x16.jpg");
+}
+
+.neu-16 {
+    @include img-16("../src/icons/Neumark/16x16.jpg");
+}
+
+.utk-16 {
+    @include img-16("../src/icons/UTRUST/16x16.jpg");
+}
+
+.play-16 {
+    @include img-16("../src/icons/HEROcoin/16x16.jpg");
+}
+
+.big-16 {
+    @include img-16("../src/icons/BigONEToken/16x16.jpg");
+}
+
+.mtx-16 {
+    @include img-16("../src/icons/Matryx/16x16.jpg");
+}
+
+.mot-16 {
+    @include img-16("../src/icons/OlympusLabs/16x16.jpg");
+}
+
+.hpy-16 {
+    @include img-16("../src/icons/HyperPay/16x16.jpg");
+}
+
+.pylnt-16 {
+    @include img-16("../src/icons/PylonNetwork/16x16.jpg");
+}
+
+.ent-16 {
+    @include img-16("../src/icons/ENTCash/16x16.jpg");
+}
+
+.stak-16 {
+    @include img-16("../src/icons/STRAKS/16x16.jpg");
+}
+
+.fdx-16 {
+    @include img-16("../src/icons/FidentiaX/16x16.jpg");
+}
+
+.cat-16 {
+    @include img-16("../src/icons/BitClave/16x16.jpg");
+}
+
+.lbtc-16 {
+    @include img-16("../src/icons/LightningBitcoin/16x16.jpg");
+}
+
+.gtc-16 {
+    @include img-16("../src/icons/Game.com/16x16.jpg");
+}
+
+.tau-16 {
+    @include img-16("../src/icons/Lamden/16x16.jpg");
+}
+
+.esc-16 {
+    @include img-16("../src/icons/Escroco/16x16.jpg");
+}
+
+.blt-16 {
+    @include img-16("../src/icons/Bloom/16x16.jpg");
+}
+
+.swftc-16 {
+    @include img-16("../src/icons/SwftCoin/16x16.jpg");
+}
+
+.cov-16 {
+    @include img-16("../src/icons/Covesting/16x16.jpg");
+}
+
+.can-16 {
+    @include img-16("../src/icons/CanYaCoin/16x16.jpg");
+}
+
+.appc-16 {
+    @include img-16("../src/icons/AppCoins/16x16.jpg");
+}
+
+.hpb-16 {
+    @include img-16("../src/icons/HighPerformanceBlockchain/16x16.jpg");
+}
+
+.wicc-16 {
+    @include img-16("../src/icons/WaykiChain/16x16.jpg");
+}
+
+.numus-16 {
+    @include img-16("../src/icons/NumusCash/16x16.jpg");
+}
+
+.mdt-16 {
+    @include img-16("../src/icons/MeasurableDataToken/16x16.jpg");
+}
+
+.xin-16 {
+    @include img-16("../src/icons/Mixin/16x16.jpg");
+}
+
+.gcs-16 {
+    @include img-16("../src/icons/GameChainSystem/16x16.jpg");
+}
+
+.nms-16 {
+    @include img-16("../src/icons/Numus/16x16.jpg");
+}
+
+.cl-16 {
+    @include img-16("../src/icons/Coinlancer/16x16.jpg");
+}
+
+.cefs-16 {
+    @include img-16("../src/icons/CryptopiaFeeShares/16x16.jpg");
+}
+
+.get-16 {
+    @include img-16("../src/icons/GETProtocol/16x16.jpg");
+}
+
+.opc-16 {
+    @include img-16("../src/icons/OPCoin/16x16.jpg");
+}
+
+.cfun-16 {
+    @include img-16("../src/icons/CFun/16x16.jpg");
+}
+
+.aidoc-16 {
+    @include img-16("../src/icons/AIDoctor/16x16.jpg");
+}
+
+.can-16 {
+    @include img-16("../src/icons/ContentandADNetwork/16x16.jpg");
+}
+
+.polis-16 {
+    @include img-16("../src/icons/Polis/16x16.jpg");
+}
+
+.hkn-16 {
+    @include img-16("../src/icons/Hacken/16x16.jpg");
+}
+
+.show-16 {
+    @include img-16("../src/icons/Show/16x16.jpg");
+}
+
+.stn-16 {
+    @include img-16("../src/icons/SteneumCoin/16x16.jpg");
+}
+
+.zap-16 {
+    @include img-16("../src/icons/Zap/16x16.jpg");
+}
+
+.tct-16 {
+    @include img-16("../src/icons/TokenClub/16x16.jpg");
+}
+
+.fair-16 {
+    @include img-16("../src/icons/FairGame/16x16.jpg");
+}
+
+.aix-16 {
+    @include img-16("../src/icons/Aigang/16x16.jpg");
+}
+
+.rebl-16 {
+    @include img-16("../src/icons/REBL/16x16.jpg");
+}
+
+.ins-16 {
+    @include img-16("../src/icons/INSEcosystem/16x16.jpg");
+}
+
+.god-16 {
+    @include img-16("../src/icons/BitcoinGod/16x16.jpg");
+}
+
+.utt-16 {
+    @include img-16("../src/icons/UnitedTradersToken/16x16.jpg");
+}
+
+.cdx-16 {
+    @include img-16("../src/icons/CommodityAdNetwork/16x16.jpg");
+}
+
+.tio-16 {
+    @include img-16("../src/icons/TradeToken/16x16.jpg");
+}
+
+.bdg-16 {
+    @include img-16("../src/icons/BitDegree/16x16.jpg");
+}
+
+.qun-16 {
+    @include img-16("../src/icons/QunQun/16x16.jpg");
+}
+
+.lev-16 {
+    @include img-16("../src/icons/Leverj/16x16.jpg");
+}
+
+.krm-16 {
+    @include img-16("../src/icons/Karma/16x16.jpg");
+}
+
+.kcash-16 {
+    @include img-16("../src/icons/Kcash/16x16.jpg");
+}
+
+.atn-16 {
+    @include img-16("../src/icons/ATN/16x16.jpg");
+}
+
+.sxdt-16 {
+    @include img-16("../src/icons/Spectre.aiDividendToken/16x16.jpg");
+}
+
+.sxut-16 {
+    @include img-16("../src/icons/Spectre.aiUtilityToken/16x16.jpg");
+}
+
+.swtc-16 {
+    @include img-16("../src/icons/JingtumTech/16x16.jpg");
+}
+
+.vzt-16 {
+    @include img-16("../src/icons/Vezt/16x16.jpg");
+}
+
+.cld-16 {
+    @include img-16("../src/icons/Cloud/16x16.jpg");
+}
+
+.ucom-16 {
+    @include img-16("../src/icons/UnitedCryptoCommunity/16x16.jpg");
+}
+
+.bca-16 {
+    @include img-16("../src/icons/BitcoinAtom/16x16.jpg");
+}
+
+.ugc-16 {
+    @include img-16("../src/icons/ugChain/16x16.jpg");
+}
+
+.bkx-16 {
+    @include img-16("../src/icons/Bankex/16x16.jpg");
+}
+
+.eko-16 {
+    @include img-16("../src/icons/EchoLink/16x16.jpg");
+}
+
+.bto-16 {
+    @include img-16("../src/icons/Bottos/16x16.jpg");
+}
+
+.at-16 {
+    @include img-16("../src/icons/AWARE/16x16.jpg");
+}
+
+.tel-16 {
+    @include img-16("../src/icons/Telcoin/16x16.jpg");
+}
+
+.ic-16 {
+    @include img-16("../src/icons/Ignition/16x16.jpg");
+}
+
+.hac-16 {
+    @include img-16("../src/icons/HackspaceCapital/16x16.jpg");
+}
+
+.key-16 {
+    @include img-16("../src/icons/Selfkey/16x16.jpg");
+}
+
+.int-16 {
+    @include img-16("../src/icons/InternetNodeToken/16x16.jpg");
+}
+
+.rnt-16 {
+    @include img-16("../src/icons/OneRootNetwork/16x16.jpg");
+}
+
+.sense-16 {
+    @include img-16("../src/icons/Sense/16x16.jpg");
+}
+
+.moac-16 {
+    @include img-16("../src/icons/MOAC/16x16.jpg");
+}
+
+.tokc-16 {
+    @include img-16("../src/icons/TOKYO/16x16.jpg");
+}
+
+.iost-16 {
+    @include img-16("../src/icons/IOST/16x16.jpg");
+}
+
+.idt-16 {
+    @include img-16("../src/icons/InvestDigital/16x16.jpg");
+}
+
+.ait-16 {
+    @include img-16("../src/icons/AICHAIN/16x16.jpg");
+}
+
+.qube-16 {
+    @include img-16("../src/icons/Qube/16x16.jpg");
+}
+
+.edt-16 {
+    @include img-16("../src/icons/EtherDeltaToken/16x16.jpg");
+}
+
+.spc-16 {
+    @include img-16("../src/icons/SpaceChain/16x16.jpg");
+}
+
+.ore-16 {
+    @include img-16("../src/icons/Galactrum/16x16.jpg");
+}
+
+.hc-16 {
+    @include img-16("../src/icons/HarvestMasternodeCoin/16x16.jpg");
+}
+
+.horse-16 {
+    @include img-16("../src/icons/Ethorse/16x16.jpg");
+}
+
+.rct-16 {
+    @include img-16("../src/icons/RealChain/16x16.jpg");
+}
+
+.arct-16 {
+    @include img-16("../src/icons/ArbitrageCT/16x16.jpg");
+}
+
+.theta-16 {
+    @include img-16("../src/icons/ThetaToken/16x16.jpg");
+}
+
+.mvc-16 {
+    @include img-16("../src/icons/MaverickChain/16x16.jpg");
+}
+
+.put-16 {
+    @include img-16("../src/icons/ProfileUtilityToken/16x16.jpg");
+}
+
+.nox-16 {
+    @include img-16("../src/icons/Nitro/16x16.jpg");
+}
+
+.ipl-16 {
+    @include img-16("../src/icons/InsurePal/16x16.jpg");
+}
+
+.idxm-16 {
+    @include img-16("../src/icons/IDEXMembership/16x16.jpg");
+}
+
+.aura-16 {
+    @include img-16("../src/icons/AuroraDAO/16x16.jpg");
+}
+
+.agi-16 {
+    @include img-16("../src/icons/SingularityNET/16x16.jpg");
+}
+
+.gat-16 {
+    @include img-16("../src/icons/Gatcoin/16x16.jpg");
+}
+
+.sexc-16 {
+    @include img-16("../src/icons/ShareX/16x16.jpg");
+}
+
+.ddd-16 {
+    @include img-16("../src/icons/Scry.info/16x16.jpg");
+}
+
+.mobi-16 {
+    @include img-16("../src/icons/Mobius/16x16.jpg");
+}
+
+.hot-16 {
+    @include img-16("../src/icons/HydroProtocol/16x16.jpg");
+}
+
+.stc-16 {
+    @include img-16("../src/icons/StarChain/16x16.jpg");
+}
+
+.ipc-16 {
+    @include img-16("../src/icons/IPChain/16x16.jpg");
+}
+
+.mag-16 {
+    @include img-16("../src/icons/Maggie/16x16.jpg");
+}
+
+.light-16 {
+    @include img-16("../src/icons/LightChain/16x16.jpg");
+}
+
+.ref-16 {
+    @include img-16("../src/icons/RefToken/16x16.jpg");
+}
+
+.yee-16 {
+    @include img-16("../src/icons/YEE/16x16.jpg");
+}
+
+.aac-16 {
+    @include img-16("../src/icons/AcuteAngleCloud/16x16.jpg");
+}
+
+.ssc-16 {
+    @include img-16("../src/icons/SelfSell/16x16.jpg");
+}
+
+.mof-16 {
+    @include img-16("../src/icons/MolecularFuture/16x16.jpg");
+}
+
+.tnc-16 {
+    @include img-16("../src/icons/TrinityNetworkCredit/16x16.jpg");
+}
+
+.c20-16 {
+    @include img-16("../src/icons/CRYPTO20/16x16.jpg");
+}
+
+.ary-16 {
+    @include img-16("../src/icons/BlockArray/16x16.jpg");
+}
+
+.dta-16 {
+    @include img-16("../src/icons/DATA/16x16.jpg");
+}
+
+.crpt-16 {
+    @include img-16("../src/icons/Crypterium/16x16.jpg");
+}
+
+.spk-16 {
+    @include img-16("../src/icons/Sparks/16x16.jpg");
+}
+
+.cv-16 {
+    @include img-16("../src/icons/carVertical/16x16.jpg");
+}
+
+.tbx-16 {
+    @include img-16("../src/icons/Tokenbox/16x16.jpg");
+}
+
+.ekt-16 {
+    @include img-16("../src/icons/EDUCare/16x16.jpg");
+}
+
+.uip-16 {
+    @include img-16("../src/icons/UnlimitedIP/16x16.jpg");
+}
+
+.prs-16 {
+    @include img-16("../src/icons/PressOne/16x16.jpg");
+}
+
+.of-16 {
+    @include img-16("../src/icons/OFCOIN/16x16.jpg");
+}
+
+.true-16 {
+    @include img-16("../src/icons/TrueChain/16x16.jpg");
+}
+
+.ocn-16 {
+    @include img-16("../src/icons/Odyssey/16x16.jpg");
+}
+
+.idh-16 {
+    @include img-16("../src/icons/indaHash/16x16.jpg");
+}
+
+.qbic-16 {
+    @include img-16("../src/icons/Qbic/16x16.jpg");
+}
+
+.guess-16 {
+    @include img-16("../src/icons/Peerguess/16x16.jpg");
+}
+
+.aid-16 {
+    @include img-16("../src/icons/AidCoin/16x16.jpg");
+}
+
+.eve-16 {
+    @include img-16("../src/icons/Devery/16x16.jpg");
+}
+
+.bpt-16 {
+    @include img-16("../src/icons/Blockport/16x16.jpg");
+}
+
+.axp-16 {
+    @include img-16("../src/icons/aXpire/16x16.jpg");
+}
+
+.trac-16 {
+    @include img-16("../src/icons/OriginTrail/16x16.jpg");
+}
+
+.let-16 {
+    @include img-16("../src/icons/LinkEye/16x16.jpg");
+}
+
+.zil-16 {
+    @include img-16("../src/icons/Zilliqa/16x16.jpg");
+}
+
+.meet-16 {
+    @include img-16("../src/icons/CoinMeet/16x16.jpg");
+}
+
+.slt-16 {
+    @include img-16("../src/icons/Smartlands/16x16.jpg");
+}
+
+.fota-16 {
+    @include img-16("../src/icons/Fortuna/16x16.jpg");
+}
+
+.soc-16 {
+    @include img-16("../src/icons/AllSports/16x16.jpg");
+}
+
+.man-16 {
+    @include img-16("../src/icons/MatrixAINetwork/16x16.jpg");
+}
+
+.grlc-16 {
+    @include img-16("../src/icons/Garlicoin/16x16.jpg");
+}
+
+.ruff-16 {
+    @include img-16("../src/icons/Ruff/16x16.jpg");
+}
+
+.nkc-16 {
+    @include img-16("../src/icons/Nework/16x16.jpg");
+}
+
+.cofi-16 {
+    @include img-16("../src/icons/CoinFi/16x16.jpg");
+}
+
+.eql-16 {
+    @include img-16("../src/icons/Equal/16x16.jpg");
+}
+
+.hlc-16 {
+    @include img-16("../src/icons/HalalChain/16x16.jpg");
+}
+
+.zpt-16 {
+    @include img-16("../src/icons/Zeepin/16x16.jpg");
+}
+
+.cpc-16 {
+    @include img-16("../src/icons/CPChain/16x16.jpg");
+}
+
+.oc-16 {
+    @include img-16("../src/icons/OceanChain/16x16.jpg");
+}
+
+.hmc-16 {
+    @include img-16("../src/icons/HiMutualSociety/16x16.jpg");
+}
+
+.candy-16 {
+    @include img-16("../src/icons/Candy/16x16.jpg");
+}
+
+.sms-16 {
+    @include img-16("../src/icons/SpeedMiningService/16x16.jpg");
+}
+
+.epc-16 {
+    @include img-16("../src/icons/ElectronicPKChain/16x16.jpg");
+}
+
+.vlc-16 {
+    @include img-16("../src/icons/ValueChain/16x16.jpg");
+}
+
+.btw-16 {
+    @include img-16("../src/icons/BitWhite/16x16.jpg");
+}
+
+.cxo-16 {
+    @include img-16("../src/icons/CargoX/16x16.jpg");
+}
+
+.trf-16 {
+    @include img-16("../src/icons/Travelflex/16x16.jpg");
+}
+
+.ela-16 {
+    @include img-16("../src/icons/Elastos/16x16.jpg");
+}
+
+.stk-16 {
+    @include img-16("../src/icons/STK/16x16.jpg");
+}
+
+.pareto-16 {
+    @include img-16("../src/icons/ParetoNetwork/16x16.jpg");
+}
+
+.poly-16 {
+    @include img-16("../src/icons/Polymath/16x16.jpg");
+}
+
+.mtn-16 {
+    @include img-16("../src/icons/Medicalchain/16x16.jpg");
+}
+
+.jnt-16 {
+    @include img-16("../src/icons/JibrelNetwork/16x16.jpg");
+}
+
+.chsb-16 {
+    @include img-16("../src/icons/SwissBorg/16x16.jpg");
+}
+
+.zla-16 {
+    @include img-16("../src/icons/Zilla/16x16.jpg");
+}
+
+.adb-16 {
+    @include img-16("../src/icons/adbank/16x16.jpg");
+}
+
+.ht-16 {
+    @include img-16("../src/icons/HuobiToken/16x16.jpg");
+}
+
+.dmt-16 {
+    @include img-16("../src/icons/DMarket/16x16.jpg");
+}
+
+.ing-16 {
+    @include img-16("../src/icons/Iungo/16x16.jpg");
+}
+
+.blz-16 {
+    @include img-16("../src/icons/Bluzelle/16x16.jpg");
+}
+
+.swm-16 {
+    @include img-16("../src/icons/Swarm/16x16.jpg");
+}
+
+.tky-16 {
+    @include img-16("../src/icons/THEKEY/16x16.jpg");
+}
+
+.drpu-16 {
+    @include img-16("../src/icons/DCORPUtility/16x16.jpg");
+}
+
+.esz-16 {
+    @include img-16("../src/icons/EtherSportz/16x16.jpg");
+}
+
+.dxt-16 {
+    @include img-16("../src/icons/Datawallet/16x16.jpg");
+}
+
+.wpr-16 {
+    @include img-16("../src/icons/WePower/16x16.jpg");
+}
+
+.ucash-16 {
+    @include img-16("../src/icons/U.CASH/16x16.jpg");
+}
+
+.mntp-16 {
+    @include img-16("../src/icons/GoldMint/16x16.jpg");
+}
+
+.jew-16 {
+    @include img-16("../src/icons/Shekel/16x16.jpg");
+}
+
+.acc-16 {
+    @include img-16("../src/icons/ACChain/16x16.jpg");
+}
+
+.mlm-16 {
+    @include img-16("../src/icons/MktCoin/16x16.jpg");
+}
+
+.avh-16 {
+    @include img-16("../src/icons/AnimationVisionCash/16x16.jpg");
+}
+
+.loci-16 {
+    @include img-16("../src/icons/LOCIcoin/16x16.jpg");
+}
+
+.indi-16 {
+    @include img-16("../src/icons/Indicoin/16x16.jpg");
+}
+
+.jc-16 {
+    @include img-16("../src/icons/JesusCoin/16x16.jpg");
+}
+
+.bio-16 {
+    @include img-16("../src/icons/BioCoin/16x16.jpg");
+}
+
+.sup-16 {
+    @include img-16("../src/icons/SuperiorCoin/16x16.jpg");
+}
+
+.tig-16 {
+    @include img-16("../src/icons/Tigereum/16x16.jpg");
+}
+
+.utnp-16 {
+    @include img-16("../src/icons/Universa/16x16.jpg");
+}
+
+.acat-16 {
+    @include img-16("../src/icons/Alphacat/16x16.jpg");
+}
+
+.evn-16 {
+    @include img-16("../src/icons/Envion/16x16.jpg");
+}
+
+.rmt-16 {
+    @include img-16("../src/icons/SureRemit/16x16.jpg");
+}
+
+.dth-16 {
+    @include img-16("../src/icons/Dether/16x16.jpg");
+}
+
+.cas-16 {
+    @include img-16("../src/icons/Cashaa/16x16.jpg");
+}
+
+.fsn-16 {
+    @include img-16("../src/icons/Fusion/16x16.jpg");
+}
+
+.w3c-16 {
+    @include img-16("../src/icons/W3Coin/16x16.jpg");
+}
+
+.ech-16 {
+    @include img-16("../src/icons/Etherecash/16x16.jpg");
+}
+
+.mwat-16 {
+    @include img-16("../src/icons/RestartEnergyMWAT/16x16.jpg");
+}
+
+.gla-16 {
+    @include img-16("../src/icons/GladiusToken/16x16.jpg");
+}
+
+.dadi-16 {
+    @include img-16("../src/icons/DADI/16x16.jpg");
+}
+
+.ntk-16 {
+    @include img-16("../src/icons/Neurotoken/16x16.jpg");
+}
+
+.gem-16 {
+    @include img-16("../src/icons/Gems/16x16.jpg");
+}
+
+.nec-16 {
+    @include img-16("../src/icons/Nectar/16x16.jpg");
+}
+
+.ren-16 {
+    @include img-16("../src/icons/RepublicProtocol/16x16.jpg");
+}
+
+.lcc-16 {
+    @include img-16("../src/icons/LitecoinCash/16x16.jpg");
+}
+
+.stq-16 {
+    @include img-16("../src/icons/Storiqa/16x16.jpg");
+}
+
+.tdx-16 {
+    @include img-16("../src/icons/TidexToken/16x16.jpg");
+}
+
+.cpy-16 {
+    @include img-16("../src/icons/COPYTRACK/16x16.jpg");
+}
+
+.ncash-16 {
+    @include img-16("../src/icons/NucleusVision/16x16.jpg");
+}
+
+.abt-16 {
+    @include img-16("../src/icons/Arcblock/16x16.jpg");
+}
+
+.rem-16 {
+    @include img-16("../src/icons/Remme/16x16.jpg");
+}
+
+.exy-16 {
+    @include img-16("../src/icons/Experty/16x16.jpg");
+}
+
+.poa-16 {
+    @include img-16("../src/icons/POANetwork/16x16.jpg");
+}
+
+.xnk-16 {
+    @include img-16("../src/icons/InkProtocol/16x16.jpg");
+}
+
+.rkt-16 {
+    @include img-16("../src/icons/Rock/16x16.jpg");
+}
+
+.bez-16 {
+    @include img-16("../src/icons/Bezop/16x16.jpg");
+}
+
+.iht-16 {
+    @include img-16("../src/icons/IHTRealEstateProtocol/16x16.jpg");
+}
+
+.rfr-16 {
+    @include img-16("../src/icons/Refereum/16x16.jpg");
+}
+
+.lym-16 {
+    @include img-16("../src/icons/Lympo/16x16.jpg");
+}
+
+.seth-16 {
+    @include img-16("../src/icons/Sether/16x16.jpg");
+}
+
+.cs-16 {
+    @include img-16("../src/icons/Credits/16x16.jpg");
+}
+
+.bee-16 {
+    @include img-16("../src/icons/BeeToken/16x16.jpg");
+}
+
+.instar-16 {
+    @include img-16("../src/icons/InsightsNetwork/16x16.jpg");
+}
+
+.auto-16 {
+    @include img-16("../src/icons/Cube/16x16.jpg");
+}
+
+.ezt-16 {
+    @include img-16("../src/icons/EZToken/16x16.jpg");
+}
+
+.tube-16 {
+    @include img-16("../src/icons/BitTube/16x16.jpg");
+}
+
+.ledu-16 {
+    @include img-16("../src/icons/EducationEcosystem/16x16.jpg");
+}
+
+.tusd-16 {
+    @include img-16("../src/icons/TrueUSD/16x16.jpg");
+}
+
+.hqx-16 {
+    @include img-16("../src/icons/HOQU/16x16.jpg");
+}
+
+.stac-16 {
+    @include img-16("../src/icons/StarterCoin/16x16.jpg");
+}
+
+.ont-16 {
+    @include img-16("../src/icons/Ontology/16x16.jpg");
+}
+
+.datx-16 {
+    @include img-16("../src/icons/DATx/16x16.jpg");
+}
+
+.j8t-16 {
+    @include img-16("../src/icons/JET8/16x16.jpg");
+}
+
+.chp-16 {
+    @include img-16("../src/icons/CoinPoker/16x16.jpg");
+}
+
+.tomo-16 {
+    @include img-16("../src/icons/TomoChain/16x16.jpg");
+}
+
+.grft-16 {
+    @include img-16("../src/icons/Graft/16x16.jpg");
+}
+
+.bax-16 {
+    @include img-16("../src/icons/BABB/16x16.jpg");
+}
+
+.elec-16 {
+    @include img-16("../src/icons/Electrify.Asia/16x16.jpg");
+}
+
+.btcp-16 {
+    @include img-16("../src/icons/BitcoinPrivate/16x16.jpg");
+}
+
+.ten-16 {
+    @include img-16("../src/icons/Tokenomy/16x16.jpg");
+}
+
+.rvn-16 {
+    @include img-16("../src/icons/Ravencoin/16x16.jpg");
+}
+
+.tfd-16 {
+    @include img-16("../src/icons/TE-FOOD/16x16.jpg");
+}
+
+.ship-16 {
+    @include img-16("../src/icons/ShipChain/16x16.jpg");
+}
+
+.ldc-16 {
+    @include img-16("../src/icons/Leadcoin/16x16.jpg");
+}
+
+.shp-16 {
+    @include img-16("../src/icons/SharpePlatformToken/16x16.jpg");
+}
+
+.lala-16 {
+    @include img-16("../src/icons/LALAWorld/16x16.jpg");
+}
+
+.occ-16 {
+    @include img-16("../src/icons/OctoinCoin/16x16.jpg");
+}
+
+.deb-16 {
+    @include img-16("../src/icons/Debitum/16x16.jpg");
+}
+
+.cennz-16 {
+    @include img-16("../src/icons/Centrality/16x16.jpg");
+}
+
+.hav-16 {
+    @include img-16("../src/icons/Havven/16x16.jpg");
+}
+
+.fluz-16 {
+    @include img-16("../src/icons/FluzFluz/16x16.jpg");
+}
+
+.loom-16 {
+    @include img-16("../src/icons/LoomNetwork/16x16.jpg");
+}
+
+.getx-16 {
+    @include img-16("../src/icons/GuaranteedEthuranceTokenExtra/16x16.jpg");
+}
+
+.hire-16 {
+    @include img-16("../src/icons/HireMatch/16x16.jpg");
+}
+
+.drop-16 {
+    @include img-16("../src/icons/Dropil/16x16.jpg");
+}
+
+.banca-16 {
+    @include img-16("../src/icons/Banca/16x16.jpg");
+}
+
+.drg-16 {
+    @include img-16("../src/icons/DragonCoins/16x16.jpg");
+}
+
+.latx-16 {
+    @include img-16("../src/icons/LatiumX/16x16.jpg");
+}
+
+.nanj-16 {
+    @include img-16("../src/icons/NANJCOIN/16x16.jpg");
+}
+
+.ckusd-16 {
+    @include img-16("../src/icons/CKUSD/16x16.jpg");
+}
+
+.up-16 {
+    @include img-16("../src/icons/UpToken/16x16.jpg");
+}
+
+.bbn-16 {
+    @include img-16("../src/icons/BanyanNetwork/16x16.jpg");
+}
+
+.noah-16 {
+    @include img-16("../src/icons/NoahCoin/16x16.jpg");
+}
+
+.lgo-16 {
+    @include img-16("../src/icons/LGOExchange/16x16.jpg");
+}
+
+.owo-16 {
+    @include img-16("../src/icons/1World/16x16.jpg");
+}
+
+.npx-16 {
+    @include img-16("../src/icons/NaPoleonX/16x16.jpg");
+}
+
+.npxs-16 {
+    @include img-16("../src/icons/PundiX/16x16.jpg");
+}
+
+.bitg-16 {
+    @include img-16("../src/icons/BitcoinGreen/16x16.jpg");
+}
+
+.bft-16 {
+    @include img-16("../src/icons/BnkToTheFuture/16x16.jpg");
+}
+
+.wan-16 {
+    @include img-16("../src/icons/Wanchain/16x16.jpg");
+}
+
+.amlt-16 {
+    @include img-16("../src/icons/AMLT/16x16.jpg");
+}
+
+.mith-16 {
+    @include img-16("../src/icons/Mithril/16x16.jpg");
+}
+
+.lst-16 {
+    @include img-16("../src/icons/LendroidSupportToken/16x16.jpg");
+}
+
+.pcl-16 {
+    @include img-16("../src/icons/Peculium/16x16.jpg");
+}
+
+.sig-16 {
+    @include img-16("../src/icons/Spectiv/16x16.jpg");
+}
+
+.rntb-16 {
+    @include img-16("../src/icons/BitRent/16x16.jpg");
+}
+
+.xbp-16 {
+    @include img-16("../src/icons/BlitzPredict/16x16.jpg");
+}
+
+.lnc-16 {
+    @include img-16("../src/icons/Blocklancer/16x16.jpg");
+}
+
+.spd-16 {
+    @include img-16("../src/icons/Stipend/16x16.jpg");
+}
+
+.ipsx-16 {
+    @include img-16("../src/icons/IPExchange/16x16.jpg");
+}
+
+.scc-16 {
+    @include img-16("../src/icons/StockChain/16x16.jpg");
+}
+
+.bstn-16 {
+    @include img-16("../src/icons/BitStation/16x16.jpg");
+}
+
+.swth-16 {
+    @include img-16("../src/icons/Switcheo/16x16.jpg");
+}
+
+.sen-16 {
+    @include img-16("../src/icons/Consensus/16x16.jpg");
+}
+
+.senc-16 {
+    @include img-16("../src/icons/SentinelChain/16x16.jpg");
+}
+
+.vit-16 {
+    @include img-16("../src/icons/ViceIndustryToken/16x16.jpg");
+}
+
+.fdz-16 {
+    @include img-16("../src/icons/Friendz/16x16.jpg");
+}
+
+.tpay-16 {
+    @include img-16("../src/icons/TokenPay/16x16.jpg");
+}
+
+.berry-16 {
+    @include img-16("../src/icons/Rentberry/16x16.jpg");
+}
+
+.xtl-16 {
+    @include img-16("../src/icons/Stellite/16x16.jpg");
+}
+
+.nct-16 {
+    @include img-16("../src/icons/PolySwarm/16x16.jpg");
+}
+
+.ode-16 {
+    @include img-16("../src/icons/ODEM/16x16.jpg");
+}
+
+.xmo-16 {
+    @include img-16("../src/icons/MoneroOriginal/16x16.jpg");
+}
+
+.xsn-16 {
+    @include img-16("../src/icons/Stakenet/16x16.jpg");
+}
+
+.xdce-16 {
+    @include img-16("../src/icons/XinFinNetwork/16x16.jpg");
+}
+
+.tds-16 {
+    @include img-16("../src/icons/TokenDesk/16x16.jpg");
+}
+
+.bbi-16 {
+    @include img-16("../src/icons/BelugaPay/16x16.jpg");
+}
+
+.fid-16 {
+    @include img-16("../src/icons/Fidelium/16x16.jpg");
+}
+
+.ctxc-16 {
+    @include img-16("../src/icons/Cortex/16x16.jpg");
+}
+
+.atc-16 {
+    @include img-16("../src/icons/Arbitracoin/16x16.jpg");
+}
+
+.win-16 {
+    @include img-16("../src/icons/WCOIN/16x16.jpg");
+}
+
+.cpx-16 {
+    @include img-16("../src/icons/Apex/16x16.jpg");
+}
+
+.cvt-16 {
+    @include img-16("../src/icons/CyberVein/16x16.jpg");
+}
+
+.sent-16 {
+    @include img-16("../src/icons/Sentinel/16x16.jpg");
+}
+
+.eosdac-16 {
+    @include img-16("../src/icons/eosDAC/16x16.jpg");
+}
+
+.uuu-16 {
+    @include img-16("../src/icons/UNetwork/16x16.jpg");
+}
+
+.adh-16 {
+    @include img-16("../src/icons/AdHive/16x16.jpg");
+}
+
+.snip-16 {
+    @include img-16("../src/icons/SnipCoin/16x16.jpg");
+}
+
+.bsm-16 {
+    @include img-16("../src/icons/Bitsum/16x16.jpg");
+}
+
+.dev-16 {
+    @include img-16("../src/icons/DeviantCoin/16x16.jpg");
+}
+
+.cbt-16 {
+    @include img-16("../src/icons/CommerceBlock/16x16.jpg");
+}
+
+.grmd-16 {
+    @include img-16("../src/icons/GreenMed/16x16.jpg");
+}
+
+.cvh-16 {
+    @include img-16("../src/icons/CurriculumVitae/16x16.jpg");
+}
+
+.auc-16 {
+    @include img-16("../src/icons/Auctus/16x16.jpg");
+}
+
+.bubo-16 {
+    @include img-16("../src/icons/Budbo/16x16.jpg");
+}
+
+.xmc-16 {
+    @include img-16("../src/icons/MoneroClassic/16x16.jpg");
+}
+
+.dan-16 {
+    @include img-16("../src/icons/Daneel/16x16.jpg");
+}
+
+.brm-16 {
+    @include img-16("../src/icons/BrahmaOS/16x16.jpg");
+}
+
+.mfg-16 {
+    @include img-16("../src/icons/SyncFab/16x16.jpg");
+}
+
+.dig-16 {
+    @include img-16("../src/icons/Dignity/16x16.jpg");
+}
+
+.adi-16 {
+    @include img-16("../src/icons/Aditus/16x16.jpg");
+}
+
+.trio-16 {
+    @include img-16("../src/icons/Tripio/16x16.jpg");
+}
+
+.xhv-16 {
+    @include img-16("../src/icons/HavenProtocol/16x16.jpg");
+}
+
+.kst-16 {
+    @include img-16("../src/icons/StarCoin/16x16.jpg");
+}
+
+.crc-16 {
+    @include img-16("../src/icons/CryCash/16x16.jpg");
+}
+
+.dero-16 {
+    @include img-16("../src/icons/Dero/16x16.jpg");
+}
+
+.efx-16 {
+    @include img-16("../src/icons/Effect.AI/16x16.jpg");
+}
+
+.ftx-16 {
+    @include img-16("../src/icons/FintruXNetwork/16x16.jpg");
+}
+
+.earth-16 {
+    @include img-16("../src/icons/EarthToken/16x16.jpg");
+}
+
+.mrk-16 {
+    @include img-16("../src/icons/MARK.SPACE/16x16.jpg");
+}
+
+.pxc-16 {
+    @include img-16("../src/icons/PixieCoin/16x16.jpg");
+}
+
+.crop-16 {
+    @include img-16("../src/icons/Cropcoin/16x16.jpg");
+}
+
+.srcoin-16 {
+    @include img-16("../src/icons/SRCOIN/16x16.jpg");
+}
+
+.chx-16 {
+    @include img-16("../src/icons/Chainium/16x16.jpg");
+}
+
+.msr-16 {
+    @include img-16("../src/icons/Masari/16x16.jpg");
+}
+
+.dock-16 {
+    @include img-16("../src/icons/Dock/16x16.jpg");
+}
+
+.phi-16 {
+    @include img-16("../src/icons/PHIToken/16x16.jpg");
+}
+
+.lnc-16 {
+    @include img-16("../src/icons/LinkerCoin/16x16.jpg");
+}
+
+.bbc-16 {
+    @include img-16("../src/icons/TraDoveB2BCoin/16x16.jpg");
+}
+
+.dml-16 {
+    @include img-16("../src/icons/DecentralizedMachineLearning/16x16.jpg");
+}
+
+.hbz-16 {
+    @include img-16("../src/icons/Helbiz/16x16.jpg");
+}
+
+.ori-16 {
+    @include img-16("../src/icons/Origami/16x16.jpg");
+}
+
+.hot-16 {
+    @include img-16("../src/icons/Holo/16x16.jpg");
+}
+
+.trak-16 {
+    @include img-16("../src/icons/TrakInvest/16x16.jpg");
+}
+
+.aph-16 {
+    @include img-16("../src/icons/Aphelion/16x16.jpg");
+}
+
+.zco-16 {
+    @include img-16("../src/icons/Zebi/16x16.jpg");
+}
+
+.lnd-16 {
+    @include img-16("../src/icons/Lendingblock/16x16.jpg");
+}
+
+.xes-16 {
+    @include img-16("../src/icons/Proxeus/16x16.jpg");
+}
+
+.vips-16 {
+    @include img-16("../src/icons/VipstarCoin/16x16.jpg");
+}
+
+.rblx-16 {
+    @include img-16("../src/icons/Rublix/16x16.jpg");
+}
+
+.btrn-16 {
+    @include img-16("../src/icons/Biotron/16x16.jpg");
+}
+
+.pnt-16 {
+    @include img-16("../src/icons/Penta/16x16.jpg");
+}
+
+.nbai-16 {
+    @include img-16("../src/icons/NebulaAI/16x16.jpg");
+}
+
+.lrn-16 {
+    @include img-16("../src/icons/Loopring[NEO]/16x16.jpg");
+}
+
+.nexo-16 {
+    @include img-16("../src/icons/Nexo/16x16.jpg");
+}
+
+.vme-16 {
+    @include img-16("../src/icons/VeriME/16x16.jpg");
+}
+
+.dax-16 {
+    @include img-16("../src/icons/DAEX/16x16.jpg");
+}
+
+.hydro-16 {
+    @include img-16("../src/icons/Hydro/16x16.jpg");
+}
+
+.ss-16 {
+    @include img-16("../src/icons/Sharder/16x16.jpg");
+}
+
+.ttt-16 {
+    @include img-16("../src/icons/TrustNote/16x16.jpg");
+}
+
+.bci-16 {
+    @include img-16("../src/icons/BitcoinInterest/16x16.jpg");
+}
+
+.betr-16 {
+    @include img-16("../src/icons/BetterBetting/16x16.jpg");
+}
+
+.tns-16 {
+    @include img-16("../src/icons/Transcodium/16x16.jpg");
+}
+
+.amn-16 {
+    @include img-16("../src/icons/Amon/16x16.jpg");
+}
+
+.plan-16 {
+    @include img-16("../src/icons/Plancoin/16x16.jpg");
+}
+
+.flp-16 {
+    @include img-16("../src/icons/FLIP/16x16.jpg");
+}
+
+.cmct-16 {
+    @include img-16("../src/icons/CrowdMachine/16x16.jpg");
+}
+
+.mitx-16 {
+    @include img-16("../src/icons/MorpheusLabs/16x16.jpg");
+}
+
+.live-16 {
+    @include img-16("../src/icons/LiveStars/16x16.jpg");
+}
+
+.mtc-16 {
+    @include img-16("../src/icons/Docademic/16x16.jpg");
+}
+
+.mt-16 {
+    @include img-16("../src/icons/MyToken/16x16.jpg");
+}
+
+.key-16 {
+    @include img-16("../src/icons/KEY/16x16.jpg");
+}
+
+.nty-16 {
+    @include img-16("../src/icons/Nexty/16x16.jpg");
+}
+
+.cjt-16 {
+    @include img-16("../src/icons/ConnectJob/16x16.jpg");
+}
+
+.ges-16 {
+    @include img-16("../src/icons/GalaxyeSolutions/16x16.jpg");
+}
+
+.bouts-16 {
+    @include img-16("../src/icons/BoutsPro/16x16.jpg");
+}
+
+.pal-16 {
+    @include img-16("../src/icons/PolicyPalNetwork/16x16.jpg");
+}
+
+.cre-16 {
+    @include img-16("../src/icons/Cybereits/16x16.jpg");
+}
+
+.gene-16 {
+    @include img-16("../src/icons/Parkgene/16x16.jpg");
+}
+
+.apr-16 {
+    @include img-16("../src/icons/APRCoin/16x16.jpg");
+}
+
+.ac3-16 {
+    @include img-16("../src/icons/AC3/16x16.jpg");
+}
+
+.fxt-16 {
+    @include img-16("../src/icons/FuzeX/16x16.jpg");
+}
+
+.zipt-16 {
+    @include img-16("../src/icons/Zippie/16x16.jpg");
+}
+
+.skm-16 {
+    @include img-16("../src/icons/SkrumbleNetwork/16x16.jpg");
+}
+
+.gen-16 {
+    @include img-16("../src/icons/DAOstack/16x16.jpg");
+}
+
+.bznt-16 {
+    @include img-16("../src/icons/Bezant/16x16.jpg");
+}
+
+.lif-16 {
+    @include img-16("../src/icons/WindingTree/16x16.jpg");
+}
+
+.team-16 {
+    @include img-16("../src/icons/TEAM(TokenStars)/16x16.jpg");
+}
+
+.frv-16 {
+    @include img-16("../src/icons/Fitrova/16x16.jpg");
+}
+
+.oot-16 {
+    @include img-16("../src/icons/Utrum/16x16.jpg");
+}
+
+.atx-16 {
+    @include img-16("../src/icons/Aston/16x16.jpg");
+}
+
+.frec-16 {
+    @include img-16("../src/icons/Freyrchain/16x16.jpg");
+}
+
+.edu-16 {
+    @include img-16("../src/icons/EduCoin/16x16.jpg");
+}
+
+.cnn-16 {
+    @include img-16("../src/icons/ContentNeutralityNetwork/16x16.jpg");
+}
+
+.insur-16 {
+    @include img-16("../src/icons/InsurChain/16x16.jpg");
+}
+
+.gsc-16 {
+    @include img-16("../src/icons/GlobalSocialChain/16x16.jpg");
+}
+
+.sgcc-16 {
+    @include img-16("../src/icons/SuperGameChain/16x16.jpg");
+}
+
+.dgx-16 {
+    @include img-16("../src/icons/DigixGoldToken/16x16.jpg");
+}
+
+.inc-16 {
+    @include img-16("../src/icons/InfluenceChain/16x16.jpg");
+}
+
+.iic-16 {
+    @include img-16("../src/icons/IntelligentInvestmentChain/16x16.jpg");
+}
+
+.skb-16 {
+    @include img-16("../src/icons/SakuraBloom/16x16.jpg");
+}
+
+.bank-16 {
+    @include img-16("../src/icons/BankCoin/16x16.jpg");
+}
+
+.nper-16 {
+    @include img-16("../src/icons/NPER/16x16.jpg");
+}
+
+.dasc-16 {
+    @include img-16("../src/icons/DasCoin/16x16.jpg");
+}
+
+.bmh-16 {
+    @include img-16("../src/icons/BlockMesh/16x16.jpg");
+}
+
+.loki-16 {
+    @include img-16("../src/icons/Loki/16x16.jpg");
+}
+
+.sgn-16 {
+    @include img-16("../src/icons/SignalsNetwork/16x16.jpg");
+}
+
+.shl-16 {
+    @include img-16("../src/icons/OysterShell/16x16.jpg");
+}
+
+.fnd-16 {
+    @include img-16("../src/icons/FundRequest/16x16.jpg");
+}
+
+.dtrc-16 {
+    @include img-16("../src/icons/DatariusCredit/16x16.jpg");
+}
+
+.cln-16 {
+    @include img-16("../src/icons/ColuLocalNetwork/16x16.jpg");
+}
+
+.her-16 {
+    @include img-16("../src/icons/HeroNode/16x16.jpg");
+}
+
+.hero-16 {
+    @include img-16("../src/icons/Hero/16x16.jpg");
+}
+
+.tka-16 {
+    @include img-16("../src/icons/Tokia/16x16.jpg");
+}
+
+.clo-16 {
+    @include img-16("../src/icons/CallistoNetwork/16x16.jpg");
+}
+
+.ubt-16 {
+    @include img-16("../src/icons/Unibright/16x16.jpg");
+}
+
+.pat-16 {
+    @include img-16("../src/icons/Patron/16x16.jpg");
+}
+
+.lba-16 {
+    @include img-16("../src/icons/LibraCredit/16x16.jpg");
+}
+
+.lwf-16 {
+    @include img-16("../src/icons/LocalWorldForwarders/16x16.jpg");
+}
+
+.open-16 {
+    @include img-16("../src/icons/OpenPlatform/16x16.jpg");
+}
+
+.morph-16 {
+    @include img-16("../src/icons/MorpheusNetwork/16x16.jpg");
+}
+
+.sntr-16 {
+    @include img-16("../src/icons/SilentNotary/16x16.jpg");
+}
+
+.xyo-16 {
+    @include img-16("../src/icons/XYONetwork/16x16.jpg");
+}
+
+.cpt-16 {
+    @include img-16("../src/icons/Cryptaur/16x16.jpg");
+}
+
+.apis-16 {
+    @include img-16("../src/icons/APIS/16x16.jpg");
+}
+
+.ft-16 {
+    @include img-16("../src/icons/FabricToken/16x16.jpg");
+}
+
+.xrh-16 {
+    @include img-16("../src/icons/Rhenium/16x16.jpg");
+}
+
+.caz-16 {
+    @include img-16("../src/icons/Cazcoin/16x16.jpg");
+}
+
+.red-16 {
+    @include img-16("../src/icons/RED/16x16.jpg");
+}
+
+.dgtx-16 {
+    @include img-16("../src/icons/DigitexFutures/16x16.jpg");
+}
+
+.gin-16 {
+    @include img-16("../src/icons/GINcoin/16x16.jpg");
+}
+
+.inv-16 {
+    @include img-16("../src/icons/Invacio/16x16.jpg");
+}
+
+.face-16 {
+    @include img-16("../src/icons/Faceter/16x16.jpg");
+}
+
+.ava-16 {
+    @include img-16("../src/icons/Travala/16x16.jpg");
+}
+
+.iotx-16 {
+    @include img-16("../src/icons/IoTeX/16x16.jpg");
+}
+
+.exc-16 {
+    @include img-16("../src/icons/Eximchain/16x16.jpg");
+}
+
+.luc-16 {
+    @include img-16("../src/icons/LevelUpCoin/16x16.jpg");
+}
+
+.nkn-16 {
+    @include img-16("../src/icons/NKN/16x16.jpg");
+}
+
+.navi-16 {
+    @include img-16("../src/icons/Naviaddress/16x16.jpg");
+}
+
+.zip-16 {
+    @include img-16("../src/icons/Zipper/16x16.jpg");
+}
+
+.soul-16 {
+    @include img-16("../src/icons/Phantasma/16x16.jpg");
+}
+
+.spd-16 {
+    @include img-16("../src/icons/SPINDLE/16x16.jpg");
+}
+
+.repo-16 {
+    @include img-16("../src/icons/REPO/16x16.jpg");
+}
+
+.seele-16 {
+    @include img-16("../src/icons/Seele/16x16.jpg");
+}
+
+.ejoy-16 {
+    @include img-16("../src/icons/EJOY/16x16.jpg");
+}
+
+.ivy-16 {
+    @include img-16("../src/icons/Ivy/16x16.jpg");
+}
+
+.cnet-16 {
+    @include img-16("../src/icons/ContractNet/16x16.jpg");
+}
+
+.edr-16 {
+    @include img-16("../src/icons/EndorProtocol/16x16.jpg");
+}
+
+.bbo-16 {
+    @include img-16("../src/icons/Bigbom/16x16.jpg");
+}
+
+.zxbtc-16 {
+    @include img-16("../src/icons/0xBitcoin/16x16.jpg");
+}
+
+.pai-16 {
+    @include img-16("../src/icons/PCHAIN/16x16.jpg");
+}
+
+.qkc-16 {
+    @include img-16("../src/icons/QuarkChain/16x16.jpg");
+}
+
+.lyl-16 {
+    @include img-16("../src/icons/LoyalCoin/16x16.jpg");
+}
+
+.bnk-16 {
+    @include img-16("../src/icons/Bankera/16x16.jpg");
+}
+
+.etz-16 {
+    @include img-16("../src/icons/EtherZero/16x16.jpg");
+}
+
+.omx-16 {
+    @include img-16("../src/icons/Shivom/16x16.jpg");
+}
+
+.medx-16 {
+    @include img-16("../src/icons/MediBloc[ERC20]/16x16.jpg");
+}
+
+.fto-16 {
+    @include img-16("../src/icons/FuturoCoin/16x16.jpg");
+}
+
+.abyss-16 {
+    @include img-16("../src/icons/TheAbyss/16x16.jpg");
+}
+
+.pmnt-16 {
+    @include img-16("../src/icons/Paymon/16x16.jpg");
+}
+
+.hur-16 {
+    @include img-16("../src/icons/Hurify/16x16.jpg");
+}
+
+.tmt-16 {
+    @include img-16("../src/icons/TRAXIA/16x16.jpg");
+}
+
+.egcc-16 {
+    @include img-16("../src/icons/Engine/16x16.jpg");
+}
+
+.mrq-16 {
+    @include img-16("../src/icons/MIRQ/16x16.jpg");
+}
+
+.pkc-16 {
+    @include img-16("../src/icons/PikcioChain/16x16.jpg");
+}
+
+.cbc-16 {
+    @include img-16("../src/icons/CashBetCoin/16x16.jpg");
+}
+
+.ceek-16 {
+    @include img-16("../src/icons/CEEKVR/16x16.jpg");
+}
+
+.sal-16 {
+    @include img-16("../src/icons/SalPay/16x16.jpg");
+}
+
+.cou-16 {
+    @include img-16("../src/icons/Couchain/16x16.jpg");
+}
+
+.xmx-16 {
+    @include img-16("../src/icons/XMax/16x16.jpg");
+}
+
+.go-16 {
+    @include img-16("../src/icons/GoChain/16x16.jpg");
+}
+
+.ssp-16 {
+    @include img-16("../src/icons/Smartshare/16x16.jpg");
+}
+
+.trtt-16 {
+    @include img-16("../src/icons/Trittium/16x16.jpg");
+}
+
+.upp-16 {
+    @include img-16("../src/icons/SentinelProtocol/16x16.jpg");
+}
+
+.bwt-16 {
+    @include img-16("../src/icons/Bittwatt/16x16.jpg");
+}
+
+.dag-16 {
+    @include img-16("../src/icons/Constellation/16x16.jpg");
+}
+
+.mvp-16 {
+    @include img-16("../src/icons/Merculet/16x16.jpg");
+}
+
+.fgc-16 {
+    @include img-16("../src/icons/FantasyGold/16x16.jpg");
+}
+
+.etk-16 {
+    @include img-16("../src/icons/EnergiToken/16x16.jpg");
+}
+
+.met-16 {
+    @include img-16("../src/icons/Metronome/16x16.jpg");
+}
+
+.aoa-16 {
+    @include img-16("../src/icons/Aurora/16x16.jpg");
+}
+
+.alx-16 {
+    @include img-16("../src/icons/ALAX/16x16.jpg");
+}
+
+.tern-16 {
+    @include img-16("../src/icons/Ternio/16x16.jpg");
+}
+
+.boe-16 {
+    @include img-16("../src/icons/Bodhi[ETH]/16x16.jpg");
+}
+
+.dft-16 {
+    @include img-16("../src/icons/DigiFinexToken/16x16.jpg");
+}
+
+.ors-16 {
+    @include img-16("../src/icons/OriginSport/16x16.jpg");
+}
+
+.rte-16 {
+    @include img-16("../src/icons/Rate3/16x16.jpg");
+}
+
+.dcc-16 {
+    @include img-16("../src/icons/DistributedCreditChain/16x16.jpg");
+}
+
+.zcn-16 {
+    @include img-16("../src/icons/0chain/16x16.jpg");
+}
+
+.zinc-16 {
+    @include img-16("../src/icons/ZINC/16x16.jpg");
+}
+
+.fsbt-16 {
+    @include img-16("../src/icons/FortySevenBank/16x16.jpg");
+}
+
+.egt-16 {
+    @include img-16("../src/icons/Egretia/16x16.jpg");
+}
+
+.ttu-16 {
+    @include img-16("../src/icons/TaTaTu/16x16.jpg");
+}
+
+.dor-16 {
+    @include img-16("../src/icons/Dorado/16x16.jpg");
+}
+
+.car-16 {
+    @include img-16("../src/icons/CarBlock/16x16.jpg");
+}
+
+.bob-16 {
+    @include img-16("../src/icons/Bob'sRepair/16x16.jpg");
+}
+
+.kndc-16 {
+    @include img-16("../src/icons/KanadeCoin/16x16.jpg");
+}
+
+.card-16 {
+    @include img-16("../src/icons/Cardstack/16x16.jpg");
+}
+
+.wwb-16 {
+    @include img-16("../src/icons/Wowbit/16x16.jpg");
+}
+
+.onl-16 {
+    @include img-16("../src/icons/On.Live/16x16.jpg");
+}
+
+.otb-16 {
+    @include img-16("../src/icons/OTCBTCToken/16x16.jpg");
+}
+
+.coni-16 {
+    @include img-16("../src/icons/Coni/16x16.jpg");
+}
+
+.mft-16 {
+    @include img-16("../src/icons/Mainframe/16x16.jpg");
+}
+
+.cccx-16 {
+    @include img-16("../src/icons/ClipperCoin/16x16.jpg");
+}
+
+.got-16 {
+    @include img-16("../src/icons/GoNetwork/16x16.jpg");
+}
+
+.thrt-16 {
+    @include img-16("../src/icons/ThriveToken/16x16.jpg");
+}
+
+.pai-16 {
+    @include img-16("../src/icons/ProjectPai/16x16.jpg");
+}
+
+.fti-16 {
+    @include img-16("../src/icons/FansTime/16x16.jpg");
+}
+
+.pch-16 {
+    @include img-16("../src/icons/POPCHAIN/16x16.jpg");
+}
+
+.seer-16 {
+    @include img-16("../src/icons/SEER/16x16.jpg");
+}
+
+.ft-16 {
+    @include img-16("../src/icons/FCoinToken/16x16.jpg");
+}
+
+.ess-16 {
+    @include img-16("../src/icons/Essentia/16x16.jpg");
+}
+
+.kbc-16 {
+    @include img-16("../src/icons/KaratgoldCoin/16x16.jpg");
+}
+
+.hsc-16 {
+    @include img-16("../src/icons/HashCoin/16x16.jpg");
+}
+
+.like-16 {
+    @include img-16("../src/icons/LikeCoin/16x16.jpg");
+}
+
+.yup-16 {
+    @include img-16("../src/icons/Crowdholding/16x16.jpg");
+}
+
+.ors-16 {
+    @include img-16("../src/icons/ORSGroup/16x16.jpg");
+}
+
+.xsg-16 {
+    @include img-16("../src/icons/SnowGem/16x16.jpg");
+}
+
+.dtx-16 {
+    @include img-16("../src/icons/DaTaeXchange/16x16.jpg");
+}
+
+.bkbt-16 {
+    @include img-16("../src/icons/BeeKan/16x16.jpg");
+}
+
+.moc-16 {
+    @include img-16("../src/icons/Mossland/16x16.jpg");
+}
+
+.nim-16 {
+    @include img-16("../src/icons/Nimiq/16x16.jpg");
+}
+
+.sfu-16 {
+    @include img-16("../src/icons/Saifu/16x16.jpg");
+}
+
+.bz-16 {
+    @include img-16("../src/icons/Bit-ZToken/16x16.jpg");
+}
+
+.dws-16 {
+    @include img-16("../src/icons/DWS/16x16.jpg");
+}
+
+.zxc-16 {
+    @include img-16("../src/icons/0xcert/16x16.jpg");
+}
+
+.olt-16 {
+    @include img-16("../src/icons/OneLedger/16x16.jpg");
+}
+
+.atmi-16 {
+    @include img-16("../src/icons/Atonomi/16x16.jpg");
+}
+
+.xmct-16 {
+    @include img-16("../src/icons/XMCT/16x16.jpg");
+}
+
+.fnkos-16 {
+    @include img-16("../src/icons/FNKOS/16x16.jpg");
+}
+
+.rcd-16 {
+    @include img-16("../src/icons/RECORD/16x16.jpg");
+}
+
+.psm-16 {
+    @include img-16("../src/icons/PRASM/16x16.jpg");
+}
+
+.nusd-16 {
+    @include img-16("../src/icons/nUSD/16x16.jpg");
+}
+
+.ply-16 {
+    @include img-16("../src/icons/PlayCoin/16x16.jpg");
+}
+
+.tgame-16 {
+    @include img-16("../src/icons/Truegame/16x16.jpg");
+}
+
+.iq-16 {
+    @include img-16("../src/icons/Everipedia/16x16.jpg");
+}
+
+.engt-16 {
+    @include img-16("../src/icons/EngagementToken/16x16.jpg");
+}
+
+.nobs-16 {
+    @include img-16("../src/icons/NoBSCrypto/16x16.jpg");
+}
+
+.bmx-16 {
+    @include img-16("../src/icons/BitMartToken/16x16.jpg");
+}
+
+.kan-16 {
+    @include img-16("../src/icons/BitKan/16x16.jpg");
+}
+
+.cdm-16 {
+    @include img-16("../src/icons/Condominium/16x16.jpg");
+}
+
+.mtc-16 {
+    @include img-16("../src/icons/MTCMeshNetwork/16x16.jpg");
+}
+
+.vite-16 {
+    @include img-16("../src/icons/VITE/16x16.jpg");
+}
+
+.gard-16 {
+    @include img-16("../src/icons/Hashgard/16x16.jpg");
+}
+
+.scrl-16 {
+    @include img-16("../src/icons/Scroll/16x16.jpg");
+}
+
+.spx-16 {
+    @include img-16("../src/icons/Sp8de/16x16.jpg");
+}
+
+.cet-16 {
+    @include img-16("../src/icons/CoinExToken/16x16.jpg");
+}
+
+.aeg-16 {
+    @include img-16("../src/icons/Aegeus/16x16.jpg");
+}
+
+.rpl-16 {
+    @include img-16("../src/icons/RocketPool/16x16.jpg");
+}
+
+.ely-16 {
+    @include img-16("../src/icons/Elysian/16x16.jpg");
+}
+
+.box-16 {
+    @include img-16("../src/icons/ContentBox/16x16.jpg");
+}
+
+.ptt-16 {
+    @include img-16("../src/icons/ProtonToken/16x16.jpg");
+}
+
+.sop-16 {
+    @include img-16("../src/icons/SoPay/16x16.jpg");
+}
+
+.jot-16 {
+    @include img-16("../src/icons/Jury.OnlineToken/16x16.jpg");
+}
+
+.krl-16 {
+    @include img-16("../src/icons/Kryll/16x16.jpg");
+}
+
+.lemo-16 {
+    @include img-16("../src/icons/LemoChain/16x16.jpg");
+}
+
+.bwx-16 {
+    @include img-16("../src/icons/BlueWhaleToken/16x16.jpg");
+}
+
+.wys-16 {
+    @include img-16("../src/icons/wysToken/16x16.jpg");
+}
+
+.cosm-16 {
+    @include img-16("../src/icons/CosmoCoin/16x16.jpg");
+}
+
+.nrve-16 {
+    @include img-16("../src/icons/Narrative/16x16.jpg");
+}
+
+.ole-16 {
+    @include img-16("../src/icons/Olive/16x16.jpg");
+}
+
+.trtl-16 {
+    @include img-16("../src/icons/Turtlecoin/16x16.jpg");
+}
+
+.wt-16 {
+    @include img-16("../src/icons/WeToken/16x16.jpg");
+}
+
+.toto-16 {
+    @include img-16("../src/icons/TouristToken/16x16.jpg");
+}
+
+.rlx-16 {
+    @include img-16("../src/icons/Relex/16x16.jpg");
+}
+
+.chex-16 {
+    @include img-16("../src/icons/CHEX/16x16.jpg");
+}
+
+.view-16 {
+    @include img-16("../src/icons/View/16x16.jpg");
+}
+
+.vct-16 {
+    @include img-16("../src/icons/ValueCyberToken/16x16.jpg");
+}
+
+.vikky-16 {
+    @include img-16("../src/icons/VikkyToken/16x16.jpg");
+}
+
+.foxt-16 {
+    @include img-16("../src/icons/FoxTrading/16x16.jpg");
+}
+
+.rtb-16 {
+    @include img-16("../src/icons/AB-ChainRTB/16x16.jpg");
+}
+
+.toll-16 {
+    @include img-16("../src/icons/BridgeProtocol/16x16.jpg");
+}
+
+.gve-16 {
+    @include img-16("../src/icons/GlobalvillageEcosystem/16x16.jpg");
+}
+
+.lcs-16 {
+    @include img-16("../src/icons/LocalCoinSwap/16x16.jpg");
+}
+
+.zpr-16 {
+    @include img-16("../src/icons/ZPER/16x16.jpg");
+}
+
+.empr-16 {
+    @include img-16("../src/icons/empowrcoin/16x16.jpg");
+}
+
+.lpc-16 {
+    @include img-16("../src/icons/Lightpaycoin/16x16.jpg");
+}
+
+.fundz-16 {
+    @include img-16("../src/icons/FundToken/16x16.jpg");
+}
+
+.ryo-16 {
+    @include img-16("../src/icons/RyoCurrency/16x16.jpg");
+}
+
+.bit-16 {
+    @include img-16("../src/icons/BitRewards/16x16.jpg");
+}
+
+.aced-16 {
+    @include img-16("../src/icons/AceD/16x16.jpg");
+}
+
+.lft-16 {
+    @include img-16("../src/icons/Linfinity/16x16.jpg");
+}
+
+.wab-16 {
+    @include img-16("../src/icons/WABnetwork/16x16.jpg");
+}
+
+.csm-16 {
+    @include img-16("../src/icons/Consentium/16x16.jpg");
+}
+
+.mvl-16 {
+    @include img-16("../src/icons/MassVehicleLedger/16x16.jpg");
+}
+
+.xxx-16 {
+    @include img-16("../src/icons/AdultChain/16x16.jpg");
+}
+
+.ncp-16 {
+    @include img-16("../src/icons/NewtonCoinProject/16x16.jpg");
+}
+
+.arb-16 {
+    @include img-16("../src/icons/ARBITRAGE/16x16.jpg");
+}
+
+.dacc-16 {
+    @include img-16("../src/icons/DACC/16x16.jpg");
+}
+
+.tos-16 {
+    @include img-16("../src/icons/ThingsOperatingSystem/16x16.jpg");
+}
+
+.pgn-16 {
+    @include img-16("../src/icons/Pigeoncoin/16x16.jpg");
+}
+
+.eurs-16 {
+    @include img-16("../src/icons/STASISEURS/16x16.jpg");
+}
+
+.nix-16 {
+    @include img-16("../src/icons/NIX/16x16.jpg");
+}
+
+.apl-16 {
+    @include img-16("../src/icons/ApolloCurrency/16x16.jpg");
+}
+
+.horus-16 {
+    @include img-16("../src/icons/HorusPay/16x16.jpg");
+}
+
+.bifi-16 {
+    @include img-16("../src/icons/BitcoinFile/16x16.jpg");
+}
+
+.pwv-16 {
+    @include img-16("../src/icons/Wavebase/16x16.jpg");
+}
+
+.dpn-16 {
+    @include img-16("../src/icons/DIPNET/16x16.jpg");
+}
+
+.vex-16 {
+    @include img-16("../src/icons/Vexanium/16x16.jpg");
+}
+
+.mct-16 {
+    @include img-16("../src/icons/MasterContractToken/16x16.jpg");
+}
+
+.wsd-16 {
+    @include img-16("../src/icons/WhiteStandard/16x16.jpg");
+}
+
+.acdc-16 {
+    @include img-16("../src/icons/Volt/16x16.jpg");
+}
+
+.nbr-16 {
+    @include img-16("../src/icons/NiobioCash/16x16.jpg");
+}
+
+.purex-16 {
+    @include img-16("../src/icons/Purex/16x16.jpg");
+}
+
+.cen-16 {
+    @include img-16("../src/icons/CoinsuperEcosystemNetwork/16x16.jpg");
+}
+
+.bitx-16 {
+    @include img-16("../src/icons/BitScreenerToken/16x16.jpg");
+}
+
+.vtho-16 {
+    @include img-16("../src/icons/VeThorToken/16x16.jpg");
+}
+
+.priv-16 {
+    @include img-16("../src/icons/PRiVCY/16x16.jpg");
+}
+
+.coin-16 {
+    @include img-16("../src/icons/Coinvest/16x16.jpg");
+}
+
+.lstr-16 {
+    @include img-16("../src/icons/LunaStars/16x16.jpg");
+}
