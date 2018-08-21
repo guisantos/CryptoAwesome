@@ -1,7 +1,7 @@
 # Crypto Awesome
 >Versão Alpha - 0.2.4
 
-**Crypto Awesome** é a biblítoca de imagens de cryptomoeda mais completa na atualidade, utilize classes simples e de fácil entendimento, para ter ícones de diversos tamanhos e com boa qualidade em seu projeto.
+**Crypto Awesome** é a biblioteca de imagens de cryptomoeda mais completa na atualidade, utilize classes simples e de fácil entendimento, para ter ícones de diversos tamanhos e com boa qualidade em seu projeto.
 
 ![background-ca]
 ### Exemplo:
