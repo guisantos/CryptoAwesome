@@ -1,38 +1,40 @@
 # Crypto Awesome
->Versão Alpha - 0.2.1
+>Alpha Version - 0.2.4
 
-**Crypto Awesome** é a biblítoca de imagens de cryptomoeda mais completa na atualidade, utilize classes simples e de fácil entendimento, para ter ícones de diversos tamanhos e com boa qualidade em seu projeto.
+##### Translations
+[Português](https://github.com/guisantos/CryptoAwesome/blob/master/README-PT.md)
+
+**Crypto Awesome** is the most complete cryptocurrency image library available nowadays, use simple and easy to understand CSS classes, to have good quality image icons of various size in your project.
 
 ![background-ca]
-### Exemplo:
+### Example:
 | Classe | btc-16 | btc-32 | btc-64 | btc-128 |
 |:---: |:--:|:--:|:--:|:--:|
-| **Tamanaho** | 16x16 | 32x32 | 64x64 | 128x128 |
-| **Resultado** | ![btc-16] | ![btc-32] | ![btc-64] | ![btc-128] |
+| **Size** | 16x16 | 32x32 | 64x64 | 128x128 |
+| **Result** | ![btc-16] | ![btc-32] | ![btc-64] | ![btc-128] |
 
-## Como usar?
+## How to use?
 
-  1. No  *package.json* do seu projeto acrescente **cryptoawesome** versão 0.2.1
-  2. npm install na raiz do projeto
-  3. Importe o CSS desejado para o seu projeto, lembrando que cada CSS contém as classes de tamanhos diferentes.
-  4. Use as classes de CSS para visualizar os ícones desejados p.e. **nano-16, eth-32, ltc-64**
+  1. In your project's root - npm install cryptoawesome
+  2. Import the disered CSS into your project, remember that each CSS contains classes of different sizes. **(icons16, icons32, icons64 e icons128)**
+  3. use CSS classes to view the disered icon e.g. **nano-16, eth-32, ltc-64**
 
-##### Você também pode:
-  - Encontrar os ícones desejados no nosso repositório
-  - Fazer o download e importa-los em seu projeto
-  - Usa-los como Imagem ou encontrar a classe em nosso .css e copia-la
+##### You can also
+  - Find the disered icon in our repository
+  - Download it and import to your project
+  - use them as images or find the class in our .css and copy it
 
-## Contribuindo
-Leia nossa metodologia de contribuição - [Diretrizes de Contribuição](https://github.com/guisantos/CryptoAwesome/blob/master/CONTRIBUTING-PT.md)
+## Contributing
+Read our [Contributing Guidelines](https://github.com/guisantos/CryptoAwesome/blob/master/CONTRIBUTING-PT.md)
 
-### Doações
+### Donations
 | Bitcoin | 15zpsJeKcdfxgUYHpqPe6Nb4vo78zvMpv4  |
 |:---:|:---:|
 | Ethereum   | 0x48809ba8f481db86a60314e3f208e783ee7b04ab |
 | Tron   | TY2yqY3vdxjfSZf4uA6e3ndGQ9k51r4s2c |
 | Nano | xrb_1pbnqeigurrr8mmxosnai143xkpufajyqy54e6ppw56yq6z5x5rgxn7uaz7s |
 
-### Time
+### Team
 - [Guilherme Flores](https://github.com/guisantos)
 - [Victor Hugo](https://github.com/victorbmaximo)
 
