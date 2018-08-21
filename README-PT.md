@@ -1,5 +1,5 @@
 # Crypto Awesome
->Versão Alpha - 0.2.1
+>Versão Alpha - 0.2.4
 
 ##### Translations
 [English](https://github.com/guisantos/CryptoAwesome/blob/master/README.md)
