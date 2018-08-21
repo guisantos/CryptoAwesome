@@ -1,5 +1,5 @@
 # Crypto Awesome
->Versão Alpha - 0.1.0
+>Versão Alpha - 0.2.0
 
 **Crypto Awesome** é a biblítoca de imagens de cryptomoeda mais completa na atualidade, utilize classes simples e de fácil entendimento, para ter ícones de diversos tamanhos e com boa qualidade em seu projeto.
 
@@ -12,10 +12,10 @@
 
 ## Como usar?
 
-  1. No  *package.json*do seu projeto acrescente **cryptoawesome** versão 0.1.0
+  1. No  *package.json* do seu projeto acrescente **cryptoawesome** versão 0.2.0
   2. npm install na raiz do projeto
-  3. Importe a biblioteca
-  4. Use as classes de css para importar os ícones desejados p.e. **nano-16, eth-32, ltc-64**
+  3. Importe o CSS desejado para o seu projeto, lembrando que cada CSS contém as classes de tamanhos diferentes.
+  4. Use as classes de CSS para visualizar os ícones desejados p.e. **nano-16, eth-32, ltc-64**
 
 ##### Você também pode:
   - Encontrar os ícones desejados no nosso repositório
