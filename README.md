@@ -25,7 +25,7 @@
   - use them as images or find the class in our .css and copy it
 
 ## Contributing
-Read our [Contributing Guidelines](https://github.com/guisantos/CryptoAwesome/blob/master/CONTRIBUTING-PT.md)
+Read our [Contributing Guidelines](https://github.com/guisantos/CryptoAwesome/blob/master/CONTRIBUTING.md)
 
 ### Donations
 | Bitcoin | 15zpsJeKcdfxgUYHpqPe6Nb4vo78zvMpv4  |

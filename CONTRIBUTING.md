@@ -1,4 +1,4 @@
-# Contribuindo com o Crypto Awesome
+# Contribuindo para o Crypto Awesome
 Dicas e sugestões de como contribuir com o Crypto Awesome.
 
 ## Contribuições
