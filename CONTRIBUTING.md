@@ -1,27 +1,27 @@
-# Contribuindo para o Crypto Awesome
-Dicas e sugestões de como contribuir com o Crypto Awesome.
+# Contributing to Crypto Awesome
+Tips and suggestions of how you can contribute to Crypto Awesome.
 
-## Contribuições
-Esperamos que colaborem com os seguintes pontos, porém não excluindo qualquer outro tipo de colaboração que seja pertinente e que ajude o projeto a melhorar.
-- Otimização do Crypto Awesome
-- Documentação
-- Novas criptomoedas
-- Feedback e sugestões
-- Reportar bugs e ícones com qualidade ruim
+## Contributions
+We hope contributions to the following points, but not excluding any other kind of relevant collaboration that can help the project to be better.
+- Optimization
+- Documentation
+- new cryptocurrencies
+- Feedback and ideas
+- Bug report and icons with bad quality
 
-### Como começar a contribuir?
-Nos trazer feedbacks do Crypto Awesome sobre pontos que precisam ser melhorados. Utilizando seu conhecimento para nos ajudar a otimizar a distribuição e utilização da bibliotéca. Catalogando ou sugerindo a adição de novas criptomoedas de forma correta.
-- Reportar Bugs - [I**ssues**](https://github.com/guisantos/CryptoAwesome/issues)
-- Atualizações - [**Pull Request**](https://github.com/guisantos/CryptoAwesome/pulls)
+### How to start contribute?
+Giving feedbacks about points that needs to get better. Using your knowledge to help us optimize and distribute the library. C Nos trazer feedbacks do Crypto Awesome sobre pontos que precisam ser melhorados. Utilizando seu conhecimento para nos ajudar a otimizar a distribuição e utilização da bibliotéca. Cataloging or suggesting new cryptocurrencies to be add.
+- Bug report - [I**ssues**](https://github.com/guisantos/CryptoAwesome/issues)
+- Updating - [**Pull Request**](https://github.com/guisantos/CryptoAwesome/pulls)
 
-#### Contribuindo:
-- [Solicitando nova Criptomoeda](https://github.com/guisantos/CryptoAwesome/issues/new?title=Criyptocurrency%20request:%20Bitcoin%20-%20BTC&template=request-new-cryptocurrecy.md) -
-Nome e o símbolo da moeda p. ex. **Bitcoin** - **BTC**
-Imagem em **.png** com tamanhos **16x16**, **32x32**, **64x64** e **128x128** com boa qualidade.
-- [Reportando Bug](https://github.com/guisantos/CryptoAwesome/issues/new?title=Bug:&template=bug_report.md) -
-Detalhando os passos necessários para reproduzir o **bug**, caso saiba, como **corrigi-lo**.
-- [Solicite nova funcionalidade](https://github.com/guisantos/CryptoAwesome/issues/new?title=Feature%20request:&template=feature_request.md) -
-Explique de forma clara qual é a sua idéia e como ela pode melhorar o Crypto Awesome.
+#### Contributing:
+- [Request new cryptocurrency](https://github.com/guisantos/CryptoAwesome/issues/new?title=Criyptocurrency%20request:%20Bitcoin%20-%20BTC&template=request-new-cryptocurrecy.md) -
+Name and symbol e. g. **Bitcoin** - **BTC**
+**.png** Image with sizes **16x16**, **32x32**, **64x64** e **128x128** and good quality.
+- [Bug report](https://github.com/guisantos/CryptoAwesome/issues/new?title=Bug:&template=bug_report.md) -
+Detail the steps to reproduce the **bug**, and if you know how to **fix it**.
+- [Ask new functionality](https://github.com/guisantos/CryptoAwesome/issues/new?title=Feature%20request:&template=feature_request.md) -
+Explaing in a easy and clear way your idea and how it can helps Crypto Awesome be even more awesome.
 
 
-##### Crypto Awesome agradece o seu interesse! 
+##### Crypto Awesome thanks your interest!
